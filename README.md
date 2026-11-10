@@ -1,3 +1,3 @@
 # Workflow Radar
 
-Software discovery and comparison site. Source archive is stored in numbered parts and unpacked during deployment.
+Source archive for the Workflow Radar website.
