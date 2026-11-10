@@ -76,7 +76,7 @@ function SystemeVsMailerLitePage() {
               <tr><th className="p-4 font-medium">Funnels / landing pages</th><td className="p-4">3 sales funnels, up to 15 funnel steps</td><td className="p-4">1 landing page and 1 website (up to 5 pages)</td></tr>
               <tr><th className="p-4 font-medium">Courses / digital products</th><td className="p-4">1 course, up to 500 students</td><td className="p-4">1 digital product</td></tr>
               <tr><th className="p-4 font-medium">Forms</th><td className="p-4">Lead capture through funnel pages</td><td className="p-4">Up to 3 forms</td></tr>
-              <tr><th className="p-4 font-medium">Team seats</th><td className="p-4">See current plan comparison</td><td className="p-4">2 users</td></tr>
+              <tr><th className="p-4 font-medium">Subaccounts / team users</th><td className="p-4">Unlimited subaccounts</td><td className="p-4">2 users</td></tr>
             </tbody>
           </table>
         </div>
