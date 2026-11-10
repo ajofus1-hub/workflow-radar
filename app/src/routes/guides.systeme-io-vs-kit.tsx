@@ -100,6 +100,7 @@ function SystemeVsKitPage() {
           Try Systeme.io free <span className="ml-2" aria-hidden="true">↗</span>
         </a>
         <p className="mt-2 text-xs text-slate-500">Affiliate link · No extra cost to you.</p>
+        <p className="mt-1 text-xs text-slate-500">Systeme.io's Free plan is $0 and does not require a credit card to start.</p>
       </section>
 
       <section className="mb-10">
