@@ -62,6 +62,8 @@ function SystemePricingPage() {
       </section>
 
       <section className="mb-10">
+        <p className="mb-6 text-sm leading-6 text-slate-600">Considering the referral side of the platform? Read our <a className="font-semibold text-indigo-700 underline" href="/guides/systeme-io-affiliate-program">Systeme.io affiliate program guide</a> for the published commission, tracking and payout conditions.</p>
+
         <h2 className="mb-4 text-2xl font-bold">Systeme.io plans and prices</h2>
         <p className="mb-4 leading-7 text-slate-600">The amounts below are the monthly prices displayed on the official pricing page when checked on November 11, 2026. Annual billing may show discounted equivalent monthly prices. Currency, taxes and offers can vary by location and billing choice.</p>
         <div className="overflow-x-auto rounded-xl border border-slate-200">
