@@ -186,6 +186,14 @@ function CreatorToolsPage() {
         </div>
       </section>
 
+      <section className="mb-8 rounded-2xl border border-indigo-100 bg-indigo-50 p-6">
+        <p className="mb-2 text-xs font-semibold uppercase tracking-wide text-indigo-800">When you are ready to publish</p>
+        <h2 className="mb-2 text-2xl font-bold text-slate-900">Need a landing page, email list or sales funnel?</h2>
+        <p className="mb-4 leading-7 text-slate-700">If your next step is collecting subscribers or selling a digital product, compare the actual Systeme.io plans first. Its free tier may be enough to test a simple funnel; upgrade only when you need the extra limits.</p>
+        <p className="mb-3 text-xs leading-5 text-slate-600"><strong>Affiliate disclosure:</strong> This tracked link may earn Workflow Radar a commission if you sign up and later make an eligible purchase, at no extra cost to you. We recommend checking whether the free plan meets your needs before paying.</p>
+        <a className="inline-flex items-center rounded-lg bg-indigo-700 px-5 py-3 font-semibold text-white shadow-sm transition hover:bg-indigo-800" href="https://systeme.io/pricing?sa=sa0286089660ebed8476e8d7899489bd8eb71bc507&tk=workflow-radar-creator-studio-cta" target="_blank" rel="sponsored nofollow noopener">Compare plans and start free ↗</a>
+      </section>
+
       <p aria-live="polite" className="min-h-6 text-sm text-indigo-800">{notice}</p>
       <p className="mt-3 text-xs leading-5 text-slate-500">Privacy: all transformations happen in this browser. Workflow Radar does not upload or store the content entered into these tools. Always verify titles, tags, disclosures and campaign destinations before publishing.</p>
       <p className="mt-6 text-sm text-slate-600">More utilities: <a className="font-semibold text-indigo-700 underline" href="/tools">Text Studio</a> · <a className="font-semibold text-indigo-700 underline" href="/guides/systeme-io-pricing">Email marketing software guide</a></p>
