@@ -68,6 +68,8 @@ function SystemeFreePlanLimitsPage() {
         <strong>Affiliate disclosure:</strong> This guide contains a tracked Systeme.io affiliate link. If you create an account through it, Workflow Radar may earn a commission at no extra cost to you. The limits and recommendations below are based on Systeme.io's published pricing and terms, not on commission rates.
       </aside>
 
+      <p className="mb-6 rounded-lg bg-slate-50 p-4 text-sm leading-6 text-slate-700">Comparing the paid tiers too? See our <a className="font-semibold text-indigo-700 underline" href="/guides/systeme-io-pricing">Systeme.io pricing guide</a> for the current Free, Startup, Webinar and Unlimited plan costs and limits.</p>
+
       <section className="mb-10 rounded-2xl border border-indigo-100 bg-indigo-50 p-6">
         <p className="mb-2 text-sm font-semibold uppercase tracking-wide text-indigo-800">Quick answer</p>
         <h2 className="mb-3 text-2xl font-bold">Free is useful for validating one small online business—not for running an unlimited operation.</h2>
