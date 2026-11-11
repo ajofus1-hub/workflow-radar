@@ -121,7 +121,7 @@ function SystemeVsMailchimpPage() {
           <li>You want to sell a course, coaching service or digital product through funnels and checkout pages.</li>
           <li>You can work within one automation rule and one workflow while starting out.</li>
         </ul>
-        <a className="inline-flex items-center rounded-lg bg-indigo-700 px-5 py-3 font-semibold text-white shadow-sm transition hover:bg-indigo-800" href="https://systeme.io/?sa=sa0286089660ebed8476e8d7899489bd8eb71bc507&tk=workflow-radar-systeme-vs-mailchimp" target="_blank" rel="sponsored nofollow noopener">
+        <a className="inline-flex items-center rounded-lg bg-indigo-700 px-5 py-3 font-semibold text-white shadow-sm transition hover:bg-indigo-800" href="https://systeme.io/pricing?sa=sa0286089660ebed8476e8d7899489bd8eb71bc507&tk=workflow-radar-systeme-vs-mailchimp" target="_blank" rel="sponsored nofollow noopener">
           Try Systeme.io free <span className="ml-2" aria-hidden="true">↗</span>
         </a>
         <p className="mt-2 text-xs text-slate-500">Tracked affiliate link · No extra cost to you. Systeme.io says its Free plan requires no credit card.</p>
