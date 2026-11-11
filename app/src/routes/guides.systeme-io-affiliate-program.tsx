@@ -4,7 +4,8 @@ const title = 'Systeme.io Affiliate Program: Commission, Tracking & Payouts (202
 const description =
   'A practical guide to the Systeme.io affiliate program: 60% commissions, lifetime referral attribution, payout rules, tracking links and what affiliates should verify.'
 
-const affiliateUrl = 'https://systeme.io/?sa=sa0286089660ebed8476e8d7899489bd8eb71bc507&tk=workflow-radar-systeme-affiliate-program'
+const affiliateUrlTop = 'https://systeme.io/?sa=sa0286089660ebed8476e8d7899489bd8eb71bc507&tk=workflow-radar-systeme-affiliate-program-top'
+const affiliateUrlBottom = 'https://systeme.io/?sa=sa0286089660ebed8476e8d7899489bd8eb71bc507&tk=workflow-radar-systeme-affiliate-program-bottom'
 
 export const Route = createFileRoute('/guides/systeme-io-affiliate-program')({
   head: () => ({
@@ -125,7 +126,7 @@ function SystemeAffiliateProgramPage() {
           <li><strong>Joining:</strong> free; Systeme.io says signing up provides an affiliate ID and dashboard access.</li>
           <li><strong>Payout threshold:</strong> more than $30 in commissions, complete profile information and a minimum 30-day holding period.</li>
         </ul>
-        <a className="mt-5 inline-flex items-center rounded-lg bg-indigo-700 px-5 py-3 font-semibold text-white shadow-sm transition hover:bg-indigo-800" href={affiliateUrl} target="_blank" rel="sponsored nofollow noopener">
+        <a className="mt-5 inline-flex items-center rounded-lg bg-indigo-700 px-5 py-3 font-semibold text-white shadow-sm transition hover:bg-indigo-800" href={affiliateUrlTop} target="_blank" rel="sponsored nofollow noopener">
           Visit Systeme.io and sign up free <span className="ml-2" aria-hidden="true">↗</span>
         </a>
         <p className="mt-2 text-xs text-slate-500">Tracked affiliate link · A free account does not itself generate a commission. An eligible purchase is required.</p>
@@ -194,12 +195,13 @@ function SystemeAffiliateProgramPage() {
       <section className="mb-10 rounded-2xl border border-indigo-100 bg-indigo-50 p-6">
         <h2 className="mb-3 text-2xl font-bold">Compare the actual plans before signing up</h2>
         <p className="mb-4 leading-7 text-slate-700">The affiliate programme is only one part of the decision. Check whether the product itself fits your requirements and whether the free plan is enough.</p>
+        <p className="mb-4 rounded-lg border border-amber-200 bg-amber-50 p-3 text-sm leading-6 text-amber-950"><strong>Affiliate disclosure:</strong> The “Visit Systeme.io” button below is a tracked affiliate link. If you create an account through it and later make an eligible purchase, Workflow Radar may earn a commission at no extra cost to you.</p>
         <div className="flex flex-wrap gap-3">
-          <a className="inline-flex items-center rounded-lg bg-indigo-700 px-5 py-3 font-semibold text-white shadow-sm transition hover:bg-indigo-800" href={affiliateUrl} target="_blank" rel="sponsored nofollow noopener">Visit Systeme.io <span className="ml-2" aria-hidden="true">↗</span></a>
+          <a className="inline-flex items-center rounded-lg bg-indigo-700 px-5 py-3 font-semibold text-white shadow-sm transition hover:bg-indigo-800" href={affiliateUrlBottom} target="_blank" rel="sponsored nofollow noopener">Visit Systeme.io <span className="ml-2" aria-hidden="true">↗</span></a>
           <a className="inline-flex items-center rounded-lg border border-indigo-300 px-5 py-3 font-semibold text-indigo-800 transition hover:bg-indigo-100" href="/guides/systeme-io-pricing">Compare plans</a>
           <a className="inline-flex items-center rounded-lg border border-indigo-300 px-5 py-3 font-semibold text-indigo-800 transition hover:bg-indigo-100" href="/guides/systeme-io-free-plan-limits">See free-plan limits</a>
         </div>
-        <p className="mt-3 text-xs text-slate-500">The Systeme.io buttons above use a tracked affiliate link. We may earn a commission if you later make an eligible purchase, at no extra cost to you.</p>
+        <p className="mt-3 text-xs text-slate-500">The other two buttons open Workflow Radar comparison guides.</p>
       </section>
 
       <section className="mb-10">
