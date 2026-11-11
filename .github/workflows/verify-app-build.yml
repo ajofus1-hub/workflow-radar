@@ -61,8 +61,11 @@ jobs:
           if (!route.includes(`const affiliateId = '${affiliateId}'`)) {
             throw new Error('The exact Systeme.io affiliate ID is missing or changed.')
           }
-          if (!route.includes(`?sa=${affiliateId}&tk=`)) {
-            throw new Error('The outbound URL no longer preserves the affiliate ID and tracking sub-ID.')
+          if (!route.includes('?sa=${affiliateId}&tk=${encodeURIComponent(tag)}')) {
+            throw new Error('The outbound URL template no longer preserves the affiliate ID and tracking sub-ID.')
+          }
+          if (!route.includes('window.location.replace(destination)')) {
+            throw new Error('The tracked redirect no longer performs its outbound navigation.')
           }
 
           const allowlistMatch = route.match(/const allowedTrackingTags = new Set\(\[([\s\S]*?)\]\)/)
