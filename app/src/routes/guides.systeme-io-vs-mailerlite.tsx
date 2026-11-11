@@ -1,8 +1,8 @@
 import { createFileRoute } from '@tanstack/react-router'
 
-const title = 'Systeme.io vs MailerLite (2026): Which Free Email Platform Should You Choose?'
+const title = 'Systeme.io vs MailerLite (2026)'
 const description =
-  'A practical, current comparison of Systeme.io and MailerLite free plans: contact limits, email sends, automations, funnels, courses, and who each platform suits.'
+  'Compare Systeme.io and MailerLite Free plans: subscriber limits, email sends, automations, funnels and who each platform suits.'
 
 export const Route = createFileRoute('/guides/systeme-io-vs-mailerlite')({
   head: () => ({
