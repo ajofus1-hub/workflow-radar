@@ -64,10 +64,10 @@ jobs:
 
           path, text = candidates[0]
           anchor_pattern = re.compile(
-              r'<a\\b(?=[^>]*\\bhref\\s*=\\s*["\\'][^"\\']*systeme\\.io/[^"\\']*'
+              r"""<a\\b[^>]*href=["'][^"']*systeme\\.io/[^"']*"""
               + re.escape(affiliate_id)
-              + r'[^"\\']*tk=' + re.escape(sub_id)
-              + r'[^"\\']*["\\'])[^>]*>[\\s\\S]*?</a>',
+              + r"""[^"']*tk=""" + re.escape(sub_id)
+              + r"""[^"']*["'][^>]*>[\\s\\S]*?</a>""",
               re.IGNORECASE
           )
           matches = list(anchor_pattern.finditer(text))
