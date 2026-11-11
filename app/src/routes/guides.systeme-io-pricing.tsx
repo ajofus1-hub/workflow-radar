@@ -2,7 +2,7 @@ import { createFileRoute } from '@tanstack/react-router'
 
 const title = 'Systeme.io Pricing 2026: Plans & Costs'
 const description =
-  'Compare Systeme.io's Free, Startup, Webinar and Unlimited plans. See current prices, key limits and which tier is worth paying for.'
+  "Compare Systeme.io's Free, Startup, Webinar and Unlimited plans. See current prices, key limits and which tier is worth paying for."
 
 export const Route = createFileRoute('/guides/systeme-io-pricing')({
   head: () => ({
