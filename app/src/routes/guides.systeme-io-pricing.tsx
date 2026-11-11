@@ -56,7 +56,7 @@ function SystemePricingPage() {
           <li><strong>Unlimited ($97/month):</strong> for businesses that genuinely need unlimited contacts and core usage limits. It is unnecessary for most beginners.</li>
         </ul>
         <a className="mt-5 inline-flex items-center rounded-lg bg-indigo-700 px-5 py-3 font-semibold text-white shadow-sm transition hover:bg-indigo-800" href="https://systeme.io/pricing?sa=sa0286089660ebed8476e8d7899489bd8eb71bc507&tk=workflow-radar-systeme-pricing-quick" target="_blank" rel="sponsored nofollow noopener">
-          Check current Systeme.io plans
+          Compare plans & start free
         </a>
         <p className="mt-2 text-xs text-slate-500">Tracked affiliate link · Check the billing selector and current terms before subscribing.</p>
       </section>
