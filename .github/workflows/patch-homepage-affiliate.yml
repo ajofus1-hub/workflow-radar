@@ -1,4 +1,4 @@
-name: Inspect Workflow Radar homepage source
+name: Verify Workflow Radar production build
 
 on:
   push:
@@ -10,9 +10,9 @@ permissions:
   contents: read
 
 jobs:
-  inspect-homepage:
+  production-build:
     runs-on: ubuntu-latest
-    timeout-minutes: 10
+    timeout-minutes: 20
     steps:
       - name: Check out repository
         uses: actions/checkout@v4
@@ -20,33 +20,25 @@ jobs:
         uses: oven-sh/setup-bun@v2
         with:
           bun-version: latest
-      - name: Inspect the exact homepage source without modifying it
+      - name: Reconstruct the exact Render source and build it
         shell: bash
         run: |
-          python3 - <<'PY'
-          import pathlib, subprocess, tempfile
-          root=pathlib.Path.cwd()
-          parts=sorted(root.glob("workflow-radar.tar.gz.part*"))
-          tmp=pathlib.Path(tempfile.mkdtemp(prefix="workflow-radar-inspect-"))
-          archive=tmp/"app.tar.gz"
-          with archive.open("wb") as out:
-              for p in parts: out.write(p.read_bytes())
-          src=tmp/"src"; src.mkdir()
-          subprocess.run(["tar","-xzf",str(archive),"-C",str(src)],check=True)
-          route=src/"app/src/routes/index.tsx"
-          if not route.is_file(): raise SystemExit("index.tsx not found")
-          text=route.read_text(encoding="utf-8")
-          print("SOURCE_PATH=app/src/routes/index.tsx")
-          print("SOURCE_BYTES=",len(text.encode()))
-          for marker in ["sa0286089660ebed8476e8d7899489bd8eb71bc507","workflow-radar-directory","Visit website","tool.url","affiliate"]:
-              starts=[]; pos=0
-              while True:
-                  pos=text.lower().find(marker.lower(),pos)
-                  if pos<0: break
-                  starts.append(pos); pos+=len(marker)
-              print("\\n=== MARKER",marker,"COUNT",len(starts),"===")
-              for i,pos in enumerate(starts[:6]):
-                  print("--- occurrence",i+1,"offset",pos,"---")
-                  print(text[max(0,pos-500):min(len(text),pos+900)])
-          print("\\nINSPECTION_ONLY=TRUE; no source or archive files changed")
-          PY
+          set -euo pipefail
+          tmp="$(mktemp -d)"
+          mkdir -p "$tmp/source"
+          cat workflow-radar.tar.gz.part* > "$tmp/workflow-radar.tar.gz"
+          tar -tzf "$tmp/workflow-radar.tar.gz" >/dev/null
+          cp -a . "$tmp/source/"
+          tar -xzf "$tmp/workflow-radar.tar.gz" -C "$tmp/source"
+          test -f "$tmp/source/app/package.json"
+          test -f "$tmp/source/app/src/routes/index.tsx"
+          grep -q 'Affiliate link: We may earn a commission' "$tmp/source/app/src/routes/index.tsx"
+          grep -q 'Try Systeme.io free' "$tmp/source/app/src/routes/index.tsx"
+          grep -q 'sa=sa0286089660ebed8476e8d7899489bd8eb71bc507&tk=workflow-radar-directory' "$tmp/source/app/src/routes/index.tsx"
+          cd "$tmp/source/app"
+          bun install --frozen-lockfile
+          bun run build
+          echo "BUILD_VERIFIED=PASS"
+          echo "HOMEPAGE_SOURCE=app/src/routes/index.tsx"
+          echo "TRACKING_ID_AND_SUBID=PRESERVED"
+          echo "DISCLOSURE_AND_CTA=PRESENT"
