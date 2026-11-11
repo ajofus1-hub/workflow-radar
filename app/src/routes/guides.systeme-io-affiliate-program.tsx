@@ -194,12 +194,13 @@ function SystemeAffiliateProgramPage() {
       <section className="mb-10 rounded-2xl border border-indigo-100 bg-indigo-50 p-6">
         <h2 className="mb-3 text-2xl font-bold">Compare the actual plans before signing up</h2>
         <p className="mb-4 leading-7 text-slate-700">The affiliate programme is only one part of the decision. Check whether the product itself fits your requirements and whether the free plan is enough.</p>
+        <p className="mb-4 rounded-lg border border-amber-200 bg-amber-50 p-3 text-sm leading-6 text-amber-950"><strong>Affiliate disclosure:</strong> The “Visit Systeme.io” button below is a tracked affiliate link. If you create an account through it and later make an eligible purchase, Workflow Radar may earn a commission at no extra cost to you.</p>
         <div className="flex flex-wrap gap-3">
           <a className="inline-flex items-center rounded-lg bg-indigo-700 px-5 py-3 font-semibold text-white shadow-sm transition hover:bg-indigo-800" href={affiliateUrl} target="_blank" rel="sponsored nofollow noopener">Visit Systeme.io <span className="ml-2" aria-hidden="true">↗</span></a>
           <a className="inline-flex items-center rounded-lg border border-indigo-300 px-5 py-3 font-semibold text-indigo-800 transition hover:bg-indigo-100" href="/guides/systeme-io-pricing">Compare plans</a>
           <a className="inline-flex items-center rounded-lg border border-indigo-300 px-5 py-3 font-semibold text-indigo-800 transition hover:bg-indigo-100" href="/guides/systeme-io-free-plan-limits">See free-plan limits</a>
         </div>
-        <p className="mt-3 text-xs text-slate-500">The Systeme.io buttons above use a tracked affiliate link. We may earn a commission if you later make an eligible purchase, at no extra cost to you.</p>
+        <p className="mt-3 text-xs text-slate-500">The other two buttons open Workflow Radar comparison guides.</p>
       </section>
 
       <section className="mb-10">
