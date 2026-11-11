@@ -86,7 +86,7 @@ function SystemePricingPage() {
             </tbody>
           </table>
         </div>
-        <p className="mt-3 text-xs leading-5 text-slate-500">All four plans list unlimited email sends and 0% platform transaction fees. Your payment processor may still charge its own processing fees. The full plan comparison includes additional limits for workflows, courses, domains, tags, CRM pipelines and funnel steps.</p>
+        <p className="mt-3 text-xs leading-5 text-slate-500">All four plans list unlimited email sends, unlimited sub-accounts and 0% platform transaction fees. Systeme.io says each sub-account gets the same limits as the main account's plan. Your payment processor may still charge its own processing fees. The full plan comparison includes additional limits for workflows, courses, domains, tags, CRM pipelines and funnel steps.</p>
       </section>
 
       <section className="mb-10">
@@ -110,7 +110,7 @@ function SystemePricingPage() {
         <ul className="mb-4 list-disc space-y-2 pl-6 leading-7 text-slate-700">
           <li>Complex, multi-branch email journeys or deeper segmentation than your plan supports.</li>
           <li>Highly customised checkout, tax, payment or upsell flows that are central to your sales process.</li>
-          <li>More advanced CRM pipeline reporting, granular team permissions or clear separation across multiple brands.</li>
+          <li>More advanced CRM pipeline reporting, granular team permissions or consolidated cross-brand reporting beyond the sub-account model. Systeme.io lists unlimited sub-accounts on every plan, so test that model before ruling it out.</li>
           <li>More design flexibility than the page and funnel builder provides for your specific site.</li>
         </ul>
         <p className="mb-4 leading-7 text-slate-700">These are comparison prompts, not claims that every account will hit those limits. In a <a className="font-semibold text-indigo-700 underline" href="https://www.reddit.com/r/EntrepreneurConnect/comments/1pt9jis/systemeio_alternative_recommendations/" target="_blank" rel="noopener noreferrer">December 2025 community discussion about Systeme.io alternatives</a>, users mentioned automation logic, checkout customisation and multi-brand permissions as reasons to evaluate other tools. Individual experiences vary, so verify the feature in your own account before switching.</p>
