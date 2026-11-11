@@ -116,7 +116,7 @@ function SystemeVsBrevoPage() {
           <li>You want unlimited email sends rather than a 300-per-day quota.</li>
           <li>Your list fits within 2,000 contacts and one basic automation rule/workflow is enough to start.</li>
         </ul>
-        <a className="inline-flex items-center rounded-lg bg-indigo-700 px-5 py-3 font-semibold text-white shadow-sm transition hover:bg-indigo-800" href="https://systeme.io/?sa=sa0286089660ebed8476e8d7899489bd8eb71bc507&tk=workflow-radar-systeme-vs-brevo" target="_blank" rel="sponsored nofollow noopener">
+        <a className="inline-flex items-center rounded-lg bg-indigo-700 px-5 py-3 font-semibold text-white shadow-sm transition hover:bg-indigo-800" href="https://systeme.io/pricing?sa=sa0286089660ebed8476e8d7899489bd8eb71bc507&tk=workflow-radar-systeme-vs-brevo" target="_blank" rel="sponsored nofollow noopener">
           Try Systeme.io free <span className="ml-2" aria-hidden="true">↗</span>
         </a>
         <p className="mt-2 text-xs text-slate-500">Tracked affiliate link · No extra cost to you. Systeme.io states that its Free plan does not require a credit card.</p>
