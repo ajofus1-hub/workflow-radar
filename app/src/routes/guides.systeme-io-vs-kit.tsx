@@ -1,6 +1,6 @@
 import { createFileRoute } from '@tanstack/react-router'
 
-const title = 'Systeme.io vs Kit (2026): Which Free Email Platform Is Better for Creators?'
+const title = 'Systeme.io vs Kit: Free Plan (2026)'
 const description =
   'Compare Systeme.io and Kit free plans in 2026: subscriber limits, broadcasts, automations, funnels, courses, creator tools and the best fit for your business.'
 
