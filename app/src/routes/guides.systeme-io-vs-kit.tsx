@@ -160,7 +160,7 @@ function SystemeVsKitPage() {
       </section>
 
       <footer className="border-t border-slate-200 pt-6 text-sm leading-6 text-slate-600">
-        <p>For a broader shortlist, read our <a className="font-semibold text-indigo-700 underline" href="/guides/free-email-marketing-tools">free email marketing tools comparison</a> and our <a className="font-semibold text-indigo-700 underline" href="/guides/systeme-io-vs-mailerlite">Systeme.io vs MailerLite guide</a>.</p>
+        <p>For a broader shortlist, read our <a className="font-semibold text-indigo-700 underline" href="/guides/free-email-marketing-tools">free email marketing tools comparison</a> and our <a className="font-semibold text-indigo-700 underline" href="/guides/systeme-io-vs-mailerlite">Systeme.io vs MailerLite guide</a>. For every Free-tier cap, see the <a className="font-semibold text-indigo-700 underline" href="/guides/systeme-io-free-plan-limits">Systeme.io Free plan limits guide</a>.</p>
         <p className="mt-3 text-xs text-slate-500">Last checked: November 11, 2026. Always confirm current plan limits and terms with each vendor.</p>
       </footer>
     </main>
