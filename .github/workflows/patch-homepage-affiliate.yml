@@ -63,40 +63,11 @@ jobs:
               raise SystemExit(f"Expected exactly one homepage source containing the exact Systeme.io affiliate ID and directory sub-ID; found {len(candidates)}.")
 
           path, text = candidates[0]
-          anchor_pattern = re.compile(
-              r"""<a\b[^>]*href=["'][^"']*systeme\.io/[^"']*"""
-              + re.escape(affiliate_id)
-              + r"""[^"']*tk=""" + re.escape(sub_id)
-              + r"""[^"']*["'][^>]*>[\s\S]*?</a>""",
-              re.IGNORECASE
-          )
-          matches = list(anchor_pattern.finditer(text))
-          if len(matches) != 1:
-              idx = text.find(affiliate_id)
-              print("AFFILIATE SOURCE CONTEXT:", repr(text[max(0, idx-700):idx+1000]))
-              visits = [m.start() for m in re.finditer("Visit website", text)]
-              print("CTA CONTEXTS:", [repr(text[max(0, pos-350):pos+250]) for pos in visits])
-              raise SystemExit(f"Expected one exact tracked Systeme.io directory anchor in {path}; found {len(matches)}.")
-
-          match = matches[0]
-          anchor = match.group(0)
-          if "Try Systeme.io free" in anchor and "Affiliate link:" in text[max(0, match.start()-500):match.start()]:
-              print("Homepage CTA is already patched; no archive change needed.")
-              sys.exit(0)
-          if "Visit website" not in anchor:
-              raise SystemExit("The tracked directory anchor no longer has the expected CTA text; refusing an uncertain edit.")
-
-          updated_anchor = anchor.replace("Visit website", "Try Systeme.io free", 1)
-          wrapped_anchor = (
-              '<div className="flex flex-col items-end gap-1">'
-              '<p className="max-w-[14rem] text-right text-xs leading-4 text-slate-500">'
-              'Affiliate link: We may earn a commission if you sign up, at no extra cost to you.'
-              '</p>'
-              + updated_anchor
-              + '</div>'
-          )
-          text = text[:match.start()] + wrapped_anchor + text[match.end():]
-
+          old_anchor = '<a href={tool.url} target="_blank" rel="noreferrer" className="inline-flex w-fit items-center gap-2 rounded-full border border-slate-300 px-5 py-3 text-sm font-semibold transition hover:wr-border-blue hover:wr-text-blue">Visit website <ArrowUpRight size={15}/></a>'
+          if text.count(old_anchor) != 1:
+              raise SystemExit(f"Expected the shared directory CTA template exactly once; found {text.count(old_anchor)}.")
+          new_anchor = '<div className="flex flex-col items-start gap-2">{tool.name === "Systeme.io" && <p className="max-w-[15rem] text-xs leading-5 text-slate-500">Affiliate link: We may earn a commission if you sign up, at no extra cost to you.</p>}<a href={tool.url} target="_blank" rel={tool.name === "Systeme.io" ? "sponsored nofollow noopener" : "noreferrer"} className="inline-flex w-fit items-center gap-2 rounded-full border border-slate-300 px-5 py-3 text-sm font-semibold transition hover:wr-border-blue hover:wr-text-blue">{tool.name === "Systeme.io" ? "Try Systeme.io free" : "Visit website"} <ArrowUpRight size={15}/></a></div>'
+          text = text.replace(old_anchor, new_anchor, 1)
           old_footer = "Some links may become affiliate links in the future. The Systeme.io link is an affiliate link;"
           if old_footer in text:
               text = text.replace(old_footer, "The Systeme.io directory link is an affiliate link;", 1)
