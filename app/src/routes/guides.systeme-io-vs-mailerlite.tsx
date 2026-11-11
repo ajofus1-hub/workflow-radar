@@ -93,7 +93,7 @@ function SystemeVsMailerLitePage() {
           <li>One automation rule and one workflow, so the free tier is generous in reach but limited in automation depth.</li>
         </ul>
         <p className="mb-5 leading-7 text-slate-700">That makes it a practical first test for a solo creator selling a small course, service, download or coaching offer. The trade-off is that the email-campaign and automation limits are much tighter than the headline contact and send limits suggest.</p>
-        <a className="inline-flex items-center rounded-lg bg-indigo-700 px-5 py-3 font-semibold text-white shadow-sm transition hover:bg-indigo-800" href="https://systeme.io/?sa=sa0286089660ebed8476e8d7899489bd8eb71bc507&tk=workflow-radar-systeme-vs-mailerlite" target="_blank" rel="sponsored nofollow noopener">
+        <a className="inline-flex items-center rounded-lg bg-indigo-700 px-5 py-3 font-semibold text-white shadow-sm transition hover:bg-indigo-800" href="https://systeme.io/pricing?sa=sa0286089660ebed8476e8d7899489bd8eb71bc507&tk=workflow-radar-systeme-vs-mailerlite" target="_blank" rel="sponsored nofollow noopener">
           Try Systeme.io free <span className="ml-2" aria-hidden="true">↗</span>
         </a>
         <p className="mt-2 text-xs text-slate-500">Affiliate link · No extra cost to you.</p>
