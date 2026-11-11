@@ -1,8 +1,8 @@
 import { createFileRoute } from '@tanstack/react-router'
 
-const title = 'Systeme.io vs Brevo (2026): Free Plan Limits, Email Sends and Automation'
+const title = 'Systeme.io vs Brevo: Free Plan (2026)'
 const description =
-  'Compare Systeme.io and Brevo free plans in 2026: contact limits, daily email caps, automation, funnels, courses, CRM features and the best fit for a small business.'
+  'Compare Systeme.io and Brevo free plans: contacts, daily email limits, automation, funnels and the best fit for small businesses.'
 
 export const Route = createFileRoute('/guides/systeme-io-vs-brevo')({
   head: () => ({
