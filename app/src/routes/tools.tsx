@@ -140,7 +140,7 @@ function ToolsPage() {
         <div className="grid gap-4 sm:grid-cols-2">
           <a href="/tools/creator" className="block rounded-xl border border-indigo-200 p-5 transition hover:bg-indigo-50"><p className="mb-2 text-xs font-semibold tracking-wide text-indigo-700">TOOL 02</p><h3 className="mb-2 text-lg font-bold text-slate-900">Creator Studio</h3><p className="text-sm leading-6 text-slate-600">YouTube title and description counters · Hashtag cleaner · UTM link builder · Description template</p><span className="mt-4 inline-block rounded-full bg-indigo-50 px-3 py-1 text-xs font-semibold text-indigo-700">Open free tools →</span></a>
           <ToolCard number="03" name="Document helpers" items="PDF planning checklist · File-size guide · Document naming helper" />
-          <ToolCard number="04" name="Business templates" items="Simple budget sheet · Content calendar · Small-business tracker" />
+          <a href="/tools/business" className="block rounded-xl border border-indigo-200 p-5 transition hover:bg-indigo-50"><p className="mb-2 text-xs font-semibold tracking-wide text-indigo-700">TOOL 04</p><h3 className="mb-2 text-lg font-bold text-slate-900">Business Studio</h3><p className="text-sm leading-6 text-slate-600">Selling price calculator · Break-even estimator · Gross margin calculator · Weekly content calendar</p><span className="mt-4 inline-block rounded-full bg-indigo-50 px-3 py-1 text-xs font-semibold text-indigo-700">Open free tools →</span></a>
           <ToolCard number="05" name="Automation library" items="Workflow checklists · Make and n8n starter recipes · Process maps" />
         </div>
       </section>
