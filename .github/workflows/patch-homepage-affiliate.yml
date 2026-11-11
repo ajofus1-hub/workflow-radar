@@ -1,133 +1,52 @@
-name: Patch Workflow Radar homepage affiliate CTA
+name: Inspect Workflow Radar homepage source
 
 on:
   push:
-    branches: [main]
+    branches: ["growth/*"]
     paths:
       - ".github/workflows/patch-homepage-affiliate.yml"
 
 permissions:
-  contents: write
+  contents: read
 
 jobs:
-  patch-homepage:
+  inspect-homepage:
     runs-on: ubuntu-latest
-    timeout-minutes: 20
+    timeout-minutes: 10
     steps:
       - name: Check out repository
         uses: actions/checkout@v4
-        with:
-          fetch-depth: 1
-
       - name: Set up Bun
         uses: oven-sh/setup-bun@v2
         with:
           bun-version: latest
-
-      - name: Inspect, patch, and build the archived app
+      - name: Inspect the exact homepage source without modifying it
         shell: bash
         run: |
           python3 - <<'PY'
-          import pathlib, re, shutil, subprocess, tempfile, sys
-
-          root = pathlib.Path.cwd()
-          parts = sorted(root.glob("workflow-radar.tar.gz.part*"))
-          if not parts:
-              raise SystemExit("No workflow-radar archive parts found.")
-
-          temp = pathlib.Path(tempfile.mkdtemp(prefix="workflow-radar-homepage-"))
-          original = temp / "original.tar.gz"
-          with original.open("wb") as out:
-              for part in parts:
-                  out.write(part.read_bytes())
-
-          source = temp / "source"
-          source.mkdir()
-          subprocess.run(["tar", "-xzf", str(original), "-C", str(source)], check=True)
-
-          routes = source / "app" / "src" / "routes"
-          if not routes.is_dir():
-              raise SystemExit("Expected archived app/src/routes directory was not found; nothing was changed.")
-
-          affiliate_id = "sa0286089660ebed8476e8d7899489bd8eb71bc507"
-          sub_id = "workflow-radar-directory"
-          candidates = []
-          for path in routes.rglob("*"):
-              if path.is_file() and path.suffix.lower() in {".tsx", ".ts", ".jsx", ".js", ".html"}:
-                  text = path.read_text(encoding="utf-8", errors="replace")
-                  if affiliate_id in text and ("tk=" + sub_id) in text:
-                      candidates.append((path, text))
-
-          if len(candidates) != 1:
-              print("Matching route files:", [str(p.relative_to(source)) for p, _ in candidates])
-              raise SystemExit(f"Expected exactly one homepage source containing the exact Systeme.io affiliate ID and directory sub-ID; found {len(candidates)}.")
-
-          path, text = candidates[0]
-          old_anchor = '<a href={tool.url} target="_blank" rel="noreferrer" className="inline-flex w-fit items-center gap-2 rounded-full border border-slate-300 px-5 py-3 text-sm font-semibold transition hover:wr-border-blue hover:wr-text-blue">Visit website <ArrowUpRight size={15}/></a>'
-          if text.count(old_anchor) != 1:
-              raise SystemExit(f"Expected the shared directory CTA template exactly once; found {text.count(old_anchor)}.")
-          new_anchor = '<div className="flex flex-col items-start gap-2">{tool.name === "Systeme.io" && <p className="max-w-[15rem] text-xs leading-5 text-slate-500">Affiliate link: We may earn a commission if you sign up, at no extra cost to you.</p>}<a href={tool.url} target="_blank" rel={tool.name === "Systeme.io" ? "sponsored nofollow noopener" : "noreferrer"} className="inline-flex w-fit items-center gap-2 rounded-full border border-slate-300 px-5 py-3 text-sm font-semibold transition hover:wr-border-blue hover:wr-text-blue">{tool.name === "Systeme.io" ? "Try Systeme.io free" : "Visit website"} <ArrowUpRight size={15}/></a></div>'
-          text = text.replace(old_anchor, new_anchor, 1)
-          old_footer = "Some links may become affiliate links in the future. The Systeme.io link is an affiliate link;"
-          if old_footer in text:
-              text = text.replace(old_footer, "The Systeme.io directory link is an affiliate link;", 1)
-
-          path.write_text(text, encoding="utf-8")
-
-          # Verify the precise tracking URL survived and the disclosure precedes the CTA.
-          check = path.read_text(encoding="utf-8")
-          if check.count(affiliate_id) != 1 or check.count("tk=" + sub_id) != 1:
-              raise SystemExit("Tracking ID/sub-ID changed unexpectedly; refusing to package.")
-          if check.find("Affiliate link:") > check.find("Try Systeme.io free"):
-              raise SystemExit("Disclosure is not before the CTA; refusing to package.")
-          print("Patched source:", path.relative_to(source))
-          print("Affiliate ID and directory sub-ID preserved.")
-
-          # Build an isolated copy so generated build artifacts never enter the archive.
-          build_copy = temp / "build-check"
-          shutil.copytree(source, build_copy)
-          app = build_copy / "app"
-          if not (app / "package.json").is_file():
-              raise SystemExit("Archived app package.json was not found; refusing to package.")
-          subprocess.run(["bun", "install", "--frozen-lockfile"], cwd=app, check=True)
-          subprocess.run(["bun", "run", "build"], cwd=app, check=True)
-          print("Bun production build passed.")
-
-          # Repack only the extracted archive contents; tracked guide source files outside
-          # the archive are not copied into it or overwritten.
-          rebuilt = temp / "workflow-radar.tar.gz"
-          subprocess.run(["tar", "-czf", str(rebuilt), "-C", str(source), "."], check=True)
-          verify = temp / "verify"
-          verify.mkdir()
-          subprocess.run(["tar", "-xzf", str(rebuilt), "-C", str(verify)], check=True)
-          verified_routes = verify / "app" / "src" / "routes"
-          verified = [p for p in verified_routes.rglob("*") if p.is_file() and p.suffix.lower() in {".tsx", ".ts", ".jsx", ".js", ".html"} and affiliate_id in p.read_text(encoding="utf-8", errors="replace") and ("tk=" + sub_id) in p.read_text(encoding="utf-8", errors="replace")]
-          if len(verified) != 1:
-              raise SystemExit("Repacked archive verification failed.")
-
-          for part in parts:
-              part.unlink()
-          subprocess.run(["split", "-b", "12000", "-d", "-a", "3", str(rebuilt), str(root / "workflow-radar.tar.gz.part")], check=True)
-          new_parts = sorted(root.glob("workflow-radar.tar.gz.part*"))
-          if not new_parts:
-              raise SystemExit("Archive split produced no chunks.")
-          reconstructed = temp / "reconstructed.tar.gz"
-          with reconstructed.open("wb") as out:
-              for part in new_parts:
-                  out.write(part.read_bytes())
-          subprocess.run(["tar", "-tzf", str(reconstructed)], check=True, stdout=subprocess.DEVNULL)
-          print(f"Repacked and verified {len(new_parts)} archive chunks.")
+          import pathlib, subprocess, tempfile
+          root=pathlib.Path.cwd()
+          parts=sorted(root.glob("workflow-radar.tar.gz.part*"))
+          tmp=pathlib.Path(tempfile.mkdtemp(prefix="workflow-radar-inspect-"))
+          archive=tmp/"app.tar.gz"
+          with archive.open("wb") as out:
+              for p in parts: out.write(p.read_bytes())
+          src=tmp/"src"; src.mkdir()
+          subprocess.run(["tar","-xzf",str(archive),"-C",str(src)],check=True)
+          route=src/"app/src/routes/index.tsx"
+          if not route.is_file(): raise SystemExit("index.tsx not found")
+          text=route.read_text(encoding="utf-8")
+          print("SOURCE_PATH=app/src/routes/index.tsx")
+          print("SOURCE_BYTES=",len(text.encode()))
+          for marker in ["sa0286089660ebed8476e8d7899489bd8eb71bc507","workflow-radar-directory","Visit website","tool.url","affiliate"]:
+              starts=[]; pos=0
+              while True:
+                  pos=text.lower().find(marker.lower(),pos)
+                  if pos<0: break
+                  starts.append(pos); pos+=len(marker)
+              print("\\n=== MARKER",marker,"COUNT",len(starts),"===")
+              for i,pos in enumerate(starts[:6]):
+                  print("--- occurrence",i+1,"offset",pos,"---")
+                  print(text[max(0,pos-500):min(len(text),pos+900)])
+          print("\\nINSPECTION_ONLY=TRUE; no source or archive files changed")
           PY
-
-      - name: Commit the verified archive update
-        shell: bash
-        run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add workflow-radar.tar.gz.part*
-          if git diff --cached --quiet; then
-            echo "No archive changes to commit."
-            exit 0
-          fi
-          git commit -m "Fix homepage affiliate CTA disclosure"
-          git push origin HEAD:main
