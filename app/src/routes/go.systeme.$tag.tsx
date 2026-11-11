@@ -2,6 +2,11 @@ import { createFileRoute } from '@tanstack/react-router'
 import { useEffect } from 'react'
 
 const affiliateId = 'sa0286089660ebed8476e8d7899489bd8eb71bc507'
+const destinationPathByTag: Record<string, string> = {
+  'workflow-radar-systeme-affiliate-program-top': '/',
+  'workflow-radar-systeme-affiliate-program-bottom': '/',
+}
+
 const allowedTrackingTags = new Set([
   'workflow-radar-systeme-affiliate-program-top',
   'workflow-radar-systeme-affiliate-program-bottom',
@@ -29,8 +34,9 @@ export const Route = createFileRoute('/go/systeme/$tag')({
 function SystemeAffiliateRedirectPage() {
   const { tag } = Route.useParams()
   const validTag = allowedTrackingTags.has(tag)
+  const destinationPath = destinationPathByTag[tag] ?? '/pricing'
   const destination = validTag
-    ? `https://systeme.io/pricing?sa=${affiliateId}&tk=${encodeURIComponent(tag)}`
+    ? `https://systeme.io${destinationPath}?sa=${affiliateId}&tk=${encodeURIComponent(tag)}`
     : 'https://systeme.io/pricing'
 
   useEffect(() => {
