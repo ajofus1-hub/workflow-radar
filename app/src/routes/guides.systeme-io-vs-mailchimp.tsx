@@ -1,8 +1,8 @@
 import { createFileRoute } from '@tanstack/react-router'
 
-const title = 'Systeme.io vs Mailchimp (2026): Free Plan Limits, Email Sends and Funnels'
+const title = 'Systeme.io vs Mailchimp (2026)'
 const description =
-  'Compare Systeme.io and Mailchimp free plans in 2026: contacts, monthly email sends, automation, funnels, courses, integrations and which platform fits a small business.'
+  'Compare Systeme.io and Mailchimp Free: contacts, email limits, automation, funnels and which platform suits a small business.'
 
 export const Route = createFileRoute('/guides/systeme-io-vs-mailchimp')({
   head: () => ({
