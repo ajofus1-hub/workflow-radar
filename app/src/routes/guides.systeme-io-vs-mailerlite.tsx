@@ -150,6 +150,7 @@ function SystemeVsMailerLitePage() {
       <footer className="border-t border-slate-200 pt-6 text-sm leading-6 text-slate-600">
         <p>Want a wider shortlist? Read our <a className="font-semibold text-indigo-700 underline" href="/guides/free-email-marketing-tools">free email marketing tools comparison</a>, or see the <a className="font-semibold text-indigo-700 underline" href="/guides/systeme-io-free-plan-limits">Systeme.io Free plan limits guide</a> for the full feature caps and sales-revenue limit. We review software based on practical limits and fit, and update this guide when vendors change their plans.</p>
         <p className="mt-3 text-xs text-slate-500">Last checked: November 11, 2026. Always confirm current limits and terms with the vendor before purchasing.</p>
+      <p className="mt-3"><a className="font-semibold text-indigo-700 underline" href="/guides/systeme-io-pricing">Compare Systeme.io pricing and all four plans</a>.</p>
       </footer>
     </main>
   )

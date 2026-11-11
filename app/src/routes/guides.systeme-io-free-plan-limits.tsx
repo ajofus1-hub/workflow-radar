@@ -216,7 +216,7 @@ function SystemeFreePlanLimitsPage() {
       </section>
 
       <footer className="border-t border-slate-200 pt-6 text-sm leading-6 text-slate-600">
-        <p>Related comparisons: <a className="font-semibold text-indigo-700 underline" href="/guides/systeme-io-vs-kit">Systeme.io vs Kit</a>, <a className="font-semibold text-indigo-700 underline" href="/guides/systeme-io-vs-mailerlite">Systeme.io vs MailerLite</a>, <a className="font-semibold text-indigo-700 underline" href="/guides/systeme-io-vs-brevo">Systeme.io vs Brevo</a>, and <a className="font-semibold text-indigo-700 underline" href="/guides/systeme-io-vs-mailchimp">Systeme.io vs Mailchimp</a>.</p>
+        <p>For plan prices, see our <a className="font-semibold text-indigo-700 underline" href="/guides/systeme-io-pricing">Systeme.io pricing guide</a>. Related comparisons: <a className="font-semibold text-indigo-700 underline" href="/guides/systeme-io-vs-kit">Systeme.io vs Kit</a>, <a className="font-semibold text-indigo-700 underline" href="/guides/systeme-io-vs-mailerlite">Systeme.io vs MailerLite</a>, <a className="font-semibold text-indigo-700 underline" href="/guides/systeme-io-vs-brevo">Systeme.io vs Brevo</a>, and <a className="font-semibold text-indigo-700 underline" href="/guides/systeme-io-vs-mailchimp">Systeme.io vs Mailchimp</a>.</p>
         <p className="mt-3 text-xs text-slate-500">Plan information checked November 11, 2026. Always review the vendor's current pricing and terms before making a purchase or moving an audience.</p>
       </footer>
     </main>

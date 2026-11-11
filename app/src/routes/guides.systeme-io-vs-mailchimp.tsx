@@ -190,6 +190,7 @@ function SystemeVsMailchimpPage() {
           <li><a className="text-indigo-700 underline" href="/guides/systeme-io-vs-mailerlite">Systeme.io vs MailerLite</a> — for newsletters and visual automation.</li>
           <li><a className="text-indigo-700 underline" href="/guides/systeme-io-vs-brevo">Systeme.io vs Brevo</a> — for large contact databases and transactional email.</li>
           <li><a className="text-indigo-700 underline" href="/guides/free-email-marketing-tools">Free email marketing tools</a> — browse the broader shortlist.</li>
+          <li><a className="text-indigo-700 underline" href="/guides/systeme-io-pricing">Systeme.io pricing and plans</a> — compare all four tiers.</li>
           <li><a className="text-indigo-700 underline" href="/guides/systeme-io-free-plan-limits">Systeme.io Free plan limits</a> — see every major allowance and the $10,000 lifetime sales cap.</li>
         </ul>
       </section>
