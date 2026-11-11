@@ -32,6 +32,77 @@ jobs:
         run: |
           cat workflow-radar.tar.gz.part* | tar -xz
 
+      - name: Verify affiliate tracking integrity
+        working-directory: app
+        shell: bash
+        run: |
+          node <<'NODE'
+          const fs = require('node:fs')
+          const path = require('node:path')
+
+          const affiliateId = 'sa0286089660ebed8476e8d7899489bd8eb71bc507'
+          const expectedTags = [
+            'workflow-radar-systeme-affiliate-program-top',
+            'workflow-radar-systeme-affiliate-program-bottom',
+            'workflow-radar-systeme-free-plan-limits',
+            'workflow-radar-systeme-free-plan-limits-bottom',
+            'workflow-radar-systeme-pricing-quick',
+            'workflow-radar-systeme-pricing-bottom',
+            'workflow-radar-systeme-vs-brevo',
+            'workflow-radar-systeme-vs-kit',
+            'workflow-radar-systeme-vs-mailchimp',
+            'workflow-radar-systeme-vs-mailerlite',
+            'workflow-radar-creator-studio-cta',
+          ]
+
+          const routePath = path.join('src', 'routes', 'go.systeme.$tag.tsx')
+          const route = fs.readFileSync(routePath, 'utf8')
+          if (!route.includes(`const affiliateId = '${affiliateId}'`)) {
+            throw new Error('The exact Systeme.io affiliate ID is missing or changed.')
+          }
+          if (!route.includes(`?sa=${affiliateId}&tk=`)) {
+            throw new Error('The outbound URL no longer preserves the affiliate ID and tracking sub-ID.')
+          }
+
+          const allowlistMatch = route.match(/const allowedTrackingTags = new Set\\(\\[([\\s\\S]*?)\\]\\)/)
+          if (!allowlistMatch) throw new Error('Could not read the redirect route allowlist.')
+          const allowedTags = [...allowlistMatch[1].matchAll(/'([^']+)'/g)].map(match => match[1])
+
+          const referencedTags = new Set()
+          function scan(directory) {
+            for (const entry of fs.readdirSync(directory, { withFileTypes: true })) {
+              const fullPath = path.join(directory, entry.name)
+              if (entry.isDirectory()) scan(fullPath)
+              else if (/\\.(tsx|ts|jsx|js|html)$/.test(entry.name)) {
+                const source = fs.readFileSync(fullPath, 'utf8')
+                for (const match of source.matchAll(/\\/go\\/systeme\\/([a-z0-9-]+)/g)) referencedTags.add(match[1])
+              }
+            }
+          }
+          scan(path.join('src', 'routes'))
+
+          const sort = values => [...values].sort()
+          const expected = sort(expectedTags)
+          const allowed = sort(allowedTags)
+          const referenced = sort(referencedTags)
+          if (JSON.stringify(allowed) !== JSON.stringify(expected)) {
+            throw new Error('Redirect allowlist mismatch. Expected: ' + expected.join(', ') + '; found: ' + allowed.join(', '))
+          }
+          if (JSON.stringify(referenced) !== JSON.stringify(expected)) {
+            throw new Error('CTA references and allowlist differ. Referenced: ' + referenced.join(', '))
+          }
+
+          const mapping = route.match(/const destinationPathByTag: Record<string, string> = \\{([\\s\\S]*?)\\}/)
+          if (!mapping ||
+              !mapping[1].includes("'workflow-radar-systeme-affiliate-program-top': '/'") ||
+              !mapping[1].includes("'workflow-radar-systeme-affiliate-program-bottom': '/'") ||
+              !route.includes("destinationPathByTag[tag] ?? '/pricing'")) {
+            throw new Error('The two affiliate-program links must retain the homepage destination; other valid tags must default to pricing.')
+          }
+
+          console.log(`Verified exact affiliate ID and all ${expectedTags.length} tracking subIDs; CTA references match the redirect allowlist.`)
+          NODE
+
       - name: Install dependencies
         working-directory: app
         run: bun install --frozen-lockfile
