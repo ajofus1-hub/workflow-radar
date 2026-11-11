@@ -2,7 +2,7 @@ import { createFileRoute } from '@tanstack/react-router'
 
 const title = 'Systeme.io Free Plan Limits (2026): Contacts, Funnels, Automation and the $10,000 Sales Cap'
 const description =
-  'A practical breakdown of Systeme.io Free in 2026: 2,000 contacts, unlimited email sends, one campaign and workflow, three funnels, one course, and the $10,000 lifetime sales limit.'
+  'A practical breakdown of Systeme.io Free in 2026: 2,000 contacts, one CRM pipeline, unlimited email sends, one campaign and workflow, three funnels, one course, and the $10,000 lifetime sales limit.'
 
 export const Route = createFileRoute('/guides/systeme-io-free-plan-limits')({
   head: () => ({
@@ -74,7 +74,7 @@ function SystemeFreePlanLimitsPage() {
         <ul className="space-y-2 leading-7 text-slate-700">
           <li><strong>Price:</strong> $0 per month; Systeme.io says no credit card is required.</li>
           <li><strong>Core capacity:</strong> 2,000 contacts, unlimited email sends, three funnels and 15 funnel steps.</li>
-          <li><strong>Feature caps:</strong> one email campaign, one automation rule, one workflow, one tag, one blog and one course.</li>
+          <li><strong>Feature caps:</strong> one CRM pipeline, one email campaign, one automation rule, one workflow, one tag, one blog and one course.</li>
           <li><strong>Sales cap:</strong> $10,000 in lifetime sales revenue on Free. Affiliate commissions are excluded from this calculation.</li>
         </ul>
         <a className="mt-5 inline-flex items-center rounded-lg bg-indigo-700 px-5 py-3 font-semibold text-white shadow-sm transition hover:bg-indigo-800" href="https://systeme.io/pricing?sa=sa0286089660ebed8476e8d7899489bd8eb71bc507&tk=workflow-radar-systeme-free-plan-limits" target="_blank" rel="sponsored nofollow noopener">
@@ -93,6 +93,7 @@ function SystemeFreePlanLimitsPage() {
             </thead>
             <tbody className="divide-y divide-slate-200">
               <tr><th className="p-4 font-medium">Contacts</th><td className="p-4">2,000</td><td className="p-4">Enough to validate a small list; plan an upgrade before exceeding the cap.</td></tr>
+              <tr><th className="p-4 font-medium">CRM pipelines</th><td className="p-4">1</td><td className="p-4">One pipeline for tracking leads and deals; separate pipelines for different products or teams need more capacity.</td></tr>
               <tr><th className="p-4 font-medium">Email sends</th><td className="p-4">Unlimited</td><td className="p-4">No published monthly send quota, but your contact and campaign limits still apply.</td></tr>
               <tr><th className="p-4 font-medium">Email campaigns</th><td className="p-4">1</td><td className="p-4">A tight limit if you need separate campaigns for different products or launches.</td></tr>
               <tr><th className="p-4 font-medium">Email newsletters</th><td className="p-4">Unlimited</td><td className="p-4">You can send newsletters without a stated plan-level count cap.</td></tr>
@@ -146,13 +147,14 @@ function SystemeFreePlanLimitsPage() {
 
       <section className="mb-10">
         <h2 className="mb-3 text-2xl font-bold">What does Startup add?</h2>
-        <p className="mb-4 leading-7 text-slate-700">The official pricing page currently lists Startup at <strong>$17 per month</strong> on monthly billing. Compared with Free, it raises the published limits to 5,000 contacts, 10 email campaigns, 10 automation rules, five workflows, 10 funnels, 50 funnel steps, five courses and three custom domains. Check the live price and billing selector before upgrading.</p>
+        <p className="mb-4 leading-7 text-slate-700">The official pricing page currently lists Startup at <strong>$17 per month</strong> on monthly billing. Compared with Free, it raises the published limits to 5,000 contacts, five CRM pipelines, 10 email campaigns, 10 automation rules, five workflows, 10 funnels, 50 funnel steps, five courses and three custom domains. Check the live price and billing selector before upgrading.</p>
         <div className="overflow-x-auto rounded-xl border border-slate-200">
           <table className="w-full min-w-[440px] border-collapse text-left text-sm">
             <thead className="bg-slate-100"><tr><th className="p-4 font-semibold">Limit</th><th className="p-4 font-semibold">Free</th><th className="p-4 font-semibold">Startup</th></tr></thead>
             <tbody className="divide-y divide-slate-200">
               <tr><th className="p-4 font-medium">Monthly price</th><td className="p-4">$0</td><td className="p-4">$17</td></tr>
               <tr><th className="p-4 font-medium">Contacts</th><td className="p-4">2,000</td><td className="p-4">5,000</td></tr>
+              <tr><th className="p-4 font-medium">CRM pipelines</th><td className="p-4">1</td><td className="p-4">5</td></tr>
               <tr><th className="p-4 font-medium">Email campaigns</th><td className="p-4">1</td><td className="p-4">10</td></tr>
               <tr><th className="p-4 font-medium">Automation rules / workflows</th><td className="p-4">1 / 1</td><td className="p-4">10 / 5</td></tr>
               <tr><th className="p-4 font-medium">Funnels / steps</th><td className="p-4">3 / 15</td><td className="p-4">10 / 50</td></tr>
