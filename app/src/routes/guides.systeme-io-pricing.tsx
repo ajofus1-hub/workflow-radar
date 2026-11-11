@@ -35,7 +35,7 @@ function SystemePricingPage() {
       </nav>
 
       <header className="mb-8">
-        <p className="mb-3 text-sm font-semibold uppercase tracking-wide text-indigo-700">Pricing and plan comparison · Updated November 11, 2026</p>
+        <p className="mb-3 text-sm font-semibold uppercase tracking-wide text-indigo-700">Pricing and plan comparison · Updated November 12, 2026</p>
         <h1 className="mb-4 text-4xl font-bold tracking-tight sm:text-5xl">Systeme.io pricing: which plan is worth paying for?</h1>
         <p className="text-lg leading-8 text-slate-600">
           Systeme.io has a permanent Free plan and three paid tiers: Startup, Webinar and Unlimited. The right choice depends less on the headline price and more on your contact count, number of funnels, automation needs and whether you run evergreen webinars.
@@ -65,7 +65,7 @@ function SystemePricingPage() {
         <p className="mb-6 text-sm leading-6 text-slate-600">Considering the referral side of the platform? Read our <a className="font-semibold text-indigo-700 underline" href="/guides/systeme-io-affiliate-program">Systeme.io affiliate program guide</a> for the published commission, tracking and payout conditions. Try our <a className="font-semibold text-indigo-700 underline" href="/tools">free online text and productivity tools</a>—no signup required.</p>
 
         <h2 className="mb-4 text-2xl font-bold">Systeme.io plans and prices</h2>
-        <p className="mb-4 leading-7 text-slate-600">The amounts below are the monthly prices displayed on the official pricing page when checked on November 11, 2026. Annual billing may show discounted equivalent monthly prices. Currency, taxes and offers can vary by location and billing choice.</p>
+        <p className="mb-4 leading-7 text-slate-600">The amounts below are the monthly prices displayed on the official pricing page when checked on November 12, 2026. Annual billing may show discounted equivalent monthly prices. Currency, taxes and offers can vary by location and billing choice.</p>
         <div className="overflow-x-auto rounded-xl border border-slate-200">
           <table className="w-full min-w-[680px] border-collapse text-left text-sm">
             <thead className="bg-slate-100">
@@ -104,6 +104,19 @@ function SystemePricingPage() {
         <p className="mb-4 leading-7 text-slate-700">There is also a separate sales-revenue condition in the vendor's terms for Free accounts. Read the <a className="text-indigo-700 underline" href="/guides/systeme-io-free-plan-limits">full Free plan limits guide</a> before relying on the Free plan for an established business.</p>
       </section>
 
+      <section className="mb-10 rounded-xl border border-slate-200 p-5">
+        <h2 className="mb-3 text-2xl font-bold">When should you compare alternatives instead?</h2>
+        <p className="mb-4 leading-7 text-slate-700">An all-in-one platform is convenient, but it is not automatically the best fit for every workflow. Before upgrading, test the exact process you need. Compare specialist products if your business depends on:</p>
+        <ul className="mb-4 list-disc space-y-2 pl-6 leading-7 text-slate-700">
+          <li>Complex, multi-branch email journeys or deeper segmentation than your plan supports.</li>
+          <li>Highly customised checkout, tax, payment or upsell flows that are central to your sales process.</li>
+          <li>More advanced CRM pipeline reporting, granular team permissions or clear separation across multiple brands.</li>
+          <li>More design flexibility than the page and funnel builder provides for your specific site.</li>
+        </ul>
+        <p className="mb-4 leading-7 text-slate-700">These are comparison prompts, not claims that every account will hit those limits. In a <a className="font-semibold text-indigo-700 underline" href="https://www.reddit.com/r/EntrepreneurConnect/comments/1pt9jis/systemeio_alternative_recommendations/" target="_blank" rel="noopener noreferrer">December 2025 community discussion about Systeme.io alternatives</a>, users mentioned automation logic, checkout customisation and multi-brand permissions as reasons to evaluate other tools. Individual experiences vary, so verify the feature in your own account before switching.</p>
+        <p className="leading-7 text-slate-700">If none of those requirements apply and the Free plan covers your needs, stay on Free. If one does apply, compare the relevant options in our <a className="text-indigo-700 underline" href="/guides/systeme-io-vs-kit">Kit</a>, <a className="text-indigo-700 underline" href="/guides/systeme-io-vs-mailerlite">MailerLite</a> and <a className="text-indigo-700 underline" href="/guides/systeme-io-vs-brevo">Brevo</a> guides before paying for a higher tier.</p>
+      </section>
+
       <section className="mb-10">
         <h2 className="mb-3 text-2xl font-bold">How to choose without overpaying</h2>
         <ol className="list-decimal space-y-2 pl-6 leading-7 text-slate-700">
@@ -136,7 +149,7 @@ function SystemePricingPage() {
 
       <footer className="border-t border-slate-200 pt-6 text-sm leading-6 text-slate-600">
         <p>Related guides: <a className="text-indigo-700 underline" href="/guides/systeme-io-free-plan-limits">Free plan limits</a>, <a className="text-indigo-700 underline" href="/guides/systeme-io-vs-mailerlite">Systeme.io vs MailerLite</a>, <a className="text-indigo-700 underline" href="/guides/systeme-io-vs-brevo">Systeme.io vs Brevo</a>, <a className="text-indigo-700 underline" href="/guides/systeme-io-vs-kit">Systeme.io vs Kit</a> and <a className="text-indigo-700 underline" href="/guides/systeme-io-vs-mailchimp">Systeme.io vs Mailchimp</a>.</p>
-        <p className="mt-3 text-xs text-slate-500">Pricing checked November 11, 2026. Confirm current prices and terms on the official site before purchasing.</p>
+        <p className="mt-3 text-xs text-slate-500">Pricing checked November 12, 2026. Confirm current prices and terms on the official site before purchasing.</p>
       </footer>
     </main>
   )
