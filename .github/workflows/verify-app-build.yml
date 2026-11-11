@@ -41,6 +41,7 @@ jobs:
           const path = require('node:path')
 
           const affiliateId = 'sa0286089660ebed8476e8d7899489bd8eb71bc507'
+          const homepageTag = 'workflow-radar-directory'
           const expectedTags = [
             'workflow-radar-systeme-affiliate-program-top',
             'workflow-radar-systeme-affiliate-program-bottom',
@@ -64,18 +65,20 @@ jobs:
             throw new Error('The outbound URL no longer preserves the affiliate ID and tracking sub-ID.')
           }
 
-          const allowlistMatch = route.match(/const allowedTrackingTags = new Set\\(\\[([\\s\\S]*?)\\]\\)/)
+          const allowlistMatch = route.match(/const allowedTrackingTags = new Set\(\[([\s\S]*?)\]\)/)
           if (!allowlistMatch) throw new Error('Could not read the redirect route allowlist.')
           const allowedTags = [...allowlistMatch[1].matchAll(/'([^']+)'/g)].map(match => match[1])
 
           const referencedTags = new Set()
+          const routeSources = []
           function scan(directory) {
             for (const entry of fs.readdirSync(directory, { withFileTypes: true })) {
               const fullPath = path.join(directory, entry.name)
               if (entry.isDirectory()) scan(fullPath)
-              else if (/\\.(tsx|ts|jsx|js|html)$/.test(entry.name)) {
+              else if (/\.(tsx|ts|jsx|js|html)$/.test(entry.name)) {
                 const source = fs.readFileSync(fullPath, 'utf8')
-                for (const match of source.matchAll(/\\/go\\/systeme\\/([a-z0-9-]+)/g)) referencedTags.add(match[1])
+                routeSources.push({ path: fullPath, source })
+                for (const match of source.matchAll(/\/go\/systeme\/([a-z0-9-]+)/g)) referencedTags.add(match[1])
               }
             }
           }
@@ -92,7 +95,7 @@ jobs:
             throw new Error('CTA references and allowlist differ. Referenced: ' + referenced.join(', '))
           }
 
-          const mapping = route.match(/const destinationPathByTag: Record<string, string> = \\{([\\s\\S]*?)\\}/)
+          const mapping = route.match(/const destinationPathByTag: Record<string, string> = \{([\s\S]*?)\}/)
           if (!mapping ||
               !mapping[1].includes("'workflow-radar-systeme-affiliate-program-top': '/'") ||
               !mapping[1].includes("'workflow-radar-systeme-affiliate-program-bottom': '/'") ||
@@ -100,7 +103,14 @@ jobs:
             throw new Error('The two affiliate-program links must retain the homepage destination; other valid tags must default to pricing.')
           }
 
-          console.log(`Verified exact affiliate ID and all ${expectedTags.length} tracking subIDs; CTA references match the redirect allowlist.`)
+          const homepageMatches = routeSources.filter(({ source }) =>
+            source.includes(affiliateId) && source.includes(`tk=${homepageTag}`)
+          )
+          if (homepageMatches.length !== 1) {
+            throw new Error(`Expected exactly one homepage CTA with the original affiliate ID and ${homepageTag}; found ${homepageMatches.length}.`)
+          }
+
+          console.log(`Verified exact affiliate ID, all ${expectedTags.length} redirect subIDs, and the separate ${homepageTag} homepage subID.`)
           NODE
 
       - name: Install dependencies
