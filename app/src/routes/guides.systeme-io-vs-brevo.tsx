@@ -179,7 +179,7 @@ function SystemeVsBrevoPage() {
       </section>
 
       <footer className="border-t border-slate-200 pt-6 text-sm leading-6 text-slate-500">
-        <p>Related reading: <a className="text-indigo-700 underline" href="/guides/free-email-marketing-tools">Best free email marketing tools</a>, <a className="text-indigo-700 underline" href="/guides/systeme-io-vs-kit">Systeme.io vs Kit</a>, and <a className="text-indigo-700 underline" href="/guides/systeme-io-vs-mailerlite">Systeme.io vs MailerLite</a>.</p>
+        <p>Related reading: <a className="text-indigo-700 underline" href="/guides/free-email-marketing-tools">Best free email marketing tools</a>, <a className="text-indigo-700 underline" href="/guides/systeme-io-vs-kit">Systeme.io vs Kit</a>, <a className="text-indigo-700 underline" href="/guides/systeme-io-vs-mailerlite">Systeme.io vs MailerLite</a>, and the <a className="text-indigo-700 underline" href="/guides/systeme-io-free-plan-limits">Systeme.io Free plan limits guide</a>.</p>
         <p className="mt-2">Last checked November 11, 2026. Always verify limits on the official pricing pages before importing a list or launching a campaign.</p>
       </footer>
     </main>
