@@ -55,7 +55,7 @@ function SystemePricingPage() {
           <li><strong>Webinar ($47/month):</strong> consider it when evergreen webinars are part of your sales process or you need 10,000 contacts and larger limits.</li>
           <li><strong>Unlimited ($97/month):</strong> for businesses that genuinely need unlimited contacts and core usage limits. It is unnecessary for most beginners.</li>
         </ul>
-        <a className="mt-5 inline-flex items-center rounded-lg bg-indigo-700 px-5 py-3 font-semibold text-white shadow-sm transition hover:bg-indigo-800" href="https://systeme.io/pricing?sa=sa0286089660ebed8476e8d7899489bd8eb71bc507&tk=workflow-radar-systeme-pricing-quick" target="_blank" rel="sponsored nofollow noopener">
+        <a className="mt-5 inline-flex items-center rounded-lg bg-indigo-700 px-5 py-3 font-semibold text-white shadow-sm transition hover:bg-indigo-800" href="/go/systeme/workflow-radar-systeme-pricing-quick" target="_blank" rel="sponsored nofollow noopener">
           Compare plans & start free
         </a>
         <p className="mt-2 text-xs text-slate-500">Tracked affiliate link · Check the billing selector and current terms before subscribing.</p>
@@ -119,7 +119,7 @@ function SystemePricingPage() {
         <h2 className="mb-3 text-2xl font-bold">Check the live price before you decide</h2>
         <p className="mb-4 leading-7 text-slate-700">Plan prices and feature caps can change. Confirm the current monthly or annual billing option directly with Systeme.io. If the Free plan already covers your needs, there is no reason to upgrade just because a paid plan is available.</p>
         <p className="mb-3 text-xs leading-5 text-slate-600"><strong>Affiliate disclosure:</strong> This is a tracked affiliate link. Workflow Radar may earn a commission if you sign up, at no extra cost to you.</p>
-        <a className="inline-flex items-center rounded-lg bg-indigo-700 px-5 py-3 font-semibold text-white shadow-sm transition hover:bg-indigo-800" href="https://systeme.io/pricing?sa=sa0286089660ebed8476e8d7899489bd8eb71bc507&tk=workflow-radar-systeme-pricing-bottom" target="_blank" rel="sponsored nofollow noopener">
+        <a className="inline-flex items-center rounded-lg bg-indigo-700 px-5 py-3 font-semibold text-white shadow-sm transition hover:bg-indigo-800" href="/go/systeme/workflow-radar-systeme-pricing-bottom" target="_blank" rel="sponsored nofollow noopener">
           View official pricing
         </a>
         <p className="mt-2 text-xs text-slate-500">Confirm the billing option and current terms on Systeme.io before subscribing.</p>

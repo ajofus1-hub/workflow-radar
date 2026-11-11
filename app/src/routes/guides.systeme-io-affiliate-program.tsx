@@ -4,8 +4,8 @@ const title = 'Systeme.io Affiliate Program: Commission, Tracking & Payouts (202
 const description =
   'A practical guide to the Systeme.io affiliate program: 60% commissions, lifetime referral attribution, payout rules, tracking links and what affiliates should verify.'
 
-const affiliateUrlTop = 'https://systeme.io/?sa=sa0286089660ebed8476e8d7899489bd8eb71bc507&tk=workflow-radar-systeme-affiliate-program-top'
-const affiliateUrlBottom = 'https://systeme.io/?sa=sa0286089660ebed8476e8d7899489bd8eb71bc507&tk=workflow-radar-systeme-affiliate-program-bottom'
+const affiliateUrlTop = '/go/systeme/workflow-radar-systeme-affiliate-program-top'
+const affiliateUrlBottom = '/go/systeme/workflow-radar-systeme-affiliate-program-bottom'
 
 export const Route = createFileRoute('/guides/systeme-io-affiliate-program')({
   head: () => ({
