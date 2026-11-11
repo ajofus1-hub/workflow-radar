@@ -81,7 +81,7 @@ function SystemeFreePlanLimitsPage() {
           <li><strong>Feature caps:</strong> one CRM pipeline, one email campaign, one automation rule, one workflow, one tag, one blog and one course.</li>
           <li><strong>Sales cap:</strong> $10,000 in lifetime sales revenue on Free. Affiliate commissions are excluded from this calculation.</li>
         </ul>
-        <a className="mt-5 inline-flex items-center rounded-lg bg-indigo-700 px-5 py-3 font-semibold text-white shadow-sm transition hover:bg-indigo-800" href="https://systeme.io/pricing?sa=sa0286089660ebed8476e8d7899489bd8eb71bc507&tk=workflow-radar-systeme-free-plan-limits" target="_blank" rel="sponsored nofollow noopener">
+        <a className="mt-5 inline-flex items-center rounded-lg bg-indigo-700 px-5 py-3 font-semibold text-white shadow-sm transition hover:bg-indigo-800" href="/go/systeme/workflow-radar-systeme-free-plan-limits" target="_blank" rel="sponsored nofollow noopener">
           Check the free plan on Systeme.io <span className="ml-2" aria-hidden="true">↗</span>
         </a>
         <p className="mt-2 text-xs text-slate-500">Tracked affiliate link · The Free plan is listed at $0 and does not require a credit card.</p>
@@ -178,7 +178,7 @@ function SystemeFreePlanLimitsPage() {
           <li>Someone who wants to validate the offer before committing to a monthly software bill.</li>
         </ul>
         <p className="mb-4 leading-7 text-slate-700">It is a poor fit if you already know you need several campaigns, multiple automation paths, more than one course or sales beyond the Free plan's lifetime revenue limit.</p>
-        <a className="inline-flex items-center rounded-lg bg-indigo-700 px-5 py-3 font-semibold text-white shadow-sm transition hover:bg-indigo-800" href="https://systeme.io/pricing?sa=sa0286089660ebed8476e8d7899489bd8eb71bc507&tk=workflow-radar-systeme-free-plan-limits-bottom" target="_blank" rel="sponsored nofollow noopener">
+        <a className="inline-flex items-center rounded-lg bg-indigo-700 px-5 py-3 font-semibold text-white shadow-sm transition hover:bg-indigo-800" href="/go/systeme/workflow-radar-systeme-free-plan-limits-bottom" target="_blank" rel="sponsored nofollow noopener">
           Compare plans and start free <span className="ml-2" aria-hidden="true">↗</span>
         </a>
         <p className="mt-2 text-xs text-slate-500">Affiliate link · No extra cost to you. Verify current limits and terms before signing up.</p>

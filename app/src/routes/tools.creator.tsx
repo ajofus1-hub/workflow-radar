@@ -191,7 +191,7 @@ function CreatorToolsPage() {
         <h2 className="mb-2 text-2xl font-bold text-slate-900">Need a landing page, email list or sales funnel?</h2>
         <p className="mb-4 leading-7 text-slate-700">If your next step is collecting subscribers or selling a digital product, compare the actual Systeme.io plans first. Its free tier may be enough to test a simple funnel; upgrade only when you need the extra limits.</p>
         <p className="mb-3 text-xs leading-5 text-slate-600"><strong>Affiliate disclosure:</strong> This tracked link may earn Workflow Radar a commission if you sign up and later make an eligible purchase, at no extra cost to you. We recommend checking whether the free plan meets your needs before paying.</p>
-        <a className="inline-flex items-center rounded-lg bg-indigo-700 px-5 py-3 font-semibold text-white shadow-sm transition hover:bg-indigo-800" href="https://systeme.io/pricing?sa=sa0286089660ebed8476e8d7899489bd8eb71bc507&tk=workflow-radar-creator-studio-cta" target="_blank" rel="sponsored nofollow noopener">Compare plans and start free ↗</a>
+        <a className="inline-flex items-center rounded-lg bg-indigo-700 px-5 py-3 font-semibold text-white shadow-sm transition hover:bg-indigo-800" href="/go/systeme/workflow-radar-creator-studio-cta" target="_blank" rel="sponsored nofollow noopener">Compare plans and start free ↗</a>
       </section>
 
       <p aria-live="polite" className="min-h-6 text-sm text-indigo-800">{notice}</p>
