@@ -96,7 +96,7 @@ function SystemeVsKitPage() {
         <h2 className="mb-3 text-2xl font-bold">Where Systeme.io is the better choice</h2>
         <p className="mb-4 leading-7 text-slate-700">Systeme.io is built for a broader customer journey: capture a lead, send email, move the person through a funnel and sell a service, course or digital product. Its Free plan is smaller at 2,000 contacts, but it includes three sales funnels, unlimited email sending, one course, a blog and a custom domain.</p>
         <p className="mb-4 leading-7 text-slate-700">This makes it more practical if you are launching a course or service and need checkout pages as well as email. The trade-off is capacity: the free tier's contact, campaign and automation limits mean it is not a substitute for a mature email-automation system at scale.</p>
-        <a className="inline-flex items-center rounded-lg bg-indigo-700 px-5 py-3 font-semibold text-white shadow-sm transition hover:bg-indigo-800" href="https://systeme.io/?sa=sa0286089660ebed8476e8d7899489bd8eb71bc507&tk=workflow-radar-systeme-vs-kit" target="_blank" rel="sponsored nofollow noopener">
+        <a className="inline-flex items-center rounded-lg bg-indigo-700 px-5 py-3 font-semibold text-white shadow-sm transition hover:bg-indigo-800" href="https://systeme.io/pricing?sa=sa0286089660ebed8476e8d7899489bd8eb71bc507&tk=workflow-radar-systeme-vs-kit" target="_blank" rel="sponsored nofollow noopener">
           Try Systeme.io free <span className="ml-2" aria-hidden="true">↗</span>
         </a>
         <p className="mt-2 text-xs text-slate-500">Affiliate link · No extra cost to you.</p>
