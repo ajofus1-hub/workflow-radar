@@ -26,6 +26,28 @@ export const Route = createFileRoute('/guides/systeme-io-free-plan-limits')({
 function SystemeFreePlanLimitsPage() {
   return (
     <main className="mx-auto w-full max-w-4xl px-4 py-10 text-slate-900 sm:px-6 lg:px-8">
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{
+          __html: JSON.stringify({
+            '@context': 'https://schema.org',
+            '@type': 'Article',
+            headline: title,
+            description,
+            mainEntityOfPage: {
+              '@type': 'WebPage',
+              '@id': 'https://workflow-radar-app.onrender.com/guides/systeme-io-free-plan-limits',
+            },
+            datePublished: '2026-11-11',
+            dateModified: '2026-11-11',
+            publisher: {
+              '@type': 'Organization',
+              name: 'Workflow Radar',
+              url: 'https://workflow-radar-app.onrender.com/',
+            },
+          }),
+        }}
+      />
       <nav className="mb-8 text-sm text-slate-500" aria-label="Breadcrumb">
         <a className="hover:text-slate-900" href="/">Workflow Radar</a>
         <span className="mx-2">/</span>
@@ -35,7 +57,7 @@ function SystemeFreePlanLimitsPage() {
       </nav>
 
       <header className="mb-8">
-        <p className="mb-3 text-sm font-semibold uppercase tracking-wide text-indigo-700">Plan limits guide · Checked November 11, 2026</p>
+        <p className="mb-3 text-sm font-semibold uppercase tracking-wide text-indigo-700">Plan limits guide · Published November 11, 2026 · Checked November 11, 2026</p>
         <h1 className="mb-4 text-4xl font-bold tracking-tight sm:text-5xl">Systeme.io Free plan limits: what you actually get in 2026</h1>
         <p className="text-lg leading-8 text-slate-600">
           Systeme.io's Free plan is a real $0 plan, not a short trial. It gives you 2,000 contacts, unlimited email sends, three sales funnels and one course. The important restrictions are smaller feature caps—and a $10,000 lifetime sales-revenue limit that is easy to miss if you only look at the headline contact allowance.
