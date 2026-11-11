@@ -1,8 +1,8 @@
 import { createFileRoute } from '@tanstack/react-router'
 
-const title = 'Systeme.io Free Plan Limits (2026): Contacts, Funnels, Automation and the $10,000 Sales Cap'
+const title = 'Systeme.io Free Plan Limits (2026)'
 const description =
-  'A practical breakdown of Systeme.io Free in 2026: 2,000 contacts, one CRM pipeline, unlimited email sends, one campaign and workflow, three funnels, one course, and the $10,000 lifetime sales limit.'
+  'See Systeme.io Free limits for contacts, funnels, email, automation and sales. Know what you get before upgrading.'
 
 export const Route = createFileRoute('/guides/systeme-io-free-plan-limits')({
   head: () => ({
