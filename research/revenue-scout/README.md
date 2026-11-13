@@ -16,7 +16,7 @@ A deduplicated discovery registry for candidate revenue sources and a separate o
 ## Current coverage
 - Unique source domains: 193 (19.3% of the 1,000-domain target)
 - Source directory pages directly inspected: gigs.sh and DesiTasks.
-- Direct platform/event pages inspected this run: Jobbi, gigs.sh, DesiTasks, TaskMarket, HireForHumans, AgentRE-Bench, IceHacks.
+- Direct platform/event pages inspected this run: 9 distinct domains — Jobbi, gigs.sh, DesiTasks, TaskMarket, HireForHumans, AgentRE-Bench, Devpost (Kiroween, IceHacks and Meta VR event pages), Kiro and Meta Developers.
 - Exact job listings with full direct source-page verification: 0.
 - Jobbi index-level task snapshots: BountyBook, Agent Bounties, BasedAgents.
 - Eligible / proposal-ready / approved-to-contact / submitted / accepted / delivered / approved / payable / cash received: all 0.
