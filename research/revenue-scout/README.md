@@ -15,7 +15,7 @@ A deduplicated discovery registry for candidate revenue sources and a separate o
 
 ## Current coverage
 - Unique source domains: **241** (24.1% of the 1,000-domain target).
-- Domains with direct page verification: **53**.
+- Domains with direct page verification: **52**.
 - Job-level verified source domains: **17**.
 - Opportunity records in the current ledger: **58**.
 - Opportunity verification: discovered 58; exact pages directly verified 48; aggregator/index-level 6; search-result-only or page-extraction-limited 4.
@@ -119,7 +119,7 @@ No proposals, bids, comments, messages, claims, registrations, wallet connection
 
 ### Coverage and verification
 - **241 unique candidate source domains** (24.1% of the 1,000-domain target); 9 new registrable source domains added this run.
-- **53 domains with direct source-page inspection** and **17 domains with at least one job-level check**.
+- **52 domains with direct source-page inspection** and **17 domains with at least one job-level check**.
 - **58 opportunity records**: 48 exact pages directly verified, 6 aggregator/index-only and 4 search-result/page-extraction-limited.
 - **0 eligible, 0 proposal-ready, 0 approved-to-contact, 0 submitted, 0 accepted, 0 delivered, 0 approved, 0 payable, 0 cash received**.
 
