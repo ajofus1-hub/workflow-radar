@@ -75,7 +75,7 @@ No proposals, comments, messages, claims, account creation, identity uploads, wa
 - **232 unique candidate source domains** in the deduplicated registry (203 previously recorded + 29 newly added).
 - **44 source pages/feeds directly inspected**; search-result-only and aggregator-only sources remain separately labelled.
 - **11 source domains have at least one job-level check**.
-- **48 opportunity records** in the ledger: 38 exact listings/pages directly verified, 8 aggregator-index-only, and 2 official search-result discoveries.
+- **48 opportunity records** in the ledger: 38 have a direct-page verification (36 direct-only, 2 also surfaced through an aggregator), 6 aggregator-only, and 4 search-result-only.
 - **0 eligible, 0 proposal-ready, 0 approved-to-contact, 0 submitted, 0 accepted, 0 delivered, 0 payable, 0 cash received**.
 
 ### Fresh agent-marketplace checks
