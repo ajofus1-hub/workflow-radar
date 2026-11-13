@@ -65,3 +65,56 @@ No proposals, comments, messages, claims, account creation, identity uploads, wa
 ## Files
 - `source-registry.csv`: deduplicated candidate domains with provenance and verification status.
 - `opportunity-ledger-2026-11-14.csv`: current opportunity pipeline snapshot.
+
+---
+
+## Run 3 — 2026-11-14 02:43 IST
+
+### Coverage snapshot
+
+- **232 unique candidate source domains** in the deduplicated registry (203 previously recorded + 29 newly added).
+- **44 source pages/feeds directly inspected**; search-result-only and aggregator-only sources remain separately labelled.
+- **11 source domains have at least one job-level check**.
+- **48 opportunity records** in the ledger: 38 exact listings/pages directly verified, 8 aggregator-index-only, and 2 official search-result discoveries.
+- **0 eligible, 0 proposal-ready, 0 approved-to-contact, 0 submitted, 0 accepted, 0 delivered, 0 payable, 0 cash received**.
+
+### Fresh agent-marketplace checks
+
+- **Olas Mech:** the official explorer reports about $111,061 in total task payments and $103,768 realised by Mechs, with 13 daily active agents in the latest inspected snapshot. This is real on-chain agent commerce, but monetization requires deploying a Mech and connecting a wallet; no wallet was connected.
+- **AI Agent Store / Claw Earn:** the live task board showed 0 available tasks, 1 in progress and 83 completed. Its USDC-on-Base escrow is contract-enforced, but the worker must connect a wallet, hold Base ETH for gas and stake 30% on the first task (20% for tasks 2–3, then 10%). No task was available at the check.
+- **AI Agent Store card-paid jobs:** the public jobs page showed no open jobs. It advertises a buyer card hold before publication and 85% seller share, but payouts use Stripe and seller verification. India payout eligibility is not established; no account was created.
+- **Toku:** its FAQ explicitly allows AI agents, charges 15%, and sends 85% to an agent wallet; bank withdrawal uses Stripe Connect. The inspected $1–$3 DeFi-report task had 174 bids and 0 accepted/delivered; a $5–$25 due-diligence task had 182 bids and contradictory Open/Withdrawn status. Stripe's India Connect requirements restrict transfer-capable connected accounts to companies/LLPs, with verification; an individual route is not available under the current rules. No agent was registered.
+- **AgenticTrade:** the public marketplace lists many paid API services, with advertised per-call prices from fractions of a cent to $100. The platform reports 4,886 calls and 1,258 active agents; provider earnings are paid in USDC to a linked Base wallet with a $10 monthly minimum. The metrics are platform-reported, not independently reconciled to a payout transaction. Wallet and account setup are prohibited under the current constraints.
+- **RapidAPI:** official provider docs say a 20% marketplace fee and PayPal-only payouts after customer payments settle, generally at the end of the following month. No account or PayPal setup was attempted.
+- **Apify:** official monetization docs show a 20% commission and monthly payouts, but identity/KYC is mandatory; individuals must upload a government-issued ID or driver's licence. Rejected under the owner's no-ID rule.
+
+### Other fresh findings
+
+- **Taskmarket:** the Markdown TOC task is funded at $0.50 USDC but had 90 submissions and requester-controlled acceptance with no evaluator. The FlapJax task has a $1 listing deposit but pays workers in 100,000 FLAPJAX tokens off-platform. Both require a wallet; the latter is token-only.
+- **Bounty Radar:** its $600 USDC RFC 9421 mirror claims escrow, but the index marks escrow unknown and no public funding transaction was found. A $2,000 Tenstorrent issue requires N150 hardware and has no verified escrow. Neither was pursued.
+- **Opire / Claude Builders Bounty:** three open GitHub issues advertise $50–$200, but creator-arranged Stripe payment is not automatic escrow; India payout/KYC was not verified. No claim or PR was made.
+- **GitReward and Collaborators:** both claim escrow/automatic payout on merged GitHub PRs, but require wallet connection; no exact funded task or transaction was independently verified.
+- **OpenBounty.ai:** the site states its MVP is in mock-payment mode and no real funds move. **OpenBounty.app** routes work to humans and does not pre-fund the worker.
+- **WorkUSDC:** direct page inspection found a 2 USDC proposal credit and wallet requirement; rejected as upfront cost.
+- **Frantic:** current page showed no open bounties; the previously inspected #148 is closed and higher payouts require identity verification.
+- **AgentBounty.org:** its page claims hundreds of active bounties, but featured examples show February/March 2026 deadlines, already past. No current job or payment proof accepted.
+
+### Competition watchlist
+
+- **Gemma 4 Developer Agent Competition:** remains the strongest AI-agent-specific machine-scored competition found. The main track is open into late November/early December; the paper track is closed. Entry requires a Kaggle account and rule acceptance, and the payout route to India is not confirmed. No account was created or rules accepted.
+- **Name That LLM:** a longer-horizon Kaggle model-attribution competition advertises $50,000 across ten $5,000 prizes and automated balanced-accuracy scoring. It requires a Kaggle account; the readable official rules and India payout route were not available, so it remains a gated discovery only.
+- **Codegeist 2026:** $120,000 advertised cash pool, but requires Devpost/Atlassian accounts, winner identity/qualification verification and broad publicity rights. Rejected under current constraints.
+- **NeuraViz AI Challenge:** ₹150,000 advertised, free entry, but human idea judging and possible in-person interview/live demo; no payout rail or escrow evidence. Rejected.
+- **AgentVerse 26:** registration closed, ₹100 entry fee, and advertised rewards are OpenAI credits rather than cash. Rejected.
+- **AWS MSP AI Hackathon:** requires an AWS Partner Network organization and corporate email; owner authorization was not established. Rejected.
+
+### AgentLancer continuity
+
+AgentLancer service 301 remains one tracked channel. The service-301 URL did not resolve during this run; the public feed previously inspected showed no confirmed funded buyer order or payout. No listing edits or buyer messages were made.
+
+### Decision
+
+No current opportunity satisfies all of the owner's restrictions at once. The most promising real agent marketplaces either require a wallet/stake (Claw Earn, Olas, AgenticTrade, Taskmarket), Stripe/KYC (Toku, AI Agent Store, Opire), PayPal/KYC (RapidAPI), or government ID (Apify). Competition listings are promising but require account creation and/or identity verification that has not been approved.
+
+No proposals, bids, comments, messages, claims, registrations, wallet connections, payout setup, signed terms, deposits, paid upgrades, deployments, or commitments were made. The automation continues to search; no income is reported without independent payment confirmation.
+
