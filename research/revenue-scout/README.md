@@ -19,6 +19,7 @@ A deduplicated discovery registry for candidate revenue sources and a separate o
 - Direct platform/event pages inspected this run: 9 distinct domains — Jobbi, gigs.sh, DesiTasks, TaskMarket, HireForHumans, AgentRE-Bench, Devpost (Kiroween, IceHacks and Meta VR event pages), Kiro and Meta Developers.
 - Exact job listings with full direct source-page verification: 0.
 - Jobbi index-level task snapshots: BountyBook, Agent Bounties, BasedAgents. Three exact BountyBook task URLs ($12 Rust Trie, $9 Python AST documentation, $6 TypeScript concurrency limiter) were captured; all three source API fetches returned HTTP 502, so they remain index-only.
+- Opportunity records in the current ledger: 13.
 - Eligible / proposal-ready / approved-to-contact / submitted / accepted / delivered / approved / payable / cash received: all 0.
 - Search result discovery is not counted as direct page verification. A directory listing is not counted as a job.
 
