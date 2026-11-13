@@ -14,13 +14,14 @@ A deduplicated discovery registry for candidate revenue sources and a separate o
 - **Proposal-ready**: exact scope, buyer, AI policy, acceptance, India payout and payment evidence are verified. This is deliberately stricter than discovery.
 
 ## Current coverage
-- Unique source domains: **241** (24.1% of the 1,000-domain target).
-- Domains with direct page verification: **52**.
-- Job-level verified source domains: **17**.
-- Opportunity records in the current ledger: **58**.
-- Opportunity verification: discovered 58; exact pages directly verified 48; aggregator/index-level 6; search-result-only or page-extraction-limited 4.
+- Unique source domains: **247** (24.7% of the 1,000-domain target).
+- Domains with direct page/feed inspection: **57** (includes the GOAT offers feed, retrievable only after disabling TLS certificate verification; see caveat below).
+- Job-level verified source domains: **19**.
+- Opportunity records in the current ledger: **67**.
+- Opportunity verification: **57 exact pages directly verified**, 6 aggregator/index-only, and 4 search-result-only or page-extraction-limited. Some directly verified jobs also have aggregator evidence.
 - Pipeline: eligible 0; proposal-ready 0; approved-to-contact 0; submitted 0; accepted 0; delivered 0; approved 0; payable 0; cash received 0.
 - Search-result discovery is not counted as direct page verification. A directory listing is not counted as a job. A platform's own payment receipt is not independent proof of bank or wallet receipt by this owner.
+- The Jobbi filter returned no agent-lane gig meeting escrowed + USD/USDC + machine acceptance + at least $10. Its 12 near-misses paid only 0.1–2 USDC.
 
 ## Current best leads
 
@@ -145,3 +146,62 @@ Added: make.fun, aiagentbounties.com, agentdeadlines.vercel.app, starfieldlabs.a
 
 ### Decision
 The strongest current machine-verifiable and escrow-backed opportunity is make.fun, but it cannot be entered under the current permissions without owner-approved agent-wallet/account connection and a transcript-capable coding harness. No other fresh task passed all filters. No proposals, comments, messages, claims, registrations, wallet connections, payout setup, terms acceptance, deposits, paid upgrades, or commitments were made. No income is reported without independent payment confirmation.
+
+
+## Run 5 — 2026-11-14 04:48 IST
+
+### Coverage and provenance
+- **247 unique source domains** in the deduplicated registry (24.7% of the 1,000-domain target); 6 new domains added: lightningfaucet.com, zylalabs.com, getanyapi.com, cracked.ai, ai-agentmarketplace.ai and seekclaw.com.
+- **57 domains have direct page/feed inspection** and **19 have at least one job-level verification**. Direct inspection includes the GOAT public JSON feed; its normal TLS certificate validation failed and the feed was retrieved only with verification disabled, so its integrity remains a caveat.
+- **67 opportunity records**: 57 exact pages directly verified, 6 aggregator/index-only and 4 search-result-only/page-extraction-limited. The 9 new exact records are ARC WhestBench, LayerZero/Immunefi, two Dozer SQL/WASM bounties, Dozer LangChain sample, Revert Workable integration, EdgeChains AWS Comprehend integration, Coolify Backup Manager and Javelin anti-cheat.
+- No new source or listing was counted as eligible, proposal-ready, approved-to-contact, submitted, accepted, delivered, approved, payable or cash received.
+
+### Fresh aggregator audit — Jobbi
+- Directly inspected the market report, boards page, plain-text feed and filtered JSON feed.
+- Report snapshot: **679 open gigs**, 548 with dollar-denominated USD/USDC/USDT prices, 496 marked escrowed, and 126 machine-accepted.
+- Separate JSON feed snapshot: 674 total items, 637 agent-lane items.
+- Applying the high-confidence filter to the 637 agent-lane items — escrowed, USD/USDC, machine acceptance and reward at least 10 — returned **zero**.
+- There were 12 near-misses that were escrowed, machine-accepted and denominated in USD/USDC, but all paid only 0.1, 0.9 or 2 USDC. All came from Agent Bounties, where a wallet and refundable claim bond are required. Not pursued.
+- Jobbi is an index, not a payer. Original boards must still be checked for status, scope and payout.
+
+### GOAT Market feed audit
+- Public offers.json returned **4,806 rows across seven source platforms**: Freelancer 4,035; GitHub bounty labels 552; Immunefi 167; AIcrowd 18; SeekClaw 15; Superteam Earn 12; TaskMarket 7.
+- The feed snapshot timestamp was 2026-11-13T23:21:05Z, but row-level source checks were from 2026-10-17 to 2026-10-24. A current aggregator timestamp does not make each listing current.
+- The feed distinguishes original URL from GOAT's own directory page. The feed was retrievable only after normal TLS certificate verification failed because of an expired certificate. Treat GOAT as a useful discovery index, not verified payment or job evidence.
+- Attempts to reopen the exact SeekClaw, Superteam and TaskMarket samples were not completed because the public-browser service had insufficient credits; web page opens for these exact URLs returned inaccessible/cache-miss results. No current open status is claimed for those listings.
+
+### New source checks — API monetization
+- **Lightning Faucet:** official gateway documentation directly inspected. It offers 90% of per-request price in Lightning sats, with a 10% platform fee, but requires an operator account, a stable HTTPS API owned by the provider and a Lightning payout route. No existing API, account or wallet was registered. India fiat conversion was not verified.
+- **Zyla API Hub:** official provider documentation directly inspected. Providers can keep up to 80% depending on uptime, but customer payments are held 60 days; payouts are only PayPal or ACH (US accounts), with tax/payout setup and a 2% gateway fee. India payout eligibility was not verified. No API/account/payout details were created.
+- **AnyAPI:** search result advertises 80% share, but the direct page was unavailable and payout/India terms remain unknown.
+- **Cracked:** search result advertises 70% per-call revenue and a $50 monthly threshold, but the provider page returned 404; payout rail remains unknown.
+- **AI Agent Marketplace:** search result shows a $45/month provider subscription and Stripe Connect; direct page timed out and the result showed no agents listed. Rejected due paid subscription and unverified India payout.
+
+### Exact job-level checks and decisions
+- **AIcrowd / ARC WhestBench:** exact official challenge page confirms LLM-assisted development is encouraged and evaluation is automated using MSE under a FLOP budget. The 2026 Phase 2 deadline was 2026-09-19 and results were announced 2026-10-01. The advertised $100,000 pool is historical; rejected as closed.
+- **Immunefi / LayerZero:** exact official program page lists a maximum $15,000,000 and requires a runnable PoC, local-fork-only testing and mandatory KYC for every paid hunter, including passport/government ID and proof of address. Payout can be USD wire or USDC/USDT/BUSD, but AI policy and India eligibility are not specified. Rejected under the no-ID rule; the maximum is not an expected payout.
+- **Dozer #1659 ($600):** issue remains open but multiple active/previous PRs and reward links exist. A September 2026 contributor explicitly asked whether any remaining funded scope exists. Rejected pending a maintainer-confirmed remaining gap.
+- **Dozer #1653 ($600):** WASM UDF support has an earlier PR and multiple 2026 implementations. Rejected as already heavily competed.
+- **Dozer #1690 ($250):** LangChain/vector chatbot sample has multiple PRs across dozer and dozer-samples; the 2023 spec appears outdated against current architecture and maintainers have not confirmed a remaining payable gap. Rejected.
+- **Revert #551 ($100):** Workable ATS integration has numerous attempts and competing PRs through 2026-11-10. Rejected due crowding and no distinct remaining scope.
+- **EdgeChains #290 ($50):** AWS Comprehend PII-redaction task has existing complete-looking PRs #459 and #461 and many other attempts. Rejected as duplicated.
+- **Coolify #2389 ($100 per Jobbi):** exact issue is marked Core Team Only; external contribution is not available. Rejected.
+- **Javelin anti-cheat #2 ($10,000):** exact issue remains open, but multiple existing PRs/attempts already implement the requested behavior. AI assistance is not blanket-banned, but low-quality AI PRs are explicitly rejected. Rejected due competition and no distinct remaining scope.
+
+### Algora payout constraint
+- The current official Algora payment documentation says India is supported only for eligible business forms such as sole proprietors, LLPs or companies; Indian individuals are not supported for international payouts. The owner's eligible entity status has not been established. All Algora-linked tasks therefore remain ineligible for this run; no onboarding or Stripe account was attempted.
+
+### Safety and execution
+- No accounts were created, no identity documents uploaded, no wallet connected, no payout details entered, no terms signed, no comments or proposals posted, no claims made, no PRs opened, no money spent and no security testing performed.
+- The only financial evidence counted for this owner remains **$0 independently confirmed cash received**.
+- Browser Use credits were insufficient for a second GOAT exact-listing inspection. Firecrawl was not used. This limits further direct verification but does not affect the successful Jobbi/GOAT feed reads and GitHub issue fetches already described.
+
+### Links
+- Jobbi report: https://jobbi.org/gigs/report
+- Jobbi feed docs: https://jobbi.org/docs/mcp
+- GOAT public offers feed: https://goatmarket.com/offers.json
+- Lightning Faucet API gateway: https://lightningfaucet.com/build/gateway/
+- Zyla provider payout docs: https://zylalabs.com/docs/earn
+- ARC WhestBench: https://www.aicrowd.com/challenges/arc-white-box-estimation-challenge-2026
+- LayerZero Immunefi program: https://immunefi.com/bug-bounty/layerzero/information/
+- Algora payout rules: https://github.com/algora-io/algora/blob/main/priv/content/docs/payments.md
