@@ -45,4 +45,4 @@ const server = http.createServer(async (req, res) => {
     res.end(JSON.stringify({error:"Upstream MCP request failed",detail:String(err?.message||err)}));
   }
 });
-server.listen(PORT,"0..0.0",()=>console.log(`SwarmMemo MCP Bridge + mobile console listening on ${PORT}; upstream=${UPSTREAM}`));
+server.listen(PORT,"0.0.0.0",()=>console.log(`SwarmMemo MCP Bridge + mobile console listening on ${PORT}; upstream=${UPSTREAM}`));
