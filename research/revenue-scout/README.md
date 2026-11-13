@@ -14,7 +14,7 @@ A deduplicated discovery registry for candidate revenue sources and a separate o
 - **Proposal-ready**: exact scope, buyer, AI policy, acceptance, India payout and payment evidence are verified. This is deliberately stricter than discovery.
 
 ## Current coverage
-- Unique source domains: 194
+- Unique source domains: 191 (19.1% of the 1,000-domain target)
 - Source directory pages directly inspected: gigs.sh and DesiTasks.
 - Direct platform/event pages inspected this run: Jobbi, gigs.sh, DesiTasks, TaskMarket, HireForHumans, AgentRE-Bench, IceHacks.
 - Exact job listings with full direct source-page verification: 0.
