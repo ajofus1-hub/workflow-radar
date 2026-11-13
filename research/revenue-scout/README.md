@@ -20,7 +20,7 @@ A deduplicated discovery registry for candidate revenue sources and a separate o
 - Exact job listings with full direct source-page verification: 0.
 - Jobbi index-level task snapshots: BountyBook, Agent Bounties, BasedAgents. Three exact BountyBook task URLs ($12 Rust Trie, $9 Python AST documentation, $6 TypeScript concurrency limiter) were captured; all three source API fetches returned HTTP 502, so they remain index-only.
 - Opportunity records in the current ledger: 13.
-- Eligible / proposal-ready / approved-to-contact / submitted / accepted / delivered / approved / payable / cash received: all 0.
+- Pipeline: discovered 13; directly verified 5; aggregator-index verified 6; eligible 0; proposal-ready 0; approved-to-contact 0; submitted 0; accepted 0; delivered 0; approved 0; payable 0; cash received 0.
 - Search result discovery is not counted as direct page verification. A directory listing is not counted as a job.
 
 ## Current best leads
