@@ -15,10 +15,10 @@ A deduplicated discovery registry for candidate revenue sources and a separate o
 
 ## Current coverage
 - Unique source domains: **203** (20.3% of the 1,000-domain target).
-- Domains with direct page verification: **18**. New direct checks this run included Advance.to, Apart Research, Code for India, IndiaHackathons, TryAPI, Appixa, AgentFoundry, Hack4Hack and Frantic.
-- Job-level verified source domains: **3**. A directly opened platform homepage or event page is not counted as a job.
-- Opportunity records in the current ledger: **22**.
-- Opportunity verification: discovered 22; exact pages directly verified 13; aggregator/index-level 6; search-result-only or page-extraction-limited 3.
+- Domains with direct page verification: **19**.
+- Job-level verified source domains: **4**.
+- Opportunity records in the current ledger: **34**.
+- Opportunity verification: discovered 34; exact pages directly verified 25; aggregator/index-level 6; search-result-only or page-extraction-limited 3.
 - Pipeline: eligible 0; proposal-ready 0; approved-to-contact 0; submitted 0; accepted 0; delivered 0; approved 0; payable 0; cash received 0.
 - Search-result discovery is not counted as direct page verification. A directory listing is not counted as a job. A platform's own payment receipt is not independent proof of bank or wallet receipt by this owner.
 
@@ -32,9 +32,22 @@ A deduplicated discovery registry for candidate revenue sources and a separate o
 
 **Kiroween 2026** remains a possible Kiro-build contest from the previous run, with a $100,000 advertised pool and a 2026-12-04 deadline. It requires Devpost/Kiro registration and acceptance of binding rules, and winner payment is subject to verification. No account was created and no terms were accepted.
 
+## AgentLancer — current public snapshot
+A read-only public feed refreshed 2026-11-13 UTC showed **12 service offers and 12 open job requests**. Feed status was `none_verified_yet`: buyer instructions were not ready, a transaction hash was missing, and the snapshot showed 0 confirmed deposits and 0 payouts with transaction hashes.
+
+- All 12 job requests are open/unassigned and attributed to requester 146 / `ctf01523`; the buyer's real-world identity is not independently verified.
+- Three titles (`ssrf3`, `ssrf2`, `ssrf-evt`) appear to concern SSRF/security testing, but no authorization, target scope or acceptance criteria are supplied; rejected under the no-unauthorized-security-testing rule.
+- Five titles contain test/injection-like strings, including SQL-injection-shaped payloads; rejected without execution.
+- Four remaining titles (`ntfyevt`, `hookdet`, `jr1` and one opaque title group) do not disclose enough scope or acceptance criteria; held/rejected.
+- Budgets shown are 20–22 with currency unspecified and a one-day duration. No job states escrow, acceptance criteria, a payout rail, India eligibility or a transaction hash.
+- The 12 service offers are provider listings, not buyer jobs; their advertised budgets range from 5 to 40 USDT/USDC, but none shows escrow or payment proof.
+- Public agent profile 173 (`@workflowradaragent`) advertises a $120 / 2-day verification service and USDT/USDC payout after platform fee, but has 0 verified reviews and no escrow or completed payout proof. The previously tracked AgentLancer service 301 remains a separate channel; no new buyer or payment was verified.
+
+No proposal, message, claim, profile edit or work was submitted on AgentLancer.
+
 ## Rejections / holds
-- **Code for a Billion (Code for India):** official page advertises ₹18 lakh in prizes and a 2026-11-15 deployment/submission deadline. Registration requires name, email, mobile, address-level location fields, GitHub handle and open-source consent; AgentFoundry sign-up is also required. Payment rail not stated and deadline is one day away. Rejected for this run; no registration or project submission.
-- **Frantic #148 — Silvertongue MCP draft:** exact page is now closed. It reports 96 paid and 4 accepted; a public receipt records a $1 USD x402 payout on 2026-11-13. The receipt explicitly says the source is not verified and no external public anchor is published, so this is a platform ledger record, not independent proof of cash receipt. The task also asks for a personal message/post and requires an identity gate; India cash-out path not verified.
+- **Code for a Billion (Code for India):** official page advertises ₹18 lakh in prizes and a 2026-11-15 deployment/submission deadline. Registration requires name, email, mobile, location fields, GitHub handle and open-source consent; AgentFoundry sign-up is also required. Payment rail not stated and deadline is one day away. Rejected for this run; no registration or project submission.
+- **Frantic #148 — Silvertongue MCP draft:** exact page is now closed. It reports 96 paid and 4 accepted; a public receipt records a $1 USD x402 payout on 2026-11-13. The receipt explicitly says the source is not verified and no external public anchor is published, so this is a platform ledger record, not independent proof of cash receipt. The task also asks for a personal message/post and requires an identity gate; India cash-out route not verified.
 - **Frantic #97 — first-bounty rebate:** still open but requires the owner to fund a $10+ bounty and pay an independent worker before receiving the rebate. This violates the no-upfront-spend rule. Frantic's terms say vendor funding is not escrow or held client money.
 - **BountyBook:** 118 open index entries, typical $2–$12 USDC promised; 0% escrowed on Jobbi snapshot, wallet/x402 required; direct job API pages returned 502.
 - **Agent Bounties:** 12 open index entries; most require funding child bounties (upfront money), and the remaining Safari task requires macOS; wallet/claim bond required.
@@ -45,7 +58,6 @@ A deduplicated discovery registry for candidate revenue sources and a separate o
 - **boss.dev:** official docs list 23 payout countries and India is absent.
 - **Algora:** payout eligibility for Indian individual contributors not established; surfaced evidence points to sole proprietors/LLPs/companies.
 - **Meta VR Start Developer Competition 2026:** up to $1M advertised, but requires Meta VR Start membership and Developer Access; winner verification, payment provider details and publicity terms conflict with owner constraints.
-- **AgentLancer service 301:** remains one channel, but no new job-level opportunity or new buyer/escrow/payment was verified in this run.
 
 ## Guardrails
 No proposals, comments, messages, claims, account creation, identity uploads, wallet connections, payout setup, signed terms, deposits, paid upgrades, or commitments were made. No income is reported because no payment was independently confirmed for this owner.
