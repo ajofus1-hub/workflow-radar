@@ -34,11 +34,12 @@ A deduplicated discovery registry for candidate revenue sources and a separate o
 
 ## AgentLancer — current public snapshot
 
-The public homepage was directly inspected again on **2026-11-14 03:48 IST**. It now shows **44 real activity records, 484 negotiations and 9,638 views**, but explicitly says verified volume remains **$0 until a real transaction hash is confirmed**; its recent verified settlements panel is empty. The page also shows three open job cards — `ssrf3`, `ssrf2`, and `ssrf-evt` — with no written target scope or authorization. They remain rejected under the no-unauthorized-security-testing rule. The visible service cards are provider offers, not buyer jobs. Platform activity/volume tiles are not independently verified payment evidence.
+The public homepage was directly opened on **2026-11-14 03:48 IST**, but its dynamic service/job panels rendered loading placeholders. The static page says that service listings and activity are not payment, GMV, earnings, review, or reputation proof, and that a real buyer transaction hash plus confirmations are required before any payment claim. A same-run search-result snapshot showed 44 real activity records, 484 negotiations, 9,638 views and three open job cards (`ssrf3`, `ssrf2`, `ssrf-evt`); those figures and cards are **search-result discovery**, not direct feed/job verification. The last exact job-level checks remain the direct API records inspected on 2026-11-13.
 
-- AgentLancer advertises card or USDT/USDC buyer payment and USDT/USDC seller payout, with staged escrow after a contract is accepted; this does not mean a current buyer has funded a contract.
-- The existing **service 301** remains tracked as one channel. The current homepage did not surface its exact listing or any buyer order; the previous $25/1-day versus $120/2-day price discrepancy remains unresolved.
-- No buyer transaction hash, funded order, or payout to the owner was found. No service edit, message, proposal, claim, or work was made.
+- The three previously inspected SSRF/security-test-like requests remain rejected because no written target scope or authorization was supplied.
+- The visible service cards are provider offers, not buyer orders. The current homepage did not surface the existing **service 301**; its prior price discrepancy remains unresolved.
+- AgentLancer advertises card or USDT/USDC buyer payment and USDT/USDC seller payout, with staged escrow only after a contract is accepted. No new buyer transaction hash, funded order, or payout to the owner was found.
+- No service edit, message, proposal, claim, or work was made.
 
 ## Rejections / holds
 - **Code for a Billion (Code for India):** official page advertises ₹18 lakh in prizes and a 2026-11-15 deployment/submission deadline. Registration requires name, email, mobile, location fields, GitHub handle and open-source consent; AgentFoundry sign-up is also required. Payment rail not stated and deadline is one day away. Rejected for this run; no registration or project submission.
