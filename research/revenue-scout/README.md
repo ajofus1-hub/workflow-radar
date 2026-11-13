@@ -14,11 +14,11 @@ A deduplicated discovery registry for candidate revenue sources and a separate o
 - **Proposal-ready**: exact scope, buyer, AI policy, acceptance, India payout and payment evidence are verified. This is deliberately stricter than discovery.
 
 ## Current coverage
-- Unique source domains: **203** (20.3% of the 1,000-domain target).
-- Domains with direct page verification: **19**.
-- Job-level verified source domains: **4**.
-- Opportunity records in the current ledger: **34**.
-- Opportunity verification: discovered 34; exact pages directly verified 25; aggregator/index-level 6; search-result-only or page-extraction-limited 3.
+- Unique source domains: **241** (24.1% of the 1,000-domain target).
+- Domains with direct page verification: **53**.
+- Job-level verified source domains: **17**.
+- Opportunity records in the current ledger: **58**.
+- Opportunity verification: discovered 58; exact pages directly verified 48; aggregator/index-level 6; search-result-only or page-extraction-limited 4.
 - Pipeline: eligible 0; proposal-ready 0; approved-to-contact 0; submitted 0; accepted 0; delivered 0; approved 0; payable 0; cash received 0.
 - Search-result discovery is not counted as direct page verification. A directory listing is not counted as a job. A platform's own payment receipt is not independent proof of bank or wallet receipt by this owner.
 
@@ -33,17 +33,12 @@ A deduplicated discovery registry for candidate revenue sources and a separate o
 **Kiroween 2026** remains a possible Kiro-build contest from the previous run, with a $100,000 advertised pool and a 2026-12-04 deadline. It requires Devpost/Kiro registration and acceptance of binding rules, and winner payment is subject to verification. No account was created and no terms were accepted.
 
 ## AgentLancer — current public snapshot
-A read-only public feed refreshed 2026-11-13 UTC showed **12 service offers and 12 open job requests**. Feed status was `none_verified_yet`: buyer instructions were not ready, a transaction hash was missing, and the snapshot showed 0 confirmed deposits and 0 payouts with transaction hashes.
 
-- All 12 job requests are open/unassigned and attributed to requester 146 / `ctf01523`; the buyer's real-world identity is not independently verified.
-- Three titles (`ssrf3`, `ssrf2`, `ssrf-evt`) appear to concern SSRF/security testing, but no authorization, target scope or acceptance criteria are supplied; rejected under the no-unauthorized-security-testing rule.
-- Five titles contain test/injection-like strings, including SQL-injection-shaped payloads; rejected without execution.
-- Four remaining titles (`ntfyevt`, `hookdet`, `jr1` and one opaque title group) do not disclose enough scope or acceptance criteria; held/rejected.
-- Budgets shown are 20–22 with currency unspecified and a one-day duration. No job states escrow, acceptance criteria, a payout rail, India eligibility or a transaction hash.
-- The 12 service offers are provider listings, not buyer jobs; their advertised budgets range from 5 to 40 USDT/USDC, but none shows escrow or payment proof.
-- Public agent profile 173 (`@workflowradaragent`) advertises a $120 / 2-day verification service and USDT/USDC payout after platform fee, but has 0 verified reviews and no escrow or completed payout proof. The previously tracked AgentLancer service 301 remains a separate channel; no new buyer or payment was verified.
+The public homepage was directly inspected again on **2026-11-14 03:48 IST**. It now shows **44 real activity records, 484 negotiations and 9,638 views**, but explicitly says verified volume remains **$0 until a real transaction hash is confirmed**; its recent verified settlements panel is empty. The page also shows three open job cards — `ssrf3`, `ssrf2`, and `ssrf-evt` — with no written target scope or authorization. They remain rejected under the no-unauthorized-security-testing rule. The visible service cards are provider offers, not buyer jobs. Platform activity/volume tiles are not independently verified payment evidence.
 
-No proposal, message, claim, profile edit or work was submitted on AgentLancer.
+- AgentLancer advertises card or USDT/USDC buyer payment and USDT/USDC seller payout, with staged escrow after a contract is accepted; this does not mean a current buyer has funded a contract.
+- The existing **service 301** remains tracked as one channel. The current homepage did not surface its exact listing or any buyer order; the previous $25/1-day versus $120/2-day price discrepancy remains unresolved.
+- No buyer transaction hash, funded order, or payout to the owner was found. No service edit, message, proposal, claim, or work was made.
 
 ## Rejections / holds
 - **Code for a Billion (Code for India):** official page advertises ₹18 lakh in prizes and a 2026-11-15 deployment/submission deadline. Registration requires name, email, mobile, location fields, GitHub handle and open-source consent; AgentFoundry sign-up is also required. Payment rail not stated and deadline is one day away. Rejected for this run; no registration or project submission.
@@ -118,3 +113,34 @@ No current opportunity satisfies all of the owner's restrictions at once. The mo
 
 No proposals, bids, comments, messages, claims, registrations, wallet connections, payout setup, signed terms, deposits, paid upgrades, deployments, or commitments were made. The automation continues to search; no income is reported without independent payment confirmation.
 
+
+
+## Run 4 — 2026-11-14 03:48 IST
+
+### Coverage and verification
+- **241 unique candidate source domains** (24.1% of the 1,000-domain target); 9 new registrable source domains added this run.
+- **53 domains with direct source-page inspection** and **17 domains with at least one job-level check**.
+- **58 opportunity records**: 48 exact pages directly verified, 6 aggregator/index-only and 4 search-result/page-extraction-limited.
+- **0 eligible, 0 proposal-ready, 0 approved-to-contact, 0 submitted, 0 accepted, 0 delivered, 0 approved, 0 payable, 0 cash received**.
+
+### Strongest new lead — make.fun
+- The official homepage lists four live bounties at the check: **$150 AI-joke**, **$250 AI-image**, **$250 news-image**, and **$500 tiny-chess**; a **$250 food-picture** bounty was scheduled to open at 05:30 IST, after this run's 03:48 IST check.
+- The first three exact pages state that the full reward is locked in Solana USDC escrow and provide escrow addresses and funding transaction signatures. The chess page says its $500 is paid from the platform reward wallet and is not escrowed.
+- AI coding agents are explicitly allowed. Acceptance is machine-graded (pairwise AI judging for joke/image tasks; Elo/game harness for chess). The chess engine must be deterministic, <=4,096 bytes, use Python 3.13 standard library, make no model calls, and score at least 1,154 practice Elo; a prize additionally requires beating the Sunfish 4KB baseline.
+- The official payout ledger inspected this run lists **$3,404 USDC to 110 accounts across 198 transfers**, median payout $12 and largest $100; 55 rewards are listed as claimed from escrow. A separate make.fun page reports $3,519 to 111 accounts, so the platform's own totals are inconsistent and should not be treated as reconciled. The payout page lists transaction signatures, but the explorer pages did not load for independent chain re-verification.
+- **Decision: hold, not eligible under current permissions.** Rewards go to a Solana wallet. The agent guide says a keypair is required and connecting an agent wallet to the owner's account requires the owner to approve the connection. The competitions also require genuine coding-agent transcripts; the guide says a ChatGPT account export has no provider usage and may be marked “handed over,” which can exclude paid places when the competition's `handed_over_places` is `none`. The per-competition requirements endpoint could not be retrieved in this run. No wallet was generated/connected, no account was created, and no entry was started.
+
+### Other new checks
+- **DeskCrew:** one live $0.25 support/research bounty with 3 entries. AI agents are explicitly allowed, but human approval is required and each attempt costs the agent the normal tool price. Rewards pay 85% in USDC to a wallet. Rejected because of upfront per-attempt cost, wallet/off-ramp requirement and tiny reward.
+- **HackerEarth AI Work:** India-only programme advertises up to ₹8,000 per task, but it is human expert work, requires a 30-minute human assessment and lists PhD/Postdoc/Master's qualifications for the relevant CS role. Owner's BE does not meet the stated CS qualification. Rejected.
+- **Steerability Challenge:** coding agents allowed and $40,000+ cash awards advertised, but registration closed Nov 1 AoE, teams of 2–5 required, and winners must present at NeurIPS in person or virtually. Rejected.
+- **HackerRank Orchestrate:** $1,200 first prize and $300 for places 2–5, Dec 12 start. AI coding tools are allowed, but the entrant must complete a 30-minute voice interview with the AI judge; cash payout method/India eligibility are not stated. Rejected for AI-only execution.
+- **GrantFox OSS issue #1:** claims $1,200 USDC escrow, but the issue describes a controlled judging rehearsal that deliberately plants an auth bypass and requires human merge. Buyer/funding not independently verified. Rejected; no security actions taken.
+- **Opire / n8n $200 issue:** remains open but has at least 3 competing PRs and 212 comments. The official Opire FAQ says creators arrange payment after PR approval; no automatic escrow. India payout route is unverified. Existing ledger record OPP-2026-1114-35 updated and rejected as saturated/unfunded.
+- **AgentLancer:** homepage refreshed. It shows 44 real activity records, 484 negotiations and 9,638 views, but explicitly reports $0 verified volume pending transaction proof and no recent verified settlements. Three visible open job cards are SSRF/security-test titles without authorization/scope and remain rejected. Service 301 remains separate; no buyer order/payment proof.
+
+### New source domains
+Added: make.fun, aiagentbounties.com, agentdeadlines.vercel.app, starfieldlabs.ai, hackerrank.com, grand-challenge.org, alipay.com, deskcrew.io and github.com. Existing github.io, hackerearth.com and opire.dev entries were updated rather than duplicating them. Search-result discovery, direct source inspection and exact job verification remain separate flags.
+
+### Decision
+The strongest current machine-verifiable and escrow-backed opportunity is make.fun, but it cannot be entered under the current permissions without owner-approved agent-wallet/account connection and a transcript-capable coding harness. No other fresh task passed all filters. No proposals, comments, messages, claims, registrations, wallet connections, payout setup, terms acceptance, deposits, paid upgrades, or commitments were made. No income is reported without independent payment confirmation.
