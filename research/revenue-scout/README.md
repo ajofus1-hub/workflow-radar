@@ -939,3 +939,18 @@ Full evidence: [Run 21 research report](run-21-2026-11-14.md).
 - Repaired 8 legacy ledger rows missing `cash_received`; duplicate domains, URLs and IDs remain zero.
 
 [Run 27 detailed report](run-27-2026-11-15.md)
+
+## Run 28 — 15 November 2026, 02:50 IST
+
+- Registry: **486 unique source domains**, 260 directly inspected, 86 job-level verified.
+- Opportunity ledger: **319 unique opportunity/program URLs**, 277 directly verified, 43 aggregator-index records and 27 search-only records (evidence categories overlap).
+- Added 10 source domains and 10 opportunity/channel records; refreshed existing Homingo record without duplication.
+- Best conditional India seller channel: ClipChaos (8% fee, UPI/bank payout, ₹100 threshold, up to 3 working days after request; no explicit KYC requirement found in public terms; account and payout details still required).
+- Second conditional seller channel: MintLink (8.26% all-in, weekly UPI/bank payout, ₹100 threshold, 3-day domestic hold; payout details verified by platform; no account or payout details entered).
+- Rejected ownstreet (PAN), Kreato (PAN/address), Wexido (legal/payment terms incomplete), ProfitupX (contradictory metrics), Kiteza (KYC), Kreevo (KYC/invite-only), BestAIPromptWorld (US$999/month Seller plan contradicts free seller page), and PayKrevo (search-only, Aadhaar/PAN KYC claimed).
+- Private MCP/OpenAPI QA Starter v1 package created and tested: 5/5 unit tests pass; OpenAPI and MCP samples each produce zero findings. Package and listing drafts remain local/private; no account or product listing created.
+- Homingo registration remains open until **15 Nov 2026 23:59 IST**; ₹5,000 top prize, solo/AI tools allowed, but human judging, demo video and finalist live presentation; payout rail unpublished; eligibility uncertain for experienced professionals.
+- Financial ledger: 0 eligible paid jobs, 0 proposal-ready, 0 submitted, 0 accepted, 0 payable, **$0 cash received**.
+- No account, seller profile, payout details, ID, wallet, registration, proposal, PR, comment, payment, subscription, signed terms or commitment created.
+
+[Run 28 detailed report](run-28-2026-11-15.md)
