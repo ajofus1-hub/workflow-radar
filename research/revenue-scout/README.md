@@ -586,3 +586,25 @@ No new fully eligible or proposal-ready task. No proposals, claims, comments, PR
 - https://hackindia.org/2026/13th-protocol-an-ai-hackathon-2026
 - https://apartresearch.com/sprints/ai-x-epistemics-research-sprint-2026-11-13-to-2026-11-15
 - https://apartresearch.com/sprints/prize-terms
+
+## Run 16 — 14 November 2026, 15:50 IST
+
+### Registry reconciliation
+- **390 distinct source domains**; 178 directly inspected; 56 domains have at least one job-level verified record.
+- **204 unique opportunity/program URLs** in the ledger; 184 directly verified, 28 with aggregator evidence, 11 search-only (evidence categories overlap).
+- Duplicate check: 0 duplicate domains; 0 duplicate opportunity URLs.
+- Added 8 source domains: dealwork.ai, ugig.net, hum.pub, a2a-registry.org, 2hives.com, speedbot.dev (discovery-only), slapjam.ai (search-only), assetsifter.com (search-only).
+- Refreshed make.fun, OpenTask and HackIndia source evidence.
+
+### Fresh findings
+- **make.fun:** homepage listed 10 live bounties. Exact pages directly checked for FAA price forecasting ($250, closes Nov14 19:30 IST), AI-judge image ($250, Nov14 21:30 IST), world-news image ($250, Nov15 01:30 IST), food image ($250, Nov15 05:30 IST), agency poem ($250, Nov15 14:30 IST), free-model aggregator ($500, Nov16 08:00 IST), GitHub-compatible forge ($500, Nov21 12:00 IST), 4KB chess engine ($500, Nov24 22:30 IST), coin launch ($1,000, Nov15 06:00 IST), and token-launch radar ($1,325, Dec14 15:30 IST). The free-model aggregator is the strongest machine-graded technical fit; its exact page publishes a $500 USDC escrow and funding transaction signature. All rewards require the entrant's own Solana wallet; no India bank/UPI payout is documented. Coin launch also requires SOL and token creation; token radar requires operator screenshots. All remain rejected/held under the no-wallet/no-spend/no-account rules. make.fun payout page reported $4,062 to 134 accounts, 230 transfers and median $12; these are platform-published statistics and transaction references, not independently chain-reconciled owner income.
+- **OpenTask:** the $500 USDC OpenAPI documentation task remains listed under Open tasks; posted Jun2 2026 by pseudonymous @openapi_requester. Exact scope is OpenAPI 3.0 YAML, examples, error codes and lint. Official protocol explicitly says no custody/escrow: buyer pays directly from their wallet after review. No India bank route or buyer legal identity verified. Rejected.
+- **Dealwork:** homepage claims 262 open tasks; public Explore Jobs page showed 134 human jobs. Sampled listings included agent service offers rather than clearly buyer-posted tasks. Official skill docs say escrow locks only when a bid is accepted; API onboarding requires account/API key. No qualifying buyer-funded task or India withdrawal route verified.
+- **UGig / 2hives:** public gig board showed the 2hives agent programme. Its official protocol states research/review/advisory packages are unpaid; only ambassador posts can earn about A$7 per paying business partner after listener and partner-payment thresholds. Requires pre-approved public social posts, named human operator terms and tax/GST/ABN or tax-residency checks. Rejected.
+- **hum.pub:** official skill says paid articles $0.99–$9.99, tips $1–$100, 85% author share via Stripe or USDC on Base/x402. Author registration creates an API identity; USDC needs a wallet; India Stripe eligibility is unverified; earnings depend on reader purchases. No paid buyer order exists. Hold/reject pending approval and payout evidence.
+- **A2A Registry / Speedbot:** profile describes USDC on Base/Arc and weekly prizes of 3/1.50/0.50 USDC ending Nov16 00:00 UTC. Rewards go to an existing verified wallet and points include social/conversation activity. Funded-help pilot has ended; no exact funded buyer job verified. Rejected.
+- **HackIndia:** AgentVerse'26 is online but registration closed Nov5 and required ₹100 entry; advertised $13,000 is OpenAI credits, not cash. 13th Protocol is in-person, team-based and therefore excluded.
+
+### Current execution state
+No new opportunity is fully eligible or proposal-ready under the current rules. No registration, account creation, bid, message, public post, PR, wallet connection, ID upload, payout setup, signed terms, deposit or commitment was made. AgentLancer service 301 remains a separate channel. **Cash received remains $0.**
+
