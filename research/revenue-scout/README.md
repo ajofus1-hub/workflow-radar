@@ -875,3 +875,6 @@ Full evidence: [Run 21 research report](run-21-2026-11-14.md).
 - No proposal, PR, comment, registration, account, wallet, ID, payout setup, payment, terms acceptance or commitment was made. Cash received remains **$0**.
 
 - Additional Jobbi top-paying listing inspected: BAWES-Universe/studenthub #55, USD 600 Algora bounty. It touches Civil ID files, candidate PII, IAM/S3 keys and CloudTrail; 30+ attempts and many PRs are visible. Jobbi marks it escrowed, but no transaction-level funding proof; rejected for sensitive PII/credential handling, competition, AI-quality restrictions and Algora's India entity-only payout rule.
+
+
+**Run 24 correction — BAWES #55:** A fresh GitHub connector read of all 89 issue comments found the maintainer explicitly saying the USD 600 bounty remains paused indefinitely and contributors must not start or resume work until it is reopened. The GitHub issue label remains Open, but the maintainer's pause controls; no work should be attempted. The task also touches Civil ID/PII and AWS secrets and has many competing PRs.
