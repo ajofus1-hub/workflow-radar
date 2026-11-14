@@ -14,24 +14,40 @@ A deduplicated discovery registry for candidate revenue sources and a separate o
 - **Proposal-ready**: exact scope, buyer, AI policy, acceptance, India payout and payment evidence are verified. This is deliberately stricter than discovery.
 
 ## Current coverage
-- Unique source domains: **247** (24.7% of the 1,000-domain target).
-- Domains with direct page/feed inspection: **57** (includes the GOAT offers feed, retrievable only after disabling TLS certificate verification; see caveat below).
-- Job-level verified source domains: **19**.
-- Opportunity records in the current ledger: **67**.
-- Opportunity verification: **57 exact pages directly verified**, 6 aggregator/index-only, and 4 search-result-only or page-extraction-limited. Some directly verified jobs also have aggregator evidence.
+- Unique source domains: **294** (29.4% of the 1,000-domain target).
+- Domains with direct page/feed inspection: **85**.
+- Job-level verified source domains: **36**.
+- Opportunity records in the current ledger: **108** (distinct listing URLs).
+- Opportunity verification: **95 directly verified exact pages**, plus aggregator/index evidence and search-result-only records; categories can overlap because an exact aggregator API listing can also be directly opened.
 - Pipeline: eligible 0; proposal-ready 0; approved-to-contact 0; submitted 0; accepted 0; delivered 0; approved 0; payable 0; cash received 0.
-- Search-result discovery is not counted as direct page verification. A directory listing is not counted as a job. A platform's own payment receipt is not independent proof of bank or wallet receipt by this owner.
-- The Jobbi filter returned no agent-lane gig meeting escrowed + USD/USDC + machine acceptance + at least $10. Its 12 near-misses paid only 0.1–2 USDC.
+- Search-result discovery is not counted as direct page verification. A directory listing is not counted as an official organiser page. A platform-reported prize or payout is not independent proof of cash received by this owner.
 
 ## Current best leads
 
-**Apart Research — Threat Intelligence & Threat Modelling Hackathon** is the strongest currently identified high-upside contest with an explicit India payment path. The official event page advertises $5,000 total cash prizes ($2,500 / $1,250 / $750 / $250 / $250), 4–6 December 2026, free, online, global, solo or teams of 1–5. AI tools are explicitly permitted. Ground rules require public data only, defensive/methodology framing and already-publicly-attributed adversaries; no live penetration testing is required. Official prize terms say international bank transfers are handled through Mercury communications and Indian bank accounts must provide SWIFT details. However, the event page's embedded submission form says the submission window is closed despite the future event dates and the visible free sign-up form. Held pending a reliable registration-status check and owner approval; no sign-up or terms acceptance performed.
+**Apart Research — AI x Epistemics Research Sprint** is the strongest current conditional lead. The official page says AI tools may be used, solo participation is allowed, the sprint is global/online, and the cash pool is $2,000. Submission closes **2026-11-16 11:59 UTC (2026-11-16 17:29 IST)**. Official prize terms name Ashgro Inc and state that Indian bank recipients must provide SWIFT details. There is no escrow evidence; judging is human. A private work sample has been prepared, but no sign-up, terms acceptance or submission has occurred.
 
-**Apart Research — Agent Attribution Hackathon** is another potential online sprint on 11–13 December 2026. The official page allows solo participation and explicitly permits AI tools; Track 1 uses a held-out test set. Advance.to reports $2,000 in cash prizes, but the official event page does not publish the amount. The embedded submission form also says closed despite future dates. Hold until the organiser's prize amount and registration status are confirmed. Common Apart prize terms cover SWIFT transfers to Indian bank accounts.
+**Code for a Billion — Bharat Agentic-AI Hackathon** advertises a ₹18,00,000 pool and is free/worldwide, with registration closing **2026-11-15**. It requires an AgentFoundry account, personal registration details and an open-source contribution commitment; payout method is not published. Held pending owner approval; no account or registration created.
 
-**Google / Kaggle — Gemma 4 Developer Agent Competition** is the strongest machine-scored AI-coding candidate: the official Kaggle search result confirms a $65,000 main track ($37k / $18k / $10k) plus a $10,000 small-model bonus; main entry deadline 2026-11-25 23:59 UTC and final submission 2026-12-02 23:59 UTC. The separate $35,000 paper track closed 2026-11-12. The main task is to post-train Gemma 4 into an offline coding agent evaluated on hidden repository tasks. The official page could not be extracted into readable lines during this run, so the entry rules, India-specific payout method and any identity checks remain unverified. Kaggle account creation and binding rule acceptance are required; no sign-in, rules acceptance, data download or submission performed.
+**Manycore Aholo Global 3D AI Hackathon** is directory-reported at CNY 320,000 (approximately $47,971 in the directory), with a Nov 19 deadline and free credits. The official page was not readable in this check; payout method and India payment terms are unknown. Treat the headline as unverified and do not register yet.
 
-**Kiroween 2026** remains a possible Kiro-build contest from the previous run, with a $100,000 advertised pool and a 2026-12-04 deadline. It requires Devpost/Kiro registration and acceptance of binding rules, and winner payment is subject to verification. No account was created and no terms were accepted.
+**Geek Room Global AI Hackathon** has a $1,000 cash component within an $11,500 mixed prize pool; prototype/registration deadline **2026-11-15 18:29 UTC (23:59 IST)**. It is worldwide and virtual, but requires a HackCulture registration and official Discord; 2,500+ participants are reported. Payment terms are unknown. Hold.
+
+**Vibe-a-thon with 2nd Brain Labs** advertises a $1,000 cash pool, is 100% virtual and limited to working professionals/interns. Registration closes Nov 15 and requires host approval; payout and explicit AI policy are unknown. Hold.
+
+**OpenTrain AI roles** were directly verified and are India-open, but they require human engineering review/task creation, an account/resume and Stripe-hosted identity/tax/bank setup. The platform documents funded milestones and India local-bank payout, but no listing-specific milestone is funded. Rejected under the AI-only/no-ID constraints.
+
+**Rejected near-misses:** OOBE/Steve Capital requires at least 20 USDC in a wallet and public X posts; MultiHopper requires at least $100,000 production volume per product and a $2 million aggregate volume threshold before the initial $5,000 award; The Liar's Chatroom registration closed Nov 12; FirstHack ended and required a ₹400 entry fee; AI Vibeathon registration closed Nov 13 and adds a ₹99 Round 2 fee; Product Space's Gen-AI Product Hackathon has conflicting dates and asks entrants to distinguish human contribution from AI-generated output.
+
+## Run 7 — 2026-11-14
+
+- Added **18 new root domains** to the deduplicated source registry; 6 were directly inspected this run. New direct job/event-level domains include OpenTrain, Geek Room, FirstHack and DevGrants Daily.
+- Added **14 new distinct listing URLs** to the opportunity ledger and refreshed two existing records (Code for a Billion and AI Vibeathon). The ledger now contains 108 distinct listing URLs.
+- Directly inspected the live AI Hackathon directory: it reports 34 open events and explicitly warns that imported Unstop/Devpost entries are not hand checked. It is a discovery source, not a substitute for organiser verification.
+- Inspected five OpenTrain job pages and official payout documentation. India is supported for payout, but Stripe-hosted setup collects identity, tax and bank details; the jobs rely on human review or original engineering judgment.
+- Prepared a private **OpportunityProof** research-sprint work sample: 16-record dataset, evidence-gate CLI, 10 passing unit tests and a six-page PDF (four main pages plus appendix and references). It is not in the public repository and has not been submitted. The organiser's official Google Docs template redirects to sign-in, so the template has not been copied.
+- No accounts, Discord memberships, wallets, payout methods or registrations were created. No ID was uploaded, no terms were accepted, no messages or proposals were sent, and no money was spent.
+- Independently confirmed cash received remains **$0**.
+
 
 ## AgentLancer — current public snapshot
 
