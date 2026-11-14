@@ -735,7 +735,7 @@ No accounts, applications, claims, PRs, messages, wallets, ID uploads, payout se
 
 ### Registry totals after this run
 - **413 distinct source domains** (5 newly added this cycle); **196 directly inspected**; **63 domains with at least one exact programme/job/event verification**.
-- **235 unique opportunity/program URLs** in the ledger; **212 directly verified records** and **30 aggregator-index records**. Search-only discoveries remain separately labelled.
+- **233 unique opportunity/program URLs** in the ledger; **205 directly verified records** and **29 aggregator-index records**. Search-only discoveries remain separately labelled.
 - Source domains and listing URLs were deduplicated before commit.
 
 ### Freshly inspected findings
