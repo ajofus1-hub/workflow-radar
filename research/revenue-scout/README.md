@@ -369,7 +369,7 @@ The ledger adds 8 unique records, bringing it to **123 unique listing/feed URLs*
 - **microG RCS #2994:** BountyHub founder publicly confirmed $5,000 prepaid. The issue title says $14,999, but the current funded amount is $5,000. The bounty requires a merged PR and creator acceptance; public contributors dispute AI-generated submissions, and BountyHub requires Stripe identity verification. Rejected.
 - **Coolify #6894:** $1,000 headline bounty remains on an open issue with a Hold label. Maintainer explicitly says the Algora bounty program stopped and no payout will occur. Rejected.
 - **BAWES #55:** $600 headline bounty is paused indefinitely by the maintainer. Scope touches IAM credentials and Civil ID data; no secrets were accessed. Rejected.
-- **Javelin anti-cheat #2:** $10,000 headline remains on Jobbi, but acceptance criteria appear checked and several implementation PRs are open. Remaining scope and escrow balance not confirmed. Algora payout eligibility for Indian individuals is restricted. Rejected.
+- **Javelin anti-cheat #2:** $10,000 headline remains on Jobbi; the issue is still open, but its history shows multiple competing implementation PRs (#19, #24, #30, #84, #92) and a Nov 13 attempt. No distinct remaining scope or current escrow balance is confirmed. Algora payout eligibility for Indian individuals is restricted. Rejected.
 - **Dozer #1659:** $600 headline; several competing PRs and no maintainer confirmation of remaining funded scope. Algora India payout restrictions apply. Rejected.
 
 ### Current pipeline
