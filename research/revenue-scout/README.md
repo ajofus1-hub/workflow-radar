@@ -1,7 +1,22 @@
 # Revenue Scout Registry
 
-Updated: 2026-11-14 04:17 UTC
+Updated: 2026-11-14 05:21 UTC
 
+
+## Run 11 — 2026-11-14 05:21 UTC
+
+- Added **6 new unique root domains**: MoltJobs, VoxPact, NEAR.org Founder Hub, NEAR Protocol Rewards, NEAR Hackathon and Shipyard. All six official source pages/programmes were directly inspected; the source registry now has **367 unique domains**.
+- Added **12 new opportunity/program records** (six exact MoltJobs jobs; VoxPact provider programme; NEAR Agent Market provider programme; NEAR Protocol Rewards; NEAR Hackathon; Shipyard MAKE ME MONEY; QNX Global Hackathon). The ledger now has **148 unique URLs**. The six MoltJobs jobs are exact open listings; the other six records are platform programmes or competitions, not ordinary paid jobs.
+- **MoltJobs:** six exact open jobs are posted by the displayed buyer “Amin”; budgets range from 5 to 200 USDC and deadlines from 4–10 Dec. Every exact page says “No deposit recorded” and requires a verified Google account, proof-of-work hash and human-moderator dispute resolution. Platform stats as of 03:55:56 UTC show 70 marketplace jobs, 15 completed, 42.3 USDC settled, 6 employers, only 1 funded employer and 7 agents ever paid (out of 1,501 agents). This is a low-liquidity, unfunded near-miss, not a proposal-ready job. No account or wallet.
+- **VoxPact:** official terms claim Stripe-held job funds, 48-hour auto-release, AI arbitration and EUR bank payouts via Stripe Connect Express. First agent is free; additional agents cost €5. Stripe onboarding is mandatory and Stripe Identity is required above €1,000 cumulative earnings. No exact current open job was verified; public activity feed was quiet. India individual cross-border Stripe payout is not supported; a business/sole-proprietor route requires KYC and eligibility confirmation. No account.
+- **NEAR Agent Market:** public /jobs page is JavaScript-only and the API board could not be read in this run, so no exact job was verified. Official standardized terms say held funds are not escrow, not segregated client money and not insured; India bank payout is not in the supported country list, so India builders need USDC and a destination address. No account, wallet or payout address.
+- **NEAR Protocol Rewards:** official page advertises up to $10,000/month, but the linked repository shows Cohort 3 closed on 7 July 2026 and requires substantial GitHub plus on-chain activity and community engagement. This is a conditional developer incentive programme, not an open job; next cohort unknown.
+- **NEAR HACKATHON:** official HACKATHON.md confirms a $250,000 prize pool paid in NEAR, with a submission deadline of 14 Nov 23:59 UTC (15 Nov 05:29 IST). AI code is allowed, but the human must publish an X demo post and provide a NEAR mainnet payout address. Rejected under the no-personal-social-engagement/no-payout-details rules; no submission.
+- **Shipyard MAKE ME MONEY:** applications are closed; teams received a £100 stake and finalists must attend the 21 Nov London demo day. The leaderboard shows platform-reported agent revenue, including one agent at £38.20 with zero human inputs, but receipts are not independently reconciled. Rejected due stake and physical attendance.
+- **QNX Global Hackathon:** BlackBerry/Devpost rules show a $50,000 total prize table, India not excluded, no entry fee, and a Dec 15 deadline. However it requires a free Devpost account, QNX 8.0 project, public repo, YouTube demo, winner identity/qualification verification and affidavits; AI-use policy is not specified. Hold; no account or rule acceptance.
+- Refreshed Apart Research to **1,495 signed up** and confirmed the deadline is **16 Nov 2026 17:29 IST**. AI tools are allowed; no need to attend all three days; official template and ethical/dual-use appendix are mandatory. The private OpportunityProof draft is not in the official template and remains unsubmitted. Homingo remains a conditional hold because its target is students/early-career developers and the owner’s 7.5 years of IT experience makes eligibility uncertain. NeuraViz has conflicting deadlines (30 Nov on login page vs 10 Dec on event page) and may require in-person winner interviews.
+- Kaggle Gemma 4 prize totals now conflict across surfaces: prior detailed rules show $65k main + $10k small-model bonus (paper track closed), the current listing card displays $150k, and an official Google post says $100k. No single total is treated as verified; direct Kaggle page remains unreadable.
+- Pipeline remains eligible 0; proposal-ready 0; approved-to-contact 0; submitted 0; accepted 0; delivered 0; approved 0; payable 0; cash received 0. No account, ID, wallet, payout details, proposal, public post, contract, payment or commitment was made.
 
 ## Run 10 — 2026-11-14 04:17 UTC
 
@@ -27,31 +42,30 @@ A deduplicated discovery registry for candidate revenue sources and a separate o
 - **Proposal-ready**: exact scope, buyer, AI policy, acceptance, India payout and payment evidence are verified. This is deliberately stricter than discovery.
 
 ## Current coverage
-- Unique source domains: **361** (36.1% of the 1,000-domain target).
-- Domains with direct page/feed inspection: **151**.
-- Job-level verified source domains: **49**.
+- Unique source domains: **367** (36.7% of the 1,000-domain target).
+- Domains with direct page/feed inspection: **157**.
+- Job-level verified source domains: **52**.
 - Index-only verified source domains: **6**.
-- Opportunity records in the current ledger: **136** (unique URLs; includes platform programmes and competitions, not all ordinary paid jobs).
-- Opportunity verification: **120 directly verified exact/program pages**, plus **27 aggregator/index-evidence records** and **6 search-only records**; categories can overlap.
+- Opportunity records in the current ledger: **148** (unique URLs; includes platform programmes and competitions, not all ordinary paid jobs).
+- Opportunity verification: **132 directly verified exact/program pages**, plus **27 aggregator/index-evidence records** and **6 search-only records**; categories can overlap.
 - Pipeline: eligible 0; proposal-ready 0; approved-to-contact 0; submitted 0; accepted 0; delivered 0; approved 0; payable 0; cash received 0.
-- Search-result discovery is not counted as direct page verification. A directory listing is not counted as an official organiser page. A platform-reported prize or payout is not independent proof of cash received by this owner.
+- Search-result discovery is not counted as direct page verification. A directory listing is not counted as an official organiser page. A platform-reported prize or payout total is not independent proof of cash received by this owner.
 
 ## Current best leads
 
-**Elgora — Bounty #3 (36 USDC gross; 32.4 USDC Solver share under the platform's 90/10 rule)** is the strongest exact funded near-miss. The live page says 36 USDC is in escrow, 3/10 submissions, and a 21 Nov 2026 deadline. The scope is a local Foundry proof of a financial-impact vulnerability; live exploitation is explicitly disallowed. The platform analytics page reports 231 USDC total funded, 70 finalized and 161 active. However, submission/claim still requires a Base wallet and gas, and no India fiat off-ramp is documented. Hold; no wallet or submission.
+**Apart Research — AI x Epistemics Research Sprint** is the closest immediate conditional opportunity. The official page showed 1,495 signed up; it is online, solo/global and explicitly permits AI tools. The $2,000 pool is human-judged and not escrowed. Deadline: **16 Nov 2026 17:29 IST**. Official terms specify bank transfer via Ashgro Inc/Mercury and SWIFT details for Indian recipients. The official report template, owner details and approval remain outstanding; no registration or submission.
 
-**Smart Scholars — Open Problems (US$1,000 round prize)** is the strongest new India-compatible cash-prize lead. Round 1 opens 1 Dec 2026 and closes 31 May 2027. AI tools are allowed if disclosed; Problem 28 has a measurable F1 >=0.95 author-name disambiguation target for Chinese/Korean/Indian names. India bank transfer is explicitly stated within 30 days after winner identity/payment details are confirmed. Entry is free and there is no public escrow. Judges may require the entrant to show work live and answer questions; camera is not specified. Conditional hold. A private technical plan has been prepared; no contact or entry.
+**Smart Scholars — Problem 28 (author-name disambiguation)** remains the best longer-horizon India cash-prize lead. Round 1 opens 1 Dec 2026; the $1,000 is for the highest-scoring solution of the round, not per problem. AI tools are allowed with disclosure; a bank transfer in India is documented. Judges may ask the entrant to show the work live; camera requirement is not specified. No escrow.
 
-**Apart Research — AI x Epistemics Research Sprint** remains live. The latest official page shows 1,491 signed up and a submission deadline of **16 Nov 2026 17:29 IST**. AI tools are explicitly allowed, solo/global participation is allowed, and the official prize terms specify India SWIFT bank transfer from Ashgro Inc via Mercury. The pool is $2,000, human-judged, and not escrowed. Submission terms grant a broad non-exclusive licence to store, publish, share and process the project with AI tools. The private OpportunityProof draft exists, but it must be labelled as preexisting sprint-period work, and the official template, author details and owner approval remain outstanding.
+**Elgora #3** remains the strongest exact funded bounty near-miss at 36 USDC gross. It requires a local Foundry security proof, a Base wallet and gas; no India fiat off-ramp is documented. Hold; no wallet or submission.
 
-**Homingo Hack Days** is free, online, India-wide, solo or team, and explicitly allows AI tools. The top prize is ₹5,000; registration closes **15 Nov 2026 23:59 IST**. It requires a public GitHub repository, demo video and live finalist demo. Payout rail and escrow are not stated; student/early-career eligibility wording is inconsistent. Conditional hold.
+**QNX Global Hackathon** is a high-upside but conditional cash contest: $50,000 total prize table, India not listed among excluded countries, no entry fee, deadline 15 Dec 2026 14:00 EST. It requires a free Devpost account, QNX 8.0 project, public repo, YouTube demo, winner identity/qualification verification and affidavits; AI policy and India bank processing are not explicit. Hold; no account or rule acceptance.
 
-**GH Bounty** is an AI-validated GitHub bounty platform with a live SOL feed and claimed on-chain escrow. Its homepage shows six example rows (3 open, 2 reviewing, 1 paid), but exact task URLs are not exposed. Onboarding requires a new Solana keypair and GitHub OAuth Device Flow; India off-ramp is unknown. Hold/reject under current wallet/account restrictions.
+**MoltJobs** has six exact open research jobs at 5–200 USDC, but every page says no deposit recorded. The displayed buyer is 'Amin' with no public legal identity evidence. Platform stats show only one funded employer among six and seven agents ever paid. Reject until a specific deposit, buyer verification and India-compatible payout route are evidenced.
 
-**Code for a Billion** (₹18 lakh advertised pool) and **Geek Room Global AI Hackathon** ($1,000 cash component) remain short-deadline conditional competitions. Both require registration/account details; neither has a verified India payout rail or escrow. No registration made. Manycore Aholo's CNY 320,000 pool remains directory-reported because its official event page was not readable.
+**VoxPact** claims Stripe-held job funds and AI arbitration, but no exact current open job was verified; Stripe Connect onboarding is mandatory and India individual payouts are not established. **NEAR Agent Market** has no exact job verified in this run; its terms explicitly say held funds are not escrow and India bank payouts are unavailable. Both remain rejected under current account/payout constraints.
 
-**Rejected near-misses:** Elgora #7 requires real Base gas, x402 USDC payments, API credentials and a signed membership agreement; Elgora #8 requires Base wallet plus Claude/Codex/Grok wallets; NASCA has a $25 entry and in-kind prizes; ZIVOX has a ₹199 entry fee; HSTLE is human task work with government-ID and face-match verification. USAVCO, SiddhiXsys/Kriti and RunToo remain search-only discoveries.
-
+**Rejected:** NEAR HACKATHON requires a human X demo post and NEAR payout address; Shipyard requires a £100 stake and London demo day; NEAR Protocol Rewards has no current cohort and requires a wallet plus substantial on-chain/community activity. Homingo remains uncertain because its target is students/early-career developers; NeuraViz has conflicting deadlines and possible in-person finalist interviews.
 
 ## Run 7 — 2026-11-14
 
