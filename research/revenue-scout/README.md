@@ -2,7 +2,7 @@
 
 ### Coverage after this run
 - **396 distinct source domains** in the cumulative registry; **182** directly inspected; **59** with at least one exact job/competition page inspected.
-- **208 distinct opportunity/program URLs** in the cumulative ledger; **188** directly verified records, **29** with aggregator/index evidence and **11** search-only records (evidence categories overlap; these are not 208 paid jobs).
+- **208 distinct opportunity/program URLs** in the cumulative ledger; **188** directly verified records, **28** with aggregator/index evidence and **6** search-only records (evidence categories overlap; these are not 208 paid jobs).
 - Added six source domains: `workpnp.com`, `kariant.app`, `wecodecoders.in`, `viamu.app`, `loopuman.com` (search-only) and `finalleg.ai` (search-only).
 - Added four opportunity/program records: CodeZen India 2026, WorkPNP OpenThomas task, Kariant partner listing programme and ViAmu's stale AI Incident Response Sprint. Refreshed Apart Research AI x Epistemics, Threat Intelligence & Threat Modelling, Agent Attribution, and FUTUREHACK.
 
