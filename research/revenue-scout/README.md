@@ -694,3 +694,37 @@ No accounts, registrations, proposals, claims, comments, messages, wallet connec
 
 ### Registry integrity correction — run 18
 - A pre-existing duplicate opportunity ID was found on two distinct GitHub URLs. The IES-BoilerRoom mirror record was renumbered to `OPP-2026-1114-218`; the FinMind record retained `OPP-2026-1114-191`. No listing URL or evidence was changed.
+
+
+## Run 19 — 14 November 2026, 18:47 IST
+
+### Registry totals after this run
+- **408 distinct source domains** (4 added this cycle); 191 directly inspected; 60 with at least one exact programme/job-level verification.
+- **224 unique opportunity/program URLs** in the ledger; 201 directly verified records. Aggregator snapshots and search-only discoveries remain separately labelled; the 680 Jobbi gigs and 18,069 AI Trainer Jobs listings are not counted as individually verified jobs.
+- Duplicate domain and listing-URL checks passed.
+
+### New source domains
+- `hackversity.com` — directly inspected bug-bounty programme; INR 1,000–10,000 via UPI/bank, but no escrow, AI policy unspecified and compliance identity may be required.
+- `swarmmemo.com` — directly inspected agent task board; mixed credits/USDC, no verified INR payout and no exact eligible cash task.
+- `aitrainer.jobs` — directly inspected aggregator; homepage claims 18,069 listings from 104 platforms, mostly human evaluation/annotation rather than autonomous agent work.
+- `bucis.org` — search-only discovery; direct page inaccessible, no exact opportunity verified.
+
+### New exact opportunities and decisions
+- **Hackversity bug bounty:** ₹1,000–₹10,000 advertised; safe-harbour scope limited to its own app and authenticated API. No raw scanner output, first-to-report valid PoC, human triage, no escrow, AI policy unspecified, identity/payment details may be required. No testing performed; held/rejected.
+- **OpenTrain Full-Stack Software Engineer, Testing & Evaluation:** $75/hr, India listed among 95 countries. Work is to create realistic projects, Docker workflows and deterministic tests. No AI policy stated; hiring company is unnamed; no specific funded milestone. OpenTrain payout docs require government-issued ID and bank details, so excluded.
+- **OpenTrain Senior Software Engineer for AI Data Evaluation (India):** $60/hr advertised, but explicitly requires human review of coding agents, 20+ hours/week and weekly human quality review; ID and bank setup required. Excluded.
+- **Onyx Jira Service Management Connector (Algora):** $250 marked escrowed by Jobbi, but dozens of competing PRs/attempts and human maintainer merge. Algora's official docs say India international payouts are not available to individuals; sole proprietors/LLPs/companies only. Excluded.
+- **Code for a Billion — Bharat Agentic-AI Hackathon:** ₹18 lakh total prize pool, global/solo, free, agentic-AI oriented, 1M free smart-code tokens; project deployment/submission closes **15 November 2026**. Human-judged, requires AgentFoundry account and public open-source submission; no payout rail/escrow published. No account or submission made.
+- **HackerRank Orchestrate:** $2,400 total, 12–13 December 2026, explicitly permits Codex/Claude Code/Cursor, but requires a 30-minute owner voice interview with an AI judge; India payout not documented. Rejected for non-autonomous owner interview.
+- **Hack4Hack ML Challenge:** ₹1 lakh, global and solo, hidden-test leaderboard; Round 1 free, but Round 2 requires ₹299 per Indian team and generative-AI policy/payout route are unspecified. Rejected under no-spend rules.
+
+### Payment-channel findings
+- Jobbi's live report (refresh 12:00 UTC) shows 680 open gigs, 497 marked escrowed, 126 machine-accepted and 549 human-reviewed. These are aggregator classifications, not independently verified funded jobs. Rails are 503 Stripe, 120 x402, 22 USDC Base, 10 OpenWork token, 10 wallet and 1 Gnosis.
+- Algora's official payment documentation explicitly limits India international payouts to sole proprietors, LLPs and companies, not individuals; required credentials/authorizations are checked by Stripe.
+- OpenTrain's official payout documentation lists India but requires a government-issued ID, local bank details and tax ID if requested.
+- Agent Bounties legacy domain redirects to Agentizable.ai; wallet required for solver payouts. WorkUSDC requires a 2 USDC proposal credit. Taskmarket and SwarmMemo offer wallet/USDC or credit-based routes, not verified INR bank payouts.
+- Frantic #97 is a funder rebate, not a worker job: claimant must fund a separate $10+ bounty and wait for an independent worker payout. No funds spent.
+- AgentLancer service 301 remains tracked separately; fresh profile/API opens failed this cycle. No buyer order or payment verified; prior price discrepancy remains unresolved.
+
+### Execution status
+No accounts, applications, claims, PRs, messages, wallets, ID uploads, payout setups, terms acceptance, deposits or commitments were made. **Cash received remains $0.**
