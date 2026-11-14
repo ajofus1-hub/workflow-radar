@@ -333,3 +333,57 @@ Counts below are recalculated from the persisted CSV files, not copied from earl
 - Independently confirmed cash received: **$0**
 
 No accounts, registrations, claims, proposals, comments, messages, wallets, payout methods, ID uploads, signed terms, deposits or commitments were made. AgentLancer service 301 remains tracked as a separate channel; no new funded buyer order or payment proof was found.
+
+
+## Run 8 — 2026-11-14 02:29 UTC (07:59 IST)
+
+### Reconciliation of the stored registry
+The stored files were re-read before this run. The actual pre-run source registry contained **304 unique domains**, not the 294 stated in the prior chat summary. The opportunity ledger contained **115 unique listing/feed URLs**, not 107. The stored files are authoritative; the prior summary undercounted both.
+
+This run added **28 new source domains**:
+- 25 country-specific hackathon directories linked from the Hackathons Australia network footer. 23 destination pages opened successfully; Japan and Colombia destination fetches failed and remain discovery-only.
+- ClawHunt (direct marketplace page opened; no visible open tasks or held funds).
+- DivyKairoth (search-result discovery only; direct page returned a cache miss).
+- TryBounty (official homepage, terms and agent docs opened).
+
+After the update: **332 unique source domains**. Directly inspected source pages: to be recalculated from the CSV; the new additions include 23 country directories plus ClawHunt and TryBounty. The 2 failed directory links and DivyKairoth are not counted as directly visited.
+
+The ledger adds 8 unique records, bringing it to **123 unique listing/feed URLs**. Board/feed snapshots are clearly labelled as aggregator-level records, not exact job listings.
+
+### New source and platform findings
+
+- **Jobbi live feed:** `gigs.md` generated 2026-11-14T01:00:08Z shows 685 open gigs (649 agent lane, 36 human lane). Jobbi indexes; it does not hold funds or pay workers. The JSON feed browser attempt failed with a proxy/SOCKS error, so the accessible Markdown feed and board pages were used.
+- **BountyBook:** 118 open, 0% escrowed, all payment states promised, median $4, 39 failed payouts reported. Visible tasks are mostly $2-$9 USDC with automated code tests. Rejected due no funded escrow and weak payout evidence.
+- **Agent Bounties:** 12 open, 100% marked escrowed, median $1.45, 46 historical paid events reportedly include transaction hashes. Most current tasks require a claim bond or funding a child bounty; rewards are too small. Rejected under no-wallet/no-upfront constraints.
+- **BountyHub:** 28 open, 7 escrowed and 21 promised, median $67.50. India appears on the supported-country list, but official documentation requires Stripe identity verification. The RCS issue has a credible $5,000 prepaid amount confirmed by the BountyHub founder; the $14,999 issue title is not the funded amount. Rejected because of KYC and unclear AI permission.
+- **IssueHunt:** 274 open issues, all marked escrowed by Jobbi, median $40. Terms list Stripe debit remittance, SWIFT or ETH. Direct task pages returned 502; no exact current task or India payout route was verified. Hold only.
+- **TryBounty:** official terms last updated Nov 2, 2026; operated by THE AI EXPERIMENTAL LAB, INC. It advertises prefunded bounties and automated verification followed by a 72-hour buyer review. India is supported for Stripe Connect subject to approval, but Stripe collects/verifies identity and payout details. No deposit, subscription or API fee. No public task list without an Agent account/API key. Strong future candidate only if the owner changes the no-ID/account-creation constraint; nothing was registered.
+- **ClawHunt:** direct marketplace page showed blank open-task/escrow counters and no visible task cards; page says “No funds held yet”. No task or payout route verified.
+- **Agent Hansa:** official docs and public quest feed inspected; 171 quests reported, first visible page contained settled and social/referral/video tasks. No qualifying open AI-only task found; wallet/account onboarding required.
+- **Country hackathon directories:** 23 of 25 linked destinations opened. They are discovery sources, not payers; most listings are local/in-person and event-specific terms must be checked.
+- **Hack4Hack ML Challenge:** online/global ₹1 lakh prize pool, but every scored Round-1 team must pay ₹299 in India to enter prize-deciding Round 2. Rejected under no-upfront-fee rule.
+- **Hack4Hack Buildathon 1.0:** AI models allowed, but requires a 2–4 person team, ₹600 finalist fee and online jury presentation. Rejected.
+
+### Exact GitHub issue checks
+
+- **microG RCS #2994:** BountyHub founder publicly confirmed $5,000 prepaid. The issue title says $14,999, but the current funded amount is $5,000. The bounty requires a merged PR and creator acceptance; public contributors dispute AI-generated submissions, and BountyHub requires Stripe identity verification. Rejected.
+- **Coolify #6894:** $1,000 headline bounty remains on an open issue with a Hold label. Maintainer explicitly says the Algora bounty program stopped and no payout will occur. Rejected.
+- **BAWES #55:** $600 headline bounty is paused indefinitely by the maintainer. Scope touches IAM credentials and Civil ID data; no secrets were accessed. Rejected.
+- **Javelin anti-cheat #2:** $10,000 headline remains on Jobbi, but acceptance criteria appear checked and several implementation PRs are open. Remaining scope and escrow balance not confirmed. Algora payout eligibility for Indian individuals is restricted. Rejected.
+- **Dozer #1659:** $600 headline; several competing PRs and no maintainer confirmation of remaining funded scope. Algora India payout restrictions apply. Rejected.
+
+### Current pipeline
+No opportunity passed all current rules. No proposal, bid, comment, account, wallet, payout setup, ID upload, contract, deposit or commitment was made. AgentLancer service 301 remains a separate channel and has no verified buyer order or payment. Cash received remains **$0**.
+
+### Run 8 sources
+- https://jobbi.org/gigs.txt
+- https://jobbi.org/gigs/boards/bountybook
+- https://jobbi.org/gigs/boards/agentbounties
+- https://jobbi.org/gigs/boards/bountyhub
+- https://jobbi.org/gigs/boards/issuehunt
+- https://trybounty.ai/terms-and-conditions
+- https://docs.trybounty.ai/agents/connect/
+- https://clawhunt.store/marketplace
+- https://hack4hack.com/hackathons/ml-challenge-qg4o
+- https://hack4hack.com/hackathons/buildathon-1-0-7ruu
+- https://indiahackathons.com/ai-hackathons
