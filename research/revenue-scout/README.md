@@ -205,3 +205,69 @@ The strongest current machine-verifiable and escrow-backed opportunity is make.f
 - ARC WhestBench: https://www.aicrowd.com/challenges/arc-white-box-estimation-challenge-2026
 - LayerZero Immunefi program: https://immunefi.com/bug-bounty/layerzero/information/
 - Algora payout rules: https://github.com/algora-io/algora/blob/main/priv/content/docs/payments.md
+
+
+## Run 6 — 14 November 2026 (05:45 IST snapshot)
+
+### Reconciled coverage
+
+Counts below are recalculated from the persisted CSV files, not copied from earlier narrative summaries. The CSVs are the source of truth.
+
+- **Source registry:** 276 unique domains, 79 with a directly inspected source page/feed, and 32 with at least one exact job/competition page inspected. This run added 29 new domains.
+- **Opportunity ledger:** 94 unique listing URLs. This run added 27 new opportunity records and refreshed four existing records (Apart Threat Intelligence, Code for India, Dozer #1659 and IceHacks).
+- **Evidence split:** 81 records have direct-page verification; 17 have aggregator/index evidence (some overlap with direct verification); 6 remain search-result-only. Discovery is not treated as verification.
+- **Income:** USD 0 independently confirmed cash received. No eligible, proposal-ready or approved-to-contact job was found.
+
+### Highest-priority conditional leads
+
+1. **Apart Research × Security Level 5 — Threat Intelligence & Threat Modelling Hackathon**  
+   https://apartresearch.com/sprints/threat-intelligence-threat-modelling-2026  
+   USD 5,000 advertised prize pool; 4–6 December 2026; solo or teams of 1–5; AI tools explicitly allowed; public data and defensive framing; up to eight-page PDF; no camera appearance required. The official prize terms say international recipients, including Indian bank accounts, must provide SWIFT details; payment is made by Ashgro Inc, with Mercury payment communications. India is not excluded. No public escrow or independent prefunding was found. Human judging, not machine acceptance. Registration asks for personal details and submission accepts prize terms, so it remains **conditional and not entered**.
+
+2. **Atlassian Codegeist 2026 — Best Agents / Atlassian MCP**  
+   https://codegeist2026.devpost.com/rules  
+   USD 120,000 advertised cash pool; 33 cash-paying positions; six USD 1,500 Best Agents awards and six USD 1,500 Atlassian MCP awards. India is not on the excluded list, entry is free, and a free Atlassian developer license is offered. Requires Devpost and Atlassian developer accounts, a working Forge app, installation link and public YouTube demo. Winner identity/qualification verification is mandatory; publicity terms allow use of name, likeness, voice and image for three years. No public escrow and India-specific bank delivery not confirmed. **Conditional only; no accounts or ID actions.** Private concept brief: `/mnt/data/codegeist-taskproof-private-brief.md`.
+
+3. **Google #BuildHybridAI 2026**  
+   https://firebasehybridaihackathon.devpost.com/rules  
+   USD 30,000 advertised cash pool; AI coding tools including Codex and Claude Code are explicitly allowed; India is not excluded; free Firebase AI Logic tier is available. Requires a free Devpost account, working Firebase AI Logic app, public repo, demo and winner identity/qualification verification. India payout rail not specifically confirmed. **Conditional only; no account, quota request or entry.**
+
+4. **Open Agentic Web Challenge**  
+   https://cognizant-agenticweb.devpost.com/  
+   USD 10,000 cash; India not listed among exclusions. Requires an agentic website, public demo video with entrant explanation, free Devpost account, winner identity verification and broad three-year publicity rights for name/likeness/voice. Bank/mail payment terms exist but India route is not confirmed. **Conditional only.**
+
+### Material rejections and payment risks
+
+- **UGREEN AI NAS Hackathon:** USD 46,000 advertised pool, but official rules explicitly exclude India.
+- **AWS MSP AI Hackathon:** USD 64,000 advertised pool, but entrant must be employed by or authorised for an AWS Partner Network organisation; no such authority was established.
+- **Build with Google Gemini (Hack2Skill):** INR 8 lakh advertised pool, but 10% of scoring is UGC/social-media activity and the event asks entrants to post on personal LinkedIn; rejected under the no-personal-social-engagement rule. Payout route not published.
+- **Code for a Billion / India Runs:** INR 18 lakh headline; submission/deployment deadline 15 November 2026 and AgentFoundry account required. No payout rail published; no account or entry.
+- **Homingo Hack Days:** INR 5,000 top prize, AI tools allowed and online, but payout method is unstated and eligibility language targets students/early-career developers.
+- **Deck the Pixels:** USD 25,000 cash pool, but requires entrant's own likeness/avatar, Devpost/Adobe accounts, winner identity verification and publicity rights; not pursued.
+- **GTransformer Buildathon:** USD 1,000 advertised, but official page asks for a USD 50 fee to confirm a spot; rejected.
+- **HackWithAditya:** student-only, team of 4–6, on-campus final and ₹800/member after shortlist; rejected.
+- **OpenTask API documentation task:** USD 500 USDC advertised, but buyer is pseudonymous, listing is old/ambiguous, no escrow proof or India payout route, and offer submission requires login.
+- **FinMind PII export bounty:** USD 500 advertised, but repository is archived; many prior attempts and wallet-only payout with no verified India route.
+- **Dozer #1659:** USD 600 advertised, but crowded with competing PRs and no maintainer confirmation that funded scope remains.
+- **Sourceify:** exact task cards show USD 0.10–$2.30 for physical actions recorded on an iPhone; rejected as physical human work.
+- **PaisaTask:** UPI claims and visible offer examples, but tasks are human app trials/surveys/referrals and require Aadhaar/PAN KYC; claims of HDFC escrow were not independently verified.
+- **SideCash / Pixel4Hub / Workero:** manual annotation or human expert roles, account/ID/background checks, country restrictions, or inaccessible direct pages; not eligible.
+
+### Discovery-source rotation
+
+- **insiderOne:** direct aggregator page showed 121 AI hackathons, 33 closing that week; individual organiser rules were checked separately.
+- **BuildJams:** direct directory showed 148 events across eight sources; use for discovery, not proof of payment.
+- **HackathonRadar:** direct page showed 162 web hackathons, but underlying event data was about two weeks old; treat as stale discovery.
+- **Techsnap / Aspirova:** exact listings were checked; Catalyst and Project Last Mile had closed registration by the check.
+- **Jobbi:** report and agent-lane feed rechecked. The broad feed is not itself payment evidence; no qualifying $10+ task with machine acceptance and confirmed India payout was found.
+- **AgentPact:** official page describes escrow, delivery evidence and acceptance/timeout settlement, but no exact public task or funded job was verified.
+- **AgentLancer service 301:** remains listed at https://agentlancer.io/agents/173; public refresh found no buyer order or verified payment. It remains one channel, not the whole strategy.
+
+### Execution and safety
+
+- No proposals, comments, messages, claims, PRs, registrations, account creation, identity uploads, wallet connections, payout setup, terms acceptance, deposits or commitments were made.
+- No external security testing was performed.
+- The two private preparation briefs are not entries or submissions:
+  - `/mnt/data/apart-threat-intel-private-brief.md`
+  - `/mnt/data/codegeist-taskproof-private-brief.md`
+- Actual income remains **USD 0 independently confirmed cash received**.
