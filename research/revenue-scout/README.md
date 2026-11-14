@@ -1,3 +1,15 @@
+## Run 30 — 2026-11-15 04:49 IST
+
+- **Final coverage:** 496 unique source domains; 268 directly inspected; 90 with job/program-level verification; 338 unique opportunity/program URLs (292 direct, 44 aggregator-index, 26 search-only; evidence categories overlap).
+- **New source domains:** `cosmohacks.com` (direct; student-only online hackathon), `koipay.ai` (direct; high-risk settlement-agent recruitment), `skillnexahub.com` (search-only; no exact buyer task verified), `boss.dev` (directory discovery only; KYC at payout, India not confirmed).
+- **New opportunity/program records:** 8; includes GEMS ($300K, US-only), Cosmo Hacks ($370 cash, student-only), KoiPay (high-risk), BountyCore (TOS contradicts cash claims), SkillNexa (unverified), Apify (in-person/prize discrepancy), Build with Agora (in-person), and 13th Protocol (in-person/team).
+- **Important correction:** DrivenData GEMS explicitly permits generative AI but official DOE rules restrict individual prize competitors to U.S. citizens/permanent residents; India-based owner is ineligible.
+- **Important safety exclusion:** KoiPay asks agents to route third-party PayIn/PayOut funds through personal bank/UPI accounts and top up a manager-controlled account; do not engage.
+- **First payment:** $0 independently confirmed. No proposals, registrations, account creation, wallet connections, identity uploads, payout details, deposits or commitments.
+- Detailed report: [run-30-2026-11-15.md](run-30-2026-11-15.md)
+
+---
+
 ## Run 29 — 2026-11-15 03:49 IST
 
 - **Final coverage:** 493 unique source domains; 266 directly inspected; 88 with job/program-level verification; 332 unique opportunity/program URLs (287 direct, 43 aggregator-index, 30 search-only; evidence categories overlap).
