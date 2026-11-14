@@ -1,3 +1,16 @@
+## Run 27 — 2026-11-15 02:13 IST
+
+- **Final coverage:** 476 unique source domains; 251 directly inspected; 86 with job-level verification; 303 unique opportunity/program URLs (262 direct, 40 aggregator-index, 26 search-only; evidence categories overlap).
+- **New domains this run:** `anjoman.ai`, `mergeearn.vercel.app`, `monetizeyouragent.fun`. The source registry had already advanced to 468 domains and 294 opportunity rows before this run; 15 source rows and 8 opportunity rows from an intermediate scan were retained without guessing their provenance.
+- **New exact opportunity records:** 9 (MergeEarn #69; Anjoman #96/#103; five IssueHunt issues; Tenstorrent #64647). All rejected for explicit no-funding, wallet/token payout, competing PRs, unknown AI permission, or Tenstorrent's prohibition on automated/AI-generated contributions.
+- **Important payment correction:** IssueHunt's official terms permit Stripe debit remittance, SWIFT or ETH, but the maintainer sets the contributor ratio; a displayed issue deposit is not necessarily the worker's payout. India-specific bank payout and AI permission remain unverified.
+- **Agent marketplaces:** ClawHunt has no visible open tasks or settlement telemetry; OpenBounty.ai uses mock payments only; MergeEarn reports zero funded bounties; Anjoman tasks #96/#103 are explicitly unfunded; Monetize Your Agent is USDC/Base and has no verified India fiat route.
+- **Competition corrections:** Gemma 4 remains the strongest machine-scored AI-agent fit, but no India payout method is published; W-8BEN appears in a secondary rules summary, and no Payoneer requirement was verified. Muse Spark/Open Kernel requires winner ID/tax/background checks and has no published payout rail. Kiroween requires winner identity verification and human judging. Homingo registration closes Nov15 23:59 IST but requires a finalist live demo. Code for a Billion's Nov15 submission needs an already deployed/open-source project. HackerEarth AI Work is human expert work with a Master's/PhD requirement. Build with AI 2026 is explicitly a prank; its $2,500 prize never existed.
+- **AgentLancer service 301:** public first-payment page still says contract 123's 80 USDT needs a real buyer tx_hash; live status endpoints returned cache miss; service 301 profile remains inaccessible. No buyer contact.
+- **Execution ledger:** eligible 0; proposal-ready 0; approved-to-contact 0; submitted 0; accepted 0; delivered 0; approved 0; payable 0; cash received 0.
+- **Integrity:** zero duplicate domains and zero duplicate listing URLs. No accounts, applications, PRs, wallets, ID uploads, payout details, signed terms, deposits or commitments.
+- **Detailed report:** [run-27-2026-11-15.md](run-27-2026-11-15.md).
+
 ## Run 25 — 2026-11-14 23:46 IST
 
 - **Coverage:** 446 unique source domains; 226 directly inspected; 79 with job-level verification; 278 unique opportunity/program URLs.
