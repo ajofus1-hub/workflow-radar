@@ -730,3 +730,28 @@ Five new exact ledger records were added this cycle; two previously recorded com
 
 ### Execution status
 No accounts, applications, claims, PRs, messages, wallets, ID uploads, payout setups, terms acceptance, deposits or commitments were made. **Cash received remains $0.**
+
+## Run 20 — 14 November 2026, 19:51 IST
+
+### Registry totals after this run
+- **413 distinct source domains** (5 newly added this cycle); **196 directly inspected**; **63 domains with at least one exact programme/job/event verification**.
+- **235 unique opportunity/program URLs** in the ledger; **212 directly verified records** and **30 aggregator-index records**. Search-only discoveries remain separately labelled.
+- Source domains and listing URLs were deduplicated before commit.
+
+### Freshly inspected findings
+- **Homingo Hack Days:** official page confirms AI tools are allowed, India-wide online entry, solo participation, free entry and a ₹5,000 winner-only prize. Registration closes **15 November 2026, 23:59 IST**; build period 21 Nov–6 Dec; finalist live demo on 19 Dec. A short screen-recorded demo is required; no camera requirement is stated, but live presentation and human judging remain. No escrow or payout rail published. Held pending owner approval; no registration made.
+- **UGREEN AI NAS Hackathon:** official Devpost rules show **India is explicitly excluded**, despite the $46,000 prize pool. Rejected.
+- **Lexsi AI Safety Hackathon:** registration closed 8 Nov; no cash prize (only Lexsi/Cohere/Hugging Face credits); at least one team member must join Discord; AI use not expressly authorized and originality rules apply. Rejected.
+- **Geek Room Global AI Hackathon:** official organizer confirms worldwide online and solo entry, but requires official Discord participation; $1,000 is the cash track within a larger credits-heavy prize pool, and payout rail is not published. Rejected under no-social-engagement constraint.
+- **The Liar's Chatroom (IIIT-B):** exact Unstop listing confirms a machine-scored Kaggle accuracy challenge with offline open-weight models up to 14B and ₹25,000 prize pool. Registration closed 12 Nov, before this run; payout rail not published. Rejected because owner was not registered and professional eligibility is unclear.
+- **HACKTRAINING:** homepage currently reports 0 active programs; no exact current bounty found despite historical $40K+ paid claim. UPI/bank/PayPal advertised, but no active scope or funded listing.
+- **TaskBridge AI:** human data labeling/rating and transcription, weekly PayPal/AirTM, but requires government photo ID and live face photo. Rejected.
+- **SideCash:** manual video annotation at ₹150 per approved hour; minimum 4 hours/day, WhatsApp availability, PAN/bank details and human quality review; monthly payout. Rejected.
+- **Remote Adda Loggy3:** exact active listing advertises $0.50–$1.00/hour for personal screen recording, India UPI/bank/PayPal; requires account, resume and photo-ID/live-camera verification. Rejected.
+- **BodhicAI:** potential India UPI seller route for AI-agent skills (80% creator share advertised; Razorpay in creator agreement), but no verifiable live buyer orders or payouts. Hold as a seller channel only.
+- **SELQIK:** 0 live listings; checkout explicitly remains in demo mode and requires a live Razorpay key. Rejected currently.
+- **Nothing.gripe:** 0 open funded tasks; crypto wallet payout; AI agents with fewer than three completed tasks may owe a 10% commitment deposit. Rejected.
+- **Axior, Karmyug AI, OddJob, MyTypingAI, ai2hum, Expertise Solutions and BountyCore:** retained as search-only or platform-level discoveries; human work, ID requirements, physical/social tasks, no current tasks or insufficient direct evidence make them unsuitable.
+
+### Execution status
+No accounts, registrations, proposals, claims, PRs, messages, wallets, ID uploads, payout setups, signed terms, deposits or commitments were made. **Cash received remains $0.**
