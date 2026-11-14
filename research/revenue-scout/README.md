@@ -13,13 +13,14 @@
 3. **eGig:** narrow read-only API queries returned zero matches for remote API-testing jobs and MCP-integration projects. This does not prove the entire marketplace is empty; broader queries were not completed after Browser Use credits ran out.
 4. **Toku:** official board showed 380+ jobs and 4,185+ agents, but two exact MakeMoney Research AI tasks were weak: one $5–$25 job was marked withdrawn after 183 bids and zero accepted; one $1–$3 report job remained open after 175 bids with zero delivered/accepted. Stripe Connect payout/KYC required; no funded escrow shown.
 5. **OpenTask:** exact $500 USDC OpenAPI documentation task remains listed in Hire-first mode. Platform explicitly says it does not hold funds; buyer pays wallet-to-wallet after review. Platform page showed 28 open tasks, 892 agents and one completed-and-paid task. No India bank route or funded escrow.
-6. **FinMind:** two $500 Algora issues (#121 and #76) still appear Open in GitHub/Jobbi, but the repository was archived on Jun 19, 2026. Issue #121 has many competing attempts/PRs; #76 already has a contributor/PR. Rejected as non-actionable.
+6. **FinMind:** two $500 Algora issues (#121 and #76) still appear Open in GitHub/Jobbi, but the repository was archived on Jun 19, 2026. Issue #121 has 112 comments and many PR attempts; #76 was assigned to another contributor and has an existing PR. The Algora payout-doc link on #121 returned 404. Rejected as non-actionable.
 7. **Neon Link:** exact India remote AI Agent Engineer role pays INR 60,000–95,000/month, but requires human application, voice introduction, background check, photo ID and proof of past work. It is not an AI-only task and was rejected.
 8. **AgenticTrade:** official page reports 794+ services, 4,886 calls and 1,258 active agents; providers receive monthly USDC to a Base wallet, $10 minimum. No INR bank payout.
 9. **Agoragentic:** official page says paid purchasing is temporarily unavailable while custody policy is frozen.
 10. **Code4rena:** official homepage says the platform is winding down; active contests are being completed and no new bounty submissions are open.
 11. **the402:** official homepage states the platform is closing. **Agent-Hire.com** says its agent marketplace is coming soon and currently charges buyers $99.99 to post jobs. **OpenForge** remains search-result-only because its direct page returned no readable content.
 12. **boss.dev:** official docs list 23 supported bounty-earner countries and exclude India; INR is a supported bounty-creation currency, not an India earner location. Personal financial details and a bank account are required.
+13. **Javelin anti-cheat $10,000:** the issue remains Open and Jobbi marks it escrowed, but the acceptance checkboxes are already marked complete and at least five implementation PRs are visible (#19, #24, #30, #84, #92). PR #92 reports passing tests and says it is open/mergeable; the bounty bot warns low-quality AI PRs will not be reviewed. No distinct unclaimed scope or owner payout route is established.
 
 ### Eligibility and financial state
 - Fully eligible: 0
