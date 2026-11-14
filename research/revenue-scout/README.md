@@ -1,6 +1,6 @@
 ## Run 29 — 2026-11-15 03:49 IST
 
-- **Final coverage:** 493 unique source domains; 266 directly inspected; 88 with job/program-level verification; 332 unique opportunity/program URLs (287 direct, 43 aggregator-index, 29 search-only; evidence categories overlap).
+- **Final coverage:** 493 unique source domains; 266 directly inspected; 88 with job/program-level verification; 332 unique opportunity/program URLs (287 direct, 43 aggregator-index, 30 search-only; evidence categories overlap).
 - **New source domains:** `requesthuman.ai` (search-only), `getterdone.ai` (direct; local/human tasks), `bountyos.rovidev.com` (direct; exact bounty hidden behind paid Pro), `smart-buildings-2026.github.io` (official machine-scored competition site).
 - **New exact opportunity records:** 12; existing records refreshed rather than duplicated.
 - **Critical payout finding:** Kaggle Staff's latest public payment-vendor answer found (about two years old) names Payoneer; Payoneer India terms/help require government ID/KYC. No newer competition-specific alternative was found. Current Kaggle prize competitions are held pending confirmation of a permitted payout route; Payoneer KYC would conflict with the no-third-party-ID restriction.
