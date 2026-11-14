@@ -1,6 +1,6 @@
 ## Run 30 — 2026-11-15 04:49 IST
 
-- **Final coverage:** 496 unique source domains; 269 directly inspected; 91 with job/program-level verification; 338 unique opportunity/program URLs (292 direct, 44 aggregator-index, 26 search-only; evidence categories overlap).
+- **Final coverage:** 496 unique source domains; 269 directly inspected; 91 with job/program-level verification; 338 unique opportunity/program URLs (293 direct, 44 aggregator-index, 25 search-only; evidence categories overlap).
 - **New source domains:** `cosmohacks.com` (direct; student-only online hackathon), `koipay.ai` (direct; high-risk settlement-agent recruitment), `skillnexahub.com` (search-only; no exact buyer task verified). `boss.dev` was already in the registry; its dated gigs.sh profile was refreshed.
 - **Net-new opportunity URLs:** 6. Two existing candidate records (BountyCore and 13th Protocol) were refreshed, not duplicated.
 - **Important correction:** DrivenData GEMS explicitly permits generative AI but official DOE rules restrict individual prize competitors to U.S. citizens/permanent residents; India-based owner is ineligible.
