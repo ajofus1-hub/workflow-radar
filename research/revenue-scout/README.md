@@ -656,3 +656,38 @@ No new fully eligible or proposal-ready task. No proposals, claims, comments, PR
 ### Current execution state
 No new opportunity is fully eligible or proposal-ready under the current rules. No registration, account creation, bid, message, public post, PR, wallet connection, ID upload, payout setup, signed terms, deposit or commitment was made. AgentLancer service 301 remains a separate channel. **Cash received remains $0.**
 
+
+
+## Run 18 — 2026-11-14 17:48 IST
+
+### Coverage after this run
+- **404 distinct source domains** in the cumulative registry; **188** directly inspected; **59** with at least one exact job/competition page inspected.
+- **217 distinct opportunity/program URLs** in the cumulative ledger; **194** directly verified records, **28** with aggregator/index evidence and **9** search-only records (evidence categories overlap; these are not 217 paid jobs).
+- Added eight source domains: `forke.space`, `securegig.in`, `trustwork.in`, `waitline.dev`, `waitline.appsage.in` (host under AppSage), `bountbee.com`, `nainix.me`, and `waitpay-india.vercel.app`. Six were directly inspected; two are search-result only.
+- Added nine opportunity/program records (OPP-209 through OPP-217). No new exact paid job passed all eligibility and payout requirements. Job-level verified-domain count remains 59.
+
+### Key findings
+1. **Forke — major correction to the apparent 128-bounty count.** A read-only browser inspection of the public homepage confirmed the sidebar says 128, but only six hard-coded sample cards are rendered. They have no task URLs, buyer names or calendar posting dates; repo labels such as `acme/api` and `shopkit/web` are placeholders. “Escrowed” is a card label, not independent funding proof. Terms permit helper AI tools and require disclosure for substantial AI-generated code, while the policy says AI-dumped submissions are removed. UPI/Razorpay escrow is described in terms/docs, but there are no public task-level escrow records. Account creation, GitHub OAuth and UPI setup are required. **Do not count 128 as live jobs; no exact Forke task was verified.**
+2. **SecureGig:** official homepage/pricing/about inspected. Claims 25,000+ freelancers, 2,000+ reviews and $50M+ escrow; none independently reconciled. Free tier exists and Razorpay escrow is described, but no exact public buyer task, AI policy or verified transaction was found. Hold.
+3. **TrustWork:** official workflow directly inspected. UPI escrow through Castler is described, but freelancers must be Aadhaar-verified via Digio. No public task board. Excluded under the no-third-party-ID rule.
+4. **Waitline.dev:** official page's backend snapshot showed **0 active public campaigns and 0 impressions served**. Creator share is advertised as 70% of advertiser spend, credits unlock after seven days, but creator payout rail and India eligibility are not documented. No live revenue; reject for now.
+5. **Waitline (AppSage):** search-result terms identify AppSage Infosystem Pvt Ltd (CIN U74999KA2021PTC152976), $1.50 per 1,000 qualified views, $10 minimum, 30-day hold, UPI/bank through RazorpayX, and possible PAN/KYC. The terms prohibit bots, scripts, emulators and automated prompts to generate views. This is not AI-agent work and earnings are negligible; reject. Direct page fetch returned cache miss.
+6. **WaitPay India:** official page directly inspected and explicitly pre-launch. Claims 50% sponsor-revenue share and monthly UPI payouts, with illustrative ₹4,012/month; no live sponsor inventory or payout evidence. Waitlist/account and npx install required. No signup or install.
+7. **Nainix:** directly opened homepage still describes a non-cash skill/time bank using NX Credits and says “no cash needed ever.” Search snippets for a newer Nainix 2.0 claim NX credits convertible via Razorpay, but wallet/cashout could not be directly verified and conflicts with the opened page. No exact cash-paying task verified; reject/hold.
+8. **BountBee:** search result claims ₹14,87,900 escrow, 40 missions verified and same-day UPI for machine-checked AI Labs. Direct page returned cache miss; no exact mission URL, legal buyer identity, funding transaction or payout proof. Search-only, not accepted as funded.
+9. **AgentRush USA 2026:** Hack4Hack search-result listing claims $5,000 pool, but participants must be based in the USA and form teams of 2–4. India is ineligible. Direct page fetch returned cache miss.
+10. **Gemma 4 Developer Agent Competition refreshed:** main track remains open. Rules acceptance deadline is **26 Nov 2026, 05:29 IST**; final submission is **3 Dec 2026, 05:29 IST**. Main leaderboard is $65,000 plus a $10,000 small-model bonus; separate $35,000 Paper Track is closed. No India-specific payout rail was found, and Kaggle account/rule acceptance require owner approval. Official page fetch returned cache miss; official search results were rechecked.
+11. **AgentLancer service 301:** no fresh status is claimed. The profile and public API endpoints were inaccessible in this run; last recorded check remains 2026-11-13. Previous price discrepancy ($25/1 day in service JSON versus $120/2 days on profile) remains unresolved. No buyer order or payment inferred.
+
+### Near-term existing opportunity
+- **Apart Research AI x Epistemics:** deadline remains **2026-11-16 17:29 IST** (about 47h 41m from this check). $2,000 cash pool; AI allowed; global/solo; official prize terms specify SWIFT details for Indian bank recipients. No escrow, human judging. OpportunityProof remains an unsubmitted draft; official template, author details, affiliation and owner approval are still missing. No registration or submission.
+- **Apart Research Threat Intelligence & Threat Modelling:** Dec 4–6 online, $5,000 pool, AI allowed, global/solo, public-data defensive research. Deadline Dec 7, 17:29 IST. Common Apart prize terms specify SWIFT for Indian recipients. No escrow; future conditional lead.
+
+### Execution and financial state
+- Fully eligible: 0
+- Proposal-ready: 0
+- Approved to contact: 0
+- Submitted / accepted / delivered / approved / payable: 0
+- Independently confirmed cash received: **$0**
+
+No accounts, registrations, proposals, claims, comments, messages, wallet connections, ID uploads, payout details, software installations, terms acceptances, deposits or commitments were made.
