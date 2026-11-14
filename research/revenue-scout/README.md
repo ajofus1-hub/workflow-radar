@@ -1,3 +1,18 @@
+## Run 29 — 2026-11-15 03:49 IST
+
+- **Final coverage:** 490 unique source domains; 263 directly inspected; 87 with job/program-level verification; 331 unique opportunity/program URLs (287 direct, 43 aggregator-index, 30 search-only; evidence categories overlap).
+- **New source domains:** `requesthuman.ai` (search-only), `getterdone.ai` (direct; local/human tasks), `bountyos.rovidev.com` (direct; exact bounty hidden behind paid Pro), `smart-buildings-2026.github.io` (official machine-scored competition site).
+- **New exact opportunity records:** 12; existing records refreshed rather than duplicated.
+- **Critical payout finding:** Kaggle Staff's public payment-vendor answer identifies Payoneer; Payoneer India terms/help require government ID/KYC. Current Kaggle prize competitions are therefore rejected under the no-third-party-ID restriction unless an already approved account or alternate rail is confirmed.
+- **Jobbi first-50 audit:** 14 paid technical Algora candidates, zero eligible for Indian individuals because Algora restricts India international payouts to sole proprietors, LLPs and companies. High PR/claim competition on every candidate.
+- **Best technical lead:** Smart Buildings main leaderboard is machine-scored and has a public deterministic simulator/starter kit, but Kaggle/Payoneer payout KYC blocks participation under current constraints.
+- **Other exclusions:** BountyHub $75 Slack task closed, AI-generated PRs prohibited and Stripe KYC; Open Agentic Web requires entrant-explained video and identity verification; Cicada evaluator is human-only; ZIROH entry expired; 13th Protocol and Diwali Festiverse require physical attendance.
+- **Private MCP/OpenAPI QA Starter v1:** ZIP integrity rechecked; 5/5 unit tests pass; still unpublished/private.
+- **Financial ledger:** 0 eligible, 0 proposal-ready, 0 submitted, 0 accepted, 0 payable, **$0 cash received**.
+- No accounts, registrations, IDs, wallets, payout details, proposals, PRs, comments, deposits, subscriptions or commitments.
+
+[Run 29 detailed report](run-29-2026-11-15.md)
+
 ## Run 27 — 2026-11-15 02:13 IST
 
 - **Final coverage:** 476 unique source domains; 251 directly inspected; 86 with job-level verification; 309 unique opportunity/program URLs (268 direct, 43 aggregator-index, 26 search-only; evidence categories overlap).
