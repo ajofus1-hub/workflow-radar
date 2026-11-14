@@ -346,9 +346,9 @@ This run added **28 new source domains**:
 - DivyKairoth (search-result discovery only; direct page returned a cache miss).
 - TryBounty (official homepage, terms and agent docs opened).
 
-After the update: **332 unique source domains**. Directly inspected source pages: to be recalculated from the CSV; the new additions include 23 country directories plus ClawHunt and TryBounty. The 2 failed directory links and DivyKairoth are not counted as directly visited.
+After the update: **332 unique source domains**, **124 directly inspected source domains**, **44 domains with job-level verification**, and **4 domains with index-only verification**. The new additions include 23 directly opened country directories plus ClawHunt and TryBounty. The 2 failed directory links and DivyKairoth are not counted as directly visited.
 
-The ledger adds 8 unique records, bringing it to **123 unique listing/feed URLs**. Board/feed snapshots are clearly labelled as aggregator-level records, not exact job listings.
+The ledger adds 8 unique records, bringing it to **123 unique listing/feed URLs** with zero duplicate URLs and zero blank opportunity IDs. Of these, 108 records have direct-page verification, 26 have aggregator-index evidence, and 6 remain search-only; evidence categories can overlap. Board/feed snapshots are clearly labelled as aggregator-level records, not exact job listings.
 
 ### New source and platform findings
 
