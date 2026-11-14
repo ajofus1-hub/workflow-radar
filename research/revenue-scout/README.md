@@ -545,7 +545,7 @@ No opportunity passed every owner constraint. No account, wallet, payout setup, 
 
 ### Coverage after this run
 - **382 distinct source domains** in the cumulative registry; 173 marked directly inspected and 54 with job-level verification. Four new domains were added: `openclawlog.com`, `issue-aggregator-psi.vercel.app`, `tenstorrent.com`, and `automatedpayroll.com` (search-result-only; not directly verified). Existing `muhib-karim.github.io` Bounty Radar source was refreshed.
-- **195 unique opportunity/program URLs** in the ledger; 180 directly verified records and 28 with aggregator-index evidence (overlapping categories). These are not all paid jobs. Five new records were added: IES-BoilerRoom #1, bounty-plaza #4280 mirror, ClankerNation OpenAgents #181, Bounty Radar feed snapshot, and Issue Aggregator board snapshot.
+- **195 unique opportunity/program URLs** in the ledger; 175 directly verified records and 29 with aggregator-index evidence (overlapping categories). These are not all paid jobs. Five new records were added: IES-BoilerRoom #1, bounty-plaza #4280 mirror, ClankerNation OpenAgents #181, Bounty Radar feed snapshot, and Issue Aggregator board snapshot.
 - Updated existing Gemma competition records, Code for a Billion, Apart Research, BharatCode, 13th Protocol, Tenstorrent OpenVLA and IES-BoilerRoom #2 with fresh official/GitHub evidence. No external action or submission.
 
 ### Important new finding: bounty-clone and prompt-exfiltration filter
