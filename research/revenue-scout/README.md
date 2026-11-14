@@ -1,3 +1,55 @@
+## Run 23 — 2026-11-14 21:43 IST
+
+### Coverage after this run
+- **436 distinct source domains** in the cumulative registry; **216** directly inspected; **74** with at least one exact job/competition/program page verified.
+- **263 unique opportunity/program URLs** in the cumulative ledger; **230** directly verified records, **34** with aggregator/index evidence and **17** search-only records. Evidence categories overlap; these are not 263 paid jobs.
+- Added 12 source domains: `humanping.io`, `human-mcp.io`, `devhunt.org`, `realityperception.com`, `aiyuva.online` (search-only), `x-machina.in` (search-only), `quantum-brief.com`, `hackodds-live.vercel.app`, `worldengineeringday.net`, `developerweek.com`, `redclara.net` (search-only), and `dorahacks.io` (search-only).
+- Added 12 opportunity/program snapshots. Refreshed the existing Google Quantum AI competition record rather than duplicating it.
+
+### New findings
+1. **Jobbi current index:** directly inspected the live gigs page, top-paying page, report, BountyHub and Algora board pages. The 16:00 UTC page shows 680 open gigs (653 agent lane, 27 human lane, 12 boards). Board counts include IssueHunt 274, Algora 181, BountyBook 118 and BountyHub 28. Top-paying page shows 551 priced gigs, median $20. The report classifies 497 as escrowed, 126 machine-accepted and 549 human-reviewed, but these are aggregator labels, not independent proof of every task's funding. Jobbi explicitly says it indexes only; each board pays. Many high-value records are stale, locked, human-only, KYC-gated, wallet-only or merely promised.
+2. **TaskBounty:** exact funded-jobs page `/browse` returned “No matching funded jobs”. The separate services page contains seller offers, not buyer orders; the Agent Board is explicitly unpaid. No account/API key created.
+3. **HumanPing and human-mcp.io:** both are genuine AI-agent-to-human outsourcing platforms with escrow claims, but workers are humans completing physical, phone, judgment, writing, research or other tasks. Stripe/PayPal/USDC and Stripe payouts are advertised, but India worker eligibility is not confirmed. Excluded because they are not AI-only earning sources.
+4. **Reality Perception:** directly verified human desktop-session recording programme, ₹15 per eligible active hour, UPI/bank advertised, no assigned tasks; bots/idle time do not count. Requires real human activity and name/email/phone. Excluded.
+5. **ai2hum:** exact ₹8,300 “What AI Can't Do” contest page says voting closed and contest ended; winners are displayed, and the page claims UPI payment within one hour. It simultaneously shows zero roasts/votes. The bounty board says 0 open now/₹0 paid out but also lists 141 slots and ₹1,700 historical paid. Current tasks are human social, video and physical work. Excluded.
+6. **AI Yuva:** search-result-only lead advertises ₹250–₹300/test and weekly UPI for human app/chatbot/voice testing in UP/Bihar and nearby states. Direct page fetch failed; not AI-only and India/Chennai eligibility unverified.
+7. **X-Machina Global AI Hackathon:** search-result-only portal snapshot shows Nov13–15, 2.4K+ participants and $50K+ prizes. Submission deadline Nov13 had passed by this run; judging Nov14–15. Portal returned 401; payout, AI policy and eligibility not fully verified. Excluded.
+8. **WFEO 2027 Hackathon:** official page directly verified; free, online, €7,000 pool, but teams of 3–5 led by engineering students/young engineers, 5-minute video and team photo; AI may assist, human judging; no escrow/payout rail. Excluded from AI-only pipeline.
+9. **DeveloperWeek 2027:** official page directly verified; hybrid online + Santa Clara, $12,500 total prize value but only $2,000 explicitly cash in one sponsor track; human judging, top-five in-person stage presentation, AI policy and India payout not stated. Excluded/hold.
+10. **CoAfina 2026 and BCH BLAZE:** directory-index evidence only. CoAfina is described as Latin American university-student-only with deadline Nov14; BCH BLAZE advertises 25+ BCH/$8k, but exact page returned 405 and AI/payout rules are unknown. Excluded.
+11. **Google Quantum AI Verifiable Circuit Compilation:** refreshed existing record. Official Kaggle search-result content explicitly invites AI coding agents, describes open kickmix fuzz verification, three tasks and $150k total; mid-prize Nov20 23:59 UTC (Nov21 05:29 IST), entry Jan13 2027, final Jan20 2027. Direct Kaggle open returned no readable lines this run; Quantum Brief article and companion paper were inspected. Kaggle indexed participation snapshot is historical, not live. No competition-specific India payout or identity requirement verified; no account/rules accepted. Strongest technical fit, but HOLD pending payment/ID clarification.
+
+### Execution and financial state
+- Fully eligible direct paid jobs: 0
+- Proposal-ready: 0
+- Approved to contact: 0
+- Submitted / accepted / delivered / approved / payable: 0
+- Independently confirmed cash received: **$0**
+
+AgentLancer service 301 remains separately tracked and was not rechecked. No account, registration, proposal, PR, message, wallet, ID, payout details, terms acceptance, deposit or commitment was made.
+
+### Sources inspected
+- https://jobbi.org/gigs/
+- https://jobbi.org/gigs/top-paying/
+- https://jobbi.org/gigs/boards/bountyhub
+- https://jobbi.org/gigs/boards/algora
+- https://www.task-bounty.com/browse
+- https://www.task-bounty.com/services
+- https://humanping.io/
+- https://human-mcp.io/
+- https://realityperception.com/
+- https://ai2hum.ai/bounties/
+- https://ai2hum.ai/summit/contest/
+- https://work-researchers.hackerearth.com/landing.html
+- https://devhunt.org/hackathons/online
+- https://worldengineeringday.net/hackathon/
+- https://www.developerweek.com/hackathon/
+- https://laconga.redclara.net/hackathon/ (search/index evidence; page unreadable)
+- https://dorahacks.io/hackathon/bchblaze2026 (page returned 405)
+- https://portal.x-machina.in/hackathon (search-result evidence; direct page returned 401)
+- https://www.quantum-brief.com/blog/news-2026-10-25-google-verifiable-circuit-compilation/
+- https://www.kaggle.com/competitions/google-verifiable-quantum-circuit-compilation (official search-result content; direct page returned no readable lines)
+
 ## Run 17 — 2026-11-14 16:49 IST
 
 ### Coverage after this run
