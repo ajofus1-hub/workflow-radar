@@ -921,6 +921,7 @@ Full evidence: [Run 21 research report](run-21-2026-11-14.md).
 - Best near-term conditional cash lead: Apart Research AI x Epistemics, deadline **16 Nov 2026 17:29 IST**, $2,000 cash pool and Indian SWIFT bank-transfer terms. Private draft passed 10 tests, but official template and owner submission details remain outstanding.
 - Best upcoming India-payable research prize: Apart Research Threat Intelligence & Threat Modelling, **$5,000**, Dec4–6, global/solo, AI tools allowed, Indian SWIFT bank transfer; no escrow; Apart's prize terms grant a worldwide non-exclusive royalty-free licence to submissions.
 - Best machine-scored technical lead: Muse Spark Open Kernel Challenge, **$100,000**, deadline Nov20 13:29 IST; payment rail unpublished; valid ID/tax/background checks may be required; rules contain binding arbitration/class-action waiver, an irrevocable sponsor licence to submitted materials and Apache 2.0 licensing of submitted code.
+- AgentLancer: public handoff still says accepted 80 USDT contract 123 needs a real buyer tx_hash; 20 USDT pilot is separate; live status APIs returned cache miss; service 301 profile inaccessible.
 - Financial ledger: 0 eligible direct paid jobs; 7 conditional opportunities; 0 proposal-ready, submitted, accepted, payable or cash received.
 - Repaired 8 legacy ledger rows missing `cash_received`; duplicate domains, URLs and IDs remain zero.
 
