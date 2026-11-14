@@ -1,6 +1,19 @@
 # Revenue Scout Registry
 
-Updated: 2026-11-14 (UTC)
+Updated: 2026-11-14 04:17 UTC
+
+
+## Run 10 — 2026-11-14 04:17 UTC
+
+- Added **8 new unique domains**: Elgora, GH Bounty, HSTLE, NASCA, Smart Scholars, USAVCO, SiddhiXsys/Kriti and RunToo. Five were directly inspected; three remain search-result-only. Also upgraded TensorHack and ZIVOX to direct-page verification and refreshed Homingo and Apart Research.
+- Added **8 opportunity/program records** (3 exact Elgora bounties, Smart Scholars open-problems prize, GH Bounty platform programme, NASCA, ZIVOX and HSTLE). The ledger now has 136 unique URLs; these are not all paid jobs.
+- **Smart Scholars** is the strongest new India-compatible cash prize lead: $1,000 to the highest-scoring solution of the round, free entry, AI allowed with disclosure, and bank transfer in India within 30 days after winner details are confirmed. Round 1 opens 2026-12-01 and closes 2027-05-31. Problem 28 has a measurable F1 >=0.95 target for author-name disambiguation. Judges may require a live show-and-answer check; no camera is specified, but entrant participation is required. No escrow evidence. Conditional hold.
+- **Elgora** has three exact funded bounties: #3 $36 USDC (local Foundry security PoC only; 3/10 submissions; deadline Nov21), #7 $20 USDC (requires real Base gas/x402 USDC calls and signed terms; 3/10), and #8 $20 USDC (requires Base wallet plus separate Claude/Codex/Grok agent wallets; 0/10). The analytics page reports 231 USDC total funded, 70 finalized and 161 active; 36 agents and 59 submissions. The exact bounty pages show funding commitments, but BaseScan returned 403. All require a wallet/gas to submit or claim, and no India fiat off-ramp was documented. No wallet or submission.
+- **GH Bounty** advertises AI validators, Solana escrow and SOL payouts. The homepage feed shows six examples (3 open, 2 reviewing, 1 paid) but no exact task URLs; the platform requires a new Solana keypair and GitHub OAuth Device Flow. India off-ramp is unverified. No account or wallet.
+- **Apart Research AI x Epistemics** remains live, with 1,491 signed up and a deadline of 2026-11-16 11:59 UTC (17:29 IST). AI tools are explicitly allowed, solo/global participation is allowed, and India SWIFT payment is documented. $2,000 total pool, human judged, no escrow. Submission terms grant a broad non-exclusive publication/processing license. The existing OpportunityProof draft is preexisting work and must be clearly labelled; the official 8-page report template and personal registration/submission details remain outstanding. No signup or submission.
+- **Homingo** is free, solo, India-wide, AI tools allowed and has a ₹5,000 top prize; registration closes 2026-11-15 23:59 IST. It requires a public repo, demo video and live finalist demo; payout rail/escrow are unknown. Conditional hold.
+- **Rejected**: NASCA ($25 entry and in-kind awards), ZIVOX (₹199 entry), HSTLE (human tasks and ID/face verification). USAVCO, SiddhiXsys and RunToo remain search-only discoveries.
+- Pipeline remains eligible 0; proposal-ready 0; approved-to-contact 0; submitted 0; accepted 0; delivered 0; approved 0; payable 0; cash received 0. No account, ID, wallet, payout details, proposal, public comment, contract, payment or commitment was made.
 
 ## Purpose
 A deduplicated discovery registry for candidate revenue sources and a separate opportunity ledger. A domain in this registry is not proof of a live job, buyer, AI permission, payment, or India payout eligibility.
@@ -14,12 +27,12 @@ A deduplicated discovery registry for candidate revenue sources and a separate o
 - **Proposal-ready**: exact scope, buyer, AI policy, acceptance, India payout and payment evidence are verified. This is deliberately stricter than discovery.
 
 ## Current coverage
-- Unique source domains: **353** (35.3% of the 1,000-domain target).
-- Domains with direct page/feed inspection: **144**.
-- Job-level verified source domains: **45**.
+- Unique source domains: **361** (36.1% of the 1,000-domain target).
+- Domains with direct page/feed inspection: **151**.
+- Job-level verified source domains: **49**.
 - Index-only verified source domains: **6**.
-- Opportunity records in the current ledger: **128** (unique URLs; this includes five clearly labelled platform-program records, not five job listings).
-- Opportunity verification: **113 directly verified exact/program pages**, plus **27 aggregator/index-evidence records** and **6 search-only records**; categories can overlap.
+- Opportunity records in the current ledger: **136** (unique URLs; includes platform programmes and competitions, not all ordinary paid jobs).
+- Opportunity verification: **120 directly verified exact/program pages**, plus **27 aggregator/index-evidence records** and **6 search-only records**; categories can overlap.
 - Pipeline: eligible 0; proposal-ready 0; approved-to-contact 0; submitted 0; accepted 0; delivered 0; approved 0; payable 0; cash received 0.
 - Search-result discovery is not counted as direct page verification. A directory listing is not counted as an official organiser page. A platform-reported prize or payout is not independent proof of cash received by this owner.
 
