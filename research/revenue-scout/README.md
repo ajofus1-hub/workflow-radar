@@ -778,3 +778,5 @@ No accounts, registrations, proposals, claims, PRs, messages, wallets, ID upload
 - Cash received: **$0**. No proposals, submissions, accounts, wallet connections, ID uploads, payout setup, deposits or commitments.
 
 Full evidence: [Run 21 research report](run-21-2026-11-14.md).
+
+- Immediate conditional prize lead: Apart Research AI x Epistemics is still live; **$2,000 total**, AI tools allowed, solo/global, deadline **16 Nov 2026 17:29 IST**. Official terms document US charity bank transfer via Mercury and SWIFT for Indian bank accounts; no escrow. Existing private six-page draft is not submission-ready until official-template and author/affiliation requirements are resolved. No registration, terms acceptance or submission.
