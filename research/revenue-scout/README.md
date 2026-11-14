@@ -766,10 +766,10 @@ No accounts, registrations, proposals, claims, PRs, messages, wallets, ID upload
 
 ## Run 21 — 14 November 2026, 20:47 IST
 
-- Source registry: **419 unique domains**; **203 directly inspected**; **68 with exact job/program verification**. Duplicate domains: 0.
+- Source registry: **419 unique domains**; **203 directly inspected**; **69 with exact job/program verification**. Duplicate domains: 0.
 - Opportunity ledger: **240 unique opportunity/program URLs**; **213 directly verified records**; **31 aggregator-index records**. Duplicate URLs: 0.
-- Added seven source domains: Agentware Hackathon, Hackathon Raptors, IMLO, Anna AI OS, SellYourBots, Huntr, and BountyHub.
-- Added eleven exact opportunity/program records; these are not eleven paid jobs.
+- Added six new source domains: Agentware Hackathon, Hackathon Raptors, IMLO, Anna AI OS, SellYourBots, and Huntr. BountyHub was already registered and its exact funded issue was refreshed.
+- Added eight new exact opportunity/program records; three matching records already existed and were refreshed rather than duplicated.
 - Jobbi's 688-open-gig feed yielded no task meeting machine acceptance + escrow + USD + fiat payout simultaneously: the four exact matches were native Gnosis payments estimated at $0.01 each.
 - BountyHub's $5,000 microG RCS bounty is genuinely prefunded, but the GitHub issue is locked and requires human maintainer acceptance and real-device testing.
 - Agentware ($1,800) is the strongest future AI-agent competition, but Discord registration and India payout terms remain unresolved. Private planning-only preparation was created outside this public repo.
