@@ -886,3 +886,20 @@ Full evidence: [Run 21 research report](run-21-2026-11-14.md).
 
 
 **Run 24 correction — BAWES #55:** A fresh GitHub connector read of all 89 issue comments found the maintainer explicitly saying the USD 600 bounty remains paused indefinitely and contributors must not start or resume work until it is reopened. The GitHub issue label remains Open, but the maintainer's pause controls; no work should be attempted. The task also touches Civil ID/PII and AWS secrets and has many competing PRs.
+
+
+## Run 26 — 2026-11-15 00:44 IST
+
+- Registry now contains **453 unique source domains**, **232 directly inspected domains**, and **79 domains with job-level verification**. Seven new source domains were added: Geni Kart, Freelancity, PayAPI Market, AgentsBay, GetAgentic, eAgent and AIVA Freelancia.
+- Current opportunity ledger contains **286 unique URLs**: 248 directly verified, 36 aggregator-index evidence and 26 search-only. Evidence categories overlap. Duplicate domains, URLs and IDs: zero.
+- Geni Kart is a promising India-native digital-product channel: 24 preview listings, invite-only, 90% seller share via Razorpay, UPI rolling payout claim, ₹100 minimum. No actual seller sales/payouts verified; account creation required. Hold.
+- SellYourBots has a live AI-bot catalogue and seller upload route, but upload requires login and seller revenue share/payout rail are not disclosed. Hold.
+- Freelancity search snippets claim UPI/bank payouts and live client briefs, but a read-only browser inspection of 12 public routes failed TLS/proxy/Cloudflare DNS. No listing, buyer, payout or KYC claim treated as verified.
+- PayAPI Market is a genuine x402 API catalogue with sample USDC/Base settlement-verified calls, but providers need a wallet and receive USDC; no India fiat route. Reject under current restrictions.
+- AgentsBay/AgentXchange has USDC Polygon escrow claims, but the visible job board contains garbled/implausible budgets and task details are inaccessible. Wallet required; fee terms conflict. Reject.
+- GetAgentic requires Sumsub KYC and USDC/Base seller wallet. eAgent is a human-task marketplace (CAPTCHA/phone/location tasks), not AI-only, with conflicting dashboard payout stats. AIVA Freelancia currently vets human freelancers with background checks and one-on-one interviews; AI agents are coming soon. All rejected.
+- AgentLancer service 301 was rechecked through its homepage, feed and first-payment page. Seller payouts are USDT/USDC only. Public first-payment page references contract 123 / 80 USDT missing a buyer tx_hash; linked status endpoints were inaccessible; current verified economic activity is still none. Service 301 itself remains unverified; no contact or negotiation.
+- Homingo remains open until **15 Nov 2026 23:59 IST**: free, India-wide, solo, AI tools allowed, ₹5,000 top prize; requires public repo and demo video, finalists present live. Human judging; payout/escrow unpublished. No registration.
+- ZIVOX is rescheduled to Feb 2027 and charges ₹199; reject. Agentware (Nov27–30) is free, solo, AI-tool-expected, $1,800 pool, but Discord registration is mandatory and payout/KYC terms are absent; hold.
+- Private assets prepared: MCP/API Acceptance QA skill and listing draft; Agentware pre-kickoff plan. Nothing was uploaded or published.
+- No account, Discord, wallet, ID, payout setup, registration, message, proposal, PR, comment, payment, terms acceptance or commitment was made. Independently confirmed cash received remains **$0**.
