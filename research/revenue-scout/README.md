@@ -905,17 +905,18 @@ Full evidence: [Run 21 research report](run-21-2026-11-14.md).
 - No account, Discord, wallet, ID, payout setup, registration, message, proposal, PR, comment, payment, terms acceptance or commitment was made. Independently confirmed cash received remains **$0**.
 
 
-## Current files (Run 26)
+## Current files (Run 27)
 
 - [Cumulative source registry](source-registry.csv)
 - [Current opportunity ledger — 2026-11-15](opportunity-ledger-2026-11-15.csv)
 - [Run 26 report](run-26-2026-11-15.md)
+- [Run 27 report](run-27-2026-11-15.md)
 
 
 ## Run 27 — 15 November 2026
 
-- Registry: **468 unique source domains**, 245 directly inspected, 84 job-level verified.
-- Opportunity ledger: **294 unique opportunity/program URLs**, 254 directly verified, 39 aggregator-index records (categories overlap).
+- Registry: **473 unique source domains**, 250 directly inspected, 84 job-level verified.
+- Opportunity ledger: **294 unique opportunity/program URLs**, 253 directly verified, 40 aggregator-index records (categories overlap).
 - Added 20 source domains and 8 new opportunity records; corrected the fake Build with AI 2026 prank site.
 - Best near-term conditional cash lead: Apart Research AI x Epistemics, deadline **16 Nov 2026 17:29 IST**, $2,000 cash pool and Indian SWIFT bank-transfer terms. Private draft passed 10 tests, but official template and owner submission details remain outstanding.
 - Best upcoming India-payable research prize: Apart Research Threat Intelligence & Threat Modelling, **$5,000**, Dec4–6, global/solo, AI tools allowed, Indian SWIFT bank transfer; no escrow; Apart's prize terms grant a worldwide non-exclusive royalty-free licence to submissions.
