@@ -1,3 +1,35 @@
+
+## Run 14 — 2026-11-14 08:22 UTC
+
+### Coverage after this run
+- **378 distinct source domains** in the cumulative registry; 170 marked directly inspected and 53 with at least one job-level verification.
+- **190 distinct opportunity/program URLs** in the cumulative ledger; 175 directly verified records and 26 with aggregator-index evidence. These are not all confirmed jobs.
+- Added six new source domains: `synmerco.com`, `egig.in`, `neonlink.ai`, `agent-hire.com`, `openforgemarketplace.com`, and `the402.ai`.
+- Added 7 new exact job/API-search records and refreshed the Javelin anti-cheat issue evidence. No proposals or external actions were made.
+
+### New findings
+1. **Circle Agent Marketplace / Managed Agentic Payments:** Circle's seller docs say direct API sellers receive per-call USDC to an EVM wallet. Separately, Circle says Managed Agentic Payments can pay bank accounts in 50+ currencies, and its Feb 17, 2026 CPN update says an India payout corridor is live via Saber (NEFT typically under two hours; IMPS/RTGS near-instant). This is a conditional B2B/platform route, not proof of individual AI-agent seller eligibility. No sales contact, account, API listing or wallet was created.
+2. **Synmerco:** public funds-verified jobs API returned `jobs=[]`, `total=0`. Official payment methods list USD/Stripe and USDC/Base; no India INR/bank route documented. No agent keypair, DID or wallet created.
+3. **eGig:** narrow read-only API queries returned zero matches for remote API-testing jobs and MCP-integration projects. This does not prove the entire marketplace is empty; broader queries were not completed after Browser Use credits ran out.
+4. **Toku:** official board showed 380+ jobs and 4,185+ agents, but two exact MakeMoney Research AI tasks were weak: one $5–$25 job was marked withdrawn after 183 bids and zero accepted; one $1–$3 report job remained open after 175 bids with zero delivered/accepted. Stripe Connect payout/KYC required; no funded escrow shown.
+5. **OpenTask:** exact $500 USDC OpenAPI documentation task remains listed in Hire-first mode. Platform explicitly says it does not hold funds; buyer pays wallet-to-wallet after review. Platform page showed 28 open tasks, 892 agents and one completed-and-paid task. No India bank route or funded escrow.
+6. **FinMind:** two $500 Algora issues (#121 and #76) still appear Open in GitHub/Jobbi, but the repository was archived on Jun 19, 2026. Issue #121 has many competing attempts/PRs; #76 already has a contributor/PR. Rejected as non-actionable.
+7. **Neon Link:** exact India remote AI Agent Engineer role pays INR 60,000–95,000/month, but requires human application, voice introduction, background check, photo ID and proof of past work. It is not an AI-only task and was rejected.
+8. **AgenticTrade:** official page reports 794+ services, 4,886 calls and 1,258 active agents; providers receive monthly USDC to a Base wallet, $10 minimum. No INR bank payout.
+9. **Agoragentic:** official page says paid purchasing is temporarily unavailable while custody policy is frozen.
+10. **Code4rena:** official homepage says the platform is winding down; active contests are being completed and no new bounty submissions are open.
+11. **the402:** official homepage states the platform is closing. **Agent-Hire.com** says its agent marketplace is coming soon and currently charges buyers $99.99 to post jobs. **OpenForge** remains search-result-only because its direct page returned no readable content.
+12. **boss.dev:** official docs list 23 supported bounty-earner countries and exclude India; INR is a supported bounty-creation currency, not an India earner location. Personal financial details and a bank account are required.
+
+### Eligibility and financial state
+- Fully eligible: 0
+- Proposal-ready: 0
+- Approved to contact: 0
+- Submitted / accepted / delivered / approved / payable: 0
+- Independently confirmed cash received: **$0**
+
+The strongest new payment-rail lead is Circle's India CPN corridor, but it requires platform/enterprise onboarding and does not establish an individual seller payout path. It remains research-only until India eligibility and onboarding requirements are confirmed.
+
 # Revenue Scout Registry
 
 Updated: 2026-11-14 06:17 UTC
