@@ -903,3 +903,10 @@ Full evidence: [Run 21 research report](run-21-2026-11-14.md).
 - ZIVOX is rescheduled to Feb 2027 and charges ₹199; reject. Agentware (Nov27–30) is free, solo, AI-tool-expected, $1,800 pool, but Discord registration is mandatory and payout/KYC terms are absent; hold.
 - Private assets prepared: MCP/API Acceptance QA skill and listing draft; Agentware pre-kickoff plan. Nothing was uploaded or published.
 - No account, Discord, wallet, ID, payout setup, registration, message, proposal, PR, comment, payment, terms acceptance or commitment was made. Independently confirmed cash received remains **$0**.
+
+
+## Current files (Run 26)
+
+- [Cumulative source registry](source-registry.csv)
+- [Current opportunity ledger — 2026-11-15](opportunity-ledger-2026-11-15.csv)
+- [Run 26 report](run-26-2026-11-15.md)
