@@ -14,11 +14,12 @@ A deduplicated discovery registry for candidate revenue sources and a separate o
 - **Proposal-ready**: exact scope, buyer, AI policy, acceptance, India payout and payment evidence are verified. This is deliberately stricter than discovery.
 
 ## Current coverage
-- Unique source domains: **304** (30.4% of the 1,000-domain target).
-- Domains with direct page/feed inspection: **97**.
-- Job-level verified source domains: **44**.
-- Opportunity records in the current ledger: **115** (distinct opportunity rows).
-- Opportunity verification: **102 directly verified exact pages**, plus aggregator/index evidence and search-result-only records; categories can overlap because an exact aggregator API listing can also be directly opened.
+- Unique source domains: **353** (35.3% of the 1,000-domain target).
+- Domains with direct page/feed inspection: **143**.
+- Job-level verified source domains: **45**.
+- Index-only verified source domains: **6**.
+- Opportunity records in the current ledger: **128** (unique URLs; this includes five clearly labelled platform-program records, not five job listings).
+- Opportunity verification: **113 directly verified exact/program pages**, plus **27 aggregator/index-evidence records** and **6 search-only records**; categories can overlap.
 - Pipeline: eligible 0; proposal-ready 0; approved-to-contact 0; submitted 0; accepted 0; delivered 0; approved 0; payable 0; cash received 0.
 - Search-result discovery is not counted as direct page verification. A directory listing is not counted as an official organiser page. A platform-reported prize or payout is not independent proof of cash received by this owner.
 
@@ -387,3 +388,66 @@ No opportunity passed all current rules. No proposal, bid, comment, account, wal
 - https://hack4hack.com/hackathons/ml-challenge-qg4o
 - https://hack4hack.com/hackathons/buildathon-1-0-7ruu
 - https://indiahackathons.com/ai-hackathons
+
+
+## Run 9 — 2026-11-14 03:20 UTC
+
+### Coverage and provenance
+- Added **21** new candidate websites: OddJob, Karmyug AI, MyTypingAI, TaskBridge AI, Corpshore/Jwuma, SELQIK, UserNinjas, BountyCore, 4mo, StudentCompetitions, NX-913, DevNovate, Agrenting, CoreDhristi, WorkMart, MeatLayer, Mundane, HumanLayer, ClawTasks, TaskPool and AgentBaazar.
+- Two additions (4mo and DevNovate) remain search-result discovery only because direct page attempts returned no readable content. The other 19 pages were directly inspected.
+- Updated HackLoop from search-only to direct directory-page verification; its Homingo entry is index-only, not payer evidence.
+- Source registry now has **353 unique domains**, **143 directly inspected**, **45 exact job-level verified** and **6 index-only**.
+- Opportunity ledger now has **128 unique URLs**: **113 directly verified**, **27 with aggregator/index evidence**, **6 search-only**. Five new records are clearly labelled platform programmes rather than specific job listings.
+
+### Strongest new agent-service channels (none eligible yet)
+- **Agrenting** — official directory showed 192 provider agents and 56 recently active; these are providers, not jobs. Docs state buyers pre-fund balance escrow, providers retain 95% after 5% fee, and task settlement has a 24-hour dispute window. Withdrawals are only documented through NOWPayments stablecoins (USDT/USDC/DAI), $10–$5,000, 1% fee plus network fee. Paid work requires the agent to be claimed under the owner's account; no India bank/UPI rail is documented. No agent registered and no wallet connected.
+- **CoreDhristi** — claims 80% creator share, monthly NEFT/IMPS, ₹1,000 minimum and 21-day hold. Custom developer projects use four 25% milestone escrow tranches. The public bids page remained at "Loading briefs"; no exact buyer project or funded milestone was visible. Account and phone OTP required; creator identity-verification method is unclear. No signup.
+- **SELQIK** — India-focused digital/AI-agent marketplace, free listing, 3% escrow fee, 24-hour buyer confirmation and UPI payout claimed. Homepage showed **0 live listings** and **0 escrow protections**. Seller verification tiers are email, phone+email and original-creator verification. No listing posted.
+- **AgentBaazar** — invite-only beta for MCP skills, UPI and 4% network fee claimed; no public buyer task, escrow proof or verified payout. Waitlist requires personal details; no waitlist submitted.
+- **TryAPI** remains a provider-program candidate only: 70% share and $50 withdrawal threshold, but its provider guide does not specify payout rail or India eligibility; an existing owned API is required.
+
+### Exact new job and rejected India task sources
+- **Karmyug AI — Tamil Samvaad** exact listing is open until Dec 30, with a 10,000-hour target and 300–1,200 second clips. It requires two human speakers, genuine natural Tamil conversations, consent and manual audio QA; artificial recordings are not allowed unless explicitly authorised. Public rate is hidden in the dashboard; homepage claims weekly UPI/bank and one-time government ID verification. Rejected as human-only and account/ID gated.
+- **OddJob** directly inspected; its live board showed **0 tasks**. It claims UPI payment after poster approval, but task categories include Google Reviews and Product Hunt upvotes, plus WhatsApp instructions and manual review. Rejected.
+- **MyTypingAI** advertises ₹0.05–₹5 per manual CAPTCHA/typing/data-entry task and ₹300–₹3,000 withdrawal thresholds; page showed 0 reviews and 0 verified members. Rejected.
+- **TaskBridge AI** requires government photo ID and a live face photo; work is human labeling/rating/transcription, manually reviewed and paid weekly by PayPal/AirTM. Rejected.
+- **Jwuma/Corpshore** explicitly requires an identity document and camera check; India work is human annotation, response ranking, transcription, translation and field tasks. Weekly Wise payout is claimed. Rejected.
+- **UserNinjas** pays human usability-study participants to INR bank/UPI after session approval; exact studies are hidden behind sign-in. Rejected.
+- **BountyCore** claims 200+ tasks/day and $1.8M+ paid, but no independent payment evidence or exact buyer listing was found; categories are surveys, app testing, product testing and content engagement. Rejected.
+- **WorkMart, MeatLayer, Mundane, HumanLayer and TaskPool** route tasks to humans for local errands, field visits, deliveries, photos or in-person verification; rejected.
+- **ClawTasks** paid-bounty programme is winding down; current tasks are free-only and legacy claims require a wallet and 10% stake. Rejected.
+- **4mo** remains search-only; snippets describe consumer surveys, video/ad viewing, referrals and KYC, not AI-only work.
+
+### Current competitions rechecked
+- **Apart Research — AI x Epistemics** is live and online; solo entry and AI tools are allowed. Official deadline is Nov 15 11:59 PM AoE = **Nov 16 11:59 UTC / 17:29 IST**. The page showed 1,488 signed up. Prize pool is $2,000, judged by humans (not machine-graded). Official terms say Ashgro Inc (US 501(c)(3)) pays by bank transfer and Indian recipients must provide SWIFT details; no public escrow. A private OpportunityProof draft exists but is not a validated final submission. No registration, terms acceptance or submission.
+- **Homingo Hack Days** remains open until Nov 15 23:59 IST, ₹5,000 top prize, AI tools allowed and online. It requires a public repo, short demo video and online finalist demo; payout rail/escrow are not stated and the organiser's Luma listing targets students/early-career developers. NX-913 has a stale conflicting Nov 9 deadline; use the official Homingo page, which says Nov 15.
+- **Code for a Billion** official page confirms Nov 15 submission deadline and ₹18 lakh advertised pool; requires AgentFoundry account and open-source deployment, payout rail not stated. No account created.
+
+### Current pipeline
+No opportunity passed every owner constraint. No account, wallet, payout setup, ID upload, registration, proposal, bid, comment, message, contract, deposit or public listing was made. AgentLancer service 301 remains separately tracked and has no verified buyer order or payment. Cash received remains **$0**.
+
+### Run 9 source pages inspected
+- https://oddjob.co.in/
+- https://work.karmyug.in/jobs/8071afb8-4c64-46a0-9a24-f7f244cc4707
+- https://mytypingai.com/
+- https://taskbridgeai.cloud/
+- https://platform.corpshore.ai/india
+- https://selqik.com/
+- https://www.userninjas.com/opportunities
+- https://www.bountycore.com/earn/india
+- https://studentcompetitions.com/index.php/competitions/homingo-hack-days
+- https://nx-913.com/
+- https://agrenting.com/earn
+- https://agrenting.com/docs/financial
+- https://www.coredhristi.com/marketplace/bids
+- https://www.agentbaazar.com/
+- https://workmartjobs.com/
+- https://meatlayer.ai/
+- https://mundane.market/
+- https://humanlayer.vercel.app/
+- https://clawtasks.com/
+- https://www.taskpool.ai/
+- https://apartresearch.com/sprints/ai-x-epistemics-research-sprint-2026-11-13-to-2026-11-15
+- https://apartresearch.com/sprints/prize-terms
+- https://hackathon.homingo.co.in/
+- https://app.hackthefuture.co.in/futurehack
