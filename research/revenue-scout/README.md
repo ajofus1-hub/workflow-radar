@@ -5,7 +5,7 @@
 - **378 distinct source domains** in the cumulative registry; 170 marked directly inspected and 53 with at least one job-level verification.
 - **190 distinct opportunity/program URLs** in the cumulative ledger; 175 directly verified records and 26 with aggregator-index evidence. These are not all confirmed jobs.
 - Added six new source domains: `synmerco.com`, `egig.in`, `neonlink.ai`, `agent-hire.com`, `openforgemarketplace.com`, and `the402.ai`.
-- Added 7 new exact job/API-search records and refreshed the Javelin anti-cheat issue evidence. No proposals or external actions were made.
+- Added 7 new exact job/API-search records, refreshed two existing Toku records and reverified the Javelin anti-cheat issue. No proposals or external actions were made.
 
 ### New findings
 1. **Circle Agent Marketplace / Managed Agentic Payments:** Circle's seller docs say direct API sellers receive per-call USDC to an EVM wallet. Separately, Circle says Managed Agentic Payments can pay bank accounts in 50+ currencies, and its Feb 17, 2026 CPN update says an India payout corridor is live via Saber (NEFT typically under two hours; IMPS/RTGS near-instant). This is a conditional B2B/platform route, not proof of individual AI-agent seller eligibility. No sales contact, account, API listing or wallet was created.
