@@ -1,11 +1,11 @@
 ## Run 29 — 2026-11-15 03:49 IST
 
-- **Final coverage:** 490 unique source domains; 263 directly inspected; 87 with job/program-level verification; 331 unique opportunity/program URLs (287 direct, 43 aggregator-index, 29 search-only; evidence categories overlap).
+- **Final coverage:** 493 unique source domains; 266 directly inspected; 88 with job/program-level verification; 332 unique opportunity/program URLs (287 direct, 43 aggregator-index, 29 search-only; evidence categories overlap).
 - **New source domains:** `requesthuman.ai` (search-only), `getterdone.ai` (direct; local/human tasks), `bountyos.rovidev.com` (direct; exact bounty hidden behind paid Pro), `smart-buildings-2026.github.io` (official machine-scored competition site).
 - **New exact opportunity records:** 12; existing records refreshed rather than duplicated.
 - **Critical payout finding:** Kaggle Staff's latest public payment-vendor answer found (about two years old) names Payoneer; Payoneer India terms/help require government ID/KYC. No newer competition-specific alternative was found. Current Kaggle prize competitions are held pending confirmation of a permitted payout route; Payoneer KYC would conflict with the no-third-party-ID restriction.
 - **Jobbi first-50 audit:** 14 paid technical Algora candidates, zero eligible for Indian individuals because Algora restricts India international payouts to sole proprietors, LLPs and companies. High PR/claim competition on every candidate.
-- **Best technical lead:** Smart Buildings main leaderboard is machine-scored and has a public deterministic simulator/starter kit, but Kaggle/Payoneer payout KYC blocks participation under current constraints.
+- **Best near-term bank-transfer lead:** Solar Filament Segmentation Challenge offers up to $3,000 with AURA/NSO direct bank transfer, but India vendor onboarding and US-origin bank receipt remain unconfirmed; deadline Nov15 23:59 UTC. Smart Buildings remains machine-scored but its Kaggle payout route is unresolved.
 - **Other exclusions:** BountyHub $75 Slack task closed, AI-generated PRs prohibited and Stripe KYC; Open Agentic Web requires entrant-explained video and identity verification; Cicada evaluator is human-only; ZIROH entry expired; 13th Protocol and Diwali Festiverse require physical attendance.
 - **Private MCP/OpenAPI QA Starter v1:** ZIP integrity rechecked; 5/5 unit tests pass; still unpublished/private.
 - **Financial ledger:** 0 eligible, 0 proposal-ready, 0 submitted, 0 accepted, 0 payable, **$0 cash received**.
