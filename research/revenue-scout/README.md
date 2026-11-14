@@ -14,11 +14,11 @@ A deduplicated discovery registry for candidate revenue sources and a separate o
 - **Proposal-ready**: exact scope, buyer, AI policy, acceptance, India payout and payment evidence are verified. This is deliberately stricter than discovery.
 
 ## Current coverage
-- Unique source domains: **294** (29.4% of the 1,000-domain target).
-- Domains with direct page/feed inspection: **88**.
-- Job-level verified source domains: **39**.
-- Opportunity records in the current ledger: **107** (distinct listing URLs).
-- Opportunity verification: **94 directly verified exact pages**, plus aggregator/index evidence and search-result-only records; categories can overlap because an exact aggregator API listing can also be directly opened.
+- Unique source domains: **304** (30.4% of the 1,000-domain target).
+- Domains with direct page/feed inspection: **26**.
+- Job-level verified source domains: **21**.
+- Opportunity records in the current ledger: **115** (distinct opportunity rows; each task has its own exact URL where the source provides one).
+- Opportunity verification: **101 directly verified exact pages**, plus aggregator/index evidence and search-result-only records; categories can overlap because an exact aggregator API listing can also be directly opened.
 - Pipeline: eligible 0; proposal-ready 0; approved-to-contact 0; submitted 0; accepted 0; delivered 0; approved 0; payable 0; cash received 0.
 - Search-result discovery is not counted as direct page verification. A directory listing is not counted as an official organiser page. A platform-reported prize or payout is not independent proof of cash received by this owner.
 
@@ -287,3 +287,49 @@ Counts below are recalculated from the persisted CSV files, not copied from earl
   - `/mnt/data/apart-threat-intel-private-brief.md`
   - `/mnt/data/codegeist-taskproof-private-brief.md`
 - Actual income remains **USD 0 independently confirmed cash received**.
+
+
+## Run 8 — 2026-11-14 07:48 IST
+
+### Coverage refresh
+- Added 10 new unique root domains after checking the existing registry for duplicates. Source registry now contains **304 unique domains**.
+- Directly inspected source domains now total **26**; domains with at least one exact job/event page inspected total **21**.
+- Added 8 new opportunity rows. The ledger now contains **115 opportunity records**. Existing Apart Research AI x Epistemics, Threat Intelligence, and Agent Attribution records were refreshed from the official pages during this run.
+- Search-result discovery, direct page verification, and exact job verification remain separate. The MPOnline result is search-only; the Cicada Unstop listing is search-only even though Cicada's own homepage was directly inspected.
+
+### Strongest current conditional lead
+**Apart Research — AI x Epistemics Research Sprint** remains live. The official page says 1,485 signed up; submission closes **16 November 2026 at 11:59 UTC (17:29 IST)**. It is global/online, solo participation is allowed, AI tools are explicitly permitted, and the cash pool is **$2,000**. Expert judges score submissions; this is not machine-graded and there is no public escrow. Apart's prize terms say Ashgro Inc pays by bank transfer through Mercury and Indian recipients must provide SWIFT details. The private OpportunityProof report is a draft only; the official template has not been copied, author details remain blank, and no registration or submission occurred.
+
+**Apart Research — Threat Intelligence & Threat Modelling** is a later conditional lead: 4–6 December 2026, $5,000 pool, global/online, solo allowed, AI tools allowed, public data only and defensive/methodology framing. The official page showed 211 signed up. It has human judging and no escrow. The event's signup form is visible; its submission widget currently reports closed before the event begins. The common Apart prize terms document SWIFT transfers for Indian bank recipients. No registration made.
+
+### Fresh rejections and holds
+- **FUTUREHACK '26:** ₹10,000 advertised; AI tools allowed and free/online, but mandatory webcam/screen/tab monitoring, live code defense and prize KYC violate the owner's camera/human-presence constraints.
+- **ai2hum BNT-057:** ₹50 for an Instagram story; personal social engagement and phone/name claim flow. The board counter says 0 open/₹0 paid while individual cards still show open slots. **BNT-052** offers ₹700 for three physical Delhi photos. Both rejected.
+- **Braintrustai Wizard:** $15/hour advertised, but the official page says US-based workers only, requires human evaluation and government ID verification. Rejected.
+- **Cicada AI Response Evaluator:** Unstop search result advertises ₹600–₹1,350/hour and bank payment, but the exact Unstop page had no readable content. Cicada's own page confirms person-specific human ratings, screen-shared sessions and written reasons. Not AI-only; rejected. Rate and payout remain search-result claims.
+- **HackIndia 13th Protocol:** ₹60,000 advertised; registration open, but final event is in person at KCCITM Greater Noida and teams must have 2–4 members. Rejected.
+- **BharatCode Build League:** ₹10,000 first prize; official deadline was 10 November and had passed. Rejected.
+- **openbounty #5 ($100) and #3 ($150):** exact agent-only tasks with objective acceptance criteria and strong MCP/agent fit, but the live site explicitly says mock-payments mode and no real funds move during MVP. Rejected.
+- **Taskuler:** escrow described in public rules, but bidders must put down a deposit and use its wallet/token. Rejected.
+- **GitReward / GitWork:** wallet connection required for payout; no exact funded task and no India off-ramp verified.
+- **Remote Adda:** official page advertises UPI/bank payouts but contributor verification requires ID and tasks include voice/photo/POV recording and human annotation. Rejected.
+- **2une:** requires Google sign-in and credential verification; work is human expert evaluation/review; no exact listing rendered. Rejected.
+- **MPOnline:** search result advertises ₹1 lakh/₹75k/₹50k technical prizes, but official page returned no readable rules, deadline or payout details. Search-only; hold.
+
+### Private work-sample integrity check
+- Re-ran the OpportunityProof test suite: **10/10 tests passed**.
+- Corrected the PDF's prior test-count typo from nine to ten; the six-page PDF and private ZIP were regenerated.
+- The report still states that it is a small convenience sample, not a validated model benchmark; no payment outcome is claimed. No submission was made.
+
+### Pipeline
+- Eligible: 0
+- Proposal-ready: 0
+- Approved to contact: 0
+- Submitted: 0
+- Accepted: 0
+- Delivered: 0
+- Approved: 0
+- Payable: 0
+- Independently confirmed cash received: **$0**
+
+No accounts, registrations, claims, proposals, comments, messages, wallets, payout methods, ID uploads, signed terms, deposits or commitments were made. AgentLancer service 301 remains tracked as a separate channel; no new funded buyer order or payment proof was found.
