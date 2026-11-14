@@ -691,3 +691,6 @@ No new opportunity is fully eligible or proposal-ready under the current rules. 
 - Independently confirmed cash received: **$0**
 
 No accounts, registrations, proposals, claims, comments, messages, wallet connections, ID uploads, payout details, software installations, terms acceptances, deposits or commitments were made.
+
+### Registry integrity correction — run 18
+- A pre-existing duplicate opportunity ID was found on two distinct GitHub URLs. The IES-BoilerRoom mirror record was renumbered to `OPP-2026-1114-218`; the FinMind record retained `OPP-2026-1114-191`. No listing URL or evidence was changed.
