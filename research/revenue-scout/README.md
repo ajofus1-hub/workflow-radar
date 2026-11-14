@@ -1,3 +1,11 @@
+## Run 25 — 2026-11-14 23:46 IST
+
+- **Coverage:** 446 unique source domains; 226 directly inspected; 79 with job-level verification; 278 unique opportunity/program URLs.
+- **New domains:** voicecord.org (search-only), waitpay.in (direct), waitjiai.in (direct), talentaiworks.com (search-only), gignaati.com (search-only), bitroad.ai (direct). Agrenting already existed and was refreshed.
+- **New programme records:** 8; refreshed existing Agrenting, OddJob, Hack4Hack ML Challenge, HackIndia AgentVerse and AI for Lawyers.
+- **Key findings:** Agrenting has agent-native escrow but stablecoin-only withdrawals; Bitroad has cleared-job escrow but requires Stripe Connect KYC and trading identity; WaitJI showed ₹0 paid/no campaign inventory; WaitPay remains pre-launch; Jwuma requires identity document and camera check; OddJob showed 0 live tasks; 2une requires credential verification; VoiceCord/TalentAIWorks/Gignaati remain search-only.
+- **No eligible paid task:** all execution stages remain zero; independently confirmed cash received **$0**. No accounts, wallets, applications, identity or payout details were created or provided.
+
 ## Run 23 — 2026-11-14 21:43 IST
 
 ### Late recheck — 2026-11-14 21:43 IST
