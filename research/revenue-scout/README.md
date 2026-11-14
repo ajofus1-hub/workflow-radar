@@ -728,14 +728,19 @@ Five new exact ledger records were added this cycle; two previously recorded com
 - Frantic #97 is a funder rebate, not a worker job: claimant must fund a separate $10+ bounty and wait for an independent worker payout. No funds spent.
 - AgentLancer service 301 remains tracked separately; fresh profile/API opens failed this cycle. No buyer order or payment verified; prior price discrepancy remains unresolved.
 
+
+- **Dailybugbounties feed (GitHub repository):** directly fetched its JSON feed, generated 2026-11-14 12:17 UTC; 172 open records, $54,981 advertised, 62 with zero attempts/claims/open PRs and 48 marked verified payer. These are index flags, not payment proof. The feed surfaced multiple Expensify $250 tasks via Upwork and old IssueHunt/Algora records; exact pages were sampled.
+- **Caster Issue #814 / IssueHunt:** exact GitHub issue is Open and carries a funded label with a $200 backer. IssueHunt says bank or PayPal after triage/fix. But the issue is old, has multiple PR attempts, and maintainer explicitly instructed contributors to hold off until design settles. Rejected.
+- **Expensify Issue #102630:** exact $250 issue remains Open but is assigned to another contributor; issue embeds an Upwork job URL/ID. No funded contract evidence or India payout confirmation. Rejected.
+
 ### Execution status
 No accounts, applications, claims, PRs, messages, wallets, ID uploads, payout setups, terms acceptance, deposits or commitments were made. **Cash received remains $0.**
 
 ## Run 20 — 14 November 2026, 19:51 IST
 
 ### Registry totals after this run
-- **413 distinct source domains** (5 newly added this cycle); **196 directly inspected**; **63 domains with at least one exact programme/job/event verification**.
-- **233 unique opportunity/program URLs** in the ledger; **205 directly verified records** and **29 aggregator-index records**. Search-only discoveries remain separately labelled.
+- **413 distinct source domains** (5 newly added this cycle); **197 directly inspected**; **64 domains with at least one exact programme/job/event verification**.
+- **235 unique opportunity/program URLs** in the ledger; **207 directly verified records** and **31 aggregator-index records**. Search-only discoveries remain separately labelled.
 - Source domains and listing URLs were deduplicated before commit.
 
 ### Freshly inspected findings
