@@ -789,7 +789,7 @@ Full evidence: [Run 21 research report](run-21-2026-11-14.md).
 - Added Execution Market and six live task records; all six are $0.01 gross, USDC/USDG wallet payout, 13% fee, and not escrow-funded while published.
 - Added exact records for Plether, Google Quantum AI, Smart Buildings, Enveda, HackIndia AI for Lawyers and STEM Next. Refreshed AWS MSP, Meta VR Start, Codegeist, Firebase Hybrid AI, Epic AI MegaJam, NEAR and Name That LLM.
 - Strongest technical lead: Google Quantum AI $150K, explicitly AI-agent oriented and machine-verifiable; official rules now confirm Payoneer and W-8BEN/eligibility paperwork, with possible identity/residency verification. No Kaggle account or rules accepted.
-- Best explicit AI-coding cash hackathon: #BuildHybridAI $30K; India not excluded; rules endpoint 403 and payout rail unverified.
+- Best explicit AI-coding cash hackathon: #BuildHybridAI $30K; India not excluded; official rules search-result text confirms bank transfer or mailed prize within 60 days after forms, W-8BEN for non-US, and winner identity/role verification plus broad publicity release. Rejected under current no-ID/privacy restrictions.
 - Codegeist offers six $1.5K Best Agents and six $1.5K Atlassian MCP awards; AI policy not explicit; identity/qualification verification and account requirements remain blockers.
 - Fully eligible direct paid jobs: 0. Cash received: $0. No proposals, accounts, wallets, ID, payout details, terms, deposits or commitments.
 - Full report: [run-22-2026-11-14.md](run-22-2026-11-14.md).
