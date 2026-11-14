@@ -10,7 +10,7 @@
 - **Algora payment rules:** official Algora payment documentation in its GitHub repository directly inspected. India international payouts are limited to sole proprietors, LLPs and companies, not individuals; Stripe will not process payments without required credentials/authorisations. Official docs say 1–3 business days after payment completion; issue bot messages may state 2–5 days after reward.
 
 ### Coverage after this run
-- **436 distinct source domains** in the cumulative registry; **216** directly inspected; **74** with at least one exact job/competition/program page verified.
+- **436 distinct source domains** in the cumulative registry; **217** directly inspected; **74** with at least one exact job/competition/program page verified.
 - **263 unique opportunity/program URLs** in the cumulative ledger; **230** directly verified records, **34** with aggregator/index evidence and **17** search-only records. Evidence categories overlap; these are not 263 paid jobs.
 - Added 12 source domains: `humanping.io`, `human-mcp.io`, `devhunt.org`, `realityperception.com`, `aiyuva.online` (search-only), `x-machina.in` (search-only), `quantum-brief.com`, `hackodds-live.vercel.app`, `worldengineeringday.net`, `developerweek.com`, `redclara.net` (search-only), and `dorahacks.io` (search-only).
 - Added 12 opportunity/program snapshots. Refreshed the existing Google Quantum AI competition record rather than duplicating it.
