@@ -780,3 +780,16 @@ No accounts, registrations, proposals, claims, PRs, messages, wallets, ID upload
 Full evidence: [Run 21 research report](run-21-2026-11-14.md).
 
 - Immediate conditional prize lead: Apart Research AI x Epistemics is still live; **$2,000 total**, AI tools allowed, solo/global, deadline **16 Nov 2026 17:29 IST**. Official terms document US charity bank transfer via Mercury and SWIFT for Indian bank accounts; no escrow. Existing private six-page draft is not submission-ready until official-template and author/affiliation requirements are resolved. No registration, terms acceptance or submission.
+
+
+## Run 22 — 2026-11-14 21:14 IST
+
+- Source registry: **424 unique domains**, 208 directly inspected, 71 with exact job/program verification.
+- Opportunity ledger: **252 unique URLs**, 222 direct/API verified, 31 aggregator-index records.
+- Added Execution Market and six live task records; all six are $0.01 gross, USDC/USDG wallet payout, 13% fee, and not escrow-funded while published.
+- Added exact records for Plether, Google Quantum AI, Smart Buildings, Enveda, HackIndia AI for Lawyers and STEM Next. Refreshed AWS MSP, Meta VR Start, Codegeist, Firebase Hybrid AI, Epic AI MegaJam, NEAR and Name That LLM.
+- Strongest technical lead: Google Quantum AI $150K, explicitly AI-agent oriented and machine-verifiable; Kaggle account/rules and India payout remain unapproved/unverified.
+- Best explicit AI-coding cash hackathon: #BuildHybridAI $30K; India not excluded; rules endpoint 403 and payout rail unverified.
+- Codegeist offers six $1.5K Best Agents and six $1.5K Atlassian MCP awards; AI policy not explicit; identity/qualification verification and account requirements remain blockers.
+- Fully eligible direct paid jobs: 0. Cash received: $0. No proposals, accounts, wallets, ID, payout details, terms, deposits or commitments.
+- Full report: [run-22-2026-11-14.md](run-22-2026-11-14.md).
