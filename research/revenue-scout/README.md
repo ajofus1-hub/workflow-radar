@@ -1,3 +1,51 @@
+## Run 17 — 2026-11-14 16:49 IST
+
+### Coverage after this run
+- **396 distinct source domains** in the cumulative registry; **182** directly inspected; **59** with at least one exact job/competition page inspected.
+- **208 distinct opportunity/program URLs** in the cumulative ledger; **188** directly verified records, **29** with aggregator/index evidence and **11** search-only records (evidence categories overlap; these are not 208 paid jobs).
+- Added six source domains: `workpnp.com`, `kariant.app`, `wecodecoders.in`, `viamu.app`, `loopuman.com` (search-only) and `finalleg.ai` (search-only).
+- Added four opportunity/program records: CodeZen India 2026, WorkPNP OpenThomas task, Kariant partner listing programme and ViAmu's stale AI Incident Response Sprint. Refreshed Apart Research AI x Epistemics, Threat Intelligence & Threat Modelling, Agent Attribution, and FUTUREHACK.
+
+### New findings
+1. **Apart Research AI x Epistemics:** official page now shows 1,510 signed up. The event is global, online, solo-eligible and explicitly permits AI tools. $2,000 cash pool. Deadline is **2026-11-16 17:29 IST** (Nov15 23:59 AoE / Nov16 11:59 UTC). The submission form requires title, summary, PDF, team name/location and author name/email; a 3–5 minute presentation recording is optional. Official prize terms name Ashgro Inc, require SWIFT details for Indian bank recipients, and say tax withholding applies based on treaty status. No escrow; human judging. No registration, terms acceptance or submission.
+2. **Apart Research Threat Intelligence & Threat Modelling Hackathon:** official page confirms Dec4-6 online, 217 signed up, $5,000 cash pool, AI tools explicitly allowed, global/solo entry and a public-data-only defensive research scope. Deadline Dec6 23:59 AoE = Dec7 17:29 IST. Common Apart prize terms specify SWIFT for Indian bank recipients. No escrow; human judging. Strong upcoming conditional lead; no registration.
+3. **Apart Research Agent Attribution Hackathon:** Dec11-13 online, global and solo; AI tools explicitly allowed. Track 1 has held-out test-set scoring, while expert judging applies to reports. The official page does not publish a cash prize amount; a third-party directory's $2,000 figure is unconfirmed. Do not count it as revenue.
+4. **WorkPNP:** exact open job “Submit OpenThomas to 2-3 relevant awesome-lists” is 2 USDC, posted July10, 27 bids. The separate funded filter shows **0 funded jobs**, despite the homepage's general escrow claim. Worker receives 90% in USDC Base, requires wallet and one X-account verification post. Rejected: stale, low reward, unfunded, wallet/social gates.
+5. **Kariant:** partner docs describe INR bank/UPI cashout via Razorpay/PayU for eligible Kash, but the one-time lifetime listing fee starts at ₹9,999 for AI Tools and is higher for services/software. Early partner fee-back is Koins, not immediate cash; Kash redemption is identity-verified. No exact buyer task or creator payout proof. Rejected under upfront-fee and ID restrictions.
+6. **CodeZen India 2026:** free online three-round event; AI tools allowed with disclosure; ₹50,000 total prize pool may be cash, credits or a combination. However, current undergraduate/postgraduate student eligibility is required, payout rail is unpublished, and Round1 plan is due Nov15 18:00 IST. Owner eligibility not established; no registration.
+7. **FUTUREHACK '26:** AI tools allowed and ₹10,000 pool, but official page requires webcam/screen/tab monitoring, live code defense and KYC before prize transfer. Rejected under owner constraints.
+8. **ViAmu:** aggregator page says “Open/no deadline” for AI Incident Response Sprint, but its own event dates are Sep11-13 2026. Rejected as stale.
+9. **Loopuman / Final Leg:** search-result discoveries describe human-in-the-loop or physical/local task marketplaces. These are excluded; no exact AI-only job verified.
+10. **Payout API references:** VanPaye and ZuelPay directly inspected pages advertise Indian IMPS/NEFT/RTGS/UPI disbursement APIs. These are payment infrastructure providers, not job sources or evidence that a marketplace can pay this owner. They are not counted in the source registry.
+
+### Execution and financial state
+- Fully eligible: 0
+- Proposal-ready: 0
+- Approved to contact: 0
+- Submitted / accepted / delivered / approved / payable: 0
+- Independently confirmed cash received: **$0**
+
+AgentLancer service 301 remains separately tracked. No account, registration, proposal, PR, message, public post, wallet, ID, payout details, terms acceptance, deposit or commitment was made.
+
+### Sources inspected
+- https://apartresearch.com/sprints/ai-x-epistemics-research-sprint-2026-11-13-to-2026-11-15
+- https://apartresearch.com/sprints/threat-intelligence-threat-modelling-2026
+- https://apartresearch.com/sprints/agent-attribution-2026
+- https://apartresearch.com/sprints/prize-terms
+- https://workpnp.com/jobs
+- https://workpnp.com/jobs?status=funded
+- https://workpnp.com/jobs/job_412n2v0mvb13s0jr
+- https://kariant.app/partner
+- https://support.kariant.app/kariant/partner/journey/get-started
+- https://support.kariant.app/kariant/partner/journey/list-your-offering
+- https://support.kariant.app/kariant/partner/pricing/partner-pricing
+- https://kariant.app/koins/kash
+- https://wecodecoders.in/events/codezen-india
+- https://app.hackthefuture.co.in/futurehack
+- https://viamu.app/opportunities/ai-incident-response-sprint
+- https://vanpaye.com/vanpayout.html
+- https://zuelpay.in/Payout_API
+
 
 ## Run 14 — 2026-11-14 08:22 UTC
 
