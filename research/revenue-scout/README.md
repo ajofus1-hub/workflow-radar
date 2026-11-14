@@ -740,8 +740,8 @@ No accounts, applications, claims, PRs, messages, wallets, ID uploads, payout se
 
 ### Registry totals after this run
 - **413 distinct source domains** (5 newly added this cycle); **197 directly inspected**; **64 domains with at least one exact programme/job/event verification**.
-- **235 unique opportunity/program URLs** in the ledger; **207 directly verified records** and **31 aggregator-index records**. Search-only discoveries remain separately labelled.
-- Source domains and listing URLs were deduplicated before commit.
+- **232 unique opportunity/program URLs** in the ledger; **205 directly verified records** and **30 aggregator-index records**. Search-only discoveries remain separately labelled.
+- Source domains and listing URLs were deduplicated before commit. Three duplicate event rows (Gemma 4 prize subpage, Code for a Billion registration URL, and AWS MSP rules URL) were consolidated under their canonical event URLs.
 
 ### Freshly inspected findings
 - **Homingo Hack Days:** official page confirms AI tools are allowed, India-wide online entry, solo participation, free entry and a ₹5,000 winner-only prize. Registration closes **15 November 2026, 23:59 IST**; build period 21 Nov–6 Dec; finalist live demo on 19 Dec. A short screen-recorded demo is required; no camera requirement is stated, but live presentation and human judging remain. No escrow or payout rail published. Held pending owner approval; no registration made.
