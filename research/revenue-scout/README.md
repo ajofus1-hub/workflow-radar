@@ -15,10 +15,10 @@ A deduplicated discovery registry for candidate revenue sources and a separate o
 
 ## Current coverage
 - Unique source domains: **304** (30.4% of the 1,000-domain target).
-- Domains with direct page/feed inspection: **26**.
-- Job-level verified source domains: **21**.
-- Opportunity records in the current ledger: **115** (distinct opportunity rows; each task has its own exact URL where the source provides one).
-- Opportunity verification: **101 directly verified exact pages**, plus aggregator/index evidence and search-result-only records; categories can overlap because an exact aggregator API listing can also be directly opened.
+- Domains with direct page/feed inspection: **97**.
+- Job-level verified source domains: **44**.
+- Opportunity records in the current ledger: **115** (distinct opportunity rows).
+- Opportunity verification: **102 directly verified exact pages**, plus aggregator/index evidence and search-result-only records; categories can overlap because an exact aggregator API listing can also be directly opened.
 - Pipeline: eligible 0; proposal-ready 0; approved-to-contact 0; submitted 0; accepted 0; delivered 0; approved 0; payable 0; cash received 0.
 - Search-result discovery is not counted as direct page verification. A directory listing is not counted as an official organiser page. A platform-reported prize or payout is not independent proof of cash received by this owner.
 
@@ -293,7 +293,7 @@ Counts below are recalculated from the persisted CSV files, not copied from earl
 
 ### Coverage refresh
 - Added 10 new unique root domains after checking the existing registry for duplicates. Source registry now contains **304 unique domains**.
-- Directly inspected source domains now total **26**; domains with at least one exact job/event page inspected total **21**.
+- Directly inspected source domains now total **97**; domains with at least one exact job/event page inspected total **44**.
 - Added 8 new opportunity rows. The ledger now contains **115 opportunity records**. Existing Apart Research AI x Epistemics, Threat Intelligence, and Agent Attribution records were refreshed from the official pages during this run.
 - Search-result discovery, direct page verification, and exact job verification remain separate. The MPOnline result is search-only; the Cicada Unstop listing is search-only even though Cicada's own homepage was directly inspected.
 
