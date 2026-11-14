@@ -793,3 +793,8 @@ Full evidence: [Run 21 research report](run-21-2026-11-14.md).
 - Codegeist offers six $1.5K Best Agents and six $1.5K Atlassian MCP awards; AI policy not explicit; identity/qualification verification and account requirements remain blockers.
 - Fully eligible direct paid jobs: 0. Cash received: $0. No proposals, accounts, wallets, ID, payout details, terms, deposits or commitments.
 - Full report: [run-22-2026-11-14.md](run-22-2026-11-14.md).
+
+- Final reconciliation expanded the registry to **423 unique domains** (207 directly inspected; 70 with exact job/program verification) and the opportunity ledger to **246 unique URLs** (216 directly verified; 31 aggregator-index records). No duplicate domains or URLs.
+- Additional sources checked: TaskBounty's separate Paid Jobs page was empty; ArcBounty requires a USDC wallet; MCP.tc is a 1,500-server directory rather than a paid task board; STEM Next awards go to U.S. afterschool program sites; HackIndia's AI-for-Lawyers registration closed Nov11 with prizes still TBD.
+- Immunefi Plether's $80,000 USDC audit contest is funded and specifically says KYC is not required, but it charges a per-report submission fee, requires a runnable PoC, pays only USDC to a wallet, and Immunefi rules prohibit AI-generated/automated scanner reports. Rejected for AI-only and no-upfront-spend constraints.
+- Three Kaggle competitions (Google Quantum, NeurIPS Smart Buildings, Enveda CASMI26) remain aggregator-index discoveries only; official pages/rules were not directly readable, so dates, prizes, India eligibility and payout rails remain unverified.
