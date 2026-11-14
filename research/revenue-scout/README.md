@@ -762,3 +762,19 @@ No accounts, applications, claims, PRs, messages, wallets, ID uploads, payout se
 
 ### Execution status
 No accounts, registrations, proposals, claims, PRs, messages, wallets, ID uploads, payout setups, signed terms, deposits or commitments were made. **Cash received remains $0.**
+
+
+## Run 21 — 14 November 2026, 20:47 IST
+
+- Source registry: **419 unique domains**; **203 directly inspected**; **68 with exact job/program verification**. Duplicate domains: 0.
+- Opportunity ledger: **240 unique opportunity/program URLs**; **213 directly verified records**; **31 aggregator-index records**. Duplicate URLs: 0.
+- Added seven source domains: Agentware Hackathon, Hackathon Raptors, IMLO, Anna AI OS, SellYourBots, Huntr, and BountyHub.
+- Added eleven exact opportunity/program records; these are not eleven paid jobs.
+- Jobbi's 688-open-gig feed yielded no task meeting machine acceptance + escrow + USD + fiat payout simultaneously: the four exact matches were native Gnosis payments estimated at $0.01 each.
+- BountyHub's $5,000 microG RCS bounty is genuinely prefunded, but the GitHub issue is locked and requires human maintainer acceptance and real-device testing.
+- Agentware ($1,800) is the strongest future AI-agent competition, but Discord registration and India payout terms remain unresolved. Private planning-only preparation was created outside this public repo.
+- Anna's recurring builder grants and BuildHybridAI's $30,000 prize are blocked by identity-verification/publicity requirements. Huntr and Cicada explicitly prohibit AI automation. IMLO requires a fee and pays credits only.
+- AgentLancer service 301 profile/API endpoints remain inaccessible; no buyer order or payment verified.
+- Cash received: **$0**. No proposals, submissions, accounts, wallet connections, ID uploads, payout setup, deposits or commitments.
+
+Full evidence: [Run 21 research report](run-21-2026-11-14.md).
