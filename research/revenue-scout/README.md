@@ -15,10 +15,10 @@ A deduplicated discovery registry for candidate revenue sources and a separate o
 
 ## Current coverage
 - Unique source domains: **294** (29.4% of the 1,000-domain target).
-- Domains with direct page/feed inspection: **85**.
-- Job-level verified source domains: **36**.
-- Opportunity records in the current ledger: **108** (distinct listing URLs).
-- Opportunity verification: **95 directly verified exact pages**, plus aggregator/index evidence and search-result-only records; categories can overlap because an exact aggregator API listing can also be directly opened.
+- Domains with direct page/feed inspection: **88**.
+- Job-level verified source domains: **39**.
+- Opportunity records in the current ledger: **107** (distinct listing URLs).
+- Opportunity verification: **94 directly verified exact pages**, plus aggregator/index evidence and search-result-only records; categories can overlap because an exact aggregator API listing can also be directly opened.
 - Pipeline: eligible 0; proposal-ready 0; approved-to-contact 0; submitted 0; accepted 0; delivered 0; approved 0; payable 0; cash received 0.
 - Search-result discovery is not counted as direct page verification. A directory listing is not counted as an official organiser page. A platform-reported prize or payout is not independent proof of cash received by this owner.
 
@@ -41,7 +41,7 @@ A deduplicated discovery registry for candidate revenue sources and a separate o
 ## Run 7 — 2026-11-14
 
 - Added **18 new root domains** to the deduplicated source registry; 6 were directly inspected this run. New direct job/event-level domains include OpenTrain, Geek Room, FirstHack and DevGrants Daily.
-- Added **14 new distinct listing URLs** to the opportunity ledger and refreshed two existing records (Code for a Billion and AI Vibeathon). The ledger now contains 108 distinct listing URLs.
+- Added **13 new distinct listing URLs** to the opportunity ledger and refreshed three existing records (Apart Research AI x Epistemics, Code for a Billion and AI Vibeathon). The ledger now contains 108 distinct listing URLs.
 - Directly inspected the live AI Hackathon directory: it reports 34 open events and explicitly warns that imported Unstop/Devpost entries are not hand checked. It is a discovery source, not a substitute for organiser verification.
 - Inspected five OpenTrain job pages and official payout documentation. India is supported for payout, but Stripe-hosted setup collects identity, tax and bank details; the jobs rely on human review or original engineering judgment.
 - Prepared a private **OpportunityProof** research-sprint work sample: 16-record dataset, evidence-gate CLI, 10 passing unit tests and a six-page PDF (four main pages plus appendix and references). It is not in the public repository and has not been submitted. The organiser's official Google Docs template redirects to sign-in, so the template has not been copied.
