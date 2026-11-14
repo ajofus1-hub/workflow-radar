@@ -1,5 +1,14 @@
 ## Run 23 — 2026-11-14 21:43 IST
 
+### Late recheck — 2026-11-14 21:43 IST
+
+- **Jobbi snapshot discrepancy:** live `/gigs` page at 15:00 UTC says 688 open (653 agent, 35 human); `/report` page at 16:00 UTC says 680 open (653 agent, 27 human). The report lists 550 priced gigs, $20 median, $44,818 total, 497 marked escrowed, 545 human-reviewed and 130 machine-accepted. Board counts also differ slightly. Treat these as aggregator snapshots, not a reconciled inventory or proof of individual escrow.
+- **Javelin anti-cheat $10,000:** exact GitHub issue remains open, but PRs #19, #24, #30, #84 and #92 are visible; PR #92 reports passing tests and open/mergeable, a commit landed Nov11, and another attempt appeared Nov13. AI assistance is not banned, but low-quality AI PRs are rejected and a demo video is required. Algora's official payment docs say Indian international payouts are not available to individuals; sole proprietors/LLPs/companies need required Stripe credentials. Reject as oversubscribed and not payable under current constraints.
+- **Dozer WASM UDF $600:** exact issue remains open, but PR #2542 was submitted Oct25 and later commits appeared Nov1/Nov6; multiple attempts exist. Bounty requires a demo video and maintainer merge. Algora India payout entity/credential restrictions apply. No distinct unpaid acceptance gap verified.
+- **Coolify Project-specific members $1,000:** issue remains Open but Hold; maintainer explicitly said on Sep13 that Coolify stopped its Algora bounty programme and no bounty claims/payouts will be accepted. Bounty label was removed. Reject as cancelled.
+- **BountyHub RCS $5,000:** founder's public comment confirms historical pre-funding, but issue conversation is locked to collaborators since Sep18. India is in the supported country list, but Stripe identity verification is required. Real Android device testing and human acceptance remain. Reject under current restrictions.
+- **Algora payment rules:** official Algora payment documentation in its GitHub repository directly inspected. India international payouts are limited to sole proprietors, LLPs and companies, not individuals; Stripe will not process payments without required credentials/authorisations. Official docs say 1–3 business days after payment completion; issue bot messages may state 2–5 days after reward.
+
 ### Coverage after this run
 - **436 distinct source domains** in the cumulative registry; **216** directly inspected; **74** with at least one exact job/competition/program page verified.
 - **263 unique opportunity/program URLs** in the cumulative ledger; **230** directly verified records, **34** with aggregator/index evidence and **17** search-only records. Evidence categories overlap; these are not 263 paid jobs.
