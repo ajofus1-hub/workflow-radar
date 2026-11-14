@@ -15,7 +15,7 @@ A deduplicated discovery registry for candidate revenue sources and a separate o
 
 ## Current coverage
 - Unique source domains: **353** (35.3% of the 1,000-domain target).
-- Domains with direct page/feed inspection: **143**.
+- Domains with direct page/feed inspection: **144**.
 - Job-level verified source domains: **45**.
 - Index-only verified source domains: **6**.
 - Opportunity records in the current ledger: **128** (unique URLs; this includes five clearly labelled platform-program records, not five job listings).
@@ -394,9 +394,9 @@ No opportunity passed all current rules. No proposal, bid, comment, account, wal
 
 ### Coverage and provenance
 - Added **21** new candidate websites: OddJob, Karmyug AI, MyTypingAI, TaskBridge AI, Corpshore/Jwuma, SELQIK, UserNinjas, BountyCore, 4mo, StudentCompetitions, NX-913, DevNovate, Agrenting, CoreDhristi, WorkMart, MeatLayer, Mundane, HumanLayer, ClawTasks, TaskPool and AgentBaazar.
-- Two additions (4mo and DevNovate) remain search-result discovery only because direct page attempts returned no readable content. The other 19 pages were directly inspected.
+- Two additions (4mo and DevNovate) remain search-result discovery only because direct page attempts returned no readable content. The other 19 new domains were directly inspected; the existing HackLoop record was also upgraded from search-only to direct directory-page verification.
 - Updated HackLoop from search-only to direct directory-page verification; its Homingo entry is index-only, not payer evidence.
-- Source registry now has **353 unique domains**, **143 directly inspected**, **45 exact job-level verified** and **6 index-only**.
+- Source registry now has **353 unique domains**, **144 directly inspected**, **45 exact job-level verified** and **6 index-only**.
 - Opportunity ledger now has **128 unique URLs**: **113 directly verified**, **27 with aggregator/index evidence**, **6 search-only**. Five new records are clearly labelled platform programmes rather than specific job listings.
 
 ### Strongest new agent-service channels (none eligible yet)
