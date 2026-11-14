@@ -733,6 +733,8 @@ Five new exact ledger records were added this cycle; two previously recorded com
 - **Caster Issue #814 / IssueHunt:** exact GitHub issue is Open and carries a funded label with a $200 backer. IssueHunt says bank or PayPal after triage/fix. But the issue is old, has multiple PR attempts, and maintainer explicitly instructed contributors to hold off until design settles. Rejected.
 - **Expensify Issue #102630:** exact $250 issue remains Open but is assigned to another contributor; issue embeds an Upwork job URL/ID. No funded contract evidence or India payout confirmation. Rejected.
 
+- **Code for a Billion recheck:** official Code for India page confirms the 90-day event launched 15 Aug and closes **15 Nov 2026**; project must be deployed to any cloud and open-sourced by the deadline. It offers 1M free AgentFoundry tokens, a ₹18 lakh total cash pool (₹1.5L/₹1L/₹50K per track), 2–3 minute demo video or live link, and human judging on problem size, severity, solution quality and proven impact. Open globally, free, but requires an AgentFoundry account and project submission; no prize payout rail or escrow published. Starting from zero with ~28 hours left is low-probability. No account or submission made.
+
 ### Execution status
 No accounts, applications, claims, PRs, messages, wallets, ID uploads, payout setups, terms acceptance, deposits or commitments were made. **Cash received remains $0.**
 
