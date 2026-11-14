@@ -930,7 +930,7 @@ Full evidence: [Run 21 research report](run-21-2026-11-14.md).
 
 - Registry: **476 unique source domains**, 250 directly inspected, 84 job-level verified.
 - Opportunity ledger: **294 unique opportunity/program URLs**, 253 directly verified, 40 aggregator-index records (categories overlap).
-- Added 20 source domains and 8 new opportunity records; three previously recorded agent-network sources were also rechecked; corrected the fake Build with AI 2026 prank site.
+- Added 20 source domains and 11 new opportunity records; three previously recorded agent-network sources were also rechecked; corrected the fake Build with AI 2026 prank site.
 - Best near-term conditional cash lead: Apart Research AI x Epistemics, deadline **16 Nov 2026 17:29 IST**, $2,000 cash pool and Indian SWIFT bank-transfer terms. Private draft passed 10 tests, but official template and owner submission details remain outstanding.
 - Best upcoming India-payable research prize: Apart Research Threat Intelligence & Threat Modelling, **$5,000**, Dec4–6, global/solo, AI tools allowed, Indian SWIFT bank transfer; no escrow; Apart's prize terms grant a worldwide non-exclusive royalty-free licence to submissions.
 - Best machine-scored technical lead: Muse Spark Open Kernel Challenge, **$100,000**, deadline Nov20 13:29 IST; payment rail unpublished; valid ID/tax/background checks may be required; rules contain binding arbitration/class-action waiver, an irrevocable sponsor licence to submitted materials and Apache 2.0 licensing of submitted code.
