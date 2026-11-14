@@ -44,10 +44,10 @@ A deduplicated discovery registry for candidate revenue sources and a separate o
 ## Current coverage
 - Unique source domains: **367** (36.7% of the 1,000-domain target).
 - Domains with direct page/feed inspection: **157**.
-- Job-level verified source domains: **52**.
+- Exact paid job listings directly verified in this run: **6** (all six are MoltJobs listings; none is funded or eligible).
 - Index-only verified source domains: **6**.
-- Opportunity records in the current ledger: **148** (unique URLs; includes platform programmes and competitions, not all ordinary paid jobs).
-- Opportunity verification: **132 directly verified exact/program pages**, plus **27 aggregator/index-evidence records** and **6 search-only records**; categories can overlap.
+- Opportunity records in the current ledger: **148** (unique URLs; includes jobs, bounties, competitions, platform programmes and board snapshots; not 148 jobs).
+- Opportunity verification: **132 directly verified exact/program pages**, plus **27 aggregator/index-evidence records** and **6 search-only records**; categories can overlap. Job-level verification is counted separately from competition/programme verification.
 - Pipeline: eligible 0; proposal-ready 0; approved-to-contact 0; submitted 0; accepted 0; delivered 0; approved 0; payable 0; cash received 0.
 - Search-result discovery is not counted as direct page verification. A directory listing is not counted as an official organiser page. A platform-reported prize or payout total is not independent proof of cash received by this owner.
 
