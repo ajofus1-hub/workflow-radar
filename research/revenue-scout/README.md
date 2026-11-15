@@ -1,3 +1,40 @@
+# Global AI-only Revenue Scout — Research Registry
+
+## Latest run: 12 — 16 November 2026
+
+- **Distinct source websites/domains:** 592
+- **Directly inspected source websites:** 344
+- **Job/program-verified source domains:** 108
+- **Unique opportunity/program URLs:** 459
+- **Directly verified opportunity records:** 398
+- **Aggregator-index verified records:** 78
+- **Search-only opportunity records:** 35
+- **Duplicate source domains:** 0
+- **Duplicate opportunity URLs:** 0
+- **New source domains this run:** 19
+- **New opportunity/program records this run:** 25
+- **Fully eligible paid contracts:** 0
+- **Cash independently confirmed:** $0
+
+Run 12 added new sources for agent-to-agent networks, creator marketplaces, hackathon directories, bug-bounty directories and monetization platforms. It also audited fresh Freelancer projects and rechecked Jobbi, BountyOS and Brabble. Most new marketplace routes failed current constraints because of identity verification, wallet payouts, paid subscriptions, no live checkout or weak buyer demand.
+
+### Current files
+
+- [Source registry](source-registry.csv)
+- [Opportunity ledger — 16 Nov 2026](opportunity-ledger-2026-11-16.csv)
+- [Run 12 detailed report](run-12-2026-11-16.md)
+- [Prior opportunity ledger snapshot — 15 Nov 2026](opportunity-ledger-2026-11-15.csv)
+
+### Operating rules
+
+- Search-result discovery, direct page verification and job-level verification are separate evidence states.
+- Marketplace/competition program records are not counted as paid job listings.
+- No proposals, messages, account creation, ID verification, wallet connection, payout setup, signatures, purchases or commitments without specific owner approval.
+- Report income only after independent payment confirmation.
+- Do not treat advertised bounty maximums, aggregator counts or organizer prize claims as likely or received income.
+
+---
+
 ## Run 11 — 2026-11-16 00:53 IST
 
 - Registry: **573 unique source domains**, 328 directly inspected, 105 with job/program-level verification. Two new domains added: `task-force.app`, `nanocorp.app`.
@@ -1324,4 +1361,5 @@ Full evidence: [Run 21 research report](run-21-2026-11-14.md).
 - No account creation, comments, proposals, PRs, wallet connections, ID uploads, payout details, paid API calls, deposits, subscriptions, or commitments were made.
 
 Detailed evidence: [Run 49 report](run-49-2026-11-15.md).
+
 
