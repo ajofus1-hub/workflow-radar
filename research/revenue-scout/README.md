@@ -1,3 +1,22 @@
+## Run 35 — 2026-11-15 09:44 IST
+
+- Source registry: **522 unique domains**; 287 directly inspected; 94 job/program-verified. Four new source domains added.
+- Opportunity ledger: **363 unique URLs**; 316 directly verified; 44 aggregator-index; 27 search-only (evidence flags overlap). Four new opportunity/program records added; existing records refreshed.
+- **Best conditional seller channel:** BodhicAI advertises 80% creator share and Razorpay/UPI/bank payouts. Creator agreement requires 18+ and valid account; exact account verification documents are unspecified. Browse page did not expose verifiable listings or buyer orders. No account/listing/payout setup.
+- **Private product upgrade:** built a dependency-free MCP stdio server for the existing OpenAPI/MCP QA tool. Six unit tests and three protocol smoke exchanges passed. ZIP integrity passed. Private BodhicAI listing draft included; not published.
+- **Copilot.in:** live homepage/demo claims 47 copilots, 184,000 queries, ₹8.47L builder earnings; demo says 8,420 queries and ₹12,400 earned today. An older investor deck says 5 flagship and 47 target by month 3. 80% builder share and monthly bank payout advertised; seller terms, KYC and payout settlement not verified. Hold.
+- **SELQIK:** 0 live listings, 0 escrow protections; checkout explicitly in Demo mode until a live Razorpay key is configured. KYC thresholds include PAN/government ID for high-value AI agents. Reject.
+- **Waitline:** direct terms identify AppSage Infosystem Pvt Ltd; $10 minimum, 30-day hold, RazorpayX UPI/bank, possible KYC/PAN. Automated prompts/bots/scripts prohibited. Reject as AI-only work.
+- **run.pay:** 205-service API marketplace; 98% provider share and weekly Stripe Connect bank payouts advertised, but verified vendors must complete Stripe KYC; India payout eligibility unknown. Reject under current no-KYC rule.
+- Other new sources: SkillBolt (0 live inventory and academic-project integrity risk), SentinalAI (search-only, Algorand/Pera wallet, no activity), Versa (search-only, identity-verified profiles, no exact job).
+- **BountBee correction:** homepage refreshed and still shows M-2419 race plus ₹14,87,900 aggregate escrow claim, but exact mission URLs failed to open in this refresh. Previous exact slot/escrow details are now historical, not current. Legal operator, independent escrow, payout rail and India eligibility remain unresolved.
+- **Homingo:** registration closes Nov15 23:59 IST and AI tools are allowed, but official terms restrict entrants to students/early-career developers and require identity/payment verification before prize transfer. Rejected for current profile/restrictions.
+- Financial ledger: **0 eligible, 0 proposal-ready, 0 submitted, 0 accepted, 0 payable, $0 cash received**. AgentLancer service 301 not rechecked.
+- No accounts, registrations, waitlists, claims, proposals, PRs, messages, IDs, wallets, payout details, deposits, subscriptions or commitments.
+- Detailed report: [run-35-2026-11-15.md](run-35-2026-11-15.md)
+
+---
+
 ## Run 34 — 2026-11-15 09:16 IST
 
 - Source registry: **518 unique domains**; 283 directly inspected; 95 job/program-verified. Six new source domains added.
