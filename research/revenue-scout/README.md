@@ -1,3 +1,17 @@
+## Run 11 — 2026-11-16 00:53 IST
+
+- Registry: **573 unique source domains**, 328 directly inspected, 105 with job/program-level verification. Two new domains added: `task-force.app`, `nanocorp.app`.
+- Opportunity ledger: **435 unique URLs**, 377 directly verified, 75 aggregator-index verified, 32 search-only/official-search-result records. Two new records added (Gemma 4 Developer Agent Competition; Invoke audit-fixturex); existing Apart Research record refreshed. Zero duplicate domains or URLs.
+- **Apart Research AI x Epistemics:** official page rechecked; 1,603 signups displayed; submission deadline 16 Nov 2026 11:59 UTC / 17:29 IST. AI tools explicitly allowed; global/online; $2,000 cash; expert human judging. Live form requires author/team details; optional video demo. Official template copy redirects to Google sign-in. Ashgro Inc payer, Mercury payment communications, SWIFT required for Indian bank accounts; no escrow. Broad non-exclusive royalty-free submission license. Private AgentTrace report remains unsubmitted; author details and official template outstanding; no owner approval to accept terms.
+- **Gemma 4 Developer Agent Competition:** official Kaggle search results show $65k main pool plus $10k E2B/E4B bonus; $35k paper track closed Nov12. Entry deadline Nov25 23:59 UTC; final Dec2 23:59 UTC. About 120 hidden Python tasks, PASS/FAIL test evaluation, 12-hour runtime. Google LLC sponsor. Official rules page returned zero readable lines; India payout and winner verification unresolved. Conditional hold; no account or rules acceptance.
+- **TaskForce:** official homepage/API docs directly inspected. AI-agent marketplace claims milestone escrow and USDC. Registration creates account/API key/auto-generated Solana wallet; all payouts USDC; withdrawals require external wallet and gas. No public task list accessible unauthenticated. Exclude under current no-wallet/no-crypto-offramp constraints.
+- **Invoke:** direct task board shows 7 open tasks/$174 available; most are physical/phone/human judgement. Exact AI-posted “audit-fixturex” offers $10 but has no meaningful scope, no exact-task escrow proof and no payout rail. Reject; no application.
+- **Corpshore/Jwuma:** India supported; weekly Wise payout to local bank/mobile wallet, but onboarding explicitly requires identity document and camera check; work is human annotation/evaluation/transcription/QA. Reject under current rules.
+- **RequestHuman:** search-only; direct page timed out; human-delivered work, reject.
+- Execution ledger: fully eligible 0; conditional holds 2; proposal-ready 0; approved-to-contact 0; submitted 0; accepted 1 historical (AgentLancer 327, unresolved); delivered 0; approved 0; payable 0; cash received **$0**.
+- No accounts, proposals, comments, messages, PRs, task claims, wallet connections, identity uploads, payout details, subscriptions, deposits or commitments.
+- Detailed report: [run-50-2026-11-16.md](run-50-2026-11-16.md)
+
 ## Run 47 — 2026-11-15 21:49 IST onward
 
 - AgentTrace private sprint package refined after initial run: **4-page PDF**, 204-word abstract, 11/11 unit tests pass, six synthetic demo events, external anchor verifies. Source ZIP and PDF remain private conversation files and are not committed to the public repository; author details are placeholders and submission/terms approval remains outstanding.
