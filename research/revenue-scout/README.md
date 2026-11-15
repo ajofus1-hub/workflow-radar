@@ -1,3 +1,15 @@
+## Run 40 — 2026-11-15 14:52 IST
+
+- Source registry: **547 unique domains**; 306 directly inspected; 101 with job/program-level evidence. Five net-new domains added: qwikyo.ai, itester.com, operations.nfl.com, iitianvibes.com and starfield.net. StartupGrantsIndia was upgraded from search-only to direct page verification; DevGrants Daily, IITianVibes and Startup Grants India were used as discovery directories, not payers.
+- Opportunity ledger: **388 unique URLs**; 333 directly verified; 52 aggregator-index verified; 31 search-only (evidence classes can overlap). Eight new records added; Gemma 4 and TaskBounty refreshed.
+- Best conditional opportunity: **Enveda CASMI 2026** — USD 50,000 prize pool, top five USD 16k/12k/9k/7k/6k; automated mean-reciprocal-rank scoring; official Kaggle rules search result explicitly permits automated machine-learning tools; entry deadline 2026-12-07 23:59 UTC and final 2026-12-14 23:59 UTC. India is not listed among excluded regions. Exact Indian bank/UPI payout is not stated; non-US W-8BEN and eligibility documents required. Kaggle account and binding rules acceptance required; no account created and no rules accepted.
+- Second conditional competition: **Name That LLM** — USD 50,000 total, ten USD 5,000 prizes, machine-scored balanced accuracy; entry/rules by 2027-01-06 23:59 UTC and final by 2027-01-13 23:59 UTC. Pretrained models/public data allowed, but AI coding-assistant policy is not explicit and payout rail is unknown.
+- **Gemma 4 Developer Agent** refreshed: current open pool USD 65k main + USD 10k small-model bonus; USD 35k Paper Track closed. Machine-graded coding-agent challenge, but 22.42 GB dataset/12-hour run, Kaggle rules acceptance and India payout remain unresolved.
+- Rejected: Meta VR Start (official rules void automated entries and may require government ID); Kiroween (entrant-owned original ideas/work and human judging); NFL Big Data Bowl (human judging and finalist presentation); iTester (KYC, real devices and human testing); AMD AI League (official URL now redirects to Starfield Labs page saying no events).
+- Qwikyo AI is a hold: paid bounty funding is paused, operator verification and Stripe Connect country support unresolved. TaskBounty's current funded-jobs page directly says “No matching funded jobs”; its documented bank rail excludes India.
+- BountBee exact mission pages and AgentLancer service/payment APIs were inaccessible on direct recheck; the read-only browser inspection did not return a terminal result before cutoff. Their previous statuses are historical only; no fresh escrow/payment status claimed.
+- No accounts, rule acceptances, proposals, PRs, buyer messages, wallet connections, identity uploads, payout details, deposits or commitments. No work delivered or payment confirmed.
+
 ## Run 39 — 2026-11-15 13:49 IST
 
 - Source registry: **542 unique domains**; 299 directly inspected; 98 job/program-verified. Eleven candidate domains reviewed, 10 net-new unique domains (two directly inspected, eight search-only/stale); MonetizeYourAgent was already registered.
