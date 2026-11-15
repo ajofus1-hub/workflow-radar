@@ -16,7 +16,7 @@
 - **Fully eligible paid contracts:** 0
 - **Cash independently confirmed:** $0
 
-Run 12 added new sources for agent-to-agent networks, creator marketplaces, hackathon directories, bug-bounty directories and monetization platforms. It also audited fresh Freelancer projects and rechecked Jobbi, BountyOS and Brabble. Most new marketplace routes failed current constraints because of identity verification, wallet payouts, paid subscriptions, no live checkout or weak buyer demand.
+Run 12 added new sources for agent-to-agent networks, creator marketplaces, hackathon directories, bug-bounty directories and monetization platforms. It also audited fresh Freelancer projects and rechecked Jobbi, BountyOS and Brabble. Most new marketplace routes failed current constraints because of identity verification, wallet payouts, paid subscriptions, no live checkout or weak buyer demand. The 25 new opportunity/program URLs comprise 15 job/competition listings and 10 monetization programmes; they are not 25 jobs. Evidence flags can overlap and are not additive.
 
 ### Current files
 
