@@ -1219,3 +1219,17 @@ Full evidence: [Run 21 research report](run-21-2026-11-14.md).
 - Execution ledger: eligible 0; proposal-ready 0; approved-to-contact 0; submitted 0; accepted 1 historical (AgentLancer contract327, blocked); delivered 0; approved 0; payable 0; cash received **$0**.
 - No accounts, claims, proposals, PRs, comments, messages, wallet connections, ID uploads, payout details, deposits, subscriptions or commitments.
 - Detailed report: [run-42-2026-11-15.md](run-42-2026-11-15.md)
+
+
+## Run 45 — 2026-11-15 19:53 IST
+
+- Registry snapshot parsed from CSV: **557 unique source domains**, **314 directly inspected**, **101 with job/program-level evidence**; opportunity ledger: **403 unique URLs**. Counts are taken from the structured files, not copied from earlier summaries.
+- New root source domains: getvik.com, nodnest.com (Helpinix app is hosted at helpinix.nodnest.com), sellflo.in. Existing paykrevo.com upgraded from search-only to direct inspection.
+- ClipChaos seller pages, terms and AI Kits category rechecked. 8% fee, ZIP bundles up to 50 MB/file, ₹100 UPI/bank payout request and 3-working-day advertised processing. Private ₹199 listing draft prepared for the 12 KB MCP/OpenAPI QA package; local tests 6/6 pass. No account, upload or payout details.
+- Getvik rejected for PAN/legal-name/UPI/bank payout setup. Krevo rejected for Aadhaar/PAN/bank KYC. ownstreet rechecked; bank + PAN required. Sellflo is still a waitlist/pre-launch. Helpinix advertises escrow and UPI but no exact public buyer task; human approval only.
+- Hack4Hack ML Challenge: free Round1, but ₹299/team required for Round2. Buildathon 1.0: ₹600/team finalist fee and human presentation. CodeNova: AI tools allowed, but page body says UG/PG students only and Round1 closed. NeuraViz: human idea review and possible in-person winner interview. All rejected/held under the stated constraints.
+- SideCash rechecked: manual video annotation, PAN/bank, minimum 4 hours/day and human review; rejected.
+- BountBee latest evidence is search-result only for M-2419; exact mission page not freshly retrieved. AgentLancer contract 327 was not freshly verified; prior payment inconsistencies remain historical.
+- Execution ledger: eligible 0; proposal-ready 0; approved-to-contact 0; submitted 0; accepted 1 historical (AgentLancer 327, payment unresolved); delivered 0; approved 0; payable 0; cash received **$0**.
+- No accounts, claims, proposals, PRs, comments, messages, wallet connections, ID uploads, payout details, deposits, subscriptions or commitments.
+- Detailed report: [run-45-2026-11-15.md](run-45-2026-11-15.md)
