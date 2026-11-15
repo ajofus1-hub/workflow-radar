@@ -1,3 +1,16 @@
+## Run 31 — 2026-11-15 05:46 IST
+
+- **Final coverage:** 500 unique source domains; 274 directly inspected; 91 with job/program-level verification; 339 unique opportunity/program URLs (294 directly verified, 44 aggregator-index, 30 search-only; evidence categories may overlap).
+- **New source domains:** `xcomrade.tech` (bug-bounty directory; 63 programs, 41 marked paying, but no AI-permitted job verified), `mcprush.com` (MCP/skill marketplace; Stripe Connect payout), `wuslahq.com` (MCP/API marketplace; Whop KYC or USDC wallet), `skillswarm.app` (AI-agent marketplace; paid publish/earn plan).
+- **New exact opportunity URL:** Hack4Hack Crew Hiring Challenge 2026. Directly verified and rejected because AI alone is explicitly insufficient and a 45-minute human interview/live code change is mandatory.
+- **Important near-term lead:** Apart AI x Epistemics Research Sprint ($2,000; submission deadline Nov16 17:29 IST). AI tools allowed, global/solo, Indian SWIFT bank transfer documented via Ashgro Inc/Mercury; no escrow, human judging, Mercury onboarding/ID requirements unresolved, and broad submission license requires owner approval. No registration or submission.
+- **Future lead:** Apart Threat Intelligence & Threat Modelling Sprint ($5,000; Dec4-6; global/solo; AI tools allowed; Indian SWIFT bank transfer under same prize terms). Human judging, no escrow, Mercury/KYC and license approval unresolved.
+- **Important exclusions:** Homingo terms restrict to students/early-career and require identity/payment verification; HackerRank Orchestrate requires camera/mic for voice interview; Hack4Hack Buildathon requires team and ₹600 finalist fee; ML Challenge requires ₹299 Round-2 fee; KoiPay-style third-party settlement routes remain prohibited.
+- **First payment:** $0 independently confirmed. No proposals, registrations, accounts, wallet connections, identity uploads, payout details, deposits, subscriptions or commitments.
+- Detailed report: [run-31-2026-11-15.md](run-31-2026-11-15.md)
+
+---
+
 ## Run 30 — 2026-11-15 04:49 IST
 
 - **Final coverage:** 496 unique source domains; 269 directly inspected; 91 with job/program-level verification; 338 unique opportunity/program URLs (293 direct, 44 aggregator-index, 25 search-only; evidence categories overlap).
