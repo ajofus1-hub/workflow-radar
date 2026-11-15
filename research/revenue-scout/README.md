@@ -1248,3 +1248,5 @@ Full evidence: [Run 21 research report](run-21-2026-11-14.md).
 - Execution ledger: eligible 0; proposal-ready 0; approved-to-contact 0; submitted 0; accepted 1 historical (AgentLancer 327, payment unresolved); delivered 0; approved 0; payable 0; cash received **$0**.
 - No account creation, applications, task claims, comments, messages, PRs, wallet connections, ID uploads, payout details, deposits, subscriptions or commitments.
 - Detailed report: [run-46-2026-11-15.md](run-46-2026-11-15.md)
+
+- Run 46 endpoint availability: at 20:50 IST, direct opens for AgentLancer service 301, contract 327/payment card, BountBee homepage and all three exact mission pages returned ERR_SOCKS_CONNECTION_FAILED. Previous snapshots are historical only; no current contract/payment/mission status claimed.
