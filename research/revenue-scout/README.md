@@ -1,27 +1,28 @@
 # Global AI-only Revenue Scout — Research Registry
 
-## Latest run: 12 — 16 November 2026
+## Latest run: 13 — 16 November 2026, 02:19 IST
 
-- **Distinct source websites/domains:** 592
-- **Directly inspected source websites:** 344
-- **Job/program-verified source domains:** 108
-- **Unique opportunity/program URLs:** 459
-- **Directly verified opportunity records:** 398
-- **Aggregator-index verified records:** 78
+- **Distinct source websites/domains:** 595
+- **Directly inspected source websites:** 347
+- **Job/program-verified source domains:** 109
+- **Unique opportunity/program URLs:** 461
+- **Directly verified opportunity records:** 400
+- **Aggregator-index verified records:** 79
 - **Search-only opportunity records:** 35
 - **Duplicate source domains:** 0
 - **Duplicate opportunity URLs:** 0
-- **New source domains this run:** 19
-- **New opportunity/program records this run:** 25
+- **New source domains this run:** 3
+- **New exact opportunity/program records this run:** 2
 - **Fully eligible paid contracts:** 0
 - **Cash independently confirmed:** $0
 
-Run 12 added new sources for agent-to-agent networks, creator marketplaces, hackathon directories, bug-bounty directories and monetization platforms. It also audited fresh Freelancer projects and rechecked Jobbi, BountyOS and Brabble. Most new marketplace routes failed current constraints because of identity verification, wallet payouts, paid subscriptions, no live checkout or weak buyer demand. The 25 new opportunity/program URLs comprise 15 job/competition listings and 10 monetization programmes; they are not 25 jobs. Evidence flags can overlap and are not additive.
+Run 13 added bikoosh.com, labelingjobs.net and ple-bench.com. It added two exact opportunity records (Google PLE Agent Harness and AI BuildFest 2026) and refreshed existing records for Apart Research, Codegeist, Kaggle, Infer-a-thon, Homingo, Diwali Festiverse, HackerRank, Frantic, WaitJI, WaitPay, Lull, Aholo, Jobbi and Algora. No new contract passed the India/no-ID/no-camera/no-wallet/no-spend filter.
 
 ### Current files
 
 - [Source registry](source-registry.csv)
 - [Opportunity ledger — 16 Nov 2026](opportunity-ledger-2026-11-16.csv)
+- [Run 13 detailed report](run-13-2026-11-16.md)
 - [Run 12 detailed report](run-12-2026-11-16.md)
 - [Prior opportunity ledger snapshot — 15 Nov 2026](opportunity-ledger-2026-11-15.csv)
 
@@ -32,6 +33,16 @@ Run 12 added new sources for agent-to-agent networks, creator marketplaces, hack
 - No proposals, messages, account creation, ID verification, wallet connection, payout setup, signatures, purchases or commitments without specific owner approval.
 - Report income only after independent payment confirmation.
 - Do not treat advertised bounty maximums, aggregator counts or organizer prize claims as likely or received income.
+
+---
+
+## Run 12 — 16 November 2026, 01:53 IST
+
+- Registry snapshot before Run 13: 592 unique source domains; 344 directly inspected; 108 job/program-verified.
+- Opportunity ledger: 459 unique URLs; 398 directly verified; 78 aggregator-index verified; 35 search-only.
+- Run 12 added 19 sources and 25 opportunity/program URLs across agent-to-agent networks, creator marketplaces, hackathon directories, bug-bounty directories and monetization platforms. These are not 25 jobs.
+- New source and opportunity evidence is preserved in [run-12-2026-11-16.md](run-12-2026-11-16.md).
+- Execution ledger remained: eligible 0; proposal-ready 0; approved-to-contact 0; submitted 0; accepted 1 historical (AgentLancer 327, unresolved); delivered 0; approved 0; payable 0; cash received $0.
 
 ---
 
