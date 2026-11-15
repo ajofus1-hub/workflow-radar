@@ -1,5 +1,20 @@
 ## Run 39 — 2026-11-15 13:49 IST
 
+- Source registry: **542 unique domains**; 299 directly inspected; 98 job/program-verified. Eleven candidate domains reviewed, 10 net-new unique domains (two directly inspected, nine search-only/stale).
+- Opportunity ledger: **380 unique URLs**; 330 directly verified; 49 aggregator-index; 29 search-only (evidence classes overlap). Four new exact opportunity records added; Homingo and Code for India records refreshed.
+- New discovery directories: DartzDabz, AgentScout, Indexed by Agents, ToolSkipper, Baipiaoji, Rubric, MonetizeYourAgent, AgentIndex. Most were search-only or stale-crawl; no payout claims treated as verified.
+- New event findings: The Product Space Agentic AI Hackathon (reject: mandatory LinkedIn streak); Cashfree × Sarvam AI Buildathon (reject: in-person Bengaluru).
+- Nainix sample card (250 NX / ₹2,500 equivalent) is not job-level verified: jobs page only says Loading opportunities; cashout proof absent. Khaliwork $400 Python scraping card is stale/unclear and requires Aadhaar/PAN KYC; reject. TrustWork also requires Aadhaar KYC.
+- Homingo registration closes today 23:59 IST; AI tools allowed, ₹5,000 top prize, but eligibility conflict and no payout/escrow details. No registration.
+- Code for a Billion requires an already deployed/open-source project by today; human judging, no payout rail/escrow. Not feasible as a new entry.
+- AgentLancer static first-payment page still points to contract123/80 USDT plus separate 20 USDT pilot; previous contract327 snapshot says 21 USDT with missing payment ID/address. Homepage search result reports verified volume $0. API endpoints not retrievable this cycle. No buyer contact/delivery.
+- BountBee exact mission pages failed to open; previous mission details remain historical. Homepage search result claims ₹14,87,900 escrow, not independently verified.
+- Execution ledger: eligible 0; proposal-ready 0; approved-to-contact 0; submitted 0; accepted 1 (AgentLancer, blocked); delivered 0; approved 0; payable 0; cash received **$0**.
+- No accounts, registrations, messages, proposals, PRs, wallet connections, ID/KYC, payout details, deposits, subscriptions or commitments.
+- Detailed report: [run-39-2026-11-15.md](run-39-2026-11-15.md)
+
+## Run 39 — 2026-11-15 13:49 IST
+
 - Source registry: **542 unique domains**; 299 directly inspected; 98 job/program-verified. Eleven new domains added (two direct, nine search-only/stale).
 - Opportunity ledger: **380 unique URLs**; 49 directly verified; 0 aggregator-index; 295 search-only (evidence classes overlap). Four new exact opportunity records added; Homingo and Code for India records refreshed.
 - New discovery directories: DartzDabz, AgentScout, Indexed by Agents, ToolSkipper, Baipiaoji, Rubric, MonetizeYourAgent, AgentIndex. Most were search-only or stale-crawl; no payout claims treated as verified.
