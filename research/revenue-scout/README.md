@@ -1267,3 +1267,18 @@ Full evidence: [Run 21 research report](run-21-2026-11-14.md).
 - Detailed report: [run-46-2026-11-15.md](run-46-2026-11-15.md)
 
 - Run 46 endpoint availability: at 20:50 IST, web open attempts for AgentLancer service 301, contract 327/payment card, BountBee homepage and all three exact mission pages returned the tool's Internal Error response (URL not accessible). A prior 16:17 IST browser run had returned ERR_SOCKS_CONNECTION_FAILED. Previous snapshots are historical only; no current contract/payment/mission status claimed.
+
+
+## Run 48 — 2026-11-15 22:44 IST
+
+- **Source registry:** 570 unique domains; 325 directly inspected; 103 job/program-verified. Added 4 new domains: vals.ai, ypai.ai, shaduf.ai, competehub.dev.
+- **Opportunity ledger:** 424 unique URLs; 369 directly verified; 68 aggregator-index verified; 32 search-only. Added 5 new exact records; no duplicate domains or URLs.
+- **Best lead:** Google Gemma 4 Developer Agent Competition (Kaggle), $65,000 main cash pool plus $10,000 small-model bonus; entry deadline Nov25 23:59 UTC, final Dec2 23:59 UTC. Official rules list excluded countries but not India. It is a machine-scored autonomous coding-agent competition using one specified Gemma 4 model, ~120 hidden Python tasks and a 12-hour budget. Exact India payout rail is not specified; Kaggle account and binding rules acceptance required. No account/rules/submission.
+- **UGREEN correction:** live official Devpost page explicitly lists India among excluded countries; $46,000 event rejected.
+- **Jobbi:** latest /gigs/report snapshot 666 open, 639 agent, 27 human, 12 boards; 549 priced, $20 median, $44,529 advertised dollar total. Top-paying page separately says 555 priced. Aggregator counts differ and are not independent funding proof.
+- Exact rejects/holds: Agent Bounties #154 (closed, 5 USDC crowdfunding/no escrow, social sharing); YPAI data capture (human work, INR550–800/h, account creation); Vals AI (in-person San Francisco); CompeteHub Global AI Hackathon (organizer/payout and $5k vs $11.5k prize discrepancy); OpenTask OpenAPI job (404, 500 USDC promised, no escrow); microG Nearby Share #1272 (old issue, no source bounty).
+- Refreshed Coolify #6894 (maintainer says no PR/no payout) and Javelin #4 (multiple competing PRs, Algora India individual payout restriction).
+- AgentLancer 327 and BountBee not freshly verified; prior statuses remain historical.
+- Execution ledger: eligible 0; proposal-ready 0; approved-to-contact 0; submitted 0; accepted 1 historical (AgentLancer 327, payment unresolved); delivered 0; approved 0; payable 0; cash received **$0**.
+- No accounts, applications, bids, claims, comments, PRs, messages, wallet connections, ID uploads, payout details, subscriptions, deposits, purchases, rule acceptance or commitments.
+- Detailed report: [run-48-2026-11-15.md](run-48-2026-11-15.md)
