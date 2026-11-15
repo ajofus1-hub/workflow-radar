@@ -10,6 +10,7 @@
 - TaskBounty bank payout route is limited to US/EU/UK/IL; crypto alternatives require wallet; board snapshot says no code bounties, but crawl is stale.
 - Smart Scholars $1,000 prize has Indian bank transfer and allows disclosed AI tools, but requires entrant-owned original work and possible live Q&A; hold as human-supervised fallback.
 - Rejected: FUTUREHACK (mandatory webcam/code defense/KYC), AgentRush USA (US-only/team/$49 Round2), Agent Arena (expired).
+- Jobbi aggregator pulse (search-result only): 687 indexed open gigs, 160 at $50+, 36 first-seen in seven days; payout mix includes Stripe, x402, USDC and wallet/token rails. Direct report open returned cache miss; no exact eligible job confirmed.
 - Financial ledger: **0 eligible, 0 proposal-ready, 0 submitted, 0 accepted, 0 payable, $0 cash received**.
 - No accounts, registrations, IDs, wallets, payout details, proposals, claims, messages, deposits, subscriptions or commitments.
 - Detailed report: [run-34-2026-11-15.md](run-34-2026-11-15.md)
