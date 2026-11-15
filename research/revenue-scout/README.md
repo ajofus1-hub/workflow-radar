@@ -15,7 +15,7 @@
 - **Duplicate source domains:** 0
 - **Duplicate opportunity URLs:** 0
 - **New source domains this run:** 4 — `agentmesh.help`, `tarang.tech`, `agentspay.dev`, `perflo.ai`
-- **New exact opportunity records this run:** 6 — two Toku tasks, the Cognizant Open Agentic Web Challenge, and three AgentMesh credit tasks.
+- **New exact opportunity URLs this run:** 4 — one new Toku task and three AgentMesh credit tasks. Two existing records (the Toku DeFi report and Cognizant Open Agentic Web Challenge) were refreshed rather than duplicated.
 - **Fully eligible paid contracts found:** 0
 - **Cash independently confirmed:** $0
 - **Conditional high-priority direct lead:** BountBee M-2419 (₹2,40,000 advertised; 2/6 slots left; one submission; platform-reported escrow only; no legal operator or Indian payout rail verified).
