@@ -1,1376 +1,162 @@
-# Global AI-only Revenue Scout — Research Registry
+# Global AI-only Revenue Scout — Run 13
+**Checked:** 16 November 2026, 02:19 IST (2026-11-15 20:49 UTC)  
+**Owner location:** India  
+**Status:** Research updated; no external submissions or commitments.
 
-## Latest run: 13 — 16 November 2026, 02:19 IST
+## Registry snapshot
 
-- **Distinct source websites/domains:** 595
-- **Directly inspected source websites:** 347
-- **Job/program-verified source domains:** 109
+- **Distinct source domains:** 595
+- **Directly inspected source domains:** 347
+- **Domains with at least one job/program-level verification:** 109
 - **Unique opportunity/program URLs:** 461
 - **Directly verified opportunity records:** 400
 - **Aggregator-index verified records:** 79
 - **Search-only opportunity records:** 35
 - **Duplicate source domains:** 0
 - **Duplicate opportunity URLs:** 0
-- **New source domains this run:** 3
-- **New exact opportunity/program records this run:** 2
-- **Fully eligible paid contracts:** 0
+- **New source domains this run:** 3 — `bikoosh.com`, `labelingjobs.net`, `ple-bench.com`
+- **New exact opportunity records this run:** 2 — PLE Agent Harness competition and AI BuildFest 2026
+- **Fully eligible paid contracts found:** 0
 - **Cash independently confirmed:** $0
 
-Run 13 added bikoosh.com, labelingjobs.net and ple-bench.com. It added two exact opportunity records (Google PLE Agent Harness and AI BuildFest 2026) and refreshed existing records for Apart Research, Codegeist, Kaggle, Infer-a-thon, Homingo, Diwali Festiverse, HackerRank, Frantic, WaitJI, WaitPay, Lull, Aholo, Jobbi and Algora. No new contract passed the India/no-ID/no-camera/no-wallet/no-spend filter.
-
-### Current files
-
-- [Source registry](source-registry.csv)
-- [Opportunity ledger — 16 Nov 2026](opportunity-ledger-2026-11-16.csv)
-- [Run 13 detailed report](run-13-2026-11-16.md)
-- [Run 12 detailed report](run-12-2026-11-16.md)
-- [Prior opportunity ledger snapshot — 15 Nov 2026](opportunity-ledger-2026-11-15.csv)
-
-### Operating rules
-
-- Search-result discovery, direct page verification and job-level verification are separate evidence states.
-- Marketplace/competition program records are not counted as paid job listings.
-- No proposals, messages, account creation, ID verification, wallet connection, payout setup, signatures, purchases or commitments without specific owner approval.
-- Report income only after independent payment confirmation.
-- Do not treat advertised bounty maximums, aggregator counts or organizer prize claims as likely or received income.
-
----
-
-## Run 12 — 16 November 2026, 01:53 IST
-
-- Registry snapshot before Run 13: 592 unique source domains; 344 directly inspected; 108 job/program-verified.
-- Opportunity ledger: 459 unique URLs; 398 directly verified; 78 aggregator-index verified; 35 search-only.
-- Run 12 added 19 sources and 25 opportunity/program URLs across agent-to-agent networks, creator marketplaces, hackathon directories, bug-bounty directories and monetization platforms. These are not 25 jobs.
-- New source and opportunity evidence is preserved in [run-12-2026-11-16.md](run-12-2026-11-16.md).
-- Execution ledger remained: eligible 0; proposal-ready 0; approved-to-contact 0; submitted 0; accepted 1 historical (AgentLancer 327, unresolved); delivered 0; approved 0; payable 0; cash received $0.
-
----
-
-## Run 11 — 2026-11-16 00:53 IST
-
-- Registry: **573 unique source domains**, 328 directly inspected, 105 with job/program-level verification. Two new domains added: `task-force.app`, `nanocorp.app`.
-- Opportunity ledger: **434 unique URLs**, 377 directly verified, 75 aggregator-index verified, 31 search-only/official-search-result records. One new record added (Invoke audit-fixturex); the existing Gemma 4 and Apart Research records were refreshed. Zero duplicate domains or URLs.
-- **Apart Research AI x Epistemics:** official page rechecked; 1,603 signups displayed; submission deadline 16 Nov 2026 11:59 UTC / 17:29 IST. AI tools explicitly allowed; global/online; $2,000 cash; expert human judging. Live form requires author/team details; optional video demo. Official template copy redirects to Google sign-in. Ashgro Inc payer, Mercury payment communications, SWIFT required for Indian bank accounts; no escrow. Broad non-exclusive royalty-free submission license. Private AgentTrace report remains unsubmitted; author details and official template outstanding; no owner approval to accept terms.
-- **Gemma 4 Developer Agent Competition:** official Kaggle search results show $65k main pool plus $10k E2B/E4B bonus; $35k paper track closed Nov12. Entry deadline Nov25 23:59 UTC; final Dec2 23:59 UTC. About 120 hidden Python tasks, PASS/FAIL test evaluation, 12-hour runtime. Google LLC sponsor. Official rules page returned zero readable lines; India payout and winner verification unresolved. Conditional hold; no account or rules acceptance.
-- **TaskForce:** official homepage/API docs directly inspected. AI-agent marketplace claims milestone escrow and USDC. Registration creates account/API key/auto-generated Solana wallet; all payouts USDC; withdrawals require external wallet and gas. No public task list accessible unauthenticated. Exclude under current no-wallet/no-crypto-offramp constraints.
-- **Invoke:** direct task board shows 7 open tasks/$174 available; most are physical/phone/human judgement. Exact AI-posted “audit-fixturex” offers $10 but has no meaningful scope, no exact-task escrow proof and no payout rail. Reject; no application.
-- **Corpshore/Jwuma:** India supported; weekly Wise payout to local bank/mobile wallet, but onboarding explicitly requires identity document and camera check; work is human annotation/evaluation/transcription/QA. Reject under current rules.
-- **RequestHuman:** search-only; direct page timed out; human-delivered work, reject.
-- Execution ledger: fully eligible 0; conditional holds 2; proposal-ready 0; approved-to-contact 0; submitted 0; accepted 1 historical (AgentLancer 327, unresolved); delivered 0; approved 0; payable 0; cash received **$0**.
-- No accounts, proposals, comments, messages, PRs, task claims, wallet connections, identity uploads, payout details, subscriptions, deposits or commitments.
-- Detailed report: [run-50-2026-11-16.md](run-50-2026-11-16.md)
-
-## Run 47 — 2026-11-15 21:49 IST onward
-
-- AgentTrace private sprint package refined after initial run: **4-page PDF**, 204-word abstract, 11/11 unit tests pass, six synthetic demo events, external anchor verifies. Source ZIP and PDF remain private conversation files and are not committed to the public repository; author details are placeholders and submission/terms approval remains outstanding.
-
-- Registry: **566 unique domains**, 321 directly inspected, 101 job/program-verified. Three new direct domains: srotabase.com, splinster.in, tapyoka.com.
-- Opportunity ledger: **419 unique URLs**, 364 directly verified, 65 aggregator-index verified, 32 search-only. Twelve new records added (GOAT feed, eight Freelancer samples, three channels); TaskMarket and SeekClaw refreshed without duplicates.
-- GOAT Market feed directly inspected: timestamp 2026-11-15T16:22:50Z, 4,806 open-labelled listings across seven platforms. Newest checked cohort is 2026-10-24; eight sampled Freelancer source pages were Closed, one TaskMarket task Completed, one SeekClaw source unreachable. Treat the aggregate count as stale/unreliable.
-- Exact job-level sample: eight Freelancer pages directly inspected; all closed. No new eligible AI-only task. TaskMarket Kintara bounty is Completed/expired, $5 USDC Base, wallet-only. SeekClaw E2E task is free/no reward and source-unreachable.
-- New Indian channel checks: Srotabase closes 30 Nov and new sign-ups are closed; Splinster is still in building phase/waitlist with no exact buyer/payout route; Tapyoka uses direct UPI with manual seller confirmation and requires audience distribution. None eligible.
-- Apart Research AI x Epistemics: live to Nov16 17:29 IST, $2,000 pool, AI tools allowed, global/solo, expert human judging. Indian SWIFT route documented via Ashgro Inc/Mercury; Mercury checks unknown; no escrow; broad non-exclusive royalty-free submission license. No signup or terms accepted.
-- Apart Research Threat Intelligence: Dec4-6, $5,000 pool, AI tools allowed/public data/defensive framing, global/solo, human judging; SWIFT India route via same terms; conditional future lead.
-- Private AgentTrace prototype/report prepared for Trust Infrastructure track: 11/11 tests passed; six synthetic demo events; anchor verification valid. Not submitted or committed publicly; owner approval required before accepting sprint terms.
-- AgentLancer 327 and BountBee remain unrefreshed/unresolved; previous snapshots historical only.
-- Execution ledger: eligible 0; proposal-ready 0; approved-to-contact 0; submitted 0; accepted 1 historical (AgentLancer 327, payment unresolved); delivered 0; approved 0; payable 0; cash received **$0**.
-- No account creation, proposals, claims, comments, messages, PRs, wallet connections, ID uploads, payout details, subscriptions, deposits or commitments.
-- Detailed report: [run-47-2026-11-15.md](run-47-2026-11-15.md)
-
-
-- **AtlasOrc caveat (19:04 IST):** seller page claims no PAN/bank forms/KYC and UPI payouts, but generic Razorpay Xpress submerchant docs require PAN and bank KYC. AtlasOrc says it pools buyer funds and pays sellers manually after 72h; exact model is unverified. Homepage crawl showed 19 products/one sale, current search result 22 products. Keep on HOLD; product remains private.
-## Run 44 — 2026-11-15 18:49–19:04 IST
-
-- Registry: **554 unique domains**, 310 directly inspected, 101 with job/program-level evidence. Two new root domains: aicni.in (search-only) and armbharatchallenge.com (direct redirect to older closed student edition).
-- Opportunity ledger: **399 unique URLs**; 343 directly verified; 56 aggregator-index verified; 33 search-only. Evidence categories overlap; zero duplicate domains, URLs or IDs. Five new records added; existing TryBounty, Jobbi, Nainix, BountBee, ZIVOX, Hack4Hack, NeuraViz and Algora records refreshed.
-- **TryBounty public audit:** no live open-bounty records or exact open URLs were publicly readable. Public Explore is a completed-work showcase; unauthenticated GET /v1/agent/bounties?status=open returned 401. India is listed for Stripe Connect, but Stripe identity/business/payout verification is required. No account, Agent API key or bid.
-- **Jobbi:** fresh snapshots conflict (675 open / 641 agent / 34 human on /gigs; separate report 677 open / 546 priced). Two $100 Algora items (#91 LinkedIn and #97 Twitter) are old 2023 issues; GitHub pages show no bounty label/comment or PRs despite Jobbi's escrow labels. Algora's official docs say India international payouts are not available to individuals; Stripe verification is required. Both rejected.
-- **Hack4Hack ML Challenge:** free Round 1 and ₹1L advertised pool, but Round 2 is mandatory for prize eligibility and costs ₹299/team in India. No payout rail/escrow. Reject under no-upfront-spend rule.
-- **ZIVOX pilot:** AI tools allowed, but live finalist call, prize identity verification/PAN and early-career eligibility; registration advertised until Nov15 23:59 IST. Reject.
-- **Arm Bharat AI-SoC:** current search result conflicts with redirected older official page, which says registration closed and students/college nomination/ID only. Reject pending current official rules.
-- **AICNI Hack India:** search-only; offline Kochi, team 2–4, ₹50k pool, no AI/payout terms. Reject.
-- **ZIROH Build Next:** search-only; ₹7.5L pool and Dec1 start advertised, but exact rules/payout/AI policy unavailable. Hold.
-- **Nainix:** direct /jobs page crawl shows 0 profiles and no exchange partners; newer search snippets claim Nainix 2.0/Razorpay but exact tasks and cashout not verified.
-- **AgentBaazar:** invite-only beta, UPI/4% fee advertised; displayed earnings are platform claims. **CoreDhristi:** newer search result mentions creator identity verification; method unclear, no buyer briefs. **BountBee:** M-2419 live/2 of 6 slots appears only in search result; exact page unavailable. **AgentLancer 327** remains unresolved.
-- Execution ledger: eligible 0; proposal-ready 0; approved-to-contact 0; submitted 0; accepted 1 historical (AgentLancer 327, blocked); delivered 0; approved 0; payable 0; cash received **$0**.
-- Detailed report: [run-44-2026-11-15.md](run-44-2026-11-15.md)
-
-## Run 43 — 2026-11-15 17:44–17:50 IST
-
-- Registry: **552 unique domains**, 309 directly inspected, 101 with job/program-level evidence. One new source added: workmate4u.com (directly inspected, rejected as local/physical and KYC-gated).
-- Opportunity ledger: **394 unique URLs**; 339 directly verified; 54 aggregator-index verified; evidence categories overlap. Zero duplicate domains, opportunity URLs or IDs.
-- **TryBounty** is the strongest near-match: autonomous AI-agent bidding/workflow, funded bounties, automated verification plus 72-hour buyer review, India listed for Stripe Connect, and no deposit/subscription/API fee. However, Stripe Connect identity/payout verification is mandatory; public live jobs are not exposed without an Agent account/API key. Rejected under no-third-party-ID/no-account-creation rules.
-- **Jobbi** /gigs and market report refreshed 2026-11-15 12:00 UTC: 684 open (652 agent, 32 human), 553 priced, $20 median, 501 escrowed, 172 promised, 11 unknown, 128 machine acceptance and 551 human review across 12 boards. Payment rails: 505 Stripe, 120 x402, 22 USDC Base, 14 unknown, 10 OpenWork token, 10 wallet and 3 Gnosis. Top-paying page separately shows 555 priced, so its priced count differs from the report. Jobbi indexes; boards pay. Sampled Stripe tasks require human PR merge/owner approval or KYC; wallet/x402 routes are excluded.
-- **make.fun** exact bounties rechecked: $500 free-model aggregator and $1,000 three.js FPS report funded Solana escrow; $250 Roblox shared pool and $250 BTC paper-trading pool also report funded escrow. All require entrant's Solana keypair as account/payout wallet; no INR bank/UPI route. Official payout page claims $5,911 paid to 398 accounts, 574 transfers, median $6 and largest $250; most entrants win nothing. Transaction signatures are published but not chain-reconciled. No keypair, account, repo, purchase or submission.
-- BountyHub board: 28 open, 7 escrowed, 21 promised, $67.50 median; India is listed among 121 Stripe Connect countries, but mandatory Stripe identity verification and human maintainer/creator acceptance exclude it.
-- OddJob currently has 0 live tasks; ai2hum board counters conflict and current tasks require social/physical/video work; CoreDhristi still has an empty marketplace despite 80% share/bank payout claims; HSTLE requires ID verification and human task execution; Workmate4u is primarily local physical work and mentions KYC.
-- AgentLancer service 301/contract 327 and all three BountBee missions were attempted again but six endpoints returned errors/inaccessible responses. Prior details remain historical; no fresh payment or slot status.
-- Execution ledger: eligible 0; proposal-ready 0; approved-to-contact 0; submitted 0; accepted 1 historical (AgentLancer 327, blocked); delivered 0; approved 0; payable 0; cash received **$0**.
-- Detailed report: [run-43-2026-11-15.md](run-43-2026-11-15.md)
-
-## Run 41 — 2026-11-15 16:13–16:17 IST
-
-- Registry: **551 unique domains**, 308 directly inspected, 101 with historical job/program verification. Four net-new domains added: peerseek.io, botdigit.com, dhebe.com and theagenteconomy.si.
-- Opportunity ledger: **389 unique URLs**; 335 directly verified; 52 aggregator-index verified; 30 search-only. Zero duplicate domains, IDs or URLs. Evidence categories overlap.
-- Jobbi: direct /gigs and gigs.txt snapshot lists 675 open gigs, 641 agent lane, 34 human lane and 12 boards. Jobbi is an index, not a payer; no individual task passed the India payout/no-wallet filter.
-- Forke: UPI/Razorpay escrow and AI-assisted coding are advertised, but onboarding snapshots conflict between waitlist and start-earning; no exact public task URLs or buyer identities. Human owner approval remains required.
-- New sources: Peerseek advertises 5% transaction fee and bank settlement via Razorpay but no buyer order; BotDigit public jobs page showed 0 contracts and terms allow AML/KYC plus a $5/year Starter activation; Dhebe AI Evaluation role requires camera/full-screen and independent work; The Agent Economy directory is search-only discovery, not a payer.
-- DeskCrew remains ineligible: USDC wallet and paid per-call actions, human approval, low bounty.
-- WaitJI still displays ₹0 paid and no live impressions/campaigns. Nainix has conflicting non-cash vs cash-conversion snapshots and no exact live task.
-- **Critical verification correction:** latest read-only inspection of BountBee homepage/three missions and AgentLancer service/contract/payment endpoints failed with ERR_SOCKS_CONNECTION_FAILED. Prior slot counts, deadlines and payment fields are historical only. Contract 327 remains unverified; no cash received.
-- Execution ledger: eligible 0; proposal-ready 0; approved-to-contact 0; submitted 0; accepted 1 historical (AgentLancer contract327, blocked); delivered 0; approved 0; payable 0; cash received **$0**.
-- Detailed report: [run-41-2026-11-15.md](run-41-2026-11-15.md)
-
-## Run 40 — 2026-11-15 14:52 IST
-
-- Source registry: **547 unique domains**; 306 directly inspected; 101 job/program-verified. Five net-new domains added: qwikyo.ai, itester.com, operations.nfl.com, iitianvibes.com and starfield.net. StartupGrantsIndia was upgraded from search-only to direct page verification.
-- Opportunity ledger: **384 unique URLs**; 332 directly verified; 52 aggregator-index verified; 29 search-only (evidence classes can overlap). Four new records added; four repeated URLs were merged into existing records; Gemma 4 and TaskBounty refreshed.
-- Best conditional opportunity: **Enveda CASMI 2026** — USD 50,000 prize pool, top five USD 16k/12k/9k/7k/6k; automated mean-reciprocal-rank scoring; official Kaggle rules search result explicitly permits automated machine-learning tools; entry deadline 2026-12-07 23:59 UTC and final 2026-12-14 23:59 UTC. India is not listed among excluded regions. Exact Indian bank/UPI payout is not stated; non-US W-8BEN and eligibility documents required. Kaggle account and binding rules acceptance required; no account created and no rules accepted.
-- Second conditional competition: **Name That LLM** — USD 50,000 total, ten USD 5,000 prizes, machine-scored balanced accuracy; entry/rules by 2027-01-06 23:59 UTC and final by 2027-01-13 23:59 UTC. Pretrained models/public data allowed, but AI coding-assistant policy is not explicit and payout rail is unknown.
-- **Gemma 4 Developer Agent** refreshed: current open pool USD 65k main + USD 10k small-model bonus; USD 35k Paper Track closed. Machine-graded coding-agent challenge, but 22.42 GB dataset/12-hour run, Kaggle rules acceptance and India payout remain unresolved.
-- Rejected: Meta VR Start (official rules void automated entries and may require government ID); Kiroween (entrant-owned original ideas/work and human judging); NFL Big Data Bowl (human judging and finalist presentation); iTester (KYC, real devices and human testing); AMD AI League (official URL now redirects to Starfield Labs page saying no events).
-- Qwikyo AI is a hold: paid bounty funding is paused, operator verification and Stripe Connect country support unresolved. TaskBounty's current funded-jobs page directly says “No matching funded jobs”; its documented bank rail excludes India.
-- BountBee: all three exact mission pages and homepage rechecked read-only. M-2419 is LIVE at ₹2.40L (2/6 slots, 1 submitted; platform says escrow captured Nov12; deadline target Nov29 12:59:48 IST); M-2426 is LIVE at ₹1.35L (1/6 slot, 1 submitted; platform says escrow captured Nov10; deadline Nov16 21:59:48 IST); M-2422 is LIVE at ₹3.25L (3/4 slots, 0 submissions; platform says escrow captured Nov14; deadline Dec5 14:59:48 IST). Homepage claims ₹14,87,900 in escrow. These are platform claims, not independently verified escrow. Kirana Cloud and Meridian Health have possible public site matches but no BountBee relationship confirmed; Zenlark Payments not corroborated. Same-day ₹ payout advertised, actual rail unknown; no lab account or slot claim.
-- A private GST OCR preflight prototype v0.1 was prepared locally for M-2426 (not uploaded or submitted): 3/3 synthetic tests pass; 15-run synthetic p95 56.9 ms for digital PDF and 921.9 ms for scanned PNG. It supports a narrow invoice layout only, uses heuristic confidence and has not been tested against BountBee hidden tests.
-- AgentLancer service 301 is publicly listed and its quality gate is clear, but current_verified_economic_activity is none_verified_yet. Contract 327 is blocked before buyer instructions: canonical monitor says 21 USDT, null payment ID/address, no tx hash, 0/10 confirmations; separate status card says ID 7 and 20 USDT with an address but marks sending unsafe. Both say payment unverified; no independent blockchain confirmation. No delivery or wallet action.
-- No accounts, rule acceptances, proposals, PRs, buyer messages, wallet connections, identity uploads, payout details, deposits or commitments. No work delivered or payment confirmed.
-
-## Run 39 — 2026-11-15 13:49 IST
-
-- Source registry: **542 unique domains**; 299 directly inspected; 98 job/program-verified. Eleven candidate domains reviewed, 10 net-new unique domains (two directly inspected, eight search-only/stale); MonetizeYourAgent was already registered.
-- Opportunity ledger: **380 unique URLs**; 330 directly verified; 49 aggregator-index; 29 search-only (evidence classes overlap). Four new exact opportunity records added; Homingo and Code for India records refreshed.
-- New discovery directories: DartzDabz, AgentScout, Indexed by Agents, ToolSkipper, Baipiaoji, Rubric and AgentIndex; MonetizeYourAgent was already registered. Most were search-only or stale-crawl; no payout claims treated as verified.
-- New event findings: The Product Space Agentic AI Hackathon (reject: mandatory LinkedIn streak); Cashfree × Sarvam AI Buildathon (reject: in-person Bengaluru).
-- Nainix sample card (250 NX / ₹2,500 equivalent) is not job-level verified: jobs page only says Loading opportunities; cashout proof absent. Khaliwork $400 Python scraping card is stale/unclear and requires Aadhaar/PAN KYC; reject. TrustWork also requires Aadhaar KYC.
-- Homingo registration closes today 23:59 IST; AI tools allowed, ₹5,000 top prize, but eligibility conflict and no payout/escrow details. No registration.
-- Code for a Billion requires an already deployed/open-source project by today; human judging, no payout rail/escrow. Not feasible as a new entry.
-- AgentLancer static first-payment page still points to contract123/80 USDT plus separate 20 USDT pilot; previous contract327 snapshot says 21 USDT with missing payment ID/address. Homepage search result reports verified volume $0. API endpoints not retrievable this cycle. No buyer contact/delivery.
-- BountBee exact mission pages failed to open; previous mission details remain historical. Homepage search result claims ₹14,87,900 escrow, not independently verified.
-- Execution ledger: eligible 0; proposal-ready 0; approved-to-contact 0; submitted 0; accepted 1 (AgentLancer, blocked); delivered 0; approved 0; payable 0; cash received **$0**.
-- No accounts, registrations, messages, proposals, PRs, wallet connections, ID/KYC, payout details, deposits, subscriptions or commitments.
-- Detailed report: [run-39-2026-11-15.md](run-39-2026-11-15.md)
-
-## Run 39 — 2026-11-15 13:49 IST
-
-- Source registry: **542 unique domains**; 299 directly inspected; 98 job/program-verified. Eleven new domains added (two direct, nine search-only/stale).
-- Opportunity ledger: **380 unique URLs**; 49 directly verified; 0 aggregator-index; 295 search-only (evidence classes overlap). Four new exact opportunity records added; Homingo and Code for India records refreshed.
-- New discovery directories: DartzDabz, AgentScout, Indexed by Agents, ToolSkipper, Baipiaoji, Rubric, MonetizeYourAgent, AgentIndex. Most were search-only or stale-crawl; no payout claims treated as verified.
-- New event findings: The Product Space Agentic AI Hackathon (reject: mandatory LinkedIn streak); Cashfree × Sarvam AI Buildathon (reject: in-person Bengaluru).
-- Nainix sample card (250 NX / ₹2,500 equivalent) is not job-level verified: jobs page only says Loading opportunities; cashout proof absent. Khaliwork $400 Python scraping card is stale/unclear and requires Aadhaar/PAN KYC; reject. TrustWork also requires Aadhaar KYC.
-- Homingo registration closes today 23:59 IST; AI tools allowed, ₹5,000 top prize, but eligibility conflict and no payout/escrow details. No registration.
-- Code for a Billion requires an already deployed/open-source project by today; human judging, no payout rail/escrow. Not feasible as a new entry.
-- AgentLancer static first-payment page still points to contract123/80 USDT plus separate 20 USDT pilot; previous contract327 snapshot says 21 USDT with missing payment ID/address. Homepage search result reports verified volume $0. API endpoints not retrievable this cycle. No buyer contact/delivery.
-- BountBee exact mission pages failed to open; previous mission details remain historical. Homepage search result claims ₹14,87,900 escrow, not independently verified.
-- Execution ledger: eligible 0; proposal-ready 0; approved-to-contact 0; submitted 0; accepted 1 (AgentLancer, blocked); delivered 0; approved 0; payable 0; cash received **$0**.
-- No accounts, registrations, messages, proposals, PRs, wallet connections, ID/KYC, payout details, deposits, subscriptions or commitments.
-- Detailed report: [run-39-2026-11-15.md](run-39-2026-11-15.md)
-
-## Run 35 — 2026-11-15 09:44 IST
-
-- Source registry: **522 unique domains**; 287 directly inspected; 94 job/program-verified. Four new source domains added.
-- Opportunity ledger: **363 unique URLs**; 316 directly verified; 44 aggregator-index; 27 search-only (evidence flags overlap). Four new opportunity/program records added; existing records refreshed.
-- **Best conditional seller channel:** BodhicAI advertises 80% creator share and Razorpay/UPI/bank payouts. Creator agreement requires 18+ and valid account; exact account verification documents are unspecified. Browse page did not expose verifiable listings or buyer orders. No account/listing/payout setup.
-- **Private product upgrade:** built a dependency-free MCP stdio server for the existing OpenAPI/MCP QA tool. Six unit tests and three protocol smoke exchanges passed. ZIP integrity passed. Private BodhicAI listing draft included; not published.
-- **Copilot.in:** live homepage/demo claims 47 copilots, 184,000 queries, ₹8.47L builder earnings; demo says 8,420 queries and ₹12,400 earned today. An older investor deck says 5 flagship and 47 target by month 3. 80% builder share and monthly bank payout advertised; seller terms, KYC and payout settlement not verified. Hold.
-- **SELQIK:** 0 live listings, 0 escrow protections; checkout explicitly in Demo mode until a live Razorpay key is configured. KYC thresholds include PAN/government ID for high-value AI agents. Reject.
-- **Waitline:** direct terms identify AppSage Infosystem Pvt Ltd; $10 minimum, 30-day hold, RazorpayX UPI/bank, possible KYC/PAN. Automated prompts/bots/scripts prohibited. Reject as AI-only work.
-- **run.pay:** 205-service API marketplace; 98% provider share and weekly Stripe Connect bank payouts advertised, but verified vendors must complete Stripe KYC; India payout eligibility unknown. Reject under current no-KYC rule.
-- Other new sources: SkillBolt (0 live inventory and academic-project integrity risk), SentinalAI (search-only, Algorand/Pera wallet, no activity), Versa (search-only, identity-verified profiles, no exact job).
-- **BountBee correction:** a 09:44 IST search result showed the homepage ticker with M-2419 race and ₹14,87,900 aggregate escrow claim; this was not a direct page re-open. Exact mission URLs failed to open in this refresh. Previous exact slot/escrow details are historical, not current. Legal operator, independent escrow, payout rail and India eligibility remain unresolved.
-- **Homingo:** registration closes Nov15 23:59 IST and AI tools are allowed, but official terms restrict entrants to students/early-career developers and require identity/payment verification before prize transfer. Rejected for current profile/restrictions.
-- Financial ledger: **0 eligible, 0 proposal-ready, 0 submitted, 0 accepted, 0 payable, $0 cash received**. AgentLancer service 301 not rechecked.
-- No accounts, registrations, waitlists, claims, proposals, PRs, messages, IDs, wallets, payout details, deposits, subscriptions or commitments.
-- Detailed report: [run-35-2026-11-15.md](run-35-2026-11-15.md)
-
----
-
-## Run 34 — 2026-11-15 09:16 IST
-
-- Source registry: **518 unique domains**; 283 directly inspected; 95 job/program-verified. Six new source domains added.
-- Opportunity ledger: **359 unique URLs**; 312 directly verified; 44 aggregator-index; 27 search-only (evidence flags overlap). Three new opportunity/program records added; existing records refreshed.
-- Reconciled the actual CSVs at the start of this run: 512 unique domains and 356 unique URLs; Run 33 README summary undercounted those files by 2 and 4 respectively.
-- Strongest conditional technical leads: BountBee M-2419 ₹240,000, M-2426 ₹135,000 and M-2422 ₹325,000; exact mission pages open and platform timelines say escrow captured, but legal operator, buyer identity, independent escrow, winner payout rail, KYC and India eligibility remain unresolved.
-- Strongest India-native monetization lead: Copilot.in advertises 80% builder share and monthly bank payout, but the accessible homepage is a stale snapshot and current seller terms/KYC/transactions are unverified.
-- Lull advertises 70% share and UPI/IMPS, but remains pre-launch; no live sponsors or independent payouts; partner KYC may be required; automated impressions prohibited.
-- Make.fun $500 free-model aggregator is machine-graded and reports funded escrow, but requires own Solana wallet; rejected under current payout constraints.
-- TaskBounty bank payout route is limited to US/EU/UK/IL; crypto alternatives require wallet; board snapshot says no code bounties, but crawl is stale.
-- Smart Scholars $1,000 prize has Indian bank transfer and allows disclosed AI tools, but requires entrant-owned original work and possible live Q&A; hold as human-supervised fallback.
-- Rejected: FUTUREHACK (mandatory webcam/code defense/KYC), AgentRush USA (US-only/team/$49 Round2), Agent Arena (expired).
-- Jobbi aggregator pulse (search-result only): 687 indexed open gigs, 160 at $50+, 36 first-seen in seven days; payout mix includes Stripe, x402, USDC and wallet/token rails. Direct report open returned cache miss; no exact eligible job confirmed.
-- Financial ledger: **0 eligible, 0 proposal-ready, 0 submitted, 0 accepted, 0 payable, $0 cash received**.
-- No accounts, registrations, IDs, wallets, payout details, proposals, claims, messages, deposits, subscriptions or commitments.
-- Detailed report: [run-34-2026-11-15.md](run-34-2026-11-15.md)
-
----
-
-## Run 33 — 2026-11-15 07:44 IST
-
-- Source registry: **510 unique websites** after this update; 281 directly inspected, 95 with job-level verification; 6 new source domains added.
-- Opportunity ledger: **352 unique opportunity/program URLs** after this update; 306 directly verified, 9 new exact records added.
-- Strongest new machine-verifiable lead: FrontierOR Challenge, $21,000 advertised prize pool; India payout terms remain unpublished.
-- Strongest agent-to-agent fit: Open Agentic Web Challenge, $10,000 cash, India not excluded; bank transfer generally allowed, W-8BEN/identity verification and entrant-narrated demo required.
-- Strongest MCP-aligned competition: Codegeist 2026, $120,000 cash across 33 positions including $1,500 Atlassian MCP and Rovo-agent bonus prizes; AI/IP terms and winner verification remain unresolved.
-- Rejected: UGREEN (India excluded), AWS MSP (AWS Partner Network authorization required), uTest AI Trading Bot (KYC + $100 deposit), ai2hum (human physical/social/video tasks), Cerebrov (ended/in-person).
-- BountBee's prior open/escrow-captured snapshots are now marked historical; current exact pages returned errors and a read-only browser run remained incomplete.
-- Financial ledger: **0 eligible, 0 proposal-ready, 0 submitted, 0 accepted, 0 payable, $0 cash received**.
-- No account, registration, ID, wallet, payout detail, proposal, claim, message, deposit, subscription or commitment was made.
-
-[Run 33 detailed report](run-33-2026-11-15.md)
-
-## Run 32 — 2026-11-15 06:53 IST
-
-- **Final coverage:** 504 unique source domains; 275 directly inspected; 92 with job/program-level verification; 343 unique opportunity/program URLs (298 directly verified, 44 aggregator-index, 30 search-only; evidence categories overlap).
-- **New source domains:** `getrupaiya.online`, `creonex.in`, `creatorsaathi.ai`, `nextip.in` — all four directly inspected and screened.
-- **New exact records:** BountBee M-2419 (₹240,000), M-2426 (₹135,000), M-2422 (₹325,000), plus rupAIya developer-tool ad revenue-share programme. All exact pages/program pages directly inspected.
-- **Most important conditional lead:** BountBee has three live mission pages; AI-native labs bring their own tools/models; public workflow claims funded escrow, hidden-suite + human acceptance, first passing build wins and same-day ₹ release. Mission pages say escrow captured on Nov8/10/12. However no public terms/privacy/payout/legal entity/escrow provider or payout rail; UPI appears in M-2419 task title/mock service, not documented winner payout. Buyer identity only partly corroborated. Solo-lab/India eligibility and later KYC are unknown. **Hold; not eligible or proposal-ready.** No account/lab/slot created.
-- **BountBee slots at 2026-11-15 01:26 UTC:** M-2419 2/6 left, 1 submission; M-2426 1/6 left, 1 submission; M-2422 3/4 left, 0 submissions. No close times shown.
-- **Jobbi refresh:** 665 open (638 agent, 27 human), 12 boards. No new eligible Jobbi task. IssueHunt board snapshot shows 274 open, 100% marked escrowed, $40 median, but three sampled exact links returned 502; payout contributor ratio is maintainer-defined and India/SWIFT eligibility remains unverified.
-- **Other exclusions:** rupAIya requires Indian PAN/own-name UPI and prohibits automated/non-human impressions; CoreDhristi requires creator identity verification; AgentBaazar remains invite-only; Creonex is human creator services; CreatorSaathi requires identity check and personal referrals; NexTip requires government ID and livestream human activity.
-- **Private M-2419 prototype:** six tests passed; synthetic 12,000-row benchmark matched all rows in 3.555 seconds. Private only, not submitted; schema/interface is self-defined and hidden tests remain unknown.
-- **Financial ledger:** eligible 0; proposal-ready 0; submitted 0; accepted 0; delivered 0; approved 0; payable 0; **cash received $0**. No accounts, waitlists, claims, messages, IDs, wallets, payout details, deposits, subscriptions or commitments.
-- Detailed report: [run-32-2026-11-15.md](run-32-2026-11-15.md)
-
----
-
-## Run 31 — 2026-11-15 05:46 IST
-
-- **Final coverage:** 500 unique source domains; 274 directly inspected; 91 with job/program-level verification; 339 unique opportunity/program URLs (294 directly verified, 44 aggregator-index, 30 search-only; evidence categories may overlap).
-- **New source domains:** `xcomrade.tech` (bug-bounty directory; 63 programs, 41 marked paying, but no AI-permitted job verified), `mcprush.com` (MCP/skill marketplace; Stripe Connect payout), `wuslahq.com` (MCP/API marketplace; Whop KYC or USDC wallet), `skillswarm.app` (AI-agent marketplace; paid publish/earn plan).
-- **New exact opportunity URL:** Hack4Hack Crew Hiring Challenge 2026. Directly verified and rejected because AI alone is explicitly insufficient and a 45-minute human interview/live code change is mandatory.
-- **Important near-term lead:** Apart AI x Epistemics Research Sprint ($2,000; submission deadline Nov16 17:29 IST). AI tools allowed, global/solo, Indian SWIFT bank transfer documented via Ashgro Inc/Mercury; no escrow, human judging, Mercury onboarding/ID requirements unresolved, and broad submission license requires owner approval. No registration or submission.
-- **Future lead:** Apart Threat Intelligence & Threat Modelling Sprint ($5,000; Dec4-6; global/solo; AI tools allowed; Indian SWIFT bank transfer under same prize terms). Human judging, no escrow, Mercury/KYC and license approval unresolved.
-- **Important exclusions:** Homingo terms restrict to students/early-career and require identity/payment verification; HackerRank Orchestrate requires camera/mic for voice interview; Hack4Hack Buildathon requires team and ₹600 finalist fee; ML Challenge requires ₹299 Round-2 fee; KoiPay-style third-party settlement routes remain prohibited.
-- **First payment:** $0 independently confirmed. No proposals, registrations, accounts, wallet connections, identity uploads, payout details, deposits, subscriptions or commitments.
-- Detailed report: [run-31-2026-11-15.md](run-31-2026-11-15.md)
-
----
-
-## Run 30 — 2026-11-15 04:49 IST
-
-- **Final coverage:** 496 unique source domains; 269 directly inspected; 91 with job/program-level verification; 338 unique opportunity/program URLs (293 direct, 44 aggregator-index, 25 search-only; evidence categories overlap).
-- **New source domains:** `cosmohacks.com` (direct; student-only online hackathon), `koipay.ai` (direct; high-risk settlement-agent recruitment), `skillnexahub.com` (search-only; no exact buyer task verified). `boss.dev` was already in the registry; its dated gigs.sh profile was refreshed.
-- **Net-new opportunity URLs:** 6. Two existing candidate records (BountyCore and 13th Protocol) were refreshed, not duplicated.
-- **Important correction:** DrivenData GEMS explicitly permits generative AI but official DOE rules restrict individual prize competitors to U.S. citizens/permanent residents; India-based owner is ineligible.
-- **Important safety exclusion:** KoiPay asks agents to route third-party funds through personal bank/UPI accounts, top up a manager-controlled account and rotate accounts if flagged; do not engage.
-- **First payment:** $0 independently confirmed. No proposals, registrations, account creation, wallet connections, identity uploads, payout details, deposits or commitments.
-- Detailed report: [run-30-2026-11-15.md](run-30-2026-11-15.md)
-
----
-
-## Run 29 — 2026-11-15 03:49 IST
-
-- **Final coverage:** 493 unique source domains; 266 directly inspected; 88 with job/program-level verification; 332 unique opportunity/program URLs (287 direct, 43 aggregator-index, 30 search-only; evidence categories overlap).
-- **New source domains:** `requesthuman.ai` (search-only), `getterdone.ai` (direct; local/human tasks), `bountyos.rovidev.com` (direct; exact bounty hidden behind paid Pro), `smart-buildings-2026.github.io` (official machine-scored competition site).
-- **New exact opportunity records:** 12; existing records refreshed rather than duplicated.
-- **Critical payout finding:** Kaggle Staff's latest public payment-vendor answer found (about two years old) names Payoneer; Payoneer India terms/help require government ID/KYC. No newer competition-specific alternative was found. Current Kaggle prize competitions are held pending confirmation of a permitted payout route; Payoneer KYC would conflict with the no-third-party-ID restriction.
-- **Jobbi first-50 audit:** 14 paid technical Algora candidates, zero eligible for Indian individuals because Algora restricts India international payouts to sole proprietors, LLPs and companies. High PR/claim competition on every candidate.
-- **Best near-term bank-transfer lead:** Solar Filament Segmentation Challenge offers up to $3,000 with AURA/NSO direct bank transfer, but India vendor onboarding and US-origin bank receipt remain unconfirmed; deadline Nov15 (timezone not shown; standard Kaggle 23:59 UTC convention would mean Nov16 05:29 IST). Smart Buildings remains machine-scored but its Kaggle payout route is unresolved.
-- **Other exclusions:** BountyHub $75 Slack task closed, AI-generated PRs prohibited and Stripe KYC; Open Agentic Web requires entrant-explained video and identity verification; Cicada evaluator is human-only; ZIROH entry expired; 13th Protocol and Diwali Festiverse require physical attendance.
-- **Private MCP/OpenAPI QA Starter v1:** ZIP integrity rechecked; 5/5 unit tests pass; still unpublished/private.
-- **Financial ledger:** 0 eligible, 0 proposal-ready, 0 submitted, 0 accepted, 0 payable, **$0 cash received**.
-- No accounts, registrations, IDs, wallets, payout details, proposals, PRs, comments, deposits, subscriptions or commitments.
-
-[Run 29 detailed report](run-29-2026-11-15.md)
-
-## Run 27 — 2026-11-15 02:13 IST
-
-- **Final coverage:** 476 unique source domains; 251 directly inspected; 86 with job-level verification; 309 unique opportunity/program URLs (268 direct, 43 aggregator-index, 26 search-only; evidence categories overlap).
-- **New domains this run:** `anjoman.ai`, `mergeearn.vercel.app`, `monetizeyouragent.fun`. The source registry had already advanced to 468 domains and 294 opportunity rows before this run; 15 source rows and 8 opportunity rows from an intermediate scan were retained. Five additional source rows (onitindia.com, eval.ai, codalab.lisn.upsaclay.fr, mlcommons.org, wandb.ai) appeared before final verification and were retained without attribution to this run.
-- **New exact opportunity records:** 12 (MergeEarn #69; Anjoman #96/#103; eight IssueHunt issues including three additional utility-types tasks; Tenstorrent #64647). All rejected for explicit no-funding, wallet/token payout, competing PRs, unknown AI permission, or Tenstorrent's prohibition on automated/AI-generated contributions.
-- **Important payment correction:** IssueHunt's official terms permit Stripe debit remittance, SWIFT or ETH, but the maintainer sets the contributor ratio; a displayed issue deposit is not necessarily the worker's payout. Eleven exact tasks sampled have competing PRs, stale histories, assignment/in-progress status or blocked scope. PR #220 on utility-types #51 explicitly says it was written by an AI coding agent, but this does not establish blanket AI permission. India-specific bank payout remains unverified.
-- **Agent marketplaces:** ClawHunt has no visible open tasks or settlement telemetry; OpenBounty.ai uses mock payments only; MergeEarn reports zero funded bounties; Anjoman tasks #96/#103 are explicitly unfunded; Monetize Your Agent is USDC/Base and has no verified India fiat route.
-- **Competition corrections:** Gemma 4 remains the strongest machine-scored AI-agent fit, but no India payout method is published; W-8BEN appears in a secondary rules summary, and no Payoneer requirement was verified. Muse Spark/Open Kernel requires winner ID/tax/background checks and has no published payout rail. Kiroween requires winner identity verification and human judging. Homingo registration closes Nov15 23:59 IST but requires a finalist live demo. Code for a Billion's Nov15 submission needs an already deployed/open-source project. HackerEarth AI Work is human expert work with a Master's/PhD requirement. Build with AI 2026 is explicitly a prank; its $2,500 prize never existed.
-- **AgentLancer service 301:** public first-payment page still says contract 123's 80 USDT needs a real buyer tx_hash; live status endpoints returned cache miss; service 301 profile remains inaccessible. No buyer contact.
-- **Execution ledger:** eligible 0; proposal-ready 0; approved-to-contact 0; submitted 0; accepted 0; delivered 0; approved 0; payable 0; cash received 0.
-- **Integrity:** zero duplicate domains and zero duplicate listing URLs. No accounts, applications, PRs, wallets, ID uploads, payout details, signed terms, deposits or commitments.
-- **Detailed report:** [run-27-2026-11-15.md](run-27-2026-11-15.md).
-
-## Run 25 — 2026-11-14 23:46 IST
-
-- **Coverage:** 446 unique source domains; 226 directly inspected; 79 with job-level verification; 278 unique opportunity/program URLs.
-- **New domains:** voicecord.org (search-only), waitpay.in (direct), waitjiai.in (direct), talentaiworks.com (search-only), gignaati.com (search-only), bitroad.ai (direct). Agrenting already existed and was refreshed.
-- **New programme records:** 8; refreshed existing Agrenting, OddJob, Hack4Hack ML Challenge, HackIndia AgentVerse and AI for Lawyers.
-- **Key findings:** Agrenting has agent-native escrow but stablecoin-only withdrawals; Bitroad has cleared-job escrow but requires Stripe Connect KYC and trading identity; WaitJI showed ₹0 paid/no campaign inventory; WaitPay remains pre-launch; Jwuma requires identity document and camera check; OddJob showed 0 live tasks; 2une requires credential verification; VoiceCord/TalentAIWorks/Gignaati remain search-only.
-- **No eligible paid task:** all execution stages remain zero; independently confirmed cash received **$0**. No accounts, wallets, applications, identity or payout details were created or provided.
-
-## Run 23 — 2026-11-14 21:43 IST
-
-### Late recheck — 2026-11-14 21:43 IST
-
-- **Jobbi snapshot discrepancy:** live `/gigs` page at 15:00 UTC says 688 open (653 agent, 35 human); `/report` page at 16:00 UTC says 680 open (653 agent, 27 human). The report lists 550 priced gigs, $20 median, $44,818 total, 497 marked escrowed, 545 human-reviewed and 130 machine-accepted. Board counts also differ slightly. Treat these as aggregator snapshots, not a reconciled inventory or proof of individual escrow.
-- **Javelin anti-cheat $10,000:** exact GitHub issue remains open, but PRs #19, #24, #30, #84 and #92 are visible; PR #92 reports passing tests and open/mergeable, a commit landed Nov11, and another attempt appeared Nov13. AI assistance is not banned, but low-quality AI PRs are rejected and a demo video is required. Algora's official payment docs say Indian international payouts are not available to individuals; sole proprietors/LLPs/companies need required Stripe credentials. Reject as oversubscribed and not payable under current constraints.
-- **Dozer WASM UDF $600:** exact issue remains open, but PR #2542 was submitted Oct25 and later commits appeared Nov1/Nov6; multiple attempts exist. Bounty requires a demo video and maintainer merge. Algora India payout entity/credential restrictions apply. No distinct unpaid acceptance gap verified.
-- **Coolify Project-specific members $1,000:** issue remains Open but Hold; maintainer explicitly said on Sep13 that Coolify stopped its Algora bounty programme and no bounty claims/payouts will be accepted. Bounty label was removed. Reject as cancelled.
-- **BountyHub RCS $5,000:** founder's public comment confirms historical pre-funding, but issue conversation is locked to collaborators since Sep18. India is in the supported country list, but Stripe identity verification is required. Real Android device testing and human acceptance remain. Reject under current restrictions.
-- **Algora payment rules:** official Algora payment documentation in its GitHub repository directly inspected. India international payouts are limited to sole proprietors, LLPs and companies, not individuals; Stripe will not process payments without required credentials/authorisations. Official docs say 1–3 business days after payment completion; issue bot messages may state 2–5 days after reward.
-
-### Coverage after this run
-- **436 distinct source domains** in the cumulative registry; **217** directly inspected; **74** with at least one exact job/competition/program page verified.
-- **263 unique opportunity/program URLs** in the cumulative ledger; **230** directly verified records, **34** with aggregator/index evidence and **17** search-only records. Evidence categories overlap; these are not 263 paid jobs.
-- Added 12 source domains: `humanping.io`, `human-mcp.io`, `devhunt.org`, `realityperception.com`, `aiyuva.online` (search-only), `x-machina.in` (search-only), `quantum-brief.com`, `hackodds-live.vercel.app`, `worldengineeringday.net`, `developerweek.com`, `redclara.net` (search-only), and `dorahacks.io` (search-only).
-- Added 12 opportunity/program snapshots. Refreshed the existing Google Quantum AI competition record rather than duplicating it.
-
-### New findings
-1. **Jobbi current index:** directly inspected the live gigs page, top-paying page, report, BountyHub and Algora board pages. The 16:00 UTC page shows 680 open gigs (653 agent lane, 27 human lane, 12 boards). Board counts include IssueHunt 274, Algora 181, BountyBook 118 and BountyHub 28. Top-paying page shows 551 priced gigs, median $20. The report classifies 497 as escrowed, 126 machine-accepted and 549 human-reviewed, but these are aggregator labels, not independent proof of every task's funding. Jobbi explicitly says it indexes only; each board pays. Many high-value records are stale, locked, human-only, KYC-gated, wallet-only or merely promised.
-2. **TaskBounty:** exact funded-jobs page `/browse` returned “No matching funded jobs”. The separate services page contains seller offers, not buyer orders; the Agent Board is explicitly unpaid. No account/API key created.
-3. **HumanPing and human-mcp.io:** both are genuine AI-agent-to-human outsourcing platforms with escrow claims, but workers are humans completing physical, phone, judgment, writing, research or other tasks. Stripe/PayPal/USDC and Stripe payouts are advertised, but India worker eligibility is not confirmed. Excluded because they are not AI-only earning sources.
-4. **Reality Perception:** directly verified human desktop-session recording programme, ₹15 per eligible active hour, UPI/bank advertised, no assigned tasks; bots/idle time do not count. Requires real human activity and name/email/phone. Excluded.
-5. **ai2hum:** exact ₹8,300 “What AI Can't Do” contest page says voting closed and contest ended; winners are displayed, and the page claims UPI payment within one hour. It simultaneously shows zero roasts/votes. The bounty board says 0 open now/₹0 paid out but also lists 141 slots and ₹1,700 historical paid. Current tasks are human social, video and physical work. Excluded.
-6. **AI Yuva:** search-result-only lead advertises ₹250–₹300/test and weekly UPI for human app/chatbot/voice testing in UP/Bihar and nearby states. Direct page fetch failed; not AI-only and India/Chennai eligibility unverified.
-7. **X-Machina Global AI Hackathon:** search-result-only portal snapshot shows Nov13–15, 2.4K+ participants and $50K+ prizes. Submission deadline Nov13 had passed by this run; judging Nov14–15. Portal returned 401; payout, AI policy and eligibility not fully verified. Excluded.
-8. **WFEO 2027 Hackathon:** official page directly verified; free, online, €7,000 pool, but teams of 3–5 led by engineering students/young engineers, 5-minute video and team photo; AI may assist, human judging; no escrow/payout rail. Excluded from AI-only pipeline.
-9. **DeveloperWeek 2027:** official page directly verified; hybrid online + Santa Clara, $12,500 total prize value but only $2,000 explicitly cash in one sponsor track; human judging, top-five in-person stage presentation, AI policy and India payout not stated. Excluded/hold.
-10. **CoAfina 2026 and BCH BLAZE:** directory-index evidence only. CoAfina is described as Latin American university-student-only with deadline Nov14; BCH BLAZE advertises 25+ BCH/$8k, but exact page returned 405 and AI/payout rules are unknown. Excluded.
-11. **Google Quantum AI Verifiable Circuit Compilation:** refreshed existing record. Official Kaggle search-result content explicitly invites AI coding agents, describes open kickmix fuzz verification, three tasks and $150k total; mid-prize Nov20 23:59 UTC (Nov21 05:29 IST), entry Jan13 2027, final Jan20 2027. Direct Kaggle open returned no readable lines this run; Quantum Brief article and companion paper were inspected. Kaggle indexed participation snapshot is historical, not live. No competition-specific India payout or identity requirement verified; no account/rules accepted. Strongest technical fit, but HOLD pending payment/ID clarification.
-
-### Execution and financial state
-- Fully eligible direct paid jobs: 0
-- Proposal-ready: 0
-- Approved to contact: 0
-- Submitted / accepted / delivered / approved / payable: 0
-- Independently confirmed cash received: **$0**
-
-AgentLancer service 301 remains separately tracked and was not rechecked. No account, registration, proposal, PR, message, wallet, ID, payout details, terms acceptance, deposit or commitment was made.
-
-### Sources inspected
-- https://jobbi.org/gigs/
-- https://jobbi.org/gigs/top-paying/
-- https://jobbi.org/gigs/boards/bountyhub
-- https://jobbi.org/gigs/boards/algora
-- https://www.task-bounty.com/browse
-- https://www.task-bounty.com/services
-- https://humanping.io/
-- https://human-mcp.io/
-- https://realityperception.com/
-- https://ai2hum.ai/bounties/
-- https://ai2hum.ai/summit/contest/
-- https://work-researchers.hackerearth.com/landing.html
-- https://devhunt.org/hackathons/online
-- https://worldengineeringday.net/hackathon/
-- https://www.developerweek.com/hackathon/
-- https://laconga.redclara.net/hackathon/ (search/index evidence; page unreadable)
-- https://dorahacks.io/hackathon/bchblaze2026 (page returned 405)
-- https://portal.x-machina.in/hackathon (search-result evidence; direct page returned 401)
-- https://www.quantum-brief.com/blog/news-2026-10-25-google-verifiable-circuit-compilation/
-- https://www.kaggle.com/competitions/google-verifiable-quantum-circuit-compilation (official search-result content; direct page returned no readable lines)
-
-## Run 17 — 2026-11-14 16:49 IST
-
-### Coverage after this run
-- **396 distinct source domains** in the cumulative registry; **182** directly inspected; **59** with at least one exact job/competition page inspected.
-- **208 distinct opportunity/program URLs** in the cumulative ledger; **188** directly verified records, **28** with aggregator/index evidence and **6** search-only records (evidence categories overlap; these are not 208 paid jobs).
-- Added six source domains: `workpnp.com`, `kariant.app`, `wecodecoders.in`, `viamu.app`, `loopuman.com` (search-only) and `finalleg.ai` (search-only).
-- Added four opportunity/program records: CodeZen India 2026, WorkPNP OpenThomas task, Kariant partner listing programme and ViAmu's stale AI Incident Response Sprint. Refreshed Apart Research AI x Epistemics, Threat Intelligence & Threat Modelling, Agent Attribution, and FUTUREHACK.
-
-### New findings
-1. **Apart Research AI x Epistemics:** official page now shows 1,510 signed up. The event is global, online, solo-eligible and explicitly permits AI tools. $2,000 cash pool. Deadline is **2026-11-16 17:29 IST** (Nov15 23:59 AoE / Nov16 11:59 UTC). The submission form requires title, summary, PDF, team name/location and author name/email; a 3–5 minute presentation recording is optional. Official prize terms name Ashgro Inc, require SWIFT details for Indian bank recipients, and say tax withholding applies based on treaty status. No escrow; human judging. No registration, terms acceptance or submission.
-2. **Apart Research Threat Intelligence & Threat Modelling Hackathon:** official page confirms Dec4-6 online, 217 signed up, $5,000 cash pool, AI tools explicitly allowed, global/solo entry and a public-data-only defensive research scope. Deadline Dec6 23:59 AoE = Dec7 17:29 IST. Common Apart prize terms specify SWIFT for Indian bank recipients. No escrow; human judging. Strong upcoming conditional lead; no registration.
-3. **Apart Research Agent Attribution Hackathon:** Dec11-13 online, global and solo; AI tools explicitly allowed. Track 1 has held-out test-set scoring, while expert judging applies to reports. The official page does not publish a cash prize amount; a third-party directory's $2,000 figure is unconfirmed. Do not count it as revenue.
-4. **WorkPNP:** exact open job “Submit OpenThomas to 2-3 relevant awesome-lists” is 2 USDC, posted July10, 27 bids. The separate funded filter shows **0 funded jobs**, despite the homepage's general escrow claim. Worker receives 90% in USDC Base, requires wallet and one X-account verification post. Rejected: stale, low reward, unfunded, wallet/social gates.
-5. **Kariant:** partner docs describe INR bank/UPI cashout via Razorpay/PayU for eligible Kash, but the one-time lifetime listing fee starts at ₹9,999 for AI Tools and is higher for services/software. Early partner fee-back is Koins, not immediate cash; Kash redemption is identity-verified. No exact buyer task or creator payout proof. Rejected under upfront-fee and ID restrictions.
-6. **CodeZen India 2026:** free online three-round event; AI tools allowed with disclosure; ₹50,000 total prize pool may be cash, credits or a combination. However, current undergraduate/postgraduate student eligibility is required, payout rail is unpublished, and Round1 plan is due Nov15 18:00 IST. Owner eligibility not established; no registration.
-7. **FUTUREHACK '26:** AI tools allowed and ₹10,000 pool, but official page requires webcam/screen/tab monitoring, live code defense and KYC before prize transfer. Rejected under owner constraints.
-8. **ViAmu:** aggregator page says “Open/no deadline” for AI Incident Response Sprint, but its own event dates are Sep11-13 2026. Rejected as stale.
-9. **Loopuman / Final Leg:** search-result discoveries describe human-in-the-loop or physical/local task marketplaces. These are excluded; no exact AI-only job verified.
-10. **Payout API references:** VanPaye and ZuelPay directly inspected pages advertise Indian IMPS/NEFT/RTGS/UPI disbursement APIs. These are payment infrastructure providers, not job sources or evidence that a marketplace can pay this owner. They are not counted in the source registry.
-
-### Execution and financial state
-- Fully eligible: 0
-- Proposal-ready: 0
-- Approved to contact: 0
-- Submitted / accepted / delivered / approved / payable: 0
-- Independently confirmed cash received: **$0**
-
-AgentLancer service 301 remains separately tracked. No account, registration, proposal, PR, message, public post, wallet, ID, payout details, terms acceptance, deposit or commitment was made.
-
-### Sources inspected
-- https://apartresearch.com/sprints/ai-x-epistemics-research-sprint-2026-11-13-to-2026-11-15
-- https://apartresearch.com/sprints/threat-intelligence-threat-modelling-2026
-- https://apartresearch.com/sprints/agent-attribution-2026
-- https://apartresearch.com/sprints/prize-terms
-- https://workpnp.com/jobs
-- https://workpnp.com/jobs?status=funded
-- https://workpnp.com/jobs/job_412n2v0mvb13s0jr
-- https://kariant.app/partner
-- https://support.kariant.app/kariant/partner/journey/get-started
-- https://support.kariant.app/kariant/partner/journey/list-your-offering
-- https://support.kariant.app/kariant/partner/pricing/partner-pricing
-- https://kariant.app/koins/kash
-- https://wecodecoders.in/events/codezen-india
-- https://app.hackthefuture.co.in/futurehack
-- https://viamu.app/opportunities/ai-incident-response-sprint
-- https://vanpaye.com/vanpayout.html
-- https://zuelpay.in/Payout_API
-
-
-## Run 14 — 2026-11-14 08:22 UTC
-
-### Coverage after this run
-- **378 distinct source domains** in the cumulative registry; 170 marked directly inspected and 53 with at least one job-level verification.
-- **190 distinct opportunity/program URLs** in the cumulative ledger; 175 directly verified records and 26 with aggregator-index evidence. These are not all confirmed jobs.
-- Added six new source domains: `synmerco.com`, `egig.in`, `neonlink.ai`, `agent-hire.com`, `openforgemarketplace.com`, and `the402.ai`.
-- Added 7 new exact job/API-search records, refreshed two existing Toku records and reverified the Javelin anti-cheat issue. No proposals or external actions were made.
-
-### New findings
-1. **Circle Agent Marketplace / Managed Agentic Payments:** Circle's seller docs say direct API sellers receive per-call USDC to an EVM wallet. Separately, Circle says Managed Agentic Payments can pay bank accounts in 50+ currencies, and its Feb 17, 2026 CPN update says an India payout corridor is live via Saber (NEFT typically under two hours; IMPS/RTGS near-instant). This is a conditional B2B/platform route, not proof of individual AI-agent seller eligibility. No sales contact, account, API listing or wallet was created.
-2. **Synmerco:** public funds-verified jobs API returned `jobs=[]`, `total=0`. Official payment methods list USD/Stripe and USDC/Base; no India INR/bank route documented. No agent keypair, DID or wallet created.
-3. **eGig:** narrow read-only API queries returned zero matches for remote API-testing jobs and MCP-integration projects. This does not prove the entire marketplace is empty; broader queries were not completed after Browser Use credits ran out.
-4. **Toku:** official board showed 380+ jobs and 4,185+ agents, but two exact MakeMoney Research AI tasks were weak: one $5–$25 job was marked withdrawn after 183 bids and zero accepted; one $1–$3 report job remained open after 175 bids with zero delivered/accepted. Stripe Connect payout/KYC required; no funded escrow shown.
-5. **OpenTask:** exact $500 USDC OpenAPI documentation task remains listed in Hire-first mode. Platform explicitly says it does not hold funds; buyer pays wallet-to-wallet after review. Platform page showed 28 open tasks, 892 agents and one completed-and-paid task. No India bank route or funded escrow.
-6. **FinMind:** two $500 Algora issues (#121 and #76) still appear Open in GitHub/Jobbi, but the repository was archived on Jun 19, 2026. Issue #121 has 112 comments and many PR attempts; #76 was assigned to another contributor and has an existing PR. The Algora payout-doc link on #121 returned 404. Rejected as non-actionable.
-7. **Neon Link:** exact India remote AI Agent Engineer role pays INR 60,000–95,000/month, but requires human application, voice introduction, background check, photo ID and proof of past work. It is not an AI-only task and was rejected.
-8. **AgenticTrade:** official page reports 794+ services, 4,886 calls and 1,258 active agents; providers receive monthly USDC to a Base wallet, $10 minimum. No INR bank payout.
-9. **Agoragentic:** official page says paid purchasing is temporarily unavailable while custody policy is frozen.
-10. **Code4rena:** official homepage says the platform is winding down; active contests are being completed and no new bounty submissions are open.
-11. **the402:** official homepage states the platform is closing. **Agent-Hire.com** says its agent marketplace is coming soon and currently charges buyers $99.99 to post jobs. **OpenForge** remains search-result-only because its direct page returned no readable content.
-12. **boss.dev:** official docs list 23 supported bounty-earner countries and exclude India; INR is a supported bounty-creation currency, not an India earner location. Personal financial details and a bank account are required.
-13. **Javelin anti-cheat $10,000:** the issue remains Open and Jobbi marks it escrowed, but the acceptance checkboxes are already marked complete and at least five implementation PRs are visible (#19, #24, #30, #84, #92). PR #92 reports passing tests and says it is open/mergeable; the bounty bot warns low-quality AI PRs will not be reviewed. No distinct unclaimed scope or owner payout route is established.
-
-### Eligibility and financial state
-- Fully eligible: 0
-- Proposal-ready: 0
-- Approved to contact: 0
-- Submitted / accepted / delivered / approved / payable: 0
-- Independently confirmed cash received: **$0**
-
-The strongest new payment-rail lead is Circle's India CPN corridor, but it requires platform/enterprise onboarding and does not establish an individual seller payout path. It remains research-only until India eligibility and onboarding requirements are confirmed.
-
-# Revenue Scout Registry
-
-Updated: 2026-11-14 06:17 UTC
-
-## Run 13 — 2026-11-14 07:25 UTC
-
-- Added **3 new unique source domains**: agentsigned.com, hacktraining.in and unrealengine.com. The source registry now has **372 unique domains**, of which **163** have direct page verification and **52** have job-level verification. Added direct verification for BasedAgents (previously index-only) and refreshed the itch.io source record for Epic AI MegaJam.
-- Added **19 unique opportunity/program records**. The ledger now has **183 unique URLs**: 14 exact BasedAgents tasks, 3 exact AgentSigned jobs, 1 Epic AI MegaJam contest and 1 HACKTRAINING programme-board availability check. These are not 19 eligible paid jobs. The ledger has 168 directly verified records, 26 with aggregator evidence (overlapping categories), and 6 search-only records.
-- **BasedAgents:** a read-only browser/API inspection at 2026-11-14 07:25 UTC found 14 open tasks from one buyer agent, Industrial Sentinel Acquisition (creator certification none). All show payment pending, payment due false, payment verified false, payment settled false and escrow null; payment is sign-at-accept, not upfront funded. Five Revenue Guard tasks pay 0.25 USDC but require an external Docker runtime, monitoring the operator seller wallet and at least 0.50 USDC real settled revenue across two UTC dates. Five Revenue Cashback tasks pay 2 USDC but require at least 2.50 USDC real settled revenue across two UTC dates. Four Revenue Trial tasks have no guaranteed bounty and only an optional rebate up to 2 USDC after at least 10 USDC revenue and positive gross profit. All require docker, automation, x402 and a verified Base USDC wallet; no India bank/UPI/INR route is documented. External image installation, unverified buyer and no escrow make all 14 rejected. No registration, wallet, claim or external runtime.
-- **AgentSigned:** official jobs board says 10 open roles; three exact job pages were inspected: Marketplace Match-Rate Audit ($3.5k, Meridian Ops, posted Jun 24, 1 applicant); Business Intelligence & Data Analyst ($3k/month, Lumen Data, Jun 30, 0 applicants); Competitor Mention Research Analyst ($1.2k, Nimbus Support, Jun 26, 1 applicant). All remain labelled open but are roughly four months old. Buyers are generic display names with no independent legal identity. Pricing says Stripe checkout, ~8% fee; homepage says earnings example is illustrative and payouts activate only when billing is enabled. No escrow, exact acceptance tests, billing activation, India payout eligibility or receipts verified. All three rejected; no sign-in/application.
-- **HACKTRAINING:** official homepage, /programs and responsible disclosure policy inspected. Homepage markets $40K+ paid but live counters show $0K+, 0 researchers, 0 active programs and 0 bugs reported; /programs page showed no programme cards. Responsible disclosure rules authorize only active scoped programs and prohibit automated scanning without permission, DoS, phishing and unnecessary data access. UPI/bank/PayPal payout is claimed but no exact active job, buyer, bounty or payout proof exists. No account or testing.
-- **Epic AI MegaJam 2026:** official itch.io jam page and Epic's Unreal Engine announcement inspected. Submissions remain open until **2026-11-16 01:59 UTC / 07:29 IST**; page showed 9,952 joined and 66 entries. Any AI tools are permitted; solo entry allowed; $65,000 total cash prizes, with $2,500 Solo Driver award and separate discretionary continuation grants up to $50,000. It is human-judged, not machine-accepted; requires active Epic account, human submission, playable game and 30–60 second gameplay video (no face/camera appearance required). Full rules on Box were inaccessible, so India eligibility and international payment rail are unconfirmed. Conditional hold only; no account, Join action, rule acceptance or submission.
-- **NeuraViz:** refreshed official main page still shows a Dec 10 2026 deadline and ₹150,000 advertised pool, but winners may be invited to an in-person interview/demo; AI policy and payout rail remain unspecified. Existing rejection retained. **Build with AI 2026** landing page still says applications open but its own deadline is April 26 2026; expired. **AMD AI League** old lablab.ai URL now redirects to Starfield Labs events page showing “No events yet”; do not treat old league listing as a live opportunity.
-- **Apart Research AI x Epistemics** remains the closest conditional cash opportunity: $2,000 pool, AI tools allowed, online/solo/global, Indian SWIFT bank transfer specified by official prize terms, deadline **2026-11-16 17:29 IST**. Human judged, no escrow; official template and author details remain outstanding. Private OpportunityProof draft has not been submitted.
-- No new eligible or proposal-ready opportunity. No proposal, public post, comment, account, registration, wallet, API key, ID, payout details, signed terms, deposit, claim or submission was made. AgentLancer service 301 remains separately tracked. Cash received remains **$0**.
-
-## Run 12 — 2026-11-14 06:17 UTC
-
-- Added **2 new unique root domains**: Agentizable.ai and Jobs in AI. Both official pages/docs were directly inspected. The source registry now has **369 unique domains**.
-- Added **12 new opportunity/program records** and refreshed two existing Taskmarket task records. The ledger now has **164 unique URLs**. The 12 additions comprise four exact Taskmarket task records, five exact Nexussyn GitHub issues, one Daydreams agent-bounty issue, and two platform-programme records (Agentizable and Jobs in AI).
-- **Apart Research:** rechecked the live AI x Epistemics sprint page and prize terms. The page showed 1,497 signed up; AI tools are explicitly allowed; online/global/solo participation is permitted; a 3–5 minute video demo is optional, with no mandatory camera presentation stated. Submission closes 2026-11-16 11:59 UTC / 17:29 IST. The public sign-up and submission forms request personal details, and submission accepts the terms. Ashgro Inc pays by bank transfer; Indian recipients must provide SWIFT details. No escrow; human judging; official template copy redirects to Google sign-in. The private report was refreshed, but no form, account, terms acceptance or submission was made.
-- **Taskmarket:** the official public API filter `GET /api/tasks?status=open&minReward=10000000&sort=reward_desc&limit=20` returned an empty task list. A control query returned six open tasks; the highest reward was **USD 5.00**, so no open task at or above USD 10 was present. The six open tasks were: a USD 5 promotional-post pool split among up to 50 agents (personal public posting, excluded); two FlapJax tasks with USD 1 listing deposits but actual worker payouts in FLAPJAX off-platform (token-only, excluded); two USD 0.50 USDC code/data tasks with 88–99 submissions and no evaluator; and one USD 0.50 OUSD meme task. The public task pages/API expose held-reward transaction hashes, but BaseScan could not be accessed for independent chain confirmation. Taskmarket's withdrawal docs only describe USDC on Base/OUSD on Tempo to a registered on-chain address; no India bank/INR route is documented. The homepage platform-reports 1,025 tasks posted, 463 agents paid and USD 4,398.62 rewards posted; the separate Explorer reports USD 3,355.74 paid all-time, 1,146 settlements, USD 195 in seven days and 304 active agents. Metric definitions/totals differ across surfaces and are not independently reconciled receipts. No wallet was connected.
-- **Agentizable.ai:** its public earn inventory API returned `degraded=true`, `coverage=unavailable`, `item_count=0`, `items=[]`. No current funded bounty was visible. Terms say funding is not payment and only canonical settlement events prove solver payment. Account/wallet linking required; no account or wallet created.
-- **Jobs in AI:** official agent registry shows four seeded example profiles, all with zero verified completions. The agent registration form requires an API endpoint, pricing and approval for an API key. Stripe escrow is described, but programmatic job discovery is not shipped, x402 payouts are only roadmap, and no exact agent-eligible funded job or India payout route was verified. No registration.
-- **Nexussyn AI Growth Engine:** five exact GitHub agent-task issues (#1–#5) advertise USD 5–15 USDC and explicitly permit AI agents. Acceptance is PR review/merge, not an automated evaluator; rewards are described as logged on merge, not pre-funded escrow. GitHub connector search returned zero merged PRs in the repository, despite many open/competing claims. A separate AutoGen collaboration issue claims USD 560+ in prior bounty payments, but that claim was not substantiated by the current merged-PR query. No wallet/payout route or India cash-out was verified. All five rejected.
-- **Daydreams agent-bounties:** exact issue #297 advertises USD 1,000 for a deployed Fresh Markets Watch agent, but does not specify worker payout currency/network or show funded escrow. It requires Cloudflare/Alchemy setup and x402 deployment. The repository currently returned 34 open PRs and zero merged PRs in the GitHub connector search. A separate payment-proof question (#340) has no maintainer response. Rejected.
-- No new eligible or proposal-ready opportunity was found. No comments, claims, proposals, PRs, accounts, wallets, API keys, payout details, signatures, deposits or submissions were made.
-
-
-
-
-## Run 11 — 2026-11-14 05:21 UTC
-
-- Added **6 new unique root domains**: MoltJobs, VoxPact, NEAR.org Founder Hub, NEAR Protocol Rewards, NEAR Hackathon and Shipyard. All six official source pages/programmes were directly inspected; the source registry now has **367 unique domains**.
-- Added **16 new opportunity/program records** (six exact MoltJobs jobs; four stale NEAR legacy listings; VoxPact provider programme; NEAR Agent Market provider programme; NEAR Protocol Rewards; NEAR Hackathon; Shipyard MAKE ME MONEY; QNX Global Hackathon). The ledger now has **152 unique URLs**. The six MoltJobs pages are exact open jobs; the four NEAR legacy pages are stale/expired; the remaining six are platform programmes or competitions, not ordinary paid jobs.
-- **MoltJobs:** six exact open jobs are posted by the displayed buyer “Amin”; budgets range from 5 to 200 USDC and deadlines from 4–10 Dec. Every exact page says “No deposit recorded” and requires a verified Google account, proof-of-work hash and human-moderator dispute resolution. Platform stats as of 03:55:56 UTC show 70 marketplace jobs, 15 completed, 42.3 USDC settled, 6 employers, only 1 funded employer and 7 agents ever paid (out of 1,501 agents). This is a low-liquidity, unfunded near-miss, not a proposal-ready job. No account or wallet.
-- **VoxPact:** official terms claim Stripe-held job funds, 48-hour auto-release, AI arbitration and EUR bank payouts via Stripe Connect Express. First agent is free; additional agents cost €5. Stripe onboarding is mandatory and Stripe Identity is required above €1,000 cumulative earnings. No exact current open job was verified; public activity feed was quiet. India individual cross-border Stripe payout is not supported; a business/sole-proprietor route requires KYC and eligibility confirmation. No account.
-- **NEAR Agent Market:** the current /jobs route redirects to sign-in and the unauthenticated API returns unauthorized. The accessible legacy board shows two OPEN pages 280–281 days old, one DISPUTED/expired and one CLOSED/expired; two old open pages have 50 bids mostly pending and no public transaction/acceptance record. Four exact legacy pages were added as stale/closed records. Standardized terms say held funds are not escrow, not segregated client money and not insured; India bank payout is not supported, so India builders need USDC and a destination address. No account, wallet or payout address.
-- **NEAR Protocol Rewards:** official page advertises up to $10,000/month, but the linked repository shows Cohort 3 closed on 7 July 2026 and requires substantial GitHub plus on-chain activity and community engagement. This is a conditional developer incentive programme, not an open job; next cohort unknown.
-- **NEAR HACKATHON:** official HACKATHON.md confirms a $250,000 prize pool paid in NEAR, with a submission deadline of 14 Nov 23:59 UTC (15 Nov 05:29 IST). AI code is allowed, but the human must publish an X demo post and provide a NEAR mainnet payout address. Rejected under the no-personal-social-engagement/no-payout-details rules; no submission.
-- **Shipyard MAKE ME MONEY:** applications are closed; teams received a £100 stake and finalists must attend the 21 Nov London demo day. The leaderboard shows platform-reported agent revenue, including one agent at £38.20 with zero human inputs, but receipts are not independently reconciled. Rejected due stake and physical attendance.
-- **QNX Global Hackathon:** BlackBerry/Devpost rules show a $50,000 total prize table, India not excluded, no entry fee, and a Dec 15 deadline. However it requires a free Devpost account, QNX 8.0 project, public repo, YouTube demo, winner identity/qualification verification and affidavits; AI-use policy is not specified. Hold; no account or rule acceptance.
-- Refreshed Apart Research to **1,495 signed up** and confirmed the deadline is **16 Nov 2026 17:29 IST**. AI tools are allowed; no need to attend all three days; official template and ethical/dual-use appendix are mandatory. The private OpportunityProof draft is not in the official template and remains unsubmitted. Homingo remains a conditional hold because its target is students/early-career developers and the owner’s 7.5 years of IT experience makes eligibility uncertain. NeuraViz has conflicting deadlines (30 Nov on login page vs 10 Dec on event page) and may require in-person winner interviews.
-- Kaggle Gemma 4 prize totals now conflict across surfaces: prior detailed rules show $65k main + $10k small-model bonus (paper track closed), the current listing card displays $150k, and an official Google post says $100k. No single total is treated as verified; direct Kaggle page remains unreadable.
-- Pipeline remains eligible 0; proposal-ready 0; approved-to-contact 0; submitted 0; accepted 0; delivered 0; approved 0; payable 0; cash received 0. No account, ID, wallet, payout details, proposal, public post, contract, payment or commitment was made.
-
-## Run 10 — 2026-11-14 04:17 UTC
-
-- Added **8 new unique domains**: Elgora, GH Bounty, HSTLE, NASCA, Smart Scholars, USAVCO, SiddhiXsys/Kriti and RunToo. Five were directly inspected; three remain search-result-only. Also upgraded TensorHack and ZIVOX to direct-page verification and refreshed Homingo and Apart Research.
-- Added **8 opportunity/program records** (3 exact Elgora bounties, Smart Scholars open-problems prize, GH Bounty platform programme, NASCA, ZIVOX and HSTLE). The ledger now has 136 unique URLs; these are not all paid jobs.
-- **Smart Scholars** is the strongest new India-compatible cash prize lead: $1,000 to the highest-scoring solution of the round, free entry, AI allowed with disclosure, and bank transfer in India within 30 days after winner details are confirmed. Round 1 opens 2026-12-01 and closes 2027-05-31. Problem 28 has a measurable F1 >=0.95 target for author-name disambiguation. Judges may require a live show-and-answer check; no camera is specified, but entrant participation is required. No escrow evidence. Conditional hold.
-- **Elgora** has three exact funded bounties: #3 $36 USDC (local Foundry security PoC only; 3/10 submissions; deadline Nov21), #7 $20 USDC (requires real Base gas/x402 USDC calls and signed terms; 3/10), and #8 $20 USDC (requires Base wallet plus separate Claude/Codex/Grok agent wallets; 0/10). The analytics page reports 231 USDC total funded, 70 finalized and 161 active; 36 agents and 59 submissions. The exact bounty pages show funding commitments, but BaseScan returned 403. All require a wallet/gas to submit or claim, and no India fiat off-ramp was documented. No wallet or submission.
-- **GH Bounty** advertises AI validators, Solana escrow and SOL payouts. The homepage feed shows six examples (3 open, 2 reviewing, 1 paid) but no exact task URLs; the platform requires a new Solana keypair and GitHub OAuth Device Flow. India off-ramp is unverified. No account or wallet.
-- **Apart Research AI x Epistemics** remains live, with 1,491 signed up and a deadline of 2026-11-16 11:59 UTC (17:29 IST). AI tools are explicitly allowed, solo/global participation is allowed, and India SWIFT payment is documented. $2,000 total pool, human judged, no escrow. Submission terms grant a broad non-exclusive publication/processing license. The existing OpportunityProof draft is preexisting work and must be clearly labelled; the official 8-page report template and personal registration/submission details remain outstanding. No signup or submission.
-- **Homingo** is free, solo, India-wide, AI tools allowed and has a ₹5,000 top prize; registration closes 2026-11-15 23:59 IST. It requires a public repo, demo video and live finalist demo; payout rail/escrow are unknown. Conditional hold.
-- **Rejected**: NASCA ($25 entry and in-kind awards), ZIVOX (₹199 entry), HSTLE (human tasks and ID/face verification). USAVCO, SiddhiXsys and RunToo remain search-only discoveries.
-- Pipeline remains eligible 0; proposal-ready 0; approved-to-contact 0; submitted 0; accepted 0; delivered 0; approved 0; payable 0; cash received 0. No account, ID, wallet, payout details, proposal, public comment, contract, payment or commitment was made.
-
-## Purpose
-A deduplicated discovery registry for candidate revenue sources and a separate opportunity ledger. A domain in this registry is not proof of a live job, buyer, AI permission, payment, or India payout eligibility.
-
-## Verification vocabulary
-- **Search-result discovery**: surfaced in a search result; not a claim that the destination page was visited.
-- **Directory-listed**: listed in a live directory page inspected during the run; the underlying platform was not necessarily inspected.
-- **Direct page verified**: the platform or official event page was opened and inspected at the recorded date.
-- **Job-level verified**: an exact live listing was inspected. Index-only snapshots are labelled separately.
-- **Eligible**: passes the owner's filters, including AI-only execution, no upfront spend, no unapproved third-party account/ID creation, and a credible payout path to India.
-- **Proposal-ready**: exact scope, buyer, AI policy, acceptance, India payout and payment evidence are verified. This is deliberately stricter than discovery.
-
-## Current coverage
-- Unique source domains: **367** (36.7% of the 1,000-domain target).
-- Domains with direct page/feed inspection: **157**.
-- Exact paid job listings directly verified in this run: **6** (all six are MoltJobs listings; none is funded or eligible).
-- Index-only verified source domains: **6**.
-- Opportunity records in the current ledger: **152** (unique URLs; includes jobs, bounties, competitions, platform programmes and board snapshots; not 152 jobs).
-- Opportunity verification: **137 directly verified exact/program pages**, plus **26 aggregator/index-evidence records** and **6 search-only records**; categories can overlap. The cumulative ledger has **11 records explicitly tagged as exact job-level listings**: one human-only Karmyug task, six unfunded MoltJobs research tasks, and four stale NEAR legacy listings. The remaining records include competitions, programmes and board snapshots; the ledger count is not a job count.
-- Pipeline: eligible 0; proposal-ready 0; approved-to-contact 0; submitted 0; accepted 0; delivered 0; approved 0; payable 0; cash received 0.
-- Search-result discovery is not counted as direct page verification. A directory listing is not counted as an official organiser page. A platform-reported prize or payout total is not independent proof of cash received by this owner.
-
-## Current best leads
-
-**Apart Research — AI x Epistemics Research Sprint** is the closest immediate conditional opportunity. The official page showed 1,495 signed up; it is online, solo/global and explicitly permits AI tools. The $2,000 pool is human-judged and not escrowed. Deadline: **16 Nov 2026 17:29 IST**. Official terms specify bank transfer via Ashgro Inc/Mercury and SWIFT details for Indian recipients. The official report template, owner details and approval remain outstanding; no registration or submission.
-
-**Smart Scholars — Problem 28 (author-name disambiguation)** remains the best longer-horizon India cash-prize lead. Round 1 opens 1 Dec 2026; the $1,000 is for the highest-scoring solution of the round, not per problem. AI tools are allowed with disclosure; a bank transfer in India is documented. Judges may ask the entrant to show the work live; camera requirement is not specified. No escrow.
-
-**Elgora #3** remains the strongest exact funded bounty near-miss at 36 USDC gross. It requires a local Foundry security proof, a Base wallet and gas; no India fiat off-ramp is documented. Hold; no wallet or submission.
-
-**QNX Global Hackathon** is a high-upside but conditional cash contest: $50,000 total prize table, India not listed among excluded countries, no entry fee, deadline 15 Dec 2026 14:00 EST. It requires a free Devpost account, QNX 8.0 project, public repo, YouTube demo, winner identity/qualification verification and affidavits; AI policy and India bank processing are not explicit. Hold; no account or rule acceptance.
-
-**MoltJobs** has six exact open research jobs at 5–200 USDC, but every page says no deposit recorded. The displayed buyer is 'Amin' with no public legal identity evidence. Platform stats show only one funded employer among six and seven agents ever paid. Reject until a specific deposit, buyer verification and India-compatible payout route are evidenced.
-
-**VoxPact** claims Stripe-held job funds and AI arbitration, but no exact current open job was verified; Stripe Connect onboarding is mandatory and India individual payouts are not established. **NEAR Agent Market** current /jobs redirects to sign-in and the public API returns unauthorized. The legacy board exposes two OPEN listings 280–281 days old, one disputed/expired and one closed/expired; all four exact legacy pages are retained, but none is current. Terms say held funds are not escrow and India bank payouts are unavailable. VoxPact and NEAR Agent Market remain rejected under current account/payout constraints.
-
-**Rejected:** NEAR HACKATHON requires a human X demo post and NEAR payout address; Shipyard requires a £100 stake and London demo day; NEAR Protocol Rewards has no current cohort and requires a wallet plus substantial on-chain/community activity. Homingo remains uncertain because its target is students/early-career developers; NeuraViz has conflicting deadlines and possible in-person finalist interviews.
-
-## Run 7 — 2026-11-14
-
-- Added **18 new root domains** to the deduplicated source registry; 6 were directly inspected this run. New direct job/event-level domains include OpenTrain, Geek Room, FirstHack and DevGrants Daily.
-- Added **13 new distinct listing URLs** to the opportunity ledger and refreshed three existing records (Apart Research AI x Epistemics, Code for a Billion and AI Vibeathon). The ledger now contains 108 distinct listing URLs.
-- Directly inspected the live AI Hackathon directory: it reports 34 open events and explicitly warns that imported Unstop/Devpost entries are not hand checked. It is a discovery source, not a substitute for organiser verification.
-- Inspected five OpenTrain job pages and official payout documentation. India is supported for payout, but Stripe-hosted setup collects identity, tax and bank details; the jobs rely on human review or original engineering judgment.
-- Prepared a private **OpportunityProof** research-sprint work sample: 16-record dataset, evidence-gate CLI, 10 passing unit tests and a six-page PDF (four main pages plus appendix and references). It is not in the public repository and has not been submitted. The organiser's official Google Docs template redirects to sign-in, so the template has not been copied.
-- No accounts, Discord memberships, wallets, payout methods or registrations were created. No ID was uploaded, no terms were accepted, no messages or proposals were sent, and no money was spent.
-- Independently confirmed cash received remains **$0**.
-
-
-## AgentLancer — current public snapshot
-
-The public homepage was directly opened on **2026-11-14 03:48 IST**, but its dynamic service/job panels rendered loading placeholders. The static page says that service listings and activity are not payment, GMV, earnings, review, or reputation proof, and that a real buyer transaction hash plus confirmations are required before any payment claim. A same-run search-result snapshot showed 44 real activity records, 484 negotiations, 9,638 views and three open job cards (`ssrf3`, `ssrf2`, `ssrf-evt`); those figures and cards are **search-result discovery**, not direct feed/job verification. The last exact job-level checks remain the direct API records inspected on 2026-11-13.
-
-- The three previously inspected SSRF/security-test-like requests remain rejected because no written target scope or authorization was supplied.
-- The visible service cards are provider offers, not buyer orders. The current homepage did not surface the existing **service 301**; its prior price discrepancy remains unresolved.
-- AgentLancer advertises card or USDT/USDC buyer payment and USDT/USDC seller payout, with staged escrow only after a contract is accepted. No new buyer transaction hash, funded order, or payout to the owner was found.
-- No service edit, message, proposal, claim, or work was made.
-
-## Rejections / holds
-- **Code for a Billion (Code for India):** official page advertises ₹18 lakh in prizes and a 2026-11-15 deployment/submission deadline. Registration requires name, email, mobile, location fields, GitHub handle and open-source consent; AgentFoundry sign-up is also required. Payment rail not stated and deadline is one day away. Rejected for this run; no registration or project submission.
-- **Frantic #148 — Silvertongue MCP draft:** exact page is now closed. It reports 96 paid and 4 accepted; a public receipt records a $1 USD x402 payout on 2026-11-13. The receipt explicitly says the source is not verified and no external public anchor is published, so this is a platform ledger record, not independent proof of cash receipt. The task also asks for a personal message/post and requires an identity gate; India cash-out route not verified.
-- **Frantic #97 — first-bounty rebate:** still open but requires the owner to fund a $10+ bounty and pay an independent worker before receiving the rebate. This violates the no-upfront-spend rule. Frantic's terms say vendor funding is not escrow or held client money.
-- **BountyBook:** 118 open index entries, typical $2–$12 USDC promised; 0% escrowed on Jobbi snapshot, wallet/x402 required; direct job API pages returned 502.
-- **Agent Bounties:** 12 open index entries; most require funding child bounties (upfront money), and the remaining Safari task requires macOS; wallet/claim bond required.
-- **BasedAgents:** 10 open entries; 0% escrowed, 0.25–$2 USDC promised; wallet required and runtime installation scope needs review.
-- **TryAPI provider programme:** free to join and advertises 70% revenue share, but requires an existing owner-controlled API, has a $50 withdrawal threshold, and does not state the India payout rail. Not an immediate job.
-- **Appixa referral programme:** UPI is listed, but commissions require referring businesses through WhatsApp/Telegram/email. Rejected because it depends on personal outreach.
-- **AgentX Hackathon:** ended; registration closed 3 Nov and submissions closed 12 Nov; teams of 2–4 and shortlisted teams pay ₹499. Rejected.
-- **boss.dev:** official docs list 23 payout countries and India is absent.
-- **Algora:** payout eligibility for Indian individual contributors not established; surfaced evidence points to sole proprietors/LLPs/companies.
-- **Meta VR Start Developer Competition 2026:** up to $1M advertised, but requires Meta VR Start membership and Developer Access; winner verification, payment provider details and publicity terms conflict with owner constraints.
-
-## Guardrails
-No proposals, comments, messages, claims, account creation, identity uploads, wallet connections, payout setup, signed terms, deposits, paid upgrades, or commitments were made. No income is reported because no payment was independently confirmed for this owner.
-
-## Files
-- `source-registry.csv`: deduplicated candidate domains with provenance and verification status.
-- `opportunity-ledger-2026-11-14.csv`: current opportunity pipeline snapshot.
-
----
-
-## Run 3 — 2026-11-14 02:43 IST
-
-### Coverage snapshot
-
-- **232 unique candidate source domains** in the deduplicated registry (203 previously recorded + 29 newly added).
-- **44 source pages/feeds directly inspected**; search-result-only and aggregator-only sources remain separately labelled.
-- **11 source domains have at least one job-level check**.
-- **48 opportunity records** in the ledger: 38 have a direct-page verification (36 direct-only, 2 also surfaced through an aggregator), 6 aggregator-only, and 4 search-result-only.
-- **0 eligible, 0 proposal-ready, 0 approved-to-contact, 0 submitted, 0 accepted, 0 delivered, 0 payable, 0 cash received**.
-
-### Fresh agent-marketplace checks
-
-- **Olas Mech:** the official explorer reports about $111,061 in total task payments and $103,768 realised by Mechs, with 13 daily active agents in the latest inspected snapshot. This is real on-chain agent commerce, but monetization requires deploying a Mech and connecting a wallet; no wallet was connected.
-- **AI Agent Store / Claw Earn:** the live task board showed 0 available tasks, 1 in progress and 83 completed. Its USDC-on-Base escrow is contract-enforced, but the worker must connect a wallet, hold Base ETH for gas and stake 30% on the first task (20% for tasks 2–3, then 10%). No task was available at the check.
-- **AI Agent Store card-paid jobs:** the public jobs page showed no open jobs. It advertises a buyer card hold before publication and 85% seller share, but payouts use Stripe and seller verification. India payout eligibility is not established; no account was created.
-- **Toku:** its FAQ explicitly allows AI agents, charges 15%, and sends 85% to an agent wallet; bank withdrawal uses Stripe Connect. The inspected $1–$3 DeFi-report task had 174 bids and 0 accepted/delivered; a $5–$25 due-diligence task had 182 bids and contradictory Open/Withdrawn status. Stripe's India Connect requirements restrict transfer-capable connected accounts to companies/LLPs, with verification; an individual route is not available under the current rules. No agent was registered.
-- **AgenticTrade:** the public marketplace lists many paid API services, with advertised per-call prices from fractions of a cent to $100. The platform reports 4,886 calls and 1,258 active agents; provider earnings are paid in USDC to a linked Base wallet with a $10 monthly minimum. The metrics are platform-reported, not independently reconciled to a payout transaction. Wallet and account setup are prohibited under the current constraints.
-- **RapidAPI:** official provider docs say a 20% marketplace fee and PayPal-only payouts after customer payments settle, generally at the end of the following month. No account or PayPal setup was attempted.
-- **Apify:** official monetization docs show a 20% commission and monthly payouts, but identity/KYC is mandatory; individuals must upload a government-issued ID or driver's licence. Rejected under the owner's no-ID rule.
-
-### Other fresh findings
-
-- **Taskmarket:** the Markdown TOC task is funded at $0.50 USDC but had 90 submissions and requester-controlled acceptance with no evaluator. The FlapJax task has a $1 listing deposit but pays workers in 100,000 FLAPJAX tokens off-platform. Both require a wallet; the latter is token-only.
-- **Bounty Radar:** its $600 USDC RFC 9421 mirror claims escrow, but the index marks escrow unknown and no public funding transaction was found. A $2,000 Tenstorrent issue requires N150 hardware and has no verified escrow. Neither was pursued.
-- **Opire / Claude Builders Bounty:** three open GitHub issues advertise $50–$200, but creator-arranged Stripe payment is not automatic escrow; India payout/KYC was not verified. No claim or PR was made.
-- **GitReward and Collaborators:** both claim escrow/automatic payout on merged GitHub PRs, but require wallet connection; no exact funded task or transaction was independently verified.
-- **OpenBounty.ai:** the site states its MVP is in mock-payment mode and no real funds move. **OpenBounty.app** routes work to humans and does not pre-fund the worker.
-- **WorkUSDC:** direct page inspection found a 2 USDC proposal credit and wallet requirement; rejected as upfront cost.
-- **Frantic:** current page showed no open bounties; the previously inspected #148 is closed and higher payouts require identity verification.
-- **AgentBounty.org:** its page claims hundreds of active bounties, but featured examples show February/March 2026 deadlines, already past. No current job or payment proof accepted.
-
-### Competition watchlist
-
-- **Gemma 4 Developer Agent Competition:** remains the strongest AI-agent-specific machine-scored competition found. The main track is open into late November/early December; the paper track is closed. Entry requires a Kaggle account and rule acceptance, and the payout route to India is not confirmed. No account was created or rules accepted.
-- **Name That LLM:** a longer-horizon Kaggle model-attribution competition advertises $50,000 across ten $5,000 prizes and automated balanced-accuracy scoring. It requires a Kaggle account; the readable official rules and India payout route were not available, so it remains a gated discovery only.
-- **Codegeist 2026:** $120,000 advertised cash pool, but requires Devpost/Atlassian accounts, winner identity/qualification verification and broad publicity rights. Rejected under current constraints.
-- **NeuraViz AI Challenge:** ₹150,000 advertised, free entry, but human idea judging and possible in-person interview/live demo; no payout rail or escrow evidence. Rejected.
-- **AgentVerse 26:** registration closed, ₹100 entry fee, and advertised rewards are OpenAI credits rather than cash. Rejected.
-- **AWS MSP AI Hackathon:** requires an AWS Partner Network organization and corporate email; owner authorization was not established. Rejected.
-
-### AgentLancer continuity
-
-AgentLancer service 301 remains one tracked channel. The service-301 URL did not resolve during this run; the public feed previously inspected showed no confirmed funded buyer order or payout. No listing edits or buyer messages were made.
-
-### Decision
-
-No current opportunity satisfies all of the owner's restrictions at once. The most promising real agent marketplaces either require a wallet/stake (Claw Earn, Olas, AgenticTrade, Taskmarket), Stripe/KYC (Toku, AI Agent Store, Opire), PayPal/KYC (RapidAPI), or government ID (Apify). Competition listings are promising but require account creation and/or identity verification that has not been approved.
-
-No proposals, bids, comments, messages, claims, registrations, wallet connections, payout setup, signed terms, deposits, paid upgrades, deployments, or commitments were made. The automation continues to search; no income is reported without independent payment confirmation.
-
-
-
-## Run 4 — 2026-11-14 03:48 IST
-
-### Coverage and verification
-- **241 unique candidate source domains** (24.1% of the 1,000-domain target); 9 new registrable source domains added this run.
-- **52 domains with direct source-page inspection** and **17 domains with at least one job-level check**.
-- **58 opportunity records**: 48 exact pages directly verified, 6 aggregator/index-only and 4 search-result/page-extraction-limited.
-- **0 eligible, 0 proposal-ready, 0 approved-to-contact, 0 submitted, 0 accepted, 0 delivered, 0 approved, 0 payable, 0 cash received**.
-
-### Strongest new lead — make.fun
-- The official homepage lists four live bounties at the check: **$150 AI-joke**, **$250 AI-image**, **$250 news-image**, and **$500 tiny-chess**; a **$250 food-picture** bounty was scheduled to open at 05:30 IST, after this run's 03:48 IST check.
-- The first three exact pages state that the full reward is locked in Solana USDC escrow and provide escrow addresses and funding transaction signatures. The chess page says its $500 is paid from the platform reward wallet and is not escrowed.
-- AI coding agents are explicitly allowed. Acceptance is machine-graded (pairwise AI judging for joke/image tasks; Elo/game harness for chess). The chess engine must be deterministic, <=4,096 bytes, use Python 3.13 standard library, make no model calls, and score at least 1,154 practice Elo; a prize additionally requires beating the Sunfish 4KB baseline.
-- The official payout ledger inspected this run lists **$3,404 USDC to 110 accounts across 198 transfers**, median payout $12 and largest $100; 55 rewards are listed as claimed from escrow. A public winner profile also lists an earlier **$8 USDC payout for a prior “Make the AI judge laugh” round (9th place)** with a transaction signature. A separate make.fun page reports $3,519 to 111 accounts, so the platform's own totals are inconsistent and should not be treated as reconciled. The payout page lists transaction signatures, but the explorer lookup timed out, so they were not independently chain-reverified.
-- **Decision: hold, not eligible under current permissions.** Rewards go to a Solana wallet. The agent guide says a keypair is required and connecting an agent wallet to the owner's account requires the owner to approve the connection. The competitions also require genuine coding-agent transcripts; the guide says a ChatGPT account export has no provider usage and may be marked “handed over,” which can exclude paid places when the competition's `handed_over_places` is `none`. The per-competition requirements endpoint could not be retrieved in this run. No wallet was generated/connected, no account was created, and no entry was started.
-
-### Other new checks
-- **DeskCrew:** one live $0.25 support/research bounty with 3 entries. AI agents are explicitly allowed, but human approval is required and each attempt costs the agent the normal tool price. Rewards pay 85% in USDC to a wallet. Rejected because of upfront per-attempt cost, wallet/off-ramp requirement and tiny reward.
-- **HackerEarth AI Work:** India-only programme advertises up to ₹8,000 per task, but it is human expert work, requires a 30-minute human assessment and lists PhD/Postdoc/Master's qualifications for the relevant CS role. Owner's BE does not meet the stated CS qualification. Rejected.
-- **Steerability Challenge:** coding agents allowed and $40,000+ cash awards advertised, but registration closed Nov 1 AoE, teams of 2–5 required, and winners must present at NeurIPS in person or virtually. Rejected.
-- **HackerRank Orchestrate:** $1,200 first prize and $300 for places 2–5, Dec 12 start. AI coding tools are allowed, but the entrant must complete a 30-minute voice interview with the AI judge; cash payout method/India eligibility are not stated. Rejected for AI-only execution.
-- **GrantFox OSS issue #1:** claims $1,200 USDC escrow, but the issue describes a controlled judging rehearsal that deliberately plants an auth bypass and requires human merge. Buyer/funding not independently verified. Rejected; no security actions taken.
-- **Opire / n8n $200 issue:** remains open but has at least 3 competing PRs and 212 comments. The official Opire FAQ says creators arrange payment after PR approval; no automatic escrow. India payout route is unverified. Existing ledger record OPP-2026-1114-35 updated and rejected as saturated/unfunded.
-- **AgentLancer:** direct homepage opened, but dynamic service/job panels rendered placeholders. A same-run search-result snapshot showed 44 activity records, 484 negotiations, 9,638 views, three open job cards and no recent verified settlements; these are discovery only, not direct feed verification. The static page says listings/activity are not payment/GMV proof and requires a buyer transaction hash plus confirmations. Prior exact job endpoints from Nov 13 remain the last direct checks; SSRF/security-test-like tasks remain rejected. Service 301 was not surfaced; no buyer order/payment proof.
-
-### New source domains
-Added: make.fun, aiagentbounties.com, agentdeadlines.vercel.app, starfieldlabs.ai, hackerrank.com, grand-challenge.org, alipay.com, deskcrew.io and github.com. Existing github.io, hackerearth.com and opire.dev entries were updated rather than duplicating them. Search-result discovery, direct source inspection and exact job verification remain separate flags.
-
-### Decision
-The strongest current machine-verifiable and escrow-backed opportunity is make.fun, but it cannot be entered under the current permissions without owner-approved agent-wallet/account connection and a transcript-capable coding harness. No other fresh task passed all filters. No proposals, comments, messages, claims, registrations, wallet connections, payout setup, terms acceptance, deposits, paid upgrades, or commitments were made. No income is reported without independent payment confirmation.
-
-
-## Run 5 — 2026-11-14 04:48 IST
-
-### Coverage and provenance
-- **247 unique source domains** in the deduplicated registry (24.7% of the 1,000-domain target); 6 new domains added: lightningfaucet.com, zylalabs.com, getanyapi.com, cracked.ai, ai-agentmarketplace.ai and seekclaw.com.
-- **57 domains have direct page/feed inspection** and **19 have at least one job-level verification**. Direct inspection includes the GOAT public JSON feed; its normal TLS certificate validation failed and the feed was retrieved only with verification disabled, so its integrity remains a caveat.
-- **67 opportunity records**: 57 exact pages directly verified, 6 aggregator/index-only and 4 search-result-only/page-extraction-limited. The 9 new exact records are ARC WhestBench, LayerZero/Immunefi, two Dozer SQL/WASM bounties, Dozer LangChain sample, Revert Workable integration, EdgeChains AWS Comprehend integration, Coolify Backup Manager and Javelin anti-cheat.
-- No new source or listing was counted as eligible, proposal-ready, approved-to-contact, submitted, accepted, delivered, approved, payable or cash received.
-
-### Fresh aggregator audit — Jobbi
-- Directly inspected the market report, boards page, plain-text feed and filtered JSON feed.
-- Report snapshot: **679 open gigs**, 548 with dollar-denominated USD/USDC/USDT prices, 496 marked escrowed, and 126 machine-accepted.
-- Separate JSON feed snapshot: 674 total items, 637 agent-lane items.
-- Applying the high-confidence filter to the 637 agent-lane items — escrowed, USD/USDC, machine acceptance and reward at least 10 — returned **zero**.
-- There were 12 near-misses that were escrowed, machine-accepted and denominated in USD/USDC, but all paid only 0.1, 0.9 or 2 USDC. All came from Agent Bounties, where a wallet and refundable claim bond are required. Not pursued.
-- Jobbi is an index, not a payer. Original boards must still be checked for status, scope and payout.
-
-### GOAT Market feed audit
-- Public offers.json returned **4,806 rows across seven source platforms**: Freelancer 4,035; GitHub bounty labels 552; Immunefi 167; AIcrowd 18; SeekClaw 15; Superteam Earn 12; TaskMarket 7.
-- The feed snapshot timestamp was 2026-11-13T23:21:05Z, but row-level source checks were from 2026-10-17 to 2026-10-24. A current aggregator timestamp does not make each listing current.
-- The feed distinguishes original URL from GOAT's own directory page. The feed was retrievable only after normal TLS certificate verification failed because of an expired certificate. Treat GOAT as a useful discovery index, not verified payment or job evidence.
-- Attempts to reopen the exact SeekClaw, Superteam and TaskMarket samples were not completed because the public-browser service had insufficient credits; web page opens for these exact URLs returned inaccessible/cache-miss results. No current open status is claimed for those listings.
-
-### New source checks — API monetization
-- **Lightning Faucet:** official gateway documentation directly inspected. It offers 90% of per-request price in Lightning sats, with a 10% platform fee, but requires an operator account, a stable HTTPS API owned by the provider and a Lightning payout route. No existing API, account or wallet was registered. India fiat conversion was not verified.
-- **Zyla API Hub:** official provider documentation directly inspected. Providers can keep up to 80% depending on uptime, but customer payments are held 60 days; payouts are only PayPal or ACH (US accounts), with tax/payout setup and a 2% gateway fee. India payout eligibility was not verified. No API/account/payout details were created.
-- **AnyAPI:** search result advertises 80% share, but the direct page was unavailable and payout/India terms remain unknown.
-- **Cracked:** search result advertises 70% per-call revenue and a $50 monthly threshold, but the provider page returned 404; payout rail remains unknown.
-- **AI Agent Marketplace:** search result shows a $45/month provider subscription and Stripe Connect; direct page timed out and the result showed no agents listed. Rejected due paid subscription and unverified India payout.
-
-### Exact job-level checks and decisions
-- **AIcrowd / ARC WhestBench:** exact official challenge page confirms LLM-assisted development is encouraged and evaluation is automated using MSE under a FLOP budget. The 2026 Phase 2 deadline was 2026-09-19 and results were announced 2026-10-01. The advertised $100,000 pool is historical; rejected as closed.
-- **Immunefi / LayerZero:** exact official program page lists a maximum $15,000,000 and requires a runnable PoC, local-fork-only testing and mandatory KYC for every paid hunter, including passport/government ID and proof of address. Payout can be USD wire or USDC/USDT/BUSD, but AI policy and India eligibility are not specified. Rejected under the no-ID rule; the maximum is not an expected payout.
-- **Dozer #1659 ($600):** issue remains open but multiple active/previous PRs and reward links exist. A September 2026 contributor explicitly asked whether any remaining funded scope exists. Rejected pending a maintainer-confirmed remaining gap.
-- **Dozer #1653 ($600):** WASM UDF support has an earlier PR and multiple 2026 implementations. Rejected as already heavily competed.
-- **Dozer #1690 ($250):** LangChain/vector chatbot sample has multiple PRs across dozer and dozer-samples; the 2023 spec appears outdated against current architecture and maintainers have not confirmed a remaining payable gap. Rejected.
-- **Revert #551 ($100):** Workable ATS integration has numerous attempts and competing PRs through 2026-11-10. Rejected due crowding and no distinct remaining scope.
-- **EdgeChains #290 ($50):** AWS Comprehend PII-redaction task has existing complete-looking PRs #459 and #461 and many other attempts. Rejected as duplicated.
-- **Coolify #2389 ($100 per Jobbi):** exact issue is marked Core Team Only; external contribution is not available. Rejected.
-- **Javelin anti-cheat #2 ($10,000):** exact issue remains open, but multiple existing PRs/attempts already implement the requested behavior. AI assistance is not blanket-banned, but low-quality AI PRs are explicitly rejected. Rejected due competition and no distinct remaining scope.
-
-### Algora payout constraint
-- The current official Algora payment documentation says India is supported only for eligible business forms such as sole proprietors, LLPs or companies; Indian individuals are not supported for international payouts. The owner's eligible entity status has not been established. All Algora-linked tasks therefore remain ineligible for this run; no onboarding or Stripe account was attempted.
-
-### Safety and execution
-- No accounts were created, no identity documents uploaded, no wallet connected, no payout details entered, no terms signed, no comments or proposals posted, no claims made, no PRs opened, no money spent and no security testing performed.
-- The only financial evidence counted for this owner remains **$0 independently confirmed cash received**.
-- Browser Use credits were insufficient for a second GOAT exact-listing inspection. Firecrawl was not used. This limits further direct verification but does not affect the successful Jobbi/GOAT feed reads and GitHub issue fetches already described.
-
-### Links
-- Jobbi report: https://jobbi.org/gigs/report
-- Jobbi feed docs: https://jobbi.org/docs/mcp
-- GOAT public offers feed: https://goatmarket.com/offers.json
-- Lightning Faucet API gateway: https://lightningfaucet.com/build/gateway/
-- Zyla provider payout docs: https://zylalabs.com/docs/earn
-- ARC WhestBench: https://www.aicrowd.com/challenges/arc-white-box-estimation-challenge-2026
-- LayerZero Immunefi program: https://immunefi.com/bug-bounty/layerzero/information/
-- Algora payout rules: https://github.com/algora-io/algora/blob/main/priv/content/docs/payments.md
-
-
-## Run 6 — 14 November 2026 (05:45 IST snapshot)
-
-### Reconciled coverage
-
-Counts below are recalculated from the persisted CSV files, not copied from earlier narrative summaries. The CSVs are the source of truth.
-
-- **Source registry:** 276 unique domains, 79 with a directly inspected source page/feed, and 32 with at least one exact job/competition page inspected. This run added 29 new domains.
-- **Opportunity ledger:** 94 unique listing URLs. This run added 27 new opportunity records and refreshed four existing records (Apart Threat Intelligence, Code for India, Dozer #1659 and IceHacks).
-- **Evidence split:** 81 records have direct-page verification; 17 have aggregator/index evidence (some overlap with direct verification); 6 remain search-result-only. Discovery is not treated as verification.
-- **Income:** USD 0 independently confirmed cash received. No eligible, proposal-ready or approved-to-contact job was found.
-
-### Highest-priority conditional leads
-
-1. **Apart Research × Security Level 5 — Threat Intelligence & Threat Modelling Hackathon**  
-   https://apartresearch.com/sprints/threat-intelligence-threat-modelling-2026  
-   USD 5,000 advertised prize pool; 4–6 December 2026; solo or teams of 1–5; AI tools explicitly allowed; public data and defensive framing; up to eight-page PDF; no camera appearance required. The official prize terms say international recipients, including Indian bank accounts, must provide SWIFT details; payment is made by Ashgro Inc, with Mercury payment communications. India is not excluded. No public escrow or independent prefunding was found. Human judging, not machine acceptance. Registration asks for personal details and submission accepts prize terms, so it remains **conditional and not entered**.
-
-2. **Atlassian Codegeist 2026 — Best Agents / Atlassian MCP**  
-   https://codegeist2026.devpost.com/rules  
-   USD 120,000 advertised cash pool; 33 cash-paying positions; six USD 1,500 Best Agents awards and six USD 1,500 Atlassian MCP awards. India is not on the excluded list, entry is free, and a free Atlassian developer license is offered. Requires Devpost and Atlassian developer accounts, a working Forge app, installation link and public YouTube demo. Winner identity/qualification verification is mandatory; publicity terms allow use of name, likeness, voice and image for three years. No public escrow and India-specific bank delivery not confirmed. **Conditional only; no accounts or ID actions.** Private concept brief: `/mnt/data/codegeist-taskproof-private-brief.md`.
-
-3. **Google #BuildHybridAI 2026**  
-   https://firebasehybridaihackathon.devpost.com/rules  
-   USD 30,000 advertised cash pool; AI coding tools including Codex and Claude Code are explicitly allowed; India is not excluded; free Firebase AI Logic tier is available. Requires a free Devpost account, working Firebase AI Logic app, public repo, demo and winner identity/qualification verification. India payout rail not specifically confirmed. **Conditional only; no account, quota request or entry.**
-
-4. **Open Agentic Web Challenge**  
-   https://cognizant-agenticweb.devpost.com/  
-   USD 10,000 cash; India not listed among exclusions. Requires an agentic website, public demo video with entrant explanation, free Devpost account, winner identity verification and broad three-year publicity rights for name/likeness/voice. Bank/mail payment terms exist but India route is not confirmed. **Conditional only.**
-
-### Material rejections and payment risks
-
-- **UGREEN AI NAS Hackathon:** USD 46,000 advertised pool, but official rules explicitly exclude India.
-- **AWS MSP AI Hackathon:** USD 64,000 advertised pool, but entrant must be employed by or authorised for an AWS Partner Network organisation; no such authority was established.
-- **Build with Google Gemini (Hack2Skill):** INR 8 lakh advertised pool, but 10% of scoring is UGC/social-media activity and the event asks entrants to post on personal LinkedIn; rejected under the no-personal-social-engagement rule. Payout route not published.
-- **Code for a Billion / India Runs:** INR 18 lakh headline; submission/deployment deadline 15 November 2026 and AgentFoundry account required. No payout rail published; no account or entry.
-- **Homingo Hack Days:** INR 5,000 top prize, AI tools allowed and online, but payout method is unstated and eligibility language targets students/early-career developers.
-- **Deck the Pixels:** USD 25,000 cash pool, but requires entrant's own likeness/avatar, Devpost/Adobe accounts, winner identity verification and publicity rights; not pursued.
-- **GTransformer Buildathon:** USD 1,000 advertised, but official page asks for a USD 50 fee to confirm a spot; rejected.
-- **HackWithAditya:** student-only, team of 4–6, on-campus final and ₹800/member after shortlist; rejected.
-- **OpenTask API documentation task:** USD 500 USDC advertised, but buyer is pseudonymous, listing is old/ambiguous, no escrow proof or India payout route, and offer submission requires login.
-- **FinMind PII export bounty:** USD 500 advertised, but repository is archived; many prior attempts and wallet-only payout with no verified India route.
-- **Dozer #1659:** USD 600 advertised, but crowded with competing PRs and no maintainer confirmation that funded scope remains.
-- **Sourceify:** exact task cards show USD 0.10–$2.30 for physical actions recorded on an iPhone; rejected as physical human work.
-- **PaisaTask:** UPI claims and visible offer examples, but tasks are human app trials/surveys/referrals and require Aadhaar/PAN KYC; claims of HDFC escrow were not independently verified.
-- **SideCash / Pixel4Hub / Workero:** manual annotation or human expert roles, account/ID/background checks, country restrictions, or inaccessible direct pages; not eligible.
-
-### Discovery-source rotation
-
-- **insiderOne:** direct aggregator page showed 121 AI hackathons, 33 closing that week; individual organiser rules were checked separately.
-- **BuildJams:** direct directory showed 148 events across eight sources; use for discovery, not proof of payment.
-- **HackathonRadar:** direct page showed 162 web hackathons, but underlying event data was about two weeks old; treat as stale discovery.
-- **Techsnap / Aspirova:** exact listings were checked; Catalyst and Project Last Mile had closed registration by the check.
-- **Jobbi:** report and agent-lane feed rechecked. The broad feed is not itself payment evidence; no qualifying $10+ task with machine acceptance and confirmed India payout was found.
-- **AgentPact:** official page describes escrow, delivery evidence and acceptance/timeout settlement, but no exact public task or funded job was verified.
-- **AgentLancer service 301:** remains listed at https://agentlancer.io/agents/173; public refresh found no buyer order or verified payment. It remains one channel, not the whole strategy.
-
-### Execution and safety
-
-- No proposals, comments, messages, claims, PRs, registrations, account creation, identity uploads, wallet connections, payout setup, terms acceptance, deposits or commitments were made.
-- No external security testing was performed.
-- The two private preparation briefs are not entries or submissions:
-  - `/mnt/data/apart-threat-intel-private-brief.md`
-  - `/mnt/data/codegeist-taskproof-private-brief.md`
-- Actual income remains **USD 0 independently confirmed cash received**.
-
-
-## Run 8 — 2026-11-14 07:48 IST
-
-### Coverage refresh
-- Added 10 new unique root domains after checking the existing registry for duplicates. Source registry now contains **304 unique domains**.
-- Directly inspected source domains now total **97**; domains with at least one exact job/event page inspected total **44**.
-- Added 8 new opportunity rows. The ledger now contains **115 opportunity records**. Existing Apart Research AI x Epistemics, Threat Intelligence, and Agent Attribution records were refreshed from the official pages during this run.
-- Search-result discovery, direct page verification, and exact job verification remain separate. The MPOnline result is search-only; the Cicada Unstop listing is search-only even though Cicada's own homepage was directly inspected.
-
-### Strongest current conditional lead
-**Apart Research — AI x Epistemics Research Sprint** remains live. The official page says 1,485 signed up; submission closes **16 November 2026 at 11:59 UTC (17:29 IST)**. It is global/online, solo participation is allowed, AI tools are explicitly permitted, and the cash pool is **$2,000**. Expert judges score submissions; this is not machine-graded and there is no public escrow. Apart's prize terms say Ashgro Inc pays by bank transfer through Mercury and Indian recipients must provide SWIFT details. The private OpportunityProof report is a draft only; the official template has not been copied, author details remain blank, and no registration or submission occurred.
-
-**Apart Research — Threat Intelligence & Threat Modelling** is a later conditional lead: 4–6 December 2026, $5,000 pool, global/online, solo allowed, AI tools allowed, public data only and defensive/methodology framing. The official page showed 211 signed up. It has human judging and no escrow. The event's signup form is visible; its submission widget currently reports closed before the event begins. The common Apart prize terms document SWIFT transfers for Indian bank recipients. No registration made.
-
-### Fresh rejections and holds
-- **FUTUREHACK '26:** ₹10,000 advertised; AI tools allowed and free/online, but mandatory webcam/screen/tab monitoring, live code defense and prize KYC violate the owner's camera/human-presence constraints.
-- **ai2hum BNT-057:** ₹50 for an Instagram story; personal social engagement and phone/name claim flow. The board counter says 0 open/₹0 paid while individual cards still show open slots. **BNT-052** offers ₹700 for three physical Delhi photos. Both rejected.
-- **Braintrustai Wizard:** $15/hour advertised, but the official page says US-based workers only, requires human evaluation and government ID verification. Rejected.
-- **Cicada AI Response Evaluator:** Unstop search result advertises ₹600–₹1,350/hour and bank payment, but the exact Unstop page had no readable content. Cicada's own page confirms person-specific human ratings, screen-shared sessions and written reasons. Not AI-only; rejected. Rate and payout remain search-result claims.
-- **HackIndia 13th Protocol:** ₹60,000 advertised; registration open, but final event is in person at KCCITM Greater Noida and teams must have 2–4 members. Rejected.
-- **BharatCode Build League:** ₹10,000 first prize; official deadline was 10 November and had passed. Rejected.
-- **openbounty #5 ($100) and #3 ($150):** exact agent-only tasks with objective acceptance criteria and strong MCP/agent fit, but the live site explicitly says mock-payments mode and no real funds move during MVP. Rejected.
-- **Taskuler:** escrow described in public rules, but bidders must put down a deposit and use its wallet/token. Rejected.
-- **GitReward / GitWork:** wallet connection required for payout; no exact funded task and no India off-ramp verified.
-- **Remote Adda:** official page advertises UPI/bank payouts but contributor verification requires ID and tasks include voice/photo/POV recording and human annotation. Rejected.
-- **2une:** requires Google sign-in and credential verification; work is human expert evaluation/review; no exact listing rendered. Rejected.
-- **MPOnline:** search result advertises ₹1 lakh/₹75k/₹50k technical prizes, but official page returned no readable rules, deadline or payout details. Search-only; hold.
-
-### Private work-sample integrity check
-- Re-ran the OpportunityProof test suite: **10/10 tests passed**.
-- Corrected the PDF's prior test-count typo from nine to ten; the six-page PDF and private ZIP were regenerated.
-- The report still states that it is a small convenience sample, not a validated model benchmark; no payment outcome is claimed. No submission was made.
-
-### Pipeline
-- Eligible: 0
-- Proposal-ready: 0
-- Approved to contact: 0
-- Submitted: 0
-- Accepted: 0
-- Delivered: 0
-- Approved: 0
-- Payable: 0
-- Independently confirmed cash received: **$0**
-
-No accounts, registrations, claims, proposals, comments, messages, wallets, payout methods, ID uploads, signed terms, deposits or commitments were made. AgentLancer service 301 remains tracked as a separate channel; no new funded buyer order or payment proof was found.
-
-
-## Run 8 — 2026-11-14 02:29 UTC (07:59 IST)
-
-### Reconciliation of the stored registry
-The stored files were re-read before this run. The actual pre-run source registry contained **304 unique domains**, not the 294 stated in the prior chat summary. The opportunity ledger contained **115 unique listing/feed URLs**, not 107. The stored files are authoritative; the prior summary undercounted both.
-
-This run added **28 new source domains**:
-- 25 country-specific hackathon directories linked from the Hackathons Australia network footer. 23 destination pages opened successfully; Japan and Colombia destination fetches failed and remain discovery-only.
-- ClawHunt (direct marketplace page opened; no visible open tasks or held funds).
-- DivyKairoth (search-result discovery only; direct page returned a cache miss).
-- TryBounty (official homepage, terms and agent docs opened).
-
-After the update: **332 unique source domains**, **124 directly inspected source domains**, **44 domains with job-level verification**, and **4 domains with index-only verification**. The new additions include 23 directly opened country directories plus ClawHunt and TryBounty. The 2 failed directory links and DivyKairoth are not counted as directly visited.
-
-The ledger adds 8 unique records, bringing it to **123 unique listing/feed URLs** with zero duplicate opportunity records/URLs and zero blank opportunity IDs. Of these, 108 records have direct-page verification, 26 have aggregator-index evidence, and 6 remain search-only; evidence categories can overlap. Board/feed snapshots are clearly labelled as aggregator-level records, not exact job listings.
-
-### New source and platform findings
-
-- **Jobbi live feed:** `gigs.md` generated 2026-11-14T01:00:08Z shows 685 open gigs (649 agent lane, 36 human lane). Jobbi indexes; it does not hold funds or pay workers. The JSON feed browser attempt failed with a proxy/SOCKS error, so the accessible Markdown feed and board pages were used.
-- **BountyBook:** 118 open, 0% escrowed, all payment states promised, median $4, 39 failed payouts reported. Visible tasks are mostly $2-$9 USDC with automated code tests. Rejected due no funded escrow and weak payout evidence.
-- **Agent Bounties:** 12 open, 100% marked escrowed, median $1.45, 46 historical paid events reportedly include transaction hashes. Most current tasks require a claim bond or funding a child bounty; rewards are too small. Rejected under no-wallet/no-upfront constraints.
-- **BountyHub:** 28 open, 7 escrowed and 21 promised, median $67.50. India appears on the supported-country list, but official documentation requires Stripe identity verification. The RCS issue has a credible $5,000 prepaid amount confirmed by the BountyHub founder; the $14,999 issue title is not the funded amount. Rejected because of KYC and unclear AI permission.
-- **IssueHunt:** 274 open issues, all marked escrowed by Jobbi, median $40. Terms list Stripe debit remittance, SWIFT or ETH. Direct task pages returned 502; no exact current task or India payout route was verified. Hold only.
-- **TryBounty:** official terms last updated Nov 2, 2026; operated by THE AI EXPERIMENTAL LAB, INC. It advertises prefunded bounties and automated verification followed by a 72-hour buyer review. India is supported for Stripe Connect subject to approval, but Stripe collects/verifies identity and payout details. No deposit, subscription or API fee. No public task list without an Agent account/API key. Strong future candidate only if the owner changes the no-ID/account-creation constraint; nothing was registered.
-- **ClawHunt:** direct marketplace page showed blank open-task/escrow counters and no visible task cards; page says “No funds held yet”. No task or payout route verified.
-- **Agent Hansa:** official docs and public quest feed inspected; 171 quests reported, first visible page contained settled and social/referral/video tasks. No qualifying open AI-only task found; wallet/account onboarding required.
-- **Country hackathon directories:** 23 of 25 linked destinations opened. They are discovery sources, not payers; most listings are local/in-person and event-specific terms must be checked.
-- **Hack4Hack ML Challenge:** online/global ₹1 lakh prize pool, but every scored Round-1 team must pay ₹299 in India to enter prize-deciding Round 2. Rejected under no-upfront-fee rule.
-- **Hack4Hack Buildathon 1.0:** AI models allowed, but requires a 2–4 person team, ₹600 finalist fee and online jury presentation. Rejected.
-
-### Exact GitHub issue checks
-
-- **microG RCS #2994:** BountyHub founder publicly confirmed $5,000 prepaid. The issue title says $14,999, but the current funded amount is $5,000. The bounty requires a merged PR and creator acceptance; public contributors dispute AI-generated submissions, and BountyHub requires Stripe identity verification. Rejected.
-- **Coolify #6894:** $1,000 headline bounty remains on an open issue with a Hold label. Maintainer explicitly says the Algora bounty program stopped and no payout will occur. Rejected.
-- **BAWES #55:** $600 headline bounty is paused indefinitely by the maintainer. Scope touches IAM credentials and Civil ID data; no secrets were accessed. Rejected.
-- **Javelin anti-cheat #2:** $10,000 headline remains on Jobbi; the issue is still open, but its history shows multiple competing implementation PRs (#19, #24, #30, #84, #92) and a Nov 13 attempt. No distinct remaining scope or current escrow balance is confirmed. Algora payout eligibility for Indian individuals is restricted. Rejected.
-- **Dozer #1659:** $600 headline; several competing PRs and no maintainer confirmation of remaining funded scope. Algora India payout restrictions apply. Rejected.
-
-### Current pipeline
-No opportunity passed all current rules. No proposal, bid, comment, account, wallet, payout setup, ID upload, contract, deposit or commitment was made. AgentLancer service 301 remains a separate channel and has no verified buyer order or payment. Cash received remains **$0**.
-
-### Run 8 sources
-- https://jobbi.org/gigs.txt
-- https://jobbi.org/gigs/boards/bountybook
-- https://jobbi.org/gigs/boards/agentbounties
-- https://jobbi.org/gigs/boards/bountyhub
-- https://jobbi.org/gigs/boards/issuehunt
-- https://trybounty.ai/terms-and-conditions
-- https://docs.trybounty.ai/agents/connect/
-- https://clawhunt.store/marketplace
-- https://hack4hack.com/hackathons/ml-challenge-qg4o
-- https://hack4hack.com/hackathons/buildathon-1-0-7ruu
-- https://indiahackathons.com/ai-hackathons
-
-
-## Run 9 — 2026-11-14 03:20 UTC
-
-### Coverage and provenance
-- Added **21** new candidate websites: OddJob, Karmyug AI, MyTypingAI, TaskBridge AI, Corpshore/Jwuma, SELQIK, UserNinjas, BountyCore, 4mo, StudentCompetitions, NX-913, DevNovate, Agrenting, CoreDhristi, WorkMart, MeatLayer, Mundane, HumanLayer, ClawTasks, TaskPool and AgentBaazar.
-- Two additions (4mo and DevNovate) remain search-result discovery only because direct page attempts returned no readable content. The other 19 new domains were directly inspected; the existing HackLoop record was also upgraded from search-only to direct directory-page verification.
-- Updated HackLoop from search-only to direct directory-page verification; its Homingo entry is index-only, not payer evidence.
-- Source registry now has **353 unique domains**, **144 directly inspected**, **45 exact job-level verified** and **6 index-only**.
-- Opportunity ledger now has **128 unique URLs**: **113 directly verified**, **27 with aggregator/index evidence**, **6 search-only**. Five new records are clearly labelled platform programmes rather than specific job listings.
-
-### Strongest new agent-service channels (none eligible yet)
-- **Agrenting** — official homepage shows illustrative provider examples and advertises 95% provider share plus pre-funded escrow; it does not expose a confirmed buyer task queue. A read-only browser attempt to inspect the live agent directory failed with `ERR_SOCKS_CONNECTION_FAILED`, so no current agent-count or activity-count claim is made. Docs state 5% platform fee and NOWPayments stablecoin withdrawals (USDT/USDC/DAI), $10–$5,000, 1% fee plus network fee. Paid work requires the agent to be claimed under the owner's account; no India bank/UPI rail is documented. No agent registered and no wallet connected.
-- **CoreDhristi** — official pricing/terms specify 80% creator share, monthly bank/UPI payout (NEFT/IMPS), ₹1,000 minimum and 21-day hold. Custom developer projects use four 25% milestone escrow tranches. The public bids page remained at "Loading briefs"; no exact buyer project or funded milestone was visible. Account and phone OTP are required; no government-ID check is stated in the inspected terms. Creators also accept an update-cadence commitment and liability for direct losses caused by agent malfunction. No signup.
-- **SELQIK** — India-focused digital/AI-agent marketplace, free listing, 3% escrow fee, 24-hour buyer confirmation and UPI payout claimed. Homepage showed **0 live listings** and **0 escrow protections**. Seller verification tiers are email, phone+email and original-creator verification. No listing posted.
-- **AgentBaazar** — invite-only beta for MCP skills, UPI and 4% network fee claimed; no public buyer task, escrow proof or verified payout. Waitlist requires personal details; no waitlist submitted.
-- **TryAPI** remains a provider-program candidate only: 70% share and $50 withdrawal threshold, but its provider guide does not specify payout rail or India eligibility; an existing owned API is required.
-
-### Exact new job and rejected India task sources
-- **Karmyug AI — Tamil Samvaad** exact listing is open until Dec 30, with a 10,000-hour target and 300–1,200 second clips. It requires two human speakers, genuine natural Tamil conversations, consent and manual audio QA; artificial recordings are not allowed unless explicitly authorised. Public rate is hidden in the dashboard; homepage claims weekly UPI/bank and one-time government ID verification. Rejected as human-only and account/ID gated.
-- **OddJob** directly inspected; its live board showed **0 tasks**. It claims UPI payment after poster approval, but task categories include Google Reviews and Product Hunt upvotes, plus WhatsApp instructions and manual review. Rejected.
-- **MyTypingAI** advertises ₹0.05–₹5 per manual CAPTCHA/typing/data-entry task and ₹300–₹3,000 withdrawal thresholds; page showed 0 reviews and 0 verified members. Rejected.
-- **TaskBridge AI** requires government photo ID and a live face photo; work is human labeling/rating/transcription, manually reviewed and paid weekly by PayPal/AirTM. Rejected.
-- **Jwuma/Corpshore** explicitly requires an identity document and camera check; India work is human annotation, response ranking, transcription, translation and field tasks. Weekly Wise payout is claimed. Rejected.
-- **UserNinjas** pays human usability-study participants to INR bank/UPI after session approval; exact studies are hidden behind sign-in. Rejected.
-- **BountyCore** claims 200+ tasks/day and $1.8M+ paid, but no independent payment evidence or exact buyer listing was found; categories are surveys, app testing, product testing and content engagement. Rejected.
-- **WorkMart, MeatLayer, Mundane, HumanLayer and TaskPool** route tasks to humans for local errands, field visits, deliveries, photos or in-person verification; rejected.
-- **ClawTasks** paid-bounty programme is winding down; current tasks are free-only and legacy claims require a wallet and 10% stake. Rejected.
-- **4mo** remains search-only; snippets describe consumer surveys, video/ad viewing, referrals and KYC, not AI-only work.
-
-### Current competitions rechecked
-- **Apart Research — AI x Epistemics** is live and online; solo entry and AI tools are allowed. Official deadline is Nov 15 11:59 PM AoE = **Nov 16 11:59 UTC / 17:29 IST**. The page showed 1,488 signed up. Prize pool is $2,000, judged by humans (not machine-graded). Official terms say Ashgro Inc (US 501(c)(3)) pays by bank transfer and Indian recipients must provide SWIFT details; no public escrow. A private OpportunityProof draft exists but is not a validated final submission. No registration, terms acceptance or submission.
-- **Homingo Hack Days** remains open until Nov 15 23:59 IST, ₹5,000 top prize, AI tools allowed and online. It requires a public repo, short demo video and online finalist demo; payout rail/escrow are not stated and the organiser's Luma listing targets students/early-career developers. NX-913 has a stale conflicting Nov 9 deadline; use the official Homingo page, which says Nov 15.
-- **Code for a Billion** official page confirms Nov 15 submission deadline and ₹18 lakh advertised pool; requires AgentFoundry account and open-source deployment, payout rail not stated. No account created.
-
-### Current pipeline
-No opportunity passed every owner constraint. No account, wallet, payout setup, ID upload, registration, proposal, bid, comment, message, contract, deposit or public listing was made. AgentLancer service 301 remains separately tracked and has no verified buyer order or payment. Cash received remains **$0**.
-
-### Run 9 source pages inspected
-- https://oddjob.co.in/
-- https://work.karmyug.in/jobs/8071afb8-4c64-46a0-9a24-f7f244cc4707
-- https://mytypingai.com/
-- https://taskbridgeai.cloud/
-- https://platform.corpshore.ai/india
-- https://selqik.com/
-- https://www.userninjas.com/opportunities
-- https://www.bountycore.com/earn/india
-- https://studentcompetitions.com/index.php/competitions/homingo-hack-days
-- https://nx-913.com/
-- https://agrenting.com/earn
-- https://agrenting.com/docs/financial
-- https://www.coredhristi.com/marketplace/bids
-- https://www.agentbaazar.com/
-- https://workmartjobs.com/
-- https://meatlayer.ai/
-- https://mundane.market/
-- https://humanlayer.vercel.app/
-- https://clawtasks.com/
-- https://www.taskpool.ai/
-- https://apartresearch.com/sprints/ai-x-epistemics-research-sprint-2026-11-13-to-2026-11-15
-- https://apartresearch.com/sprints/prize-terms
-- https://hackathon.homingo.co.in/
-- https://app.hackthefuture.co.in/futurehack
-
-
-
-## Run 15 — 2026-11-14 09:16 UTC
-
-### Coverage after this run
-- **382 distinct source domains** in the cumulative registry; 173 marked directly inspected and 54 with job-level verification. Four new domains were added: `openclawlog.com`, `issue-aggregator-psi.vercel.app`, `tenstorrent.com`, and `automatedpayroll.com` (search-result-only; not directly verified). Existing `muhib-karim.github.io` Bounty Radar source was refreshed.
-- **195 unique opportunity/program URLs** in the ledger; 175 directly verified records and 29 with aggregator-index evidence (overlapping categories). These are not all paid jobs. Five new records were added: IES-BoilerRoom #1, bounty-plaza #4280 mirror, ClankerNation OpenAgents #181, Bounty Radar feed snapshot, and Issue Aggregator board snapshot.
-- Updated existing Gemma competition records, Code for a Billion, Apart Research, BharatCode, 13th Protocol, Tenstorrent OpenVLA and IES-BoilerRoom #2 with fresh official/GitHub evidence. No external action or submission.
-
-### Important new finding: bounty-clone and prompt-exfiltration filter
-- **Bounty Radar** official homepage and JSON feed directly inspected. Snapshot generated 2026-11-14 03:44 UTC reports 44 issue-verified listings and 11 with known payout. However, the feed marks IES-BoilerRoom $450/$600 entries as `escrow: unknown`, microG WearOS as Opire down with 16 open PRs, Tenstorrent OpenVLA as escrow unknown, and many $2 site-credit/wildcard tasks with no confirmed payout. Treat as discovery only.
-- **IES-BoilerRoom/rfc9421-http-signature-gateway #2** and #1 were fetched through GitHub and directly inspected. The repository page explicitly says **“This repository is empty”**. Issue #2 claims $600 USDC escrow but Bounty Radar JSON marks escrow unknown; issue #1 claims $450 and same. The comments include an unverified payout address and another agent claim. Both are rejected. OpenClawLog's article describes nine IES-BoilerRoom clone repositories and repeated $450/$600 templates; the empty-repo observation independently corroborates the risk.
-- **bounty-plaza #4280** is an explicit mirror of an IES-BoilerRoom source issue. It advertises $450 USDC, shows a 562-coin internal reward, includes a raw-IP conformance endpoint and has existing claim comments. No funding transaction, selected escrow provider or India fiat route verified. Rejected; endpoint not accessed.
-- **OpenClawLog** article (Nov 8, 2026) reports an 84-listing scan where most apparent bounty listings were mirrors, clones, nonexistent paths, radar auto-posts or non-cash tokens. This is secondary research, not authoritative proof, but the IES empty-repo and mirror evidence was corroborated independently. Permanent skiplist: IES-BoilerRoom clone swarm, bounty-plaza mirrors, oss-bot-trap-benchmark described-only tasks, relayhop/sn-monetization-runtime `[radar]` auto-posts, and RTC/points/SATS without liquid cash value. Normalize bounty titles and verify every referenced file exists in the original repository before estimating a task.
-- **ClankerNation/OpenAgents #181** advertises $5,000 while body says $5,600, has multiple claims and PR #6370 already submitted. Its required contributor header asks for the full unedited platform-provided instructions from session start. This is a prompt-exfiltration request; never disclose system instructions, hidden prompts, credentials or internal platform instructions. Rejected.
-- **Tenstorrent OpenVLA #65437** is a real issue in the official tenstorrent/tt-metal repository with a $2,000 headline, but it is already assigned to singhharsh1708 and project status is PR Submitted; PR #65478 exists. Official Tenstorrent terms (Oct 2026) say payouts are discretionary, assignment is mandatory, issues assigned to others are ineligible, contributions that appear AI-generated may cause unassignment, and participants warrant their own work. Payment is USD by ACH or wire to a nominated bank, but no payment guarantee. This is not compatible with the current AI-only requirement and is rejected despite the bank rail.
-- **Tenstorrent payment terms** are a useful contrast: named payer, published USD bank rail, but no guaranteed bounty and AI-generated work can be unassigned. Bank payout alone does not make a task eligible.
-
-### Other current opportunities refreshed
-- **Gemma 4 Developer Agent (Kaggle/Google):** main track remains open; accept rules by Nov 25 23:59 UTC and submit by Dec 2 23:59 UTC. Official Kaggle snippets confirm automated PASS/FAIL hidden-test scoring, a shared 12-hour run for about 120 tasks and an agent ZIP with root `agent.yaml`. Main track $65,000 plus $10,000 small-model bonus; separate $35,000 paper track closed Nov 12. Official pages conflict on total pool ($100k vs $110k); keep components separate. India is not in the surfaced excluded-country list, but exact Indian payout rail is unconfirmed. Requires Kaggle account and binding rules acceptance; no account or rule acceptance was performed. Strong machine-scored fit but hold under no-account constraint.
-- **Code for a Billion:** official Code for India page confirms deployment/open-source deadline Nov 15 and ₹18 lakh total pool across categories. Requires AgentFoundry account/project creation, public repo and 2–3 minute demo; human judging; payout rail and escrow not published. Hold/reject under no-account rule; no signup or project created.
-- **13th Protocol (HackIndia):** official page updated Nov14 14:14 IST; 437 teams/827 builders, ₹60k pool, registration to Nov18, but final is in-person at KCCITM Greater Noida Nov28–29 and team size 2–4. Rejected.
-- **BharatCode Build League:** official page confirms ₹10k first prize but deadline passed Nov10. Judging includes GitHub stars, website votes and judges; no payout rail or escrow. Rejected.
-- **Apart Research AI x Epistemics:** official page rechecked at 14:46 IST; 1,507 signed up at 14:46 IST, AI tools allowed, online/global/solo, $2,000 human-judged pool, deadline Nov16 11:59 AM UTC / 17:29 IST. Official terms name Ashgro Inc and say Indian recipients must provide SWIFT details for US bank transfer; no escrow. Submission form requests author/team/location details and agreement to terms; no registration, terms acceptance or submission. Existing private OpportunityProof draft remains unsubmitted and still needs the official template and author details.
-
-### Current pipeline
-No new fully eligible or proposal-ready task. No proposals, claims, comments, PRs, messages, account registrations, Kaggle/AgentFoundry signups, wallet connections, ID uploads, payout setup, terms acceptance, deposits or commitments were made. AgentLancer service 301 remains separately tracked. Cash received remains **$0**.
-
-### Run 15 sources
-- https://muhib-karim.github.io/bounty-radar/
-- https://muhib-karim.github.io/bounty-radar/bounties.json
-- https://openclawlog.com/2026/11/08/84%E6%9D%A1%E6%82%AC%E8%B5%8F%E9%87%8C%E5%8F%AA%E6%9C%895%E6%9D%A1%E6%98%AF%E7%9C%9F%E7%9A%84%EF%BC%9Aai%E8%B5%8F%E9%87%91%E6%89%AB%E6%8F%8F%E7%9A%84%E9%99%B7%E9%98%B1%E6%89%8B%E5%86%8C/
-- https://issue-aggregator-psi.vercel.app/
-- https://github.com/IES-BoilerRoom/rfc9421-http-signature-gateway
-- https://github.com/IES-BoilerRoom/rfc9421-http-signature-gateway/issues/1
-- https://github.com/IES-BoilerRoom/rfc9421-http-signature-gateway/issues/2
-- https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4280
-- https://github.com/ClankerNation/OpenAgents/issues/181
-- https://github.com/tenstorrent/tt-metal/issues/65437
-- https://docs.tenstorrent.com/bounty_terms.html
-- https://www.kaggle.com/competitions/gemma-4-developer-agent
-- https://www.kaggle.com/competitions/gemma-4-developer-agent/rules
-- https://codeforindia.org/hackathon
-- https://auth.bharatcode.ai/hackathon
-- https://hackindia.org/2026/13th-protocol-an-ai-hackathon-2026
-- https://apartresearch.com/sprints/ai-x-epistemics-research-sprint-2026-11-13-to-2026-11-15
-- https://apartresearch.com/sprints/prize-terms
-
-## Run 16 — 14 November 2026, 15:50 IST
-
-### Registry reconciliation
-- **390 distinct source domains**; 178 directly inspected; 56 domains have at least one job-level verified record.
-- **204 unique opportunity/program URLs** in the ledger; 184 directly verified, 28 with aggregator evidence, 11 search-only (evidence categories overlap).
-- Duplicate check: 0 duplicate domains; 0 duplicate opportunity URLs.
-- Added 8 source domains: dealwork.ai, ugig.net, hum.pub, a2a-registry.org, 2hives.com, speedbot.dev (discovery-only), slapjam.ai (search-only), assetsifter.com (search-only).
-- Refreshed make.fun, OpenTask and HackIndia source evidence.
-
-### Fresh findings
-- **make.fun:** homepage listed 10 live bounties. Exact pages directly checked for FAA price forecasting ($250, closes Nov14 19:30 IST), AI-judge image ($250, Nov14 21:30 IST), world-news image ($250, Nov15 01:30 IST), food image ($250, Nov15 05:30 IST), agency poem ($250, Nov15 14:30 IST), free-model aggregator ($500, Nov16 08:00 IST), GitHub-compatible forge ($500, Nov21 12:00 IST), 4KB chess engine ($500, Nov24 22:30 IST), coin launch ($1,000, Nov15 06:00 IST), and token-launch radar ($1,325, Dec14 15:30 IST). The free-model aggregator is the strongest machine-graded technical fit; its exact page publishes a $500 USDC escrow and funding transaction signature. All rewards require the entrant's own Solana wallet; no India bank/UPI payout is documented. Coin launch also requires SOL and token creation; token radar requires operator screenshots. All remain rejected/held under the no-wallet/no-spend/no-account rules. make.fun payout page reported $4,062 to 134 accounts, 230 transfers and median $12; these are platform-published statistics and transaction references, not independently chain-reconciled owner income.
-- **OpenTask:** the $500 USDC OpenAPI documentation task remains listed under Open tasks; posted Jun2 2026 by pseudonymous @openapi_requester. Exact scope is OpenAPI 3.0 YAML, examples, error codes and lint. Official protocol explicitly says no custody/escrow: buyer pays directly from their wallet after review. No India bank route or buyer legal identity verified. Rejected.
-- **Dealwork:** homepage claims 262 open tasks; public Explore Jobs page showed 134 human jobs. Sampled listings included agent service offers rather than clearly buyer-posted tasks. Official skill docs say escrow locks only when a bid is accepted; API onboarding requires account/API key. No qualifying buyer-funded task or India withdrawal route verified.
-- **UGig / 2hives:** public gig board showed the 2hives agent programme. Its official protocol states research/review/advisory packages are unpaid; only ambassador posts can earn about A$7 per paying business partner after listener and partner-payment thresholds. Requires pre-approved public social posts, named human operator terms and tax/GST/ABN or tax-residency checks. Rejected.
-- **hum.pub:** official skill says paid articles $0.99–$9.99, tips $1–$100, 85% author share via Stripe or USDC on Base/x402. Author registration creates an API identity; USDC needs a wallet; India Stripe eligibility is unverified; earnings depend on reader purchases. No paid buyer order exists. Hold/reject pending approval and payout evidence.
-- **A2A Registry / Speedbot:** profile describes USDC on Base/Arc and weekly prizes of 3/1.50/0.50 USDC ending Nov16 00:00 UTC. Rewards go to an existing verified wallet and points include social/conversation activity. Funded-help pilot has ended; no exact funded buyer job verified. Rejected.
-- **HackIndia:** AgentVerse'26 is online but registration closed Nov5 and required ₹100 entry; advertised $13,000 is OpenAI credits, not cash. 13th Protocol is in-person, team-based and therefore excluded.
-
-### Current execution state
-No new opportunity is fully eligible or proposal-ready under the current rules. No registration, account creation, bid, message, public post, PR, wallet connection, ID upload, payout setup, signed terms, deposit or commitment was made. AgentLancer service 301 remains a separate channel. **Cash received remains $0.**
-
-
-
-## Run 18 — 2026-11-14 17:48 IST
-
-### Coverage after this run
-- **404 distinct source domains** in the cumulative registry; **188** directly inspected; **59** with at least one exact job/competition page inspected.
-- **217 distinct opportunity/program URLs** in the cumulative ledger; **194** directly verified records, **28** with aggregator/index evidence and **9** search-only records (evidence categories overlap; these are not 217 paid jobs).
-- Added eight source domains: `forke.space`, `securegig.in`, `trustwork.in`, `waitline.dev`, `waitline.appsage.in` (host under AppSage), `bountbee.com`, `nainix.me`, and `waitpay-india.vercel.app`. Six were directly inspected; two are search-result only.
-- Added nine opportunity/program records (OPP-209 through OPP-217). No new exact paid job passed all eligibility and payout requirements. Job-level verified-domain count remains 59.
-
-### Key findings
-1. **Forke — major correction to the apparent 128-bounty count.** A read-only browser inspection of the public homepage confirmed the sidebar says 128, but only six hard-coded sample cards are rendered. They have no task URLs, buyer names or calendar posting dates; repo labels such as `acme/api` and `shopkit/web` are placeholders. “Escrowed” is a card label, not independent funding proof. Terms permit helper AI tools and require disclosure for substantial AI-generated code, while the policy says AI-dumped submissions are removed. UPI/Razorpay escrow is described in terms/docs, but there are no public task-level escrow records. Account creation, GitHub OAuth and UPI setup are required. **Do not count 128 as live jobs; no exact Forke task was verified.**
-2. **SecureGig:** official homepage/pricing/about inspected. Claims 25,000+ freelancers, 2,000+ reviews and $50M+ escrow; none independently reconciled. Free tier exists and Razorpay escrow is described, but no exact public buyer task, AI policy or verified transaction was found. Hold.
-3. **TrustWork:** official workflow directly inspected. UPI escrow through Castler is described, but freelancers must be Aadhaar-verified via Digio. No public task board. Excluded under the no-third-party-ID rule.
-4. **Waitline.dev:** official page's backend snapshot showed **0 active public campaigns and 0 impressions served**. Creator share is advertised as 70% of advertiser spend, credits unlock after seven days, but creator payout rail and India eligibility are not documented. No live revenue; reject for now.
-5. **Waitline (AppSage):** search-result terms identify AppSage Infosystem Pvt Ltd (CIN U74999KA2021PTC152976), $1.50 per 1,000 qualified views, $10 minimum, 30-day hold, UPI/bank through RazorpayX, and possible PAN/KYC. The terms prohibit bots, scripts, emulators and automated prompts to generate views. This is not AI-agent work and earnings are negligible; reject. Direct page fetch returned cache miss.
-6. **WaitPay India:** official page directly inspected and explicitly pre-launch. Claims 50% sponsor-revenue share and monthly UPI payouts, with illustrative ₹4,012/month; no live sponsor inventory or payout evidence. Waitlist/account and npx install required. No signup or install.
-7. **Nainix:** directly opened homepage still describes a non-cash skill/time bank using NX Credits and says “no cash needed ever.” Search snippets for a newer Nainix 2.0 claim NX credits convertible via Razorpay, but wallet/cashout could not be directly verified and conflicts with the opened page. No exact cash-paying task verified; reject/hold.
-8. **BountBee:** search result claims ₹14,87,900 escrow, 40 missions verified and same-day UPI for machine-checked AI Labs. Direct page returned cache miss; no exact mission URL, legal buyer identity, funding transaction or payout proof. Search-only, not accepted as funded.
-9. **AgentRush USA 2026:** Hack4Hack search-result listing claims $5,000 pool, but participants must be based in the USA and form teams of 2–4. India is ineligible. Direct page fetch returned cache miss.
-10. **Gemma 4 Developer Agent Competition refreshed:** main track remains open. Rules acceptance deadline is **26 Nov 2026, 05:29 IST**; final submission is **3 Dec 2026, 05:29 IST**. Main leaderboard is $65,000 plus a $10,000 small-model bonus; separate $35,000 Paper Track is closed. No India-specific payout rail was found, and Kaggle account/rule acceptance require owner approval. Official page fetch returned cache miss; official search results were rechecked.
-11. **AgentLancer service 301:** no fresh status is claimed. The profile and public API endpoints were inaccessible in this run; last recorded check remains 2026-11-13. Previous price discrepancy ($25/1 day in service JSON versus $120/2 days on profile) remains unresolved. No buyer order or payment inferred.
-
-### Near-term existing opportunity
-- **Apart Research AI x Epistemics:** deadline remains **2026-11-16 17:29 IST** (about 47h 41m from this check). $2,000 cash pool; AI allowed; global/solo; official prize terms specify SWIFT details for Indian bank recipients. No escrow, human judging. OpportunityProof remains an unsubmitted draft; official template, author details, affiliation and owner approval are still missing. No registration or submission.
-- **Apart Research Threat Intelligence & Threat Modelling:** Dec 4–6 online, $5,000 pool, AI allowed, global/solo, public-data defensive research. Deadline Dec 7, 17:29 IST. Common Apart prize terms specify SWIFT for Indian recipients. No escrow; future conditional lead.
-
-### Execution and financial state
-- Fully eligible: 0
-- Proposal-ready: 0
-- Approved to contact: 0
-- Submitted / accepted / delivered / approved / payable: 0
-- Independently confirmed cash received: **$0**
-
-No accounts, registrations, proposals, claims, comments, messages, wallet connections, ID uploads, payout details, software installations, terms acceptances, deposits or commitments were made.
-
-### Registry integrity correction — run 18
-- A pre-existing duplicate opportunity ID was found on two distinct GitHub URLs. The IES-BoilerRoom mirror record was renumbered to `OPP-2026-1114-218`; the FinMind record retained `OPP-2026-1114-191`. No listing URL or evidence was changed.
-
-
-## Run 19 — 14 November 2026, 18:47 IST
-
-### Registry totals after this run
-- **408 distinct source domains** (4 added this cycle); 191 directly inspected; 60 with at least one exact programme/job-level verification.
-- **222 unique opportunity/program URLs** in the ledger; 199 directly verified records. Aggregator snapshots and search-only discoveries remain separately labelled; the 680 Jobbi gigs and 18,069 AI Trainer Jobs listings are not counted as individually verified jobs.
-- Duplicate domain and listing-URL checks passed.
-
-### New source domains
-- `hackversity.com` — directly inspected bug-bounty programme; INR 1,000–10,000 via UPI/bank, but no escrow, AI policy unspecified and compliance identity may be required.
-- `swarmmemo.com` — directly inspected agent task board; mixed credits/USDC, no verified INR payout and no exact eligible cash task.
-- `aitrainer.jobs` — directly inspected aggregator; homepage claims 18,069 listings from 104 platforms, mostly human evaluation/annotation rather than autonomous agent work.
-- `bucis.org` — search-only discovery; direct page inaccessible, no exact opportunity verified.
-
-### New and refreshed exact opportunities and decisions
-- **Hackversity bug bounty:** ₹1,000–₹10,000 advertised; safe-harbour scope limited to its own app and authenticated API. No raw scanner output, first-to-report valid PoC, human triage, no escrow, AI policy unspecified, identity/payment details may be required. No testing performed; held/rejected.
-- **OpenTrain Full-Stack Software Engineer, Testing & Evaluation:** $75/hr, India listed among 95 countries. Work is to create realistic projects, Docker workflows and deterministic tests. No AI policy stated; hiring company is unnamed; no specific funded milestone. OpenTrain payout docs require government-issued ID and bank details, so excluded.
-- **OpenTrain Senior Software Engineer for AI Data Evaluation (India):** $60/hr advertised, but explicitly requires human review of coding agents, 20+ hours/week and weekly human quality review; ID and bank setup required. Excluded.
-- **Onyx Jira Service Management Connector (Algora):** $250 marked escrowed by Jobbi, but dozens of competing PRs/attempts and human maintainer merge. Algora's official docs say India international payouts are not available to individuals; sole proprietors/LLPs/companies only. Excluded.
-- **Code for a Billion — Bharat Agentic-AI Hackathon:** ₹18 lakh total prize pool, global/solo, free, agentic-AI oriented, 1M free smart-code tokens; project deployment/submission closes **15 November 2026**. Human-judged, requires AgentFoundry account and public open-source submission; no payout rail/escrow published. No account or submission made.
-- **HackerRank Orchestrate:** $2,400 total, 12–13 December 2026, explicitly permits Codex/Claude Code/Cursor, but requires a 30-minute owner voice interview with an AI judge; India payout not documented. Rejected for non-autonomous owner interview.
-- **Hack4Hack ML Challenge:** ₹1 lakh, global and solo, hidden-test leaderboard; Round 1 free, but Round 2 requires ₹299 per Indian team and generative-AI policy/payout route are unspecified. Rejected under no-spend rules.
-
-Five new exact ledger records were added this cycle; two previously recorded competition URLs (HackerRank Orchestrate and Hack4Hack ML Challenge) were refreshed rather than duplicated.
-
-### Payment-channel findings
-- Jobbi's live report (refresh 12:00 UTC) shows 680 open gigs, 497 marked escrowed, 126 machine-accepted and 549 human-reviewed. These are aggregator classifications, not independently verified funded jobs. Rails are 503 Stripe, 120 x402, 22 USDC Base, 10 OpenWork token, 10 wallet and 1 Gnosis.
-- Algora's official payment documentation explicitly limits India international payouts to sole proprietors, LLPs and companies, not individuals; required credentials/authorizations are checked by Stripe.
-- OpenTrain's official payout documentation lists India but requires a government-issued ID, local bank details and tax ID if requested.
-- Agent Bounties legacy domain redirects to Agentizable.ai; wallet required for solver payouts. WorkUSDC requires a 2 USDC proposal credit. Taskmarket and SwarmMemo offer wallet/USDC or credit-based routes, not verified INR bank payouts.
-- Frantic #97 is a funder rebate, not a worker job: claimant must fund a separate $10+ bounty and wait for an independent worker payout. No funds spent.
-- AgentLancer service 301 remains tracked separately; fresh profile/API opens failed this cycle. No buyer order or payment verified; prior price discrepancy remains unresolved.
-
-
-- **Dailybugbounties feed ([repository](https://github.com/krishi-shah/dailybugbounties), [JSON](https://raw.githubusercontent.com/krishi-shah/dailybugbounties/main/data/bounties.json)):** directly fetched the JSON feed, generated 2026-11-14 12:17 UTC; 172 open records, $54,981 advertised, 62 with zero attempts/claims/open PRs and 48 marked verified payer. These are index flags, not payment proof. The feed surfaced multiple Expensify $250 tasks via Upwork and old IssueHunt/Algora records; exact pages were sampled.
-- **Caster Issue #814 / IssueHunt:** exact GitHub issue is Open and carries a funded label with a $200 backer. IssueHunt says bank or PayPal after triage/fix. But the issue is old, has multiple PR attempts, and maintainer explicitly instructed contributors to hold off until design settles. Rejected.
-- **Expensify Issue #102630:** exact $250 issue remains Open but is assigned to another contributor; issue embeds an Upwork job URL/ID. No funded contract evidence or India payout confirmation. Rejected.
-
-- **Code for a Billion recheck:** official Code for India page confirms the 90-day event launched 15 Aug and closes **15 Nov 2026**; project must be deployed to any cloud and open-sourced by the deadline. It offers 1M free AgentFoundry tokens, a ₹18 lakh total cash pool (₹1.5L/₹1L/₹50K per track), 2–3 minute demo video or live link, and human judging on problem size, severity, solution quality and proven impact. Open globally, free, but requires an AgentFoundry account and project submission; no prize payout rail or escrow published. Starting from zero with ~28 hours left is low-probability. No account or submission made.
-
-### Execution status
-No accounts, applications, claims, PRs, messages, wallets, ID uploads, payout setups, terms acceptance, deposits or commitments were made. **Cash received remains $0.**
-
-## Run 20 — 14 November 2026, 19:51 IST
-
-### Registry totals after this run
-- **413 distinct source domains** (5 newly added this cycle); **197 directly inspected**; **64 domains with at least one exact programme/job/event verification**.
-- **232 unique opportunity/program URLs** in the ledger; **205 directly verified records** and **30 aggregator-index records**. Search-only discoveries remain separately labelled.
-- Source domains and listing URLs were deduplicated before commit. Three duplicate event rows (Gemma 4 prize subpage, Code for a Billion registration URL, and AWS MSP rules URL) were consolidated under their canonical event URLs.
-
-### Freshly inspected findings
-- **Homingo Hack Days:** official page confirms AI tools are allowed, India-wide online entry, solo participation, free entry and a ₹5,000 winner-only prize. Registration closes **15 November 2026, 23:59 IST**; build period 21 Nov–6 Dec; finalist live demo on 19 Dec. A short screen-recorded demo is required; no camera requirement is stated, but live presentation and human judging remain. No escrow or payout rail published. Held pending owner approval; no registration made.
-- **UGREEN AI NAS Hackathon:** official Devpost rules show **India is explicitly excluded**, despite the $46,000 prize pool. Rejected.
-- **Lexsi AI Safety Hackathon:** registration closed 8 Nov; no cash prize (only Lexsi/Cohere/Hugging Face credits); at least one team member must join Discord; AI use not expressly authorized and originality rules apply. Rejected.
-- **Geek Room Global AI Hackathon:** official organizer confirms worldwide online and solo entry, but requires official Discord participation; $1,000 is the cash track within a larger credits-heavy prize pool, and payout rail is not published. Rejected under no-social-engagement constraint.
-- **The Liar's Chatroom (IIIT-B):** exact Unstop listing confirms a machine-scored Kaggle accuracy challenge with offline open-weight models up to 14B and ₹25,000 prize pool. Registration closed 12 Nov, before this run; payout rail not published. Rejected because owner was not registered and professional eligibility is unclear.
-- **HACKTRAINING:** homepage currently reports 0 active programs; no exact current bounty found despite historical $40K+ paid claim. UPI/bank/PayPal advertised, but no active scope or funded listing.
-- **TaskBridge AI:** human data labeling/rating and transcription, weekly PayPal/AirTM, but requires government photo ID and live face photo. Rejected.
-- **SideCash:** manual video annotation at ₹150 per approved hour; minimum 4 hours/day, WhatsApp availability, PAN/bank details and human quality review; monthly payout. Rejected.
-- **Remote Adda Loggy3:** exact active listing advertises $0.50–$1.00/hour for personal screen recording, India UPI/bank/PayPal; requires account, resume and photo-ID/live-camera verification. Rejected.
-- **BodhicAI:** potential India UPI seller route for AI-agent skills (80% creator share advertised; Razorpay in creator agreement), but no verifiable live buyer orders or payouts. Hold as a seller channel only.
-- **SELQIK:** 0 live listings; checkout explicitly remains in demo mode and requires a live Razorpay key. Rejected currently.
-- **Nothing.gripe:** 0 open funded tasks; crypto wallet payout; AI agents with fewer than three completed tasks may owe a 10% commitment deposit. Rejected.
-- **Axior, Karmyug AI, OddJob, MyTypingAI, ai2hum, Expertise Solutions and BountyCore:** retained as search-only or platform-level discoveries; human work, ID requirements, physical/social tasks, no current tasks or insufficient direct evidence make them unsuitable.
-
-### Execution status
-No accounts, registrations, proposals, claims, PRs, messages, wallets, ID uploads, payout setups, signed terms, deposits or commitments were made. **Cash received remains $0.**
-
-
-## Run 21 — 14 November 2026, 20:47 IST
-
-- Source registry: **419 unique domains**; **203 directly inspected**; **69 with exact job/program verification**. Duplicate domains: 0.
-- Opportunity ledger: **240 unique opportunity/program URLs**; **213 directly verified records**; **31 aggregator-index records**. Duplicate URLs: 0.
-- Added six new source domains: Agentware Hackathon, Hackathon Raptors, IMLO, Anna AI OS, SellYourBots, and Huntr. BountyHub was already registered and its exact funded issue was refreshed.
-- Added eight new exact opportunity/program records; three matching records already existed and were refreshed rather than duplicated.
-- Jobbi's 688-open-gig feed yielded no task meeting machine acceptance + escrow + USD + fiat payout simultaneously: the four exact matches were native Gnosis payments estimated at $0.01 each.
-- BountyHub's $5,000 microG RCS bounty is genuinely prefunded, but the GitHub issue is locked and requires human maintainer acceptance and real-device testing.
-- Agentware ($1,800) is the strongest future AI-agent competition, but Discord registration and India payout terms remain unresolved. Private planning-only preparation was created outside this public repo.
-- Anna's recurring builder grants and BuildHybridAI's $30,000 prize are blocked by identity-verification/publicity requirements. Huntr and Cicada explicitly prohibit AI automation. IMLO requires a fee and pays credits only.
-- AgentLancer service 301 profile/API endpoints remain inaccessible; no buyer order or payment verified.
-- Cash received: **$0**. No proposals, submissions, accounts, wallet connections, ID uploads, payout setup, deposits or commitments.
-
-Full evidence: [Run 21 research report](run-21-2026-11-14.md).
-
-- Immediate conditional prize lead: Apart Research AI x Epistemics is still live; **$2,000 total**, AI tools allowed, solo/global, deadline **16 Nov 2026 17:29 IST**. Official terms document US charity bank transfer via Mercury and SWIFT for Indian bank accounts; no escrow. Existing private six-page draft is not submission-ready until official-template and author/affiliation requirements are resolved. No registration, terms acceptance or submission.
-
-
-## Run 22 — 2026-11-14 21:14 IST
-
-- Source registry: **424 unique domains**, 208 directly inspected, 72 with exact job/program verification.
-- Opportunity ledger: **251 unique URLs**, 222 direct/API verified, 31 aggregator-index records.
-- Added Execution Market and six live task records; all six are $0.01 gross, USDC/USDG wallet payout, 13% fee, and not escrow-funded while published.
-- Added exact records for Plether, Google Quantum AI, Smart Buildings, Enveda, HackIndia AI for Lawyers and STEM Next. Refreshed AWS MSP, Meta VR Start, Codegeist, Firebase Hybrid AI, Epic AI MegaJam, NEAR and Name That LLM.
-- Strongest technical lead: Google Quantum AI $150K, explicitly AI-agent oriented and machine-verifiable; official rules now confirm Payoneer and W-8BEN/eligibility paperwork, with possible identity/residency verification. No Kaggle account or rules accepted.
-- Best explicit AI-coding cash hackathon: #BuildHybridAI $30K; India not excluded; official rules search-result text confirms bank transfer or mailed prize within 60 days after forms, W-8BEN for non-US, and winner identity/role verification plus broad publicity release. Rejected under current no-ID/privacy restrictions.
-- Codegeist offers six $1.5K Best Agents and six $1.5K Atlassian MCP awards; AI policy not explicit; identity/qualification verification and account requirements remain blockers.
-- Fully eligible direct paid jobs: 0. Cash received: $0. No proposals, accounts, wallets, ID, payout details, terms, deposits or commitments.
-- Full report: [run-22-2026-11-14.md](run-22-2026-11-14.md).
-
-- Final reconciliation expanded the registry to **423 unique domains** (207 directly inspected; 70 with exact job/program verification) and the opportunity ledger to **246 unique URLs** (216 directly verified; 31 aggregator-index records). No duplicate domains or URLs.
-- Additional sources checked: TaskBounty's separate Paid Jobs page was empty; ArcBounty requires a USDC wallet; MCP.tc is a 1,500-server directory rather than a paid task board; STEM Next awards go to U.S. afterschool program sites; HackIndia's AI-for-Lawyers registration closed Nov11 with prizes still TBD.
-- Immunefi Plether's $80,000 USDC audit contest is funded and specifically says KYC is not required, but it charges a per-report submission fee, requires a runnable PoC, pays only USDC to a wallet, and Immunefi rules prohibit AI-generated/automated scanner reports. Rejected for AI-only and no-upfront-spend constraints.
-- Three Kaggle competitions (Google Quantum, NeurIPS Smart Buildings, Enveda CASMI26) were directly inspected through browser and rules. All remain open; India is not on the excluded-country lists. Google Quantum is the strongest AI-agent fit ($150k, deterministic fuzz scoring, AI coding agents explicitly encouraged); NeurIPS Smart Buildings is $40k machine-scored HVAC control; Enveda CASMI26 is $50k machine-scored mass-spectrometry. Generic Kaggle prize-close instructions name Payoneer; W-8BEN/eligibility paperwork and possible identity/residency checks apply. No Kaggle account or rules accepted.
-
-- Gemma 4 Developer Agent's main track remains open ($65k plus $10k small-model bonus; separate $35k paper track closed Nov12). Generic Kaggle prize-close instructions name Payoneer and tax/eligibility paperwork; Payoneer identity verification likely. No account or rules accepted.
-
-## Run 24 — 2026-11-14 22:52 IST
-
-- Registry now contains **440 unique source domains**, **223 directly inspected domains**, and **79 domains with job-level verification**. Four new directly inspected sources were added: Hi5 Jobs, Callabri, TownTalents and AgentPMT.
-- Opportunity ledger now contains **270 unique listing/program URLs**: 236 directly verified, 36 with aggregator evidence and 22 search-only records. Evidence categories overlap. Duplicate domains, URLs and IDs: zero.
-- GOAT Market's homepage claims 4,806 offers but explicitly says its last check was Oct24. A fresh offers.json response returned 852 rows at Nov14 17:24 UTC; the feed was retrieved with TLS verification disabled after certificate validation failed. Treat it as aggregator evidence only.
-- Jobbi's latest report (Nov14 17:00 UTC) shows 666 open gigs, 548 priced, $20 median, 483 marked escrowed, 172 promised, 533 human-review and 128 machine-accepted. These are index classifications, not independent funding verification.
-- Freelancer AI Workflow Automation Bot is already In Progress/awarded with 196 proposals. AI Cost Optimisation Gateway showed USD 5k–10k/141 proposals in a search snippet, but its direct URL returned 404. No recent relevant Freelancer listing with fewer than 20 proposals was found in the feed query.
-- TaskMarket's $5 Kintara and $4 Solana-gem tasks were completed and settled to other agents on Oct29; both required public social posts, so rejected. ClankerNation/OpenAgents #14 asks contributors to expose private pre-session instructions and public payment details; rejected as prompt-exfiltration/privacy risk.
-- ARC WhestBench Phase 2 closed Oct21. Aholo's deadline is Nov19 16:30 IST, but registration/account and payout route remain blockers; listed prize categories total CNY 300k against a CNY 320k headline. Innodata requires a 3–4 person team and mandatory New Delhi finalist presentation. Hack4Hack ML Challenge has free Round1 but ₹299/team for prize-deciding Round2.
-- New read-only job-search APIs (Hi5 Jobs, Callabri, TownTalents) are not AI-agent task boards; their public docs were inspected, but job feeds were not inspected after the connected scrape quota was exhausted. AgentPMT showed zero open jobs and only social-share credits requiring an EVM wallet.
-- No proposal, PR, comment, registration, account, wallet, ID, payout setup, payment, terms acceptance or commitment was made. Cash received remains **$0**.
-
-- Additional Jobbi top-paying listing inspected: BAWES-Universe/studenthub #55, USD 600 Algora bounty. It touches Civil ID files, candidate PII, IAM/S3 keys and CloudTrail; 30+ attempts and many PRs are visible. Jobbi marks it escrowed, but no transaction-level funding proof; rejected for sensitive PII/credential handling, competition, AI-quality restrictions and Algora's India entity-only payout rule.
-
-
-**Run 24 correction — BAWES #55:** A fresh GitHub connector read of all 89 issue comments found the maintainer explicitly saying the USD 600 bounty remains paused indefinitely and contributors must not start or resume work until it is reopened. The GitHub issue label remains Open, but the maintainer's pause controls; no work should be attempted. The task also touches Civil ID/PII and AWS secrets and has many competing PRs.
-
-
-## Run 26 — 2026-11-15 00:44 IST
-
-- Registry now contains **453 unique source domains**, **232 directly inspected domains**, and **79 domains with job-level verification**. Seven new source domains were added: Geni Kart, Freelancity, PayAPI Market, AgentsBay, GetAgentic, eAgent and AIVA Freelancia.
-- Current opportunity ledger contains **286 unique URLs**: 248 directly verified, 36 aggregator-index evidence and 26 search-only. Evidence categories overlap. Duplicate domains, URLs and IDs: zero.
-- Geni Kart is a promising India-native digital-product channel: 24 preview listings, invite-only, 90% seller share via Razorpay, UPI rolling payout claim, ₹100 minimum. No actual seller sales/payouts verified; account creation required. Hold.
-- SellYourBots has a live AI-bot catalogue and seller upload route, but upload requires login and seller revenue share/payout rail are not disclosed. Hold.
-- Freelancity search snippets claim UPI/bank payouts and live client briefs, but a read-only browser inspection of 12 public routes failed TLS/proxy/Cloudflare DNS. No listing, buyer, payout or KYC claim treated as verified.
-- PayAPI Market is a genuine x402 API catalogue with sample USDC/Base settlement-verified calls, but providers need a wallet and receive USDC; no India fiat route. Reject under current restrictions.
-- AgentsBay/AgentXchange has USDC Polygon escrow claims, but the visible job board contains garbled/implausible budgets and task details are inaccessible. Wallet required; fee terms conflict. Reject.
-- GetAgentic requires Sumsub KYC and USDC/Base seller wallet. eAgent is a human-task marketplace (CAPTCHA/phone/location tasks), not AI-only, with conflicting dashboard payout stats. AIVA Freelancia currently vets human freelancers with background checks and one-on-one interviews; AI agents are coming soon. All rejected.
-- AgentLancer service 301 was rechecked through its homepage, feed and first-payment page. Seller payouts are USDT/USDC only. Public first-payment page references contract 123 / 80 USDT missing a buyer tx_hash; linked status endpoints were inaccessible; current verified economic activity is still none. Service 301 itself remains unverified; no contact or negotiation.
-- Homingo remains open until **15 Nov 2026 23:59 IST**: free, India-wide, solo, AI tools allowed, ₹5,000 top prize; requires public repo and demo video, finalists present live. Human judging; payout/escrow unpublished. No registration.
-- ZIVOX is rescheduled to Feb 2027 and charges ₹199; reject. Agentware (Nov27–30) is free, solo, AI-tool-expected, $1,800 pool, but Discord registration is mandatory and payout/KYC terms are absent; hold.
-- Private assets prepared: MCP/API Acceptance QA skill and listing draft; Agentware pre-kickoff plan. Nothing was uploaded or published.
-- No account, Discord, wallet, ID, payout setup, registration, message, proposal, PR, comment, payment, terms acceptance or commitment was made. Independently confirmed cash received remains **$0**.
-
-
-## Current files (Run 27)
-
-- [Cumulative source registry](source-registry.csv)
-- [Current opportunity ledger — 2026-11-15](opportunity-ledger-2026-11-15.csv)
-- [Run 26 report](run-26-2026-11-15.md)
-- [Run 27 report](run-27-2026-11-15.md)
-
-
-## Run 27 — 15 November 2026
-
-- Registry: **476 unique source domains**, 251 directly inspected, 86 job-level verified.
-- Opportunity ledger: **306 unique opportunity/program URLs**, 265 directly verified, 43 aggregator-index records (categories overlap).
-- Added 20 source domains and 11 new opportunity records; final ledger reconciliation includes three further IssueHunt issues; three previously recorded agent-network sources were also rechecked; corrected the fake Build with AI 2026 prank site.
-- Best near-term conditional cash lead: Apart Research AI x Epistemics, deadline **16 Nov 2026 17:29 IST**, $2,000 cash pool and Indian SWIFT bank-transfer terms. Private draft passed 10 tests, but official template and owner submission details remain outstanding.
-- Best upcoming India-payable research prize: Apart Research Threat Intelligence & Threat Modelling, **$5,000**, Dec4–6, global/solo, AI tools allowed, Indian SWIFT bank transfer; no escrow; Apart's prize terms grant a worldwide non-exclusive royalty-free licence to submissions.
-- Best machine-scored technical lead: Muse Spark Open Kernel Challenge, **$100,000**, deadline Nov20 13:29 IST; payment rail unpublished; valid ID/tax/background checks may be required; rules contain binding arbitration/class-action waiver, an irrevocable sponsor licence to submitted materials and Apache 2.0 licensing of submitted code.
-- AgentLancer: public handoff still says accepted 80 USDT contract 123 needs a real buyer tx_hash; 20 USDT pilot is separate; live status APIs returned cache miss; service 301 profile inaccessible.
-- Financial ledger: 0 eligible direct paid jobs; 7 conditional opportunities; 0 proposal-ready, submitted, accepted, payable or cash received.
-- Repaired 8 legacy ledger rows missing `cash_received`; duplicate domains, URLs and IDs remain zero.
-
-[Run 27 detailed report](run-27-2026-11-15.md)
-
-## Run 28 — 15 November 2026, 02:50 IST
-
-- Registry: **486 unique source domains**, 260 directly inspected, 86 job-level verified.
-- Opportunity ledger: **319 unique opportunity/program URLs**, 277 directly verified, 43 aggregator-index records and 27 search-only records (evidence categories overlap).
-- Added 10 source domains and 10 opportunity/channel records; refreshed existing Homingo record without duplication.
-- Best conditional India seller channel: ClipChaos (8% fee, UPI/bank payout, ₹100 threshold, up to 3 working days after request; no explicit KYC requirement found in public terms; account and payout details still required).
-- Second conditional seller channel: MintLink (8.26% all-in, weekly UPI/bank payout, ₹100 threshold, 3-day domestic hold; payout details verified by platform; no account or payout details entered).
-- Rejected ownstreet (PAN), Kreato (PAN/address), Wexido (legal/payment terms incomplete), ProfitupX (contradictory metrics), Kiteza (KYC), Kreevo (KYC/invite-only), BestAIPromptWorld (US$999/month Seller plan contradicts free seller page), and PayKrevo (search-only, Aadhaar/PAN KYC claimed).
-- Private MCP/OpenAPI QA Starter v1 package created and tested: 5/5 unit tests pass; OpenAPI and MCP samples each produce zero findings. Package and listing drafts remain local/private; no account or product listing created.
-- Homingo registration remains open until **15 Nov 2026 23:59 IST**; ₹5,000 top prize, solo/AI tools allowed, but human judging, demo video and finalist live presentation; payout rail unpublished; eligibility uncertain for experienced professionals.
-- Financial ledger: 0 eligible paid jobs, 0 proposal-ready, 0 submitted, 0 accepted, 0 payable, **$0 cash received**.
-- No account, seller profile, payout details, ID, wallet, registration, proposal, PR, comment, payment, subscription, signed terms or commitment created.
-
-[Run 28 detailed report](run-28-2026-11-15.md)
-
-
-## Runs 29–34 (2026-11-15)
-
-- **Run 29:** 493 source domains / 332 opportunity URLs. Solar Filament Segmentation Challenge advertised $3,000 with AURA/NSO bank-transfer terms; India bank compatibility unresolved. Jobbi's 14 sampled technical candidates were rejected due to Algora/Stripe India-individual payout restrictions. Added Zompetitions.
-- **Run 30:** 496 source domains / 338 opportunity URLs. Rejected $300,000 GEMS due US citizenship/residency rules; student-only Cosmo Hacks; KoiPay settlement routing; non-cash BountyCore tasks.
-- **Run 31:** 500 source domains / 339 opportunity URLs. Apart Research $2,000 AI x Epistemics sprint showed SWIFT for Indian bank recipients; FrontierOR $21,000 had no payout rail. Code for a Billion required AgentFoundry and deployed project.
-- **Run 32:** 504 source domains / 343 opportunity URLs. Three BountBee missions advertised ₹240,000, ₹135,000 and ₹325,000; payout rail, legal operator and India eligibility unresolved. Private reconciliation prototype prepared.
-- **Run 33:** 510 source domains / 352 opportunity URLs. FrontierOR ($21,000), Open Agentic Web ($10,000) and Codegeist ($120,000) screened; payout/identity restrictions kept them on hold. BountBee refreshed.
-- **Run 34:** 518 source domains / 359 opportunity URLs. Added MoltsPay (directly inspected agent-to-agent paid-skill/API marketplace) and MoltPe (search-only; direct page returned HTTP 503). Rechecked three BountBee mission pages; payout and buyer/legal identity remain unresolved. Screened make.fun machine-graded bounties: funded API aggregator and browser-game tasks are technically suitable but USDC-on-Solana-only; chess and git-forge tasks are not escrowed. Frantic #149 is a private $3 wallet-only task. Apart Research remains the only near-term competition with a documented Indian SWIFT route, but requires owner-approved signup/terms and human judging.
-
-- **Run 35:** 522 source domains / 363 opportunity URLs. BodhicAI, Copilot.in, VibeFix-related seller programmes and other Indian monetization channels were screened; MCP QA Server v1.1 was prepared privately. No verified buyer payment.
-
-- **Run 36:** 527 source domains / 371 opportunity URLs. Added AgentHustles, MCP Marketplace, Agensi, VibeFix and VibeBay as directly inspected sources. Added eight new exact records: four unverified empty-repository USDC bounties, a WearOS bounty that explicitly bans AI, two Go-Hybrid human-reviewed wallet-only wildcard issues, and an iMerit human-annotation listing. Refreshed existing Gemma 4 record OPP-2026-1114-17 (USD 75k currently open; payment method unknown). Rechecked AgentLancer service 301: contract 327 accepted but payment pending, 20/21 USDT discrepancy, no transaction hash.
-
-### Current snapshot — Run 36
-
-- **527 distinct source domains**; 293 directly inspected; 96 domains with job/program-level verification.
-- **371 unique opportunity/program URLs**; 324 directly verified; 46 aggregator-index verified; 26 search-only/unverified. Evidence flags overlap. No duplicate domains, URLs or IDs.
-- **Execution ledger:** eligible 0; proposal-ready 0; approved-to-contact 0; submitted 0; accepted 1 (AgentLancer contract 327, payment pending); delivered 0; approved 0; payable 0; cash received USD 0.
-- Latest files: [source registry](source-registry.csv), [opportunity ledger](opportunity-ledger-2026-11-15.csv), [Run 36 report](run-36-2026-11-15.md).
-
-
-## Run 37 — 15 November 2026, 11:51 IST
-
-- **Source registry:** 531 unique domains; 296 directly inspected; 96 with job/program-level verification. Added four new source domains: `opencrater.to`, `payelink.com`, `riyabot.com` (directly inspected) and `agpe.ai` (search-result only; direct page timed out).
-- **Opportunity ledger:** 375 unique opportunity/program URLs; 327 directly verified; 46 aggregator-index verified; 26 search-only/unverified. Added four programme records; no duplicate URLs or domains.
-- **make.fun refresh:** exact pages for free-model-aggregator-01, free-model-aggregator-02, GitHub-compatible git forge and 4KB chess engine rechecked. The $500 free-model-aggregator-01 page reports full USDC escrow funding and closes **16 Nov 2026 08:00 IST**; AI coding agents are explicitly allowed and sandbox acceptance is machine-graded. However, all make.fun rewards are USDC on Solana to the entrant's own wallet, with no bank/UPI payout; excluded under current no-wallet rules. The second $500 aggregator also requires an OpenRouter account with **$10 purchased credits** and a wallet, so rejected for upfront spend.
-- **make.fun payout evidence:** official payout ledger directly inspected; it reports $5,415 USDC paid to 338 accounts across 488 transfers since Nov9, median $7 and largest $250, with transaction signatures. This is platform-published transaction evidence; explorer pages require JavaScript and were not independently reconciled. It does not solve the India fiat/wallet restriction.
-- **Chess engine protocol resolved:** exact make.fun brief says Python 3.13 `main.py` communicates through `MAKEFUN_ENV_URL`, requests the current game, sends moves in UCI notation and receives house-engine replies. It is not UCI stdin/stdout and not `def move(fen)`. 4,096-byte limit, deterministic replay, no model calls at runtime, practice Elo >=1154 and final score must beat 4KB Sunfish.
-- **Hack4Hack ML Challenge:** exact page open to Dec2, ₹1L prize pool, solo/working professionals/worldwide; Round1 free and leaderboard/hidden-test scored, but every Round1 leaderboard team must pay ₹299 in India for Round2. Reject under no-spend rule; payout rail and escrow not published.
-- **HackIndia AgentVerse:** registration closed Nov5, ₹100/member entry; $13,000 headline is predominantly OpenAI credits/subscriptions, with a ₹5,000 prize figure; no cash payout rail. **AI for Lawyers:** registration closed Nov11, teams 2–5, AI tools allowed, prize TBD, human judging/demo. Both rejected.
-- **OpenCrater:** publisher monetization for real MCP/CLI tools; advertisers fund escrow and publisher earnings settle in USDC on Base/Ethereum to own wallet. No INR/UPI bank route; rejected.
-- **PayLink:** agentic marketplace/payment infrastructure; visible agents/prices are demo-style, demo wallet is TRON testnet, service is unconfigured and has zero usage; terms say it facilitates payment processing, not actual movement of funds. No verified buyer/payout; rejected.
-- **Riya by Synvolve:** recurring partner commission advertised, but requires human prospecting and live-call demos; commission rate and partner payout terms not published. Rejected for AI-only execution.
-- **AGPE:** search-result only; surfaced Aadhaar/PAN video KYC and local retailer/distributor services; direct page timed out. Rejected.
-- **AgentLancer service 301:** live handoff JSON now says contract327/job343 has no payment_id, USDT TRC20 status missing, placeholder non-payable address, no tx_hash, 0/10 confirmations, and buyer instructions are not safe to send. Nested handoff data still references older contract322/payment7/$20 USDT; static page references contract123/$80 USDT while contract123 monitor returns 404. This is materially inconsistent; no buyer contact or delivery.
-- **Execution ledger:** eligible 0; proposal-ready 0; approved-to-contact 0; submitted 0; accepted 1 (AgentLancer contract327 offer, payment blocked); delivered 0; approved 0; payable 0; cash received **USD 0**.
-- No accounts, registrations, wallet connections, ID uploads, payout details, purchases, proposals, PRs, messages, submissions or commitments.
-- Detailed report: [run-37-2026-11-15.md](run-37-2026-11-15.md)
-
-
-## Run 38 — 15 November 2026, 12:56 IST
-- **Source registry:** 532 unique domains; 297 directly inspected; 96 job/program-verified.
-- **Opportunity ledger:** 376 unique URLs; 328 directly verified; 46 aggregator-index records; 27 search-only records. Evidence categories overlap; these are not confirmed paying jobs.
-- Added **AtlasOrc** as a new directly verified India-first digital product marketplace. Its seller terms document India-only paid selling, UPI payouts, 6% fee, 72-hour hold and typical 2–3 business-day payout; seller page claims no PAN/bank forms/KYC. AI-assisted MCP/code products are permitted with meaningful testing/instructions. No account or UPI ID was entered.
-- Prepared a private AtlasOrc listing draft for the Offline MCP & OpenAPI QA Server; clean package ZIP rebuilt without cache files; six tests passed on Python 3.13. Suggested ₹299 price is unvalidated; no preview image or listing created.
-- Corrected CoreDhristi's prior identity-verification note: current official Terms state phone OTP, but no government-ID requirement. Its custom-project terms document four 25% milestone escrow tranches, 80% creator share and monthly bank/UPI payouts; the public bid board still shows “Loading briefs”.
-- BountBee exact pages refreshed: M-2419 ₹240,000 (2/6 slots, 1 submission); M-2426 ₹135,000 (1/6, 1 submission, closes Nov16 19:54 IST); M-2422 ₹325,000 (3/4, 0 submissions). Escrow and same-day rupee payouts are platform claims; provider, legal operator, winner payout rail and India eligibility remain unresolved.
-- AgentLancer contract327 payment blocker reconfirmed: 21 USDT / payment_id null / non-payable address / no tx hash / 0 of 10; separate status card says 20 USDT/payment_id7 and static page says contract123/80 USDT. No safe payment instruction or verified income.
-- Hack4Hack Crew hiring challenge closes today at 23:59 IST but requires 30–50h build and human interview/live code change; reject as not AI-only. Hack4Hack ML challenge requires ₹299/team for Round2; reject.
-- Algora Dozer #1659 remains open with $600 displayed but is stale/contested, maintainer-controlled, and India individuals cannot receive international payouts without a qualifying business entity/Stripe onboarding; reject.
-- **Execution ledger:** eligible 0; proposal-ready 0; approved-to-contact 0; submitted 0; accepted 1 (AgentLancer contract327, blocked); delivered 0; approved 0; payable 0; cash received $0.
-- No accounts, waitlists, proposals, messages, claims, PRs, wallet connections, ID/KYC, payout details, subscriptions, deposits, purchases or commitments.
-- Detailed report: [run-38-2026-11-15.md](run-38-2026-11-15.md)
-- Private product listing draft: [atlasorc-mcp-qa-listing-draft.md](atlasorc-mcp-qa-listing-draft.md)
-
-
-## Run 42 — 2026-11-15 16:51–16:56 IST
-
-- Registry: **551 unique source domains**, 308 directly inspected, 101 with job/program-level evidence; no new unique source domain passed deduplication this cycle.
-- Opportunity ledger: **391 unique URLs** (2 net-new exact records; 6 duplicate records merged), 336 directly verified, 54 aggregator-index, 37 search-only; zero duplicate domains, URLs or IDs. Evidence categories overlap.
-- **Jobbi strict screen:** HTML report at 10:00 UTC showed 675 open gigs, 492 labelled escrowed, 130 machine acceptance and 540 human-review; separate JSON feed generated 11:00:10 UTC showed 686 records. Exact agent-lane + escrowed + machine acceptance filter found 17: 5 Gnosis on-chain and 12 USDC Base; zero fiat rails. No eligible India/no-wallet candidate. Jobbi is an index, not a payer; its escrow labels are not independent transaction proof.
-- Five highest-value Stripe/escrow near-misses were directly inspected: Javelin #2 ($10k, contested, human review, demo video, Algora India individuals excluded); microG RCS #2994 ($5k, founder says prepaid, but real-device testing and human review, identity verification for payout); Coolify #6894 ($1k stale feed label, maintainer says programme stopped/no payout); FinMind #144 ($1k headline, deadline passed, agents prohibited, USDT wallet); Dozer #1659 ($600, 2023 issue, multiple PRs/attempts, no active confirmation). All rejected.
-- Forke homepage recheck shows dashboard-style sample tasks/earnings, but footer says opens in batches and asks for waitlist; no publicly claimable task URLs or verified payouts. WaitPay remains pre-launch, no advertiser campaigns or payout proof; ₹4,012 estimate is illustrative. OpenBounty explicitly remains mock-payments only.
-- HackerEarth AI Work requires a Master's for CS and human expert reasoning; owner has BE and the task is not AI-only. Cicada's official Rater Agreement directly confirms no AI tools/no automation and full-screen sharing; it publishes bank payout (PAN + own-name account, UPI optional, withdrawals from ₹1), but the task is human-only. Freelancer MCP chatbot project 40554689 shows ₹37.5k–₹75k, 188 proposals and conflicting Closed/Active status; no escrow or AI policy verified.
-- AgentLancer contract 327 and BountBee were not freshly verified in this cycle; prior payment/mission details remain historical. No further delivery or claims.
-- Execution ledger: eligible 0; proposal-ready 0; approved-to-contact 0; submitted 0; accepted 1 historical (AgentLancer contract327, blocked); delivered 0; approved 0; payable 0; cash received **$0**.
-- No accounts, claims, proposals, PRs, comments, messages, wallet connections, ID uploads, payout details, deposits, subscriptions or commitments.
-- Detailed report: [run-42-2026-11-15.md](run-42-2026-11-15.md)
-
-
-## Run 45 — 2026-11-15 19:53 IST
-
-- Registry snapshot parsed from CSV: **557 unique source domains**, **314 directly inspected**, **101 with job/program-level evidence**; opportunity ledger: **403 unique URLs**. Counts are taken from the structured files, not copied from earlier summaries.
-- New root source domains: getvik.com, nodnest.com (Helpinix app is hosted at helpinix.nodnest.com), sellflo.in. Existing paykrevo.com upgraded from search-only to direct inspection.
-- ClipChaos seller pages, terms and AI Kits category rechecked. 8% fee, ZIP bundles up to 50 MB/file, ₹100 UPI/bank payout request and 3-working-day advertised processing. Private ₹199 listing draft prepared for the 12 KB MCP/OpenAPI QA package; local tests 6/6 pass. No account, upload or payout details.
-- Getvik rejected for PAN/legal-name/UPI/bank payout setup. Krevo rejected for Aadhaar/PAN/bank KYC. ownstreet rechecked; bank + PAN required. Sellflo is still a waitlist/pre-launch. Helpinix advertises escrow and UPI but no exact public buyer task; human approval only.
-- Hack4Hack ML Challenge: free Round1, but ₹299/team required for Round2. Buildathon 1.0: ₹600/team finalist fee and human presentation. CodeNova: AI tools allowed, but page body says UG/PG students only and Round1 closed. NeuraViz: human idea review and possible in-person winner interview. All rejected/held under the stated constraints.
-- SideCash rechecked: manual video annotation, PAN/bank, minimum 4 hours/day and human review; rejected.
-- BountBee latest evidence is search-result only for M-2419; exact mission page not freshly retrieved. AgentLancer contract 327 was not freshly verified; prior payment inconsistencies remain historical.
-- Execution ledger: eligible 0; proposal-ready 0; approved-to-contact 0; submitted 0; accepted 1 historical (AgentLancer 327, payment unresolved); delivered 0; approved 0; payable 0; cash received **$0**.
-- No accounts, claims, proposals, PRs, comments, messages, wallet connections, ID uploads, payout details, deposits, subscriptions or commitments.
-- Detailed report: [run-45-2026-11-15.md](run-45-2026-11-15.md)
-
-
-## Run 46 — 2026-11-15 20:49 IST
-
-- Registry: **563 unique source domains**, 318 directly inspected, 101 with job/program-level evidence. Four new directly inspected domains: codingbounties.com, trainplex.in, aicrate.ai, sellary.in. Two search-only sources added: aguttaa.com and 2une.in.
-- Opportunity ledger: **407 unique URLs**; 352 directly verified; 56 aggregator-index records; 32 search-only (evidence categories may overlap). Zero duplicate domains, IDs or URLs. Four new records added and existing TaskBounty board record refreshed.
-- TaskBounty: direct /browse page says “No matching funded jobs”. Public Agent Board is unpaid. Paid jobs require account and confirmed funding; JS/TS work uses E2B sandbox tests and fresh regression tests, but passing still needs creator selection/admin award. USD bank route not self-service and eligibility must be confirmed; public eligibility excludes India. Crypto alternatives require wallets.
-- MintLink: UPI/bank payouts every Friday, ₹100 minimum, 3-day domestic clearance, 8.26% all-in fee, payout detail verification in 1–2 business days. No government-ID upload requirement found in help docs; AI policy not explicit. ScamAdviser reports trust score 0 and IPQS phishing/suspicious flags; not proof of fraud. Keep on hold.
-- Sellary: homepage and pricing page conflict; KYC and own Razorpay required, paid plans may apply. Reject.
-- TrainPlex: human RLHF/annotation; Aadhaar/PAN KYC, webcam onboarding, NDA; reject.
-- AiCrate: payout provider identity verification; India eligibility and buyer demand unverified; reject/hold.
-- CodingBounties: three make.fun code bounties totaling $1,500 USDC on Solana; wallet-only payout. Jobbi snapshot: 675 open, 544 priced, $20 median, $44,449 advertised USD rewards; aggregator only.
-- Execution ledger: eligible 0; proposal-ready 0; approved-to-contact 0; submitted 0; accepted 1 historical (AgentLancer 327, payment unresolved); delivered 0; approved 0; payable 0; cash received **$0**.
-- No account creation, applications, task claims, comments, messages, PRs, wallet connections, ID uploads, payout details, deposits, subscriptions or commitments.
-- Detailed report: [run-46-2026-11-15.md](run-46-2026-11-15.md)
-
-- Run 46 endpoint availability: at 20:50 IST, web open attempts for AgentLancer service 301, contract 327/payment card, BountBee homepage and all three exact mission pages returned the tool's Internal Error response (URL not accessible). A prior 16:17 IST browser run had returned ERR_SOCKS_CONNECTION_FAILED. Previous snapshots are historical only; no current contract/payment/mission status claimed.
-
-
-## Run 48 — 2026-11-15 22:44 IST
-
-- **Source registry:** 570 unique domains; 325 directly inspected; 103 job/program-verified. Added 4 new domains: vals.ai, ypai.ai, shaduf.ai, competehub.dev.
-- **Opportunity ledger:** 424 unique URLs; 369 directly verified; 68 aggregator-index verified; 32 search-only. Added 5 new exact records; no duplicate domains or URLs.
-- **Best lead:** Google Gemma 4 Developer Agent Competition (Kaggle), $65,000 main cash pool plus $10,000 small-model bonus; entry deadline Nov25 23:59 UTC, final Dec2 23:59 UTC. Official rules list excluded countries but not India. It is a machine-scored autonomous coding-agent competition using one specified Gemma 4 model, ~120 hidden Python tasks and a 12-hour budget. Exact India payout rail is not specified; Kaggle account and binding rules acceptance required. No account/rules/submission.
-- **UGREEN correction:** live official Devpost page explicitly lists India among excluded countries; $46,000 event rejected.
-- **Jobbi:** latest /gigs/report snapshot 666 open, 639 agent, 27 human, 12 boards; 549 priced, $20 median, $44,529 advertised dollar total. Top-paying page separately says 555 priced. Aggregator counts differ and are not independent funding proof.
-- Exact rejects/holds: Agent Bounties #154 (closed, 5 USDC crowdfunding/no escrow, social sharing); YPAI data capture (human work, INR550–800/h, account creation); Vals AI (in-person San Francisco); CompeteHub Global AI Hackathon (organizer/payout and $5k vs $11.5k prize discrepancy); OpenTask OpenAPI job (404, 500 USDC promised, no escrow); microG Nearby Share #1272 (old issue, no source bounty).
-- Refreshed Coolify #6894 (maintainer says no PR/no payout) and Javelin #4 (multiple competing PRs, Algora India individual payout restriction).
-- AgentLancer 327 and BountBee not freshly verified; prior statuses remain historical.
-- Execution ledger: eligible 0; proposal-ready 0; approved-to-contact 0; submitted 0; accepted 1 historical (AgentLancer 327, payment unresolved); delivered 0; approved 0; payable 0; cash received **$0**.
-- No accounts, applications, bids, claims, comments, PRs, messages, wallet connections, ID uploads, payout details, subscriptions, deposits, purchases, rule acceptance or commitments.
-- Detailed report: [run-48-2026-11-15.md](run-48-2026-11-15.md)
-
-
-### Run 48 live-page addendum — 2026-11-15 22:44 IST
-
-- Source registry: 570 domains, 325 directly inspected, 103 job/program-verified.
-- Opportunity ledger: 425 unique URLs, 370 directly verified, 68 aggregator-index verified, 32 search-only. Added Product Space Agentic AI Hackathon as OPP-2026-1115-451; no duplicate URLs.
-- Apart Research AI x Epistemics closes **Nov16 17:29 IST**, $2,000 total, global/online, solo, AI tools allowed, 8-page PDF, human judging. Ashgro Inc pays via bank transfer; Mercury communicates; Indian banks need SWIFT. No escrow. Submission grants a broad worldwide non-exclusive royalty-free license. AgentTrace draft is private (4 pages, 204-word abstract, 11 tests) but official template, author details and owner approval remain outstanding. No signup/submission/terms accepted.
-- Jobbi latest report (Nov15 16:00 UTC): 686 open, 555 priced, $20 median, $44,664 advertised total, 159 at $50+; 503 escrowed, 172 promised, 11 unknown; 129 machine, 552 human; 506 Stripe, 120 x402, 22 USDC Base, 10 token, 10 wallet, 4 Gnosis, 14 unknown. /gigs page separately showed 666 at another refresh.
-- Product Space Agentic AI Hackathon: ₹10,000 cash + ₹90,000 in-kind, AI tools allowed, but mandatory daily LinkedIn posts, WhatsApp group, conflicting Nov14/Nov21 deadlines, working-professional eligibility and payout unclear. Reject.
-- Geek Room Global AI Hackathon: $1,000 cash track within $11,500 mixed pool, AI tools allowed, global/online, Discord + public repo/PPT, human judging; submission Nov15 23:59 IST, payout unknown, official page shell unreadable. Not pursued.
-- UGREEN explicitly excludes India; Vals is in-person San Francisco; YPAI is human data capture; Agent Bounties #154 is closed/unfunded/social; Coolify #6894 no payout; Javelin #4 contested and Algora India individual payout blocked; microG #1272 has no source bounty; OpenTask 500 USDC task URL 404.
-- Cash received remains $0; eligible and proposal-ready remain 0; historical accepted AgentLancer 327 remains unresolved.
-- Detailed report: [run-48-2026-11-15.md](run-48-2026-11-15.md)
-
-## Run 49 — 15 November 2026, 23:44 IST
-
-- Source registry: **571 unique domains**; **326 directly inspected**; **104 with at least one directly verified job/program page**.
-- Opportunity ledger: **433 unique opportunity/program URLs**; **376 directly verified**, **75 aggregator-index verified**, **32 search-only** (evidence categories overlap); zero duplicate URLs.
-- New source domain added this run: `innodata.com`. Existing `tensorhack.com`, `hack2skill.com`, and `aihackathon.app` sources were refreshed.
-- New opportunity records: 9. Existing Apart Research, AWS MSP, AI OpenBuild, and Claude Builders Bounty records were refreshed.
-- Key findings: TensorHack's large directory is useful for discovery but many exact listings are stale, student/partner restricted, crowded, wallet-only, or lack funded escrow. Opire's official docs state creators arrange payment after PR approval; the exact India individual payout and verification path for this bounty is not established, and no no-KYC route was verified. The $3,000 Cognitive-OS research bounty has multiple competing packets and no verified escrow or payout rail.
-- Best current commercial watchlist: Atlassian Codegeist 2026, **$120,000 cash across 33 paid places**, closes **22 Dec 2026 12:00 PST / 23 Dec 2026 01:30 IST**. India is not named in the excluded list; no entry fee; official rules permit bank-account prize delivery and may require W-8BEN, but explicitly require winner identity/qualification/role verification, Devpost account, public demo video and publicity rights. A private ContextGuard Forge/Rovo MCP/Agent/Skill scaffold was prepared and passed **12/12 local tests**; no account, deployment or submission. Hold pending owner approval because identity verification conflicts with current restrictions.
-- Best time-sensitive conditional lead: Apart Research AI x Epistemics Sprint, deadline **16 Nov 2026 11:59 UTC / 17:29 IST**. AI tools are explicitly allowed; the owner has a private AgentTrace sample with 11/11 local tests, but the official Google Docs template redirects to sign-in, author details need approval, and the submission requires acceptance of a broad non-exclusive royalty-free licence. No signup, terms acceptance or submission.
-- Future watchlist: Apart Research Threat Intelligence & Threat Modelling Hackathon, **4–6 Dec 2026**, online/global/solo, AI tools allowed, public data only, **$5,000** cash pool, human judged; India SWIFT route appears in the organizer's general prize terms, but Mercury onboarding and ID requirements remain unknown. Its project-submission form currently says the submission window is closed pending the event.
-- Execution ledger: **0 eligible new contracts, 0 proposal-ready, 0 approved-to-contact, 0 submitted, 0 delivered, 0 payable, $0 independently confirmed cash received**. Historical AgentLancer contract 327 remains unresolved and is not income.
-- No account creation, comments, proposals, PRs, wallet connections, ID uploads, payout details, paid API calls, deposits, subscriptions, or commitments were made.
-
-Detailed evidence: [Run 49 report](run-49-2026-11-15.md).
+Evidence categories overlap and should not be added together. Program records and competitions are not counted as paid jobs.
 
+## 1. Highest-value machine-scored lead: Google PLE Agent Harness
 
+[Official benchmark site](https://ple-bench.com/) · [Official Google Research repository](https://github.com/google-research/ple) · [Kaggle competition](https://www.kaggle.com/competitions/physical-engineerings-last-exam)
+
+The official benchmark site and repository were directly inspected. The Kaggle competition page and rules URL opened but returned no readable lines; its prize and deadline are supported by the official Kaggle search result, not a readable rules page.
+
+- Advertised prize pool: **$400,000** ($250,000 / $100,000 / $50,000).
+- Final deadline: **5 January 2027, 05:29 IST**.
+- 85 expert-reviewed engineering tasks; 29 public development tasks and 56 hidden tasks.
+- Six hours per task, offline isolated containers, three runs per model/harness.
+- Automated scripts grade quantitative outputs; an LLM judge grades open-ended engineering deliverables.
+- Entry requires a public GitHub repository containing the harness and development artifacts, plus a Kaggle writeup.
+- Critical cost/access blocker: official README requires one of eight Google-sponsored models through a Google Cloud project; the local model proxy is billed to that project. The public dev dataset is gated on HuggingFace and requires an account and read token.
+- No free sponsor credits or India-specific prize payment rail were verified.
+
+**Decision: reject under current no-spend/no-new-account constraints.** No Kaggle account, HuggingFace account/token, Google Cloud project, API spend or submission.
+
+## 2. Other competition findings
+
+### Name That LLM — conditional hold
+
+[Official Kaggle competition](https://www.kaggle.com/competitions/name-that-llm)
+
+- $50,000 advertised total, ten equal $5,000 prizes.
+- Machine-scored balanced accuracy; 18 model classes; 2,699 labelled training passages and about 4,000 hidden passages.
+- Offline CPU/GPU notebook, up to nine hours.
+- Official Kaggle search result reports 13,844 entrants and 59,933 submissions.
+- Pretrained models/public data are allowed in the available description; AI coding-assistant policy is not explicit.
+- Kaggle rules page opened but returned zero readable lines. Foreign winners may need W-8BEN and eligibility documents; exact Indian bank/UPI route is not published.
+
+**Decision: hold.** It is a strong machine-scored competition, but the exact rules, India payment route and account/rules acceptance remain unresolved. No account or submission.
+
+### Infer-a-thon with Superlinked — future hold
+
+[Official Luma event](https://luma.com/f7ef30j2) · [Superlinked](https://superlinked.com/)
+
+- ₹1.5 lakh+ advertised cash prize pool; global and virtual.
+- Solo or team of 1–4; working professionals explicitly welcome.
+- Track 2 is Agentic Engineering: coding, testing, SRE and migrations.
+- Problem statements Dec5; build Dec5–11; evaluation Dec12; top five teams per track; final presentations Dec20.
+- Must use Superlinked SIE for at least one supporting capability. SIE Local is Apache-2.0 and free but expects NVIDIA GPU or Apple Silicon; Serverless is usage-priced; selected projects may apply for hosted inference grants.
+- Human jury, not machine-only acceptance. Cash breakdown, payout rail and escrow are not published. AI coding-assistant policy is not explicit.
+
+**Decision: hold.** Good solo/global AI-agent fit, but payout and AI-use details are missing. No Luma registration, WhatsApp join, grant application or paid API use.
+
+### Apart Research — immediate deadline
+
+[AI x Epistemics Sprint](https://apartresearch.com/sprints/ai-x-epistemics-research-sprint-2026-11-13-to-2026-11-15)
+
+- Deadline **16 November 2026, 17:29 IST**.
+- $2,000 total cash pool; AI tools explicitly allowed; global/online; expert human judging.
+- Official form requires an 8-page-or-less PDF, 150–250 word abstract, author/team details and affiliations; video is optional.
+- The official Google Docs template copy link redirects to Google sign-in. The private AgentTrace PDF has a 204-word abstract and is four pages, but is not confirmed to use the official template and still has author placeholders.
+- Previous prize-terms snapshot says Ashgro Inc/Mercury and SWIFT for Indian bank accounts; direct prize-terms page was not readable this run. No escrow.
+
+**Decision: hold, not submitted.** No account, author details, terms acceptance or submission.
+
+### Apart Research Threat Intelligence — future hold
+
+[Official event](https://apartresearch.com/sprints/threat-intelligence-threat-modelling-2026)
+
+- Dec4–6, $5,000 advertised cash pool, online/global, solo/team 1–5.
+- AI tools allowed; public-data-only defensive scope.
+- Human judging; no escrow.
+- Submission widget currently says closed pending event; previous terms snapshot indicated SWIFT for India, but payment terms need re-verification.
+
+### Codegeist 2026 — rejected
+
+[Official event/rules](https://codegeist2026.devpost.com/rules)
+
+The $120,000 competition includes six $1,500 Best Agents awards and six $1,500 Atlassian MCP awards. However, official rules explicitly require winner identity/qualification/role verification and award documents. This conflicts with the owner's no-ID requirement. Devpost/Atlassian account creation and publicity terms also require approval. No account or submission.
+
+### HackerRank Orchestrate — rejected
+
+[Official event](https://www.hackerrank.com/hackerrank-orchestrate-december26)
+
+The $2,400 AI-agent hackathon requires a 30-minute voice AI-judge interview. Official help says camera and microphone are required. Reject under no-camera rule.
+
+### Aholo Global 3D AI Hackathon — rejected
+
+[Official event](https://www.aholo.ai/hackathon)
+
+Advertised CNY 320,000 prize pool, but official ToS search-result text says automated/non-human access is prohibited unless expressly permitted. Direct event/terms pages returned no readable lines; payout rail and India eligibility are unverified. Reject for AI-only automated execution.
+
+### Diwali Festiverse — rejected
+
+[Official Luma page](https://luma.com/pmntx4p4)
+
+Online build phase, but top ten finalists must attend an offline Bengaluru finale on Nov28. Listed cash awards total $700; other awards are credits/subscriptions. Luma approval, HiDevs account and WhatsApp group are required. No payout rail/escrow. Reject under physical/account constraints.
+
+### Homingo Hack Days — status conflict
+
+[Official event](https://hackathon.homingo.co.in/) · [Unstop listing](https://api.unstop.com/hackathons/homingo-hack-days-online-ai-hackathon-homingo-1769121)
+
+Unstop says registration closed at Nov15 23:59 IST, while the official Homingo homepage still displays registration open and the registration route is JS-only. ₹5,000 winner prize, AI tools allowed, solo/teams, online; eligibility wording conflicts (Unstop says all, official FAQ says students/early-career). No payout rail. Hold; no registration.
+
+### AI BuildFest 2026 — rejected
+
+[Exact Unstop listing](https://api.unstop.com/hackathons/ai-buildfest-2026-frontend-arena-1774417)
+
+Online Dec10–12; team size 2–4; every member must create an Adaption account and upload a registration screenshot. Cash awards total $300, with additional credits conditional on final partnership terms. No payout rail or escrow. Reject under team/account constraints.
+
+## 3. India payout and data-work screening
+
+- **Algora:** official payment documentation directly confirms India international payouts are not available to individuals; sole proprietorships, LLPs and companies only. Stripe will not process payouts without required credentials. This blocks the individual contributor route.
+- **Jobbi:** latest report snapshot (Nov15 20:00 UTC) shows 680 open gigs, 553 priced, $20 median, $44,634 advertised total, 497 escrow-marked, 172 promised, 11 unknown, 128 machine acceptance and 547 human review. Payment rails include 501 Stripe, 120 x402, 22 USDC Base, 14 unknown, 10 token, 10 wallet and 3 Gnosis. Aggregator classifications are not independent payment proof.
+- **Frantic #149:** $3 funded, 18/100 slots, 14 active, 48 delivered, 0 accepted, 20 paid; scope private, identity gate and x402 wallet. Reject.
+- **Frantic #97:** 2/5 slots, 3 delivered, 0 accepted, 0 paid; claimant must fund a separate $10+ bounty before a $10 rebate. Reject.
+- **WaitJI:** India UPI, ₹100 minimum and 65% revenue share advertised, but page shows ₹0 paid and blank impression/active-developer counters. Account and UPI details require owner approval. Monitor only.
+- **WaitPay:** still pre-launch, no sponsor inventory or payout proof; waitlist/account required. Hold.
+- **Lull:** pre-launch, terms/privacy are unreviewed drafts and payment partners may require identity verification. Reject under current no-ID rule.
+- **Bikoosh DataWork Watch:** 9 open India programs, mostly transcription, annotation, rating and human expert/coding contracts; no AI-only task passed.
+- **Labeling Jobs:** 1,423 open roles across 11 platforms, mostly human annotation, evaluation and expert contracts; no AI-only task passed.
+
+## 4. Financial execution ledger
+
+| Stage | Count |
+|---|---:|
+| Eligible new paid contracts | 0 |
+| Proposal-ready | 0 |
+| Approved to contact | 0 |
+| Submitted | 0 |
+| Accepted, historical | 1 (AgentLancer contract 327; unresolved) |
+| Delivered | 0 |
+| Approved | 0 |
+| Payable | 0 |
+| Cash independently confirmed | **$0** |
+
+No proposals, registrations, account creation, ID uploads, wallet connections, payout details, paid subscriptions, deposits, messages, comments, PRs or commitments were made.
+
+## 5. Next priorities
+
+1. Preserve the Apart Research report for owner review before the 17:29 IST deadline; do not submit without the official template and approval.
+2. Keep Name That LLM as the strongest low-cost machine-scored competition, pending exact rules and India payment terms.
+3. Revisit PLE only if Google-sponsored model credits and HuggingFace access can be obtained without spend or unapproved accounts.
+4. Monitor Infer-a-thon for full rules, payout rail and SIE free access.
+5. Continue checking original buyer pages rather than trusting aggregator open counts.
+
+**Run 13 conclusion:** 595 distinct source websites, 461 opportunity/program URLs, three new source domains, two new exact opportunity records, zero newly eligible paid contracts and $0 independently confirmed earnings.
