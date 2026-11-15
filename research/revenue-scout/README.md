@@ -1,6 +1,6 @@
 ## Run 32 — 2026-11-15 06:53 IST
 
-- **Final coverage:** 504 unique source domains; 278 directly inspected; 92 with job/program-level verification; 343 unique opportunity/program URLs (298 directly verified, 44 aggregator-index, 30 search-only; evidence categories overlap).
+- **Final coverage:** 504 unique source domains; 275 directly inspected; 92 with job/program-level verification; 343 unique opportunity/program URLs (298 directly verified, 44 aggregator-index, 30 search-only; evidence categories overlap).
 - **New source domains:** `getrupaiya.online`, `creonex.in`, `creatorsaathi.ai`, `nextip.in` — all four directly inspected and screened.
 - **New exact records:** BountBee M-2419 (₹240,000), M-2426 (₹135,000), M-2422 (₹325,000), plus rupAIya developer-tool ad revenue-share programme. All exact pages/program pages directly inspected.
 - **Most important conditional lead:** BountBee has three live mission pages; AI-native labs bring their own tools/models; public workflow claims funded escrow, hidden-suite + human acceptance, first passing build wins and same-day ₹ release. Mission pages say escrow captured on Nov8/10/12. However no public terms/privacy/payout/legal entity/escrow provider or payout rail; UPI appears in M-2419 task title/mock service, not documented winner payout. Buyer identity only partly corroborated. Solo-lab/India eligibility and later KYC are unknown. **Hold; not eligible or proposal-ready.** No account/lab/slot created.
