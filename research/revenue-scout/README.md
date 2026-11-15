@@ -169,3 +169,19 @@ No proposals, registrations, account creation, ID uploads, wallet connections, p
 5. Continue checking original buyer pages rather than trusting aggregator open counts.
 
 **Run 13 conclusion:** 595 distinct source websites, 461 opportunity/program URLs, three new source domains, two new exact opportunity records, zero newly eligible paid contracts and $0 independently confirmed earnings.
+
+
+## Run 15 — 2026-11-16 03:44 IST
+
+- Source registry now contains **605 distinct domains**, **355 directly inspected**, and **112 job/program-verified**.
+- Opportunity ledger now contains **480 unique URLs**; 419 opportunity/program pages were directly inspected.
+- Added six new source domains: VeloxWork, NovaStark, Lateralus, Pacta, WarpSpeed Open and Gray Swan.
+- Added 15 opportunity/program records and refreshed existing records.
+- Strongest current lead: Freelancer project 40815517 (USD1,500–3,000, verified client payment method, 41 proposals), but no funded milestone is shown and Freelancer withdrawal requires KYC; excluded under no-ID/no-deposit rules. A private proposal draft was prepared but not submitted.
+- Second Freelancer lead: Indian local-AI business assistant (₹37,500–75,000, verified client payment method, 139 proposals); same KYC and no-escrow blockers.
+- Apart AI x Epistemics closes Nov16 17:29 IST; AI tools allowed and Indian SWIFT bank route documented. AgentTrace v2 is ready privately, but official template access, owner details and publication licence approval remain outstanding; not submitted.
+- Apart Threat Intelligence & Threat Modelling (Dec4–6, $5,000 pool) is a future conditional hold; AI tools allowed, public-data-only, SWIFT terms; no escrow.
+- Pacta, WarpSpeed, Claude Builders, Lateralus, Frantic, VeloxWork, NovaStark, Hack4Hack, Hack The Future and Gray Swan findings are recorded with exact URLs and rejection/hold reasons.
+- No proposal, registration, KYC, wallet, payout detail, deposit, PR, comment, claim or external commitment made.
+- Financial ledger remains: no new eligible contract, no submission, no delivery, no approval, no payable balance, **$0 cash received**.
+- Full report: [Run 15](run-15-2026-11-16.md).
