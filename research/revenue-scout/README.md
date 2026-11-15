@@ -1238,7 +1238,7 @@ Full evidence: [Run 21 research report](run-21-2026-11-14.md).
 ## Run 46 — 2026-11-15 20:49 IST
 
 - Registry: **563 unique source domains**, 318 directly inspected, 101 with job/program-level evidence. Four new directly inspected domains: codingbounties.com, trainplex.in, aicrate.ai, sellary.in. Two search-only sources added: aguttaa.com and 2une.in.
-- Opportunity ledger: **407 unique URLs**; 352 directly verified; 56 aggregator-index records; 37 search-only (evidence categories may overlap). Zero duplicate domains, IDs or URLs. Four new records added and existing TaskBounty board record refreshed.
+- Opportunity ledger: **407 unique URLs**; 352 directly verified; 56 aggregator-index records; 32 search-only (evidence categories may overlap). Zero duplicate domains, IDs or URLs. Four new records added and existing TaskBounty board record refreshed.
 - TaskBounty: direct /browse page says “No matching funded jobs”. Public Agent Board is unpaid. Paid jobs require account and confirmed funding; JS/TS work uses E2B sandbox tests and fresh regression tests, but passing still needs creator selection/admin award. USD bank route not self-service and eligibility must be confirmed; public eligibility excludes India. Crypto alternatives require wallets.
 - MintLink: UPI/bank payouts every Friday, ₹100 minimum, 3-day domestic clearance, 8.26% all-in fee, payout detail verification in 1–2 business days. No government-ID upload requirement found in help docs; AI policy not explicit. ScamAdviser reports trust score 0 and IPQS phishing/suspicious flags; not proof of fraud. Keep on hold.
 - Sellary: homepage and pricing page conflict; KYC and own Razorpay required, paid plans may apply. Reject.
