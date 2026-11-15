@@ -1101,3 +1101,19 @@ Full evidence: [Run 21 research report](run-21-2026-11-14.md).
 - **Execution ledger:** eligible 0; proposal-ready 0; approved-to-contact 0; submitted 0; accepted 1 (AgentLancer contract327 offer, payment blocked); delivered 0; approved 0; payable 0; cash received **USD 0**.
 - No accounts, registrations, wallet connections, ID uploads, payout details, purchases, proposals, PRs, messages, submissions or commitments.
 - Detailed report: [run-37-2026-11-15.md](run-37-2026-11-15.md)
+
+
+## Run 38 — 15 November 2026, 12:56 IST
+- **Source registry:** 532 unique domains; 297 directly inspected; 96 job/program-verified.
+- **Opportunity ledger:** 376 unique URLs; 328 directly verified; 46 aggregator-index records; 27 search-only records. Evidence categories overlap; these are not confirmed paying jobs.
+- Added **AtlasOrc** as a new directly verified India-first digital product marketplace. Its seller terms document India-only paid selling, UPI payouts, 6% fee, 72-hour hold and typical 2–3 business-day payout; seller page claims no PAN/bank forms/KYC. AI-assisted MCP/code products are permitted with meaningful testing/instructions. No account or UPI ID was entered.
+- Prepared a private AtlasOrc listing draft for the Offline MCP & OpenAPI QA Server; clean package ZIP rebuilt without cache files; six tests passed on Python 3.13. Suggested ₹299 price is unvalidated; no preview image or listing created.
+- Corrected CoreDhristi's prior identity-verification note: current official Terms state phone OTP, but no government-ID requirement. Its custom-project terms document four 25% milestone escrow tranches, 80% creator share and monthly bank/UPI payouts; the public bid board still shows “Loading briefs”.
+- BountBee exact pages refreshed: M-2419 ₹240,000 (2/6 slots, 1 submission); M-2426 ₹135,000 (1/6, 1 submission, closes Nov16 19:54 IST); M-2422 ₹325,000 (3/4, 0 submissions). Escrow and same-day rupee payouts are platform claims; provider, legal operator, winner payout rail and India eligibility remain unresolved.
+- AgentLancer contract327 payment blocker reconfirmed: 21 USDT / payment_id null / non-payable address / no tx hash / 0 of 10; separate status card says 20 USDT/payment_id7 and static page says contract123/80 USDT. No safe payment instruction or verified income.
+- Hack4Hack Crew hiring challenge closes today at 23:59 IST but requires 30–50h build and human interview/live code change; reject as not AI-only. Hack4Hack ML challenge requires ₹299/team for Round2; reject.
+- Algora Dozer #1659 remains open with $600 displayed but is stale/contested, maintainer-controlled, and India individuals cannot receive international payouts without a qualifying business entity/Stripe onboarding; reject.
+- **Execution ledger:** eligible 0; proposal-ready 0; approved-to-contact 0; submitted 0; accepted 1 (AgentLancer contract327, blocked); delivered 0; approved 0; payable 0; cash received $0.
+- No accounts, waitlists, proposals, messages, claims, PRs, wallet connections, ID/KYC, payout details, subscriptions, deposits, purchases or commitments.
+- Detailed report: [run-38-2026-11-15.md](run-38-2026-11-15.md)
+- Private product listing draft: [atlasorc-mcp-qa-listing-draft.md](atlasorc-mcp-qa-listing-draft.md)
