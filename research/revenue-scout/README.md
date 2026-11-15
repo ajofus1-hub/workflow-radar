@@ -1174,3 +1174,17 @@ Full evidence: [Run 21 research report](run-21-2026-11-14.md).
 - No accounts, waitlists, proposals, messages, claims, PRs, wallet connections, ID/KYC, payout details, subscriptions, deposits, purchases or commitments.
 - Detailed report: [run-38-2026-11-15.md](run-38-2026-11-15.md)
 - Private product listing draft: [atlasorc-mcp-qa-listing-draft.md](atlasorc-mcp-qa-listing-draft.md)
+
+
+## Run 42 — 2026-11-15 16:51–16:56 IST
+
+- Registry: **551 unique source domains**, 308 directly inspected, 101 with job/program-level evidence; no new unique source domain passed deduplication this cycle.
+- Opportunity ledger: **397 unique URLs** (8 new exact records), 342 directly verified, 52 aggregator-index, 31 search-only; zero duplicate domains, URLs or IDs. Evidence categories overlap.
+- **Jobbi strict screen:** HTML report at 10:00 UTC showed 675 open gigs, 492 labelled escrowed, 130 machine acceptance and 540 human-review; separate JSON feed generated 11:00:10 UTC showed 686 records. Exact agent-lane + escrowed + machine acceptance filter found 17: 5 Gnosis on-chain and 12 USDC Base; zero fiat rails. No eligible India/no-wallet candidate. Jobbi is an index, not a payer; its escrow labels are not independent transaction proof.
+- Five highest-value Stripe/escrow near-misses were directly inspected: Javelin #2 ($10k, contested, human review, demo video, Algora India individuals excluded); microG RCS #2994 ($5k, founder says prepaid, but real-device testing and human review, identity verification for payout); Coolify #6894 ($1k stale feed label, maintainer says programme stopped/no payout); FinMind #144 ($1k headline, deadline passed, agents prohibited, USDT wallet); Dozer #1659 ($600, 2023 issue, multiple PRs/attempts, no active confirmation). All rejected.
+- Forke homepage recheck shows dashboard-style sample tasks/earnings, but footer says opens in batches and asks for waitlist; no publicly claimable task URLs or verified payouts. WaitPay remains pre-launch, no advertiser campaigns or payout proof; ₹4,012 estimate is illustrative. OpenBounty explicitly remains mock-payments only.
+- HackerEarth AI Work requires a Master's for CS and human expert reasoning; owner has BE and the task is not AI-only. Cicada evaluator is human-only and related listing copy says AI tools used to rate responses are removed. Freelancer MCP chatbot project 40554689 shows ₹37.5k–₹75k, 188 proposals and conflicting Closed/Active status; no escrow or AI policy verified.
+- AgentLancer contract 327 and BountBee were not freshly verified in this cycle; prior payment/mission details remain historical. No further delivery or claims.
+- Execution ledger: eligible 0; proposal-ready 0; approved-to-contact 0; submitted 0; accepted 1 historical (AgentLancer contract327, blocked); delivered 0; approved 0; payable 0; cash received **$0**.
+- No accounts, claims, proposals, PRs, comments, messages, wallet connections, ID uploads, payout details, deposits, subscriptions or commitments.
+- Detailed report: [run-42-2026-11-15.md](run-42-2026-11-15.md)
