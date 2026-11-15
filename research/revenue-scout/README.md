@@ -19,15 +19,16 @@
 - **Fully eligible paid contracts found:** 0
 - **Cash independently confirmed:** $0
 - **Conditional high-priority direct lead:** BountBee M-2419 (₹2,40,000 advertised; 2/6 slots left; one submission; platform-reported escrow only; no legal operator or Indian payout rail verified).
+- **Immediate cash competition:** Apart Research AI x Epistemics closes 16 Nov 2026 at 17:29 IST; AI tools explicitly allowed, global/solo, $2,000 cash, and Indian SWIFT bank transfer is expressly addressed in prize terms. AgentTrace is a direct Track 2 fit; official template and owner details still block submission.
 - **New conditional competition:** Cognizant Open Agentic Web Challenge ($10,000 cash, Jan11 2027 deadline; requires Devpost account, entrant-narrated video and post-award identity verification).
-- **Private work sample:** TrustMesh Open Agentic Web prototype, 10/10 local tests; not deployed or submitted.
+- **Private work samples:** TrustMesh Open Agentic Web prototype (10/10 local tests; not deployed/submitted) and AgentTrace research report v2 (11/11 tests; 204-word abstract; Appendix A; not confirmed to use official template).
 - **Immediate deadline:** Apart Research AI x Epistemics closes 16 Nov 2026 at 17:29 IST; official template/author details and licence approval remain outstanding.
 
 Evidence categories overlap and should not be added together. Program records and competitions are not counted as paid jobs.
 
 ## Run 14 update
 
-See [Run 14 detailed report](run-14-2026-11-16.md). This run directly refreshed BountBee's three live missions and Lab onboarding, verified Toku's current job pages and Stripe Connect terms, rejected AgentMesh credits as non-cash, and added the Cognizant Open Agentic Web Challenge as a conditional competition. No registration, claim, bid, submission, identity upload, wallet connection or payment detail was provided.
+See [Run 14 detailed report](run-14-2026-11-16.md). This run directly refreshed BountBee's three live missions and Lab onboarding, verified Toku's current job pages and Stripe Connect terms, rejected AgentMesh credits as non-cash, and refreshed both the Cognizant Open Agentic Web Challenge and Apart Research AI x Epistemics. Apart Research explicitly allows AI tools and specifically documents SWIFT bank details for Indian prize recipients; its deadline is 17:29 IST today. AgentTrace v2 was prepared privately but the official Google Docs template remains inaccessible without Google sign-in. No registration, claim, bid, submission, identity upload, wallet connection or payment detail was provided.
 
 ## 1. Highest-value machine-scored lead: Google PLE Agent Harness
 
