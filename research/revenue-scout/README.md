@@ -1,3 +1,21 @@
+## Run 34 — 2026-11-15 09:16 IST
+
+- Source registry: **518 unique domains**; 283 directly inspected; 95 job/program-verified. Six new source domains added.
+- Opportunity ledger: **359 unique URLs**; 312 directly verified; 44 aggregator-index; 27 search-only (evidence flags overlap). Three new opportunity/program records added; existing records refreshed.
+- Reconciled the actual CSVs at the start of this run: 512 unique domains and 356 unique URLs; Run 33 README summary undercounted those files by 2 and 4 respectively.
+- Strongest conditional technical leads: BountBee M-2419 ₹240,000, M-2426 ₹135,000 and M-2422 ₹325,000; exact mission pages open and platform timelines say escrow captured, but legal operator, buyer identity, independent escrow, winner payout rail, KYC and India eligibility remain unresolved.
+- Strongest India-native monetization lead: Copilot.in advertises 80% builder share and monthly bank payout, but the accessible homepage is a stale snapshot and current seller terms/KYC/transactions are unverified.
+- Lull advertises 70% share and UPI/IMPS, but remains pre-launch; no live sponsors or independent payouts; partner KYC may be required; automated impressions prohibited.
+- Make.fun $500 free-model aggregator is machine-graded and reports funded escrow, but requires own Solana wallet; rejected under current payout constraints.
+- TaskBounty bank payout route is limited to US/EU/UK/IL; crypto alternatives require wallet; board snapshot says no code bounties, but crawl is stale.
+- Smart Scholars $1,000 prize has Indian bank transfer and allows disclosed AI tools, but requires entrant-owned original work and possible live Q&A; hold as human-supervised fallback.
+- Rejected: FUTUREHACK (mandatory webcam/code defense/KYC), AgentRush USA (US-only/team/$49 Round2), Agent Arena (expired).
+- Financial ledger: **0 eligible, 0 proposal-ready, 0 submitted, 0 accepted, 0 payable, $0 cash received**.
+- No accounts, registrations, IDs, wallets, payout details, proposals, claims, messages, deposits, subscriptions or commitments.
+- Detailed report: [run-34-2026-11-15.md](run-34-2026-11-15.md)
+
+---
+
 ## Run 33 — 2026-11-15 07:44 IST
 
 - Source registry: **510 unique websites** after this update; 281 directly inspected, 95 with job-level verification; 6 new source domains added.
