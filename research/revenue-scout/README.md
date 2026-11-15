@@ -1074,7 +1074,7 @@ Full evidence: [Run 21 research report](run-21-2026-11-14.md).
 
 - **Run 35:** 522 source domains / 363 opportunity URLs. BodhicAI, Copilot.in, VibeFix-related seller programmes and other Indian monetization channels were screened; MCP QA Server v1.1 was prepared privately. No verified buyer payment.
 
-- **Run 36:** 527 source domains / 371 opportunity URLs. Added AgentHustles, MCP Marketplace, Agensi, VibeFix and VibeBay as directly inspected sources. Added the Gemma 4 machine-scored competition (USD 75k currently open; payment method unknown), four unverified empty-repository USDC bounties, a WearOS bounty that explicitly bans AI, two Go-Hybrid human-reviewed wallet-only wildcard issues, and an iMerit human-annotation listing. Rechecked AgentLancer service 301: contract 327 accepted but payment pending, 20/21 USDT discrepancy, no transaction hash.
+- **Run 36:** 527 source domains / 371 opportunity URLs. Added AgentHustles, MCP Marketplace, Agensi, VibeFix and VibeBay as directly inspected sources. Added eight new exact records: four unverified empty-repository USDC bounties, a WearOS bounty that explicitly bans AI, two Go-Hybrid human-reviewed wallet-only wildcard issues, and an iMerit human-annotation listing. Refreshed existing Gemma 4 record OPP-2026-1114-17 (USD 75k currently open; payment method unknown). Rechecked AgentLancer service 301: contract 327 accepted but payment pending, 20/21 USDT discrepancy, no transaction hash.
 
 ### Current snapshot — Run 36
 
