@@ -1,5 +1,7 @@
 ## Run 47 — 2026-11-15 21:49 IST onward
 
+- AgentTrace private sprint package refined after initial run: **4-page PDF**, 204-word abstract, 11/11 unit tests pass, six synthetic demo events, external anchor verifies. Source ZIP and PDF remain private conversation files and are not committed to the public repository; author details are placeholders and submission/terms approval remains outstanding.
+
 - Registry: **566 unique domains**, 321 directly inspected, 101 job/program-verified. Three new direct domains: srotabase.com, splinster.in, tapyoka.com.
 - Opportunity ledger: **419 unique URLs**, 364 directly verified, 65 aggregator-index verified, 32 search-only. Twelve new records added (GOAT feed, eight Freelancer samples, three channels); TaskMarket and SeekClaw refreshed without duplicates.
 - GOAT Market feed directly inspected: timestamp 2026-11-15T16:22:50Z, 4,806 open-labelled listings across seven platforms. Newest checked cohort is 2026-10-24; eight sampled Freelancer source pages were Closed, one TaskMarket task Completed, one SeekClaw source unreachable. Treat the aggregate count as stale/unreliable.
