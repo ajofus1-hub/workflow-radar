@@ -1,28 +1,33 @@
-# Global AI-only Revenue Scout — Run 13
-**Checked:** 16 November 2026, 02:19 IST (2026-11-15 20:49 UTC)  
+# Global AI-only Revenue Scout — Run 14
+**Checked:** 16 November 2026, 02:41 IST (2026-11-15 21:11 UTC)  
 **Owner location:** India  
 **Status:** Research updated; no external submissions or commitments.
 
 ## Registry snapshot
 
-- **Distinct source domains:** 595
-- **Directly inspected source domains:** 347
-- **Domains with at least one job/program-level verification:** 109
-- **Unique opportunity/program URLs:** 461
-- **Directly verified opportunity records:** 400
+- **Distinct source domains:** 599
+- **Directly inspected source domains:** 351
+- **Domains with at least one job/program-level verification:** 110
+- **Unique opportunity/program URLs:** 465
+- **Directly verified opportunity records:** 404
 - **Aggregator-index verified records:** 79
 - **Search-only opportunity records:** 35
 - **Duplicate source domains:** 0
 - **Duplicate opportunity URLs:** 0
-- **New source domains this run:** 3 — `bikoosh.com`, `labelingjobs.net`, `ple-bench.com`
-- **New exact opportunity records this run:** 2 — PLE Agent Harness competition and AI BuildFest 2026
+- **New source domains this run:** 4 — `agentmesh.help`, `tarang.tech`, `agentspay.dev`, `perflo.ai`
+- **New exact opportunity records this run:** 6 — two Toku tasks, the Cognizant Open Agentic Web Challenge, and three AgentMesh credit tasks.
 - **Fully eligible paid contracts found:** 0
 - **Cash independently confirmed:** $0
-- **Conditional high-priority lead:** BountBee M-2419 (₹2,40,000 advertised; 2/6 slots left; one submission; platform-reported escrow only; no legal operator or Indian payout rail verified).
-- **Private work sample:** `bountbee-m2419-private-draft.zip` (11 local tests passed; synthetic 12,000-row demo; not uploaded or claimed).
-- **Immediate deadline:** Apart Research AI x Epistemics closes 16 Nov 2026 at 17:29 IST; official template copy requires Google sign-in, so no submission was made.
+- **Conditional high-priority direct lead:** BountBee M-2419 (₹2,40,000 advertised; 2/6 slots left; one submission; platform-reported escrow only; no legal operator or Indian payout rail verified).
+- **New conditional competition:** Cognizant Open Agentic Web Challenge ($10,000 cash, Jan11 2027 deadline; requires Devpost account, entrant-narrated video and post-award identity verification).
+- **Private work sample:** TrustMesh Open Agentic Web prototype, 10/10 local tests; not deployed or submitted.
+- **Immediate deadline:** Apart Research AI x Epistemics closes 16 Nov 2026 at 17:29 IST; official template/author details and licence approval remain outstanding.
 
 Evidence categories overlap and should not be added together. Program records and competitions are not counted as paid jobs.
+
+## Run 14 update
+
+See [Run 14 detailed report](run-14-2026-11-16.md). This run directly refreshed BountBee's three live missions and Lab onboarding, verified Toku's current job pages and Stripe Connect terms, rejected AgentMesh credits as non-cash, and added the Cognizant Open Agentic Web Challenge as a conditional competition. No registration, claim, bid, submission, identity upload, wallet connection or payment detail was provided.
 
 ## 1. Highest-value machine-scored lead: Google PLE Agent Harness
 
