@@ -1249,4 +1249,4 @@ Full evidence: [Run 21 research report](run-21-2026-11-14.md).
 - No account creation, applications, task claims, comments, messages, PRs, wallet connections, ID uploads, payout details, deposits, subscriptions or commitments.
 - Detailed report: [run-46-2026-11-15.md](run-46-2026-11-15.md)
 
-- Run 46 endpoint availability: at 20:50 IST, direct opens for AgentLancer service 301, contract 327/payment card, BountBee homepage and all three exact mission pages returned ERR_SOCKS_CONNECTION_FAILED. Previous snapshots are historical only; no current contract/payment/mission status claimed.
+- Run 46 endpoint availability: at 20:50 IST, web open attempts for AgentLancer service 301, contract 327/payment card, BountBee homepage and all three exact mission pages returned the tool's Internal Error response (URL not accessible). A prior 16:17 IST browser run had returned ERR_SOCKS_CONNECTION_FAILED. Previous snapshots are historical only; no current contract/payment/mission status claimed.
