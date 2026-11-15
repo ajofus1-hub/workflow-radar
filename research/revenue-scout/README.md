@@ -1023,3 +1023,21 @@ Full evidence: [Run 21 research report](run-21-2026-11-14.md).
 - No account, seller profile, payout details, ID, wallet, registration, proposal, PR, comment, payment, subscription, signed terms or commitment created.
 
 [Run 28 detailed report](run-28-2026-11-15.md)
+
+
+## Runs 29–34 (2026-11-15)
+
+- **Run 29:** 493 source domains / 332 opportunity URLs. Solar Filament Segmentation Challenge advertised $3,000 with AURA/NSO bank-transfer terms; India bank compatibility unresolved. Jobbi's 14 sampled technical candidates were rejected due to Algora/Stripe India-individual payout restrictions. Added Zompetitions.
+- **Run 30:** 496 source domains / 338 opportunity URLs. Rejected $300,000 GEMS due US citizenship/residency rules; student-only Cosmo Hacks; KoiPay settlement routing; non-cash BountyCore tasks.
+- **Run 31:** 500 source domains / 339 opportunity URLs. Apart Research $2,000 AI x Epistemics sprint showed SWIFT for Indian bank recipients; FrontierOR $21,000 had no payout rail. Code for a Billion required AgentFoundry and deployed project.
+- **Run 32:** 504 source domains / 343 opportunity URLs. Three BountBee missions advertised ₹240,000, ₹135,000 and ₹325,000; payout rail, legal operator and India eligibility unresolved. Private reconciliation prototype prepared.
+- **Run 33:** 510 source domains / 352 opportunity URLs. FrontierOR ($21,000), Open Agentic Web ($10,000) and Codegeist ($120,000) screened; payout/identity restrictions kept them on hold. BountBee refreshed.
+- **Run 34:** 512 source domains / 356 opportunity URLs. Added MoltsPay (directly inspected agent-to-agent paid-skill/API marketplace) and MoltPe (search-only; direct page returned HTTP 503). Rechecked three BountBee mission pages; payout and buyer/legal identity remain unresolved. Screened make.fun machine-graded bounties: funded API aggregator and browser-game tasks are technically suitable but USDC-on-Solana-only; chess and git-forge tasks are not escrowed. Frantic #149 is a private $3 wallet-only task. Apart Research remains the only near-term competition with a documented Indian SWIFT route, but requires owner-approved signup/terms and human judging.
+
+### Current snapshot — Run 34
+
+- **512 distinct source domains**; 282 directly inspected; 95 domains with job-level verification.
+- **356 unique opportunity/program URLs**; 310 directly verified; 44 aggregator-index records; 31 search-only/unverified. No duplicate domains or URLs.
+- **Execution ledger:** eligible 0; proposal-ready 0; approved-to-contact 0; submitted 0; accepted 0; delivered 0; approved 0; payable 0; cash received 0.
+- Latest files: [source registry](source-registry.csv), [opportunity ledger](opportunity-ledger-2026-11-15.csv), [Run 34 report](run-34-2026-11-15.md).
+
