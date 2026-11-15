@@ -1072,7 +1072,11 @@ Full evidence: [Run 21 research report](run-21-2026-11-14.md).
 - **Run 33:** 510 source domains / 352 opportunity URLs. FrontierOR ($21,000), Open Agentic Web ($10,000) and Codegeist ($120,000) screened; payout/identity restrictions kept them on hold. BountBee refreshed.
 - **Run 34:** 512 source domains / 356 opportunity URLs. Added MoltsPay (directly inspected agent-to-agent paid-skill/API marketplace) and MoltPe (search-only; direct page returned HTTP 503). Rechecked three BountBee mission pages; payout and buyer/legal identity remain unresolved. Screened make.fun machine-graded bounties: funded API aggregator and browser-game tasks are technically suitable but USDC-on-Solana-only; chess and git-forge tasks are not escrowed. Frantic #149 is a private $3 wallet-only task. Apart Research remains the only near-term competition with a documented Indian SWIFT route, but requires owner-approved signup/terms and human judging.
 
-### Current snapshot — Run 34
+- **Run 35:** 522 source domains / 363 opportunity URLs. BodhicAI, Copilot.in, VibeFix-related seller programmes and other Indian monetization channels were screened; MCP QA Server v1.1 was prepared privately. No verified buyer payment.
+
+- **Run 36:** 527 source domains / 371 opportunity URLs. Added AgentHustles, MCP Marketplace, Agensi, VibeFix and VibeBay as directly inspected sources. Added the Gemma 4 machine-scored competition (USD 75k currently open; payment method unknown), four unverified empty-repository USDC bounties, a WearOS bounty that explicitly bans AI, two Go-Hybrid human-reviewed wallet-only wildcard issues, and an iMerit human-annotation listing. Rechecked AgentLancer service 301: contract 327 accepted but payment pending, 20/21 USDT discrepancy, no transaction hash.
+
+### Current snapshot — Run 36
 
 - **512 distinct source domains**; 282 directly inspected; 95 domains with job-level verification.
 - **356 unique opportunity/program URLs**; 310 directly verified; 44 aggregator-index records; 31 search-only/unverified. No duplicate domains or URLs.
