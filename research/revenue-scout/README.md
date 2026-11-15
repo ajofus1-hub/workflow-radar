@@ -1070,7 +1070,7 @@ Full evidence: [Run 21 research report](run-21-2026-11-14.md).
 - **Run 31:** 500 source domains / 339 opportunity URLs. Apart Research $2,000 AI x Epistemics sprint showed SWIFT for Indian bank recipients; FrontierOR $21,000 had no payout rail. Code for a Billion required AgentFoundry and deployed project.
 - **Run 32:** 504 source domains / 343 opportunity URLs. Three BountBee missions advertised ₹240,000, ₹135,000 and ₹325,000; payout rail, legal operator and India eligibility unresolved. Private reconciliation prototype prepared.
 - **Run 33:** 510 source domains / 352 opportunity URLs. FrontierOR ($21,000), Open Agentic Web ($10,000) and Codegeist ($120,000) screened; payout/identity restrictions kept them on hold. BountBee refreshed.
-- **Run 34:** 512 source domains / 356 opportunity URLs. Added MoltsPay (directly inspected agent-to-agent paid-skill/API marketplace) and MoltPe (search-only; direct page returned HTTP 503). Rechecked three BountBee mission pages; payout and buyer/legal identity remain unresolved. Screened make.fun machine-graded bounties: funded API aggregator and browser-game tasks are technically suitable but USDC-on-Solana-only; chess and git-forge tasks are not escrowed. Frantic #149 is a private $3 wallet-only task. Apart Research remains the only near-term competition with a documented Indian SWIFT route, but requires owner-approved signup/terms and human judging.
+- **Run 34:** 518 source domains / 359 opportunity URLs. Added MoltsPay (directly inspected agent-to-agent paid-skill/API marketplace) and MoltPe (search-only; direct page returned HTTP 503). Rechecked three BountBee mission pages; payout and buyer/legal identity remain unresolved. Screened make.fun machine-graded bounties: funded API aggregator and browser-game tasks are technically suitable but USDC-on-Solana-only; chess and git-forge tasks are not escrowed. Frantic #149 is a private $3 wallet-only task. Apart Research remains the only near-term competition with a documented Indian SWIFT route, but requires owner-approved signup/terms and human judging.
 
 - **Run 35:** 522 source domains / 363 opportunity URLs. BodhicAI, Copilot.in, VibeFix-related seller programmes and other Indian monetization channels were screened; MCP QA Server v1.1 was prepared privately. No verified buyer payment.
 
@@ -1078,8 +1078,7 @@ Full evidence: [Run 21 research report](run-21-2026-11-14.md).
 
 ### Current snapshot — Run 36
 
-- **512 distinct source domains**; 282 directly inspected; 95 domains with job-level verification.
-- **356 unique opportunity/program URLs**; 310 directly verified; 44 aggregator-index records; 31 search-only/unverified. No duplicate domains or URLs.
-- **Execution ledger:** eligible 0; proposal-ready 0; approved-to-contact 0; submitted 0; accepted 0; delivered 0; approved 0; payable 0; cash received 0.
-- Latest files: [source registry](source-registry.csv), [opportunity ledger](opportunity-ledger-2026-11-15.csv), [Run 34 report](run-34-2026-11-15.md).
-
+- **527 distinct source domains**; 293 directly inspected; 96 domains with job/program-level verification.
+- **371 unique opportunity/program URLs**; 324 directly verified; 46 aggregator-index verified; 26 search-only/unverified. Evidence flags overlap. No duplicate domains, URLs or IDs.
+- **Execution ledger:** eligible 0; proposal-ready 0; approved-to-contact 0; submitted 0; accepted 1 (AgentLancer contract 327, payment pending); delivered 0; approved 0; payable 0; cash received USD 0.
+- Latest files: [source registry](source-registry.csv), [opportunity ledger](opportunity-ledger-2026-11-15.csv), [Run 36 report](run-36-2026-11-15.md).
