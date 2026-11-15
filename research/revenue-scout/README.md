@@ -1282,3 +1282,16 @@ Full evidence: [Run 21 research report](run-21-2026-11-14.md).
 - Execution ledger: eligible 0; proposal-ready 0; approved-to-contact 0; submitted 0; accepted 1 historical (AgentLancer 327, payment unresolved); delivered 0; approved 0; payable 0; cash received **$0**.
 - No accounts, applications, bids, claims, comments, PRs, messages, wallet connections, ID uploads, payout details, subscriptions, deposits, purchases, rule acceptance or commitments.
 - Detailed report: [run-48-2026-11-15.md](run-48-2026-11-15.md)
+
+
+### Run 48 live-page addendum — 2026-11-15 22:44 IST
+
+- Source registry: 570 domains, 325 directly inspected, 103 job/program-verified.
+- Opportunity ledger: 425 unique URLs, 370 directly verified, 68 aggregator-index verified, 32 search-only. Added Product Space Agentic AI Hackathon as OPP-2026-1115-451; no duplicate URLs.
+- Apart Research AI x Epistemics closes **Nov16 17:29 IST**, $2,000 total, global/online, solo, AI tools allowed, 8-page PDF, human judging. Ashgro Inc pays via bank transfer; Mercury communicates; Indian banks need SWIFT. No escrow. Submission grants a broad worldwide non-exclusive royalty-free license. AgentTrace draft is private (4 pages, 204-word abstract, 11 tests) but official template, author details and owner approval remain outstanding. No signup/submission/terms accepted.
+- Jobbi latest report (Nov15 16:00 UTC): 686 open, 555 priced, $20 median, $44,664 advertised total, 159 at $50+; 503 escrowed, 172 promised, 11 unknown; 129 machine, 552 human; 506 Stripe, 120 x402, 22 USDC Base, 10 token, 10 wallet, 4 Gnosis, 14 unknown. /gigs page separately showed 666 at another refresh.
+- Product Space Agentic AI Hackathon: ₹10,000 cash + ₹90,000 in-kind, AI tools allowed, but mandatory daily LinkedIn posts, WhatsApp group, conflicting Nov14/Nov21 deadlines, working-professional eligibility and payout unclear. Reject.
+- Geek Room Global AI Hackathon: $1,000 cash track within $11,500 mixed pool, AI tools allowed, global/online, Discord + public repo/PPT, human judging; submission Nov15 23:59 IST, payout unknown, official page shell unreadable. Not pursued.
+- UGREEN explicitly excludes India; Vals is in-person San Francisco; YPAI is human data capture; Agent Bounties #154 is closed/unfunded/social; Coolify #6894 no payout; Javelin #4 contested and Algora India individual payout blocked; microG #1272 has no source bounty; OpenTask 500 USDC task URL 404.
+- Cash received remains $0; eligible and proposal-ready remain 0; historical accepted AgentLancer 327 remains unresolved.
+- Detailed report: [run-48-2026-11-15.md](run-48-2026-11-15.md)
