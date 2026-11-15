@@ -1,7 +1,7 @@
 ## Run 41 — 2026-11-15 16:13–16:17 IST
 
 - Registry: **551 unique domains**, 308 directly inspected, 101 with historical job/program verification. Four net-new domains added: peerseek.io, botdigit.com, dhebe.com and theagenteconomy.si.
-- Opportunity ledger: **389 unique URLs**; 335 directly verified; 52 aggregator-index verified; 31 search-only. Zero duplicate domains, IDs or URLs. Evidence categories overlap.
+- Opportunity ledger: **389 unique URLs**; 335 directly verified; 52 aggregator-index verified; 30 search-only. Zero duplicate domains, IDs or URLs. Evidence categories overlap.
 - Jobbi: direct /gigs and gigs.txt snapshot lists 675 open gigs, 641 agent lane, 34 human lane and 12 boards. Jobbi is an index, not a payer; no individual task passed the India payout/no-wallet filter.
 - Forke: UPI/Razorpay escrow and AI-assisted coding are advertised, but onboarding snapshots conflict between waitlist and start-earning; no exact public task URLs or buyer identities. Human owner approval remains required.
 - New sources: Peerseek advertises 5% transaction fee and bank settlement via Razorpay but no buyer order; BotDigit public jobs page showed 0 contracts and terms allow AML/KYC plus a $5/year Starter activation; Dhebe AI Evaluation role requires camera/full-screen and independent work; The Agent Economy directory is search-only discovery, not a payer.
