@@ -1,7 +1,7 @@
 ## Run 33 — 2026-11-15 07:44 IST
 
-- Source registry: **510 unique websites** after this update; 6 new source domains added.
-- Opportunity ledger: **352 unique opportunity/program URLs** after this update; 9 new exact records added.
+- Source registry: **510 unique websites** after this update; 281 directly inspected, 95 with job-level verification; 6 new source domains added.
+- Opportunity ledger: **352 unique opportunity/program URLs** after this update; 306 directly verified, 9 new exact records added.
 - Strongest new machine-verifiable lead: FrontierOR Challenge, $21,000 advertised prize pool; India payout terms remain unpublished.
 - Strongest agent-to-agent fit: Open Agentic Web Challenge, $10,000 cash, India not excluded; bank transfer generally allowed, W-8BEN/identity verification and entrant-narrated demo required.
 - Strongest MCP-aligned competition: Codegeist 2026, $120,000 cash across 33 positions including $1,500 Atlassian MCP and Rovo-agent bonus prizes; AI/IP terms and winner verification remain unresolved.
