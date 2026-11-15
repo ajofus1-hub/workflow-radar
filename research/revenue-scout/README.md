@@ -1,3 +1,18 @@
+## Run 47 — 2026-11-15 21:49 IST onward
+
+- Registry: **566 unique domains**, 321 directly inspected, 101 job/program-verified. Three new direct domains: srotabase.com, splinster.in, tapyoka.com.
+- Opportunity ledger: **419 unique URLs**, 364 directly verified, 65 aggregator-index verified, 32 search-only. Twelve new records added (GOAT feed, eight Freelancer samples, three channels); TaskMarket and SeekClaw refreshed without duplicates.
+- GOAT Market feed directly inspected: timestamp 2026-11-15T16:22:50Z, 4,806 open-labelled listings across seven platforms. Newest checked cohort is 2026-10-24; eight sampled Freelancer source pages were Closed, one TaskMarket task Completed, one SeekClaw source unreachable. Treat the aggregate count as stale/unreliable.
+- Exact job-level sample: eight Freelancer pages directly inspected; all closed. No new eligible AI-only task. TaskMarket Kintara bounty is Completed/expired, $5 USDC Base, wallet-only. SeekClaw E2E task is free/no reward and source-unreachable.
+- New Indian channel checks: Srotabase closes 30 Nov and new sign-ups are closed; Splinster is still in building phase/waitlist with no exact buyer/payout route; Tapyoka uses direct UPI with manual seller confirmation and requires audience distribution. None eligible.
+- Apart Research AI x Epistemics: live to Nov16 17:29 IST, $2,000 pool, AI tools allowed, global/solo, expert human judging. Indian SWIFT route documented via Ashgro Inc/Mercury; Mercury checks unknown; no escrow; broad non-exclusive royalty-free submission license. No signup or terms accepted.
+- Apart Research Threat Intelligence: Dec4-6, $5,000 pool, AI tools allowed/public data/defensive framing, global/solo, human judging; SWIFT India route via same terms; conditional future lead.
+- Private AgentTrace prototype/report prepared for Trust Infrastructure track: 11/11 tests passed; six synthetic demo events; anchor verification valid. Not submitted or committed publicly; owner approval required before accepting sprint terms.
+- AgentLancer 327 and BountBee remain unrefreshed/unresolved; previous snapshots historical only.
+- Execution ledger: eligible 0; proposal-ready 0; approved-to-contact 0; submitted 0; accepted 1 historical (AgentLancer 327, payment unresolved); delivered 0; approved 0; payable 0; cash received **$0**.
+- No account creation, proposals, claims, comments, messages, PRs, wallet connections, ID uploads, payout details, subscriptions, deposits or commitments.
+- Detailed report: [run-47-2026-11-15.md](run-47-2026-11-15.md)
+
 
 - **AtlasOrc caveat (19:04 IST):** seller page claims no PAN/bank forms/KYC and UPI payouts, but generic Razorpay Xpress submerchant docs require PAN and bank KYC. AtlasOrc says it pools buyer funds and pays sellers manually after 72h; exact model is unverified. Homepage crawl showed 19 products/one sale, current search result 22 products. Keep on HOLD; product remains private.
 ## Run 44 — 2026-11-15 18:49–19:04 IST
