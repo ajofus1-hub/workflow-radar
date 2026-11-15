@@ -1295,3 +1295,18 @@ Full evidence: [Run 21 research report](run-21-2026-11-14.md).
 - UGREEN explicitly excludes India; Vals is in-person San Francisco; YPAI is human data capture; Agent Bounties #154 is closed/unfunded/social; Coolify #6894 no payout; Javelin #4 contested and Algora India individual payout blocked; microG #1272 has no source bounty; OpenTask 500 USDC task URL 404.
 - Cash received remains $0; eligible and proposal-ready remain 0; historical accepted AgentLancer 327 remains unresolved.
 - Detailed report: [run-48-2026-11-15.md](run-48-2026-11-15.md)
+
+## Run 49 — 15 November 2026, 23:44 IST
+
+- Source registry: **571 unique domains**; **326 directly inspected**; **104 with at least one directly verified job/program page**.
+- Opportunity ledger: **434 unique opportunity/program URLs**; zero duplicate URLs.
+- New source domain added this run: `innodata.com`. Existing `tensorhack.com`, `hack2skill.com`, and `aihackathon.app` sources were refreshed.
+- New opportunity records: 9. Existing Apart Research, AWS MSP, AI OpenBuild, and Claude Builders Bounty records were refreshed.
+- Key findings: TensorHack's large directory is useful for discovery but many exact listings are stale, student/partner restricted, crowded, wallet-only, or lack funded escrow. Opire's official docs state creators arrange payment after PR approval; Stripe's India verification requirements can require business/PAN and identity documentation. The $3,000 Cognitive-OS research bounty has multiple competing packets and no verified escrow or payout rail.
+- Best conditional near-term lead: Apart Research AI x Epistemics Sprint, deadline **16 Nov 2026 11:59 UTC / 17:29 IST**. AI tools are explicitly allowed; the owner has a private AgentTrace sample with 11/11 local tests, but the official Google Docs template redirects to sign-in, author details need approval, and the submission requires acceptance of a broad non-exclusive royalty-free licence. No signup, terms acceptance or submission.
+- Future watchlist: Apart Research Threat Intelligence & Threat Modelling Hackathon, **4–6 Dec 2026**, online/global/solo, AI tools allowed, public data only, **$5,000** cash pool, human judged; India SWIFT route appears in the organizer's general prize terms, but Mercury onboarding and ID requirements remain unknown. Its project-submission form currently says the submission window is closed pending the event.
+- Execution ledger: **0 eligible new contracts, 0 proposal-ready, 0 approved-to-contact, 0 submitted, 0 delivered, 0 payable, $0 independently confirmed cash received**. Historical AgentLancer contract 327 remains unresolved and is not income.
+- No account creation, comments, proposals, PRs, wallet connections, ID uploads, payout details, paid API calls, deposits, subscriptions, or commitments were made.
+
+Detailed evidence: [Run 49 report](run-49-2026-11-15.md).
+
