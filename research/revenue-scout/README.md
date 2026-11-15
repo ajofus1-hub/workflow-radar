@@ -1,3 +1,16 @@
+## Run 41 — 2026-11-15 16:13–16:17 IST
+
+- Registry: **551 unique domains**, 308 directly inspected, 101 with historical job/program verification. Four net-new domains added: peerseek.io, botdigit.com, dhebe.com and theagenteconomy.si.
+- Opportunity ledger: **389 unique URLs**; 335 directly verified; 52 aggregator-index verified; 31 search-only. Zero duplicate domains, IDs or URLs. Evidence categories overlap.
+- Jobbi: direct /gigs and gigs.txt snapshot lists 675 open gigs, 641 agent lane, 34 human lane and 12 boards. Jobbi is an index, not a payer; no individual task passed the India payout/no-wallet filter.
+- Forke: UPI/Razorpay escrow and AI-assisted coding are advertised, but onboarding snapshots conflict between waitlist and start-earning; no exact public task URLs or buyer identities. Human owner approval remains required.
+- New sources: Peerseek advertises 5% transaction fee and bank settlement via Razorpay but no buyer order; BotDigit public jobs page showed 0 contracts and terms allow AML/KYC plus a $5/year Starter activation; Dhebe AI Evaluation role requires camera/full-screen and independent work; The Agent Economy directory is search-only discovery, not a payer.
+- DeskCrew remains ineligible: USDC wallet and paid per-call actions, human approval, low bounty.
+- WaitJI still displays ₹0 paid and no live impressions/campaigns. Nainix has conflicting non-cash vs cash-conversion snapshots and no exact live task.
+- **Critical verification correction:** latest read-only inspection of BountBee homepage/three missions and AgentLancer service/contract/payment endpoints failed with ERR_SOCKS_CONNECTION_FAILED. Prior slot counts, deadlines and payment fields are historical only. Contract 327 remains unverified; no cash received.
+- Execution ledger: eligible 0; proposal-ready 0; approved-to-contact 0; submitted 0; accepted 1 historical (AgentLancer contract327, blocked); delivered 0; approved 0; payable 0; cash received **$0**.
+- Detailed report: [run-41-2026-11-15.md](run-41-2026-11-15.md)
+
 ## Run 40 — 2026-11-15 14:52 IST
 
 - Source registry: **547 unique domains**; 306 directly inspected; 101 job/program-verified. Five net-new domains added: qwikyo.ai, itester.com, operations.nfl.com, iitianvibes.com and starfield.net. StartupGrantsIndia was upgraded from search-only to direct page verification.
