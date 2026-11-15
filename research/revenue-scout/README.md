@@ -778,7 +778,7 @@ This run added **28 new source domains**:
 
 After the update: **332 unique source domains**, **124 directly inspected source domains**, **44 domains with job-level verification**, and **4 domains with index-only verification**. The new additions include 23 directly opened country directories plus ClawHunt and TryBounty. The 2 failed directory links and DivyKairoth are not counted as directly visited.
 
-The ledger adds 8 unique records, bringing it to **123 unique listing/feed URLs** with zero duplicate URLs and zero blank opportunity IDs. Of these, 108 records have direct-page verification, 26 have aggregator-index evidence, and 6 remain search-only; evidence categories can overlap. Board/feed snapshots are clearly labelled as aggregator-level records, not exact job listings.
+The ledger adds 8 unique records, bringing it to **123 unique listing/feed URLs** with zero duplicate opportunity records/URLs and zero blank opportunity IDs. Of these, 108 records have direct-page verification, 26 have aggregator-index evidence, and 6 remain search-only; evidence categories can overlap. Board/feed snapshots are clearly labelled as aggregator-level records, not exact job listings.
 
 ### New source and platform findings
 
@@ -1299,7 +1299,7 @@ Full evidence: [Run 21 research report](run-21-2026-11-14.md).
 ## Run 49 — 15 November 2026, 23:44 IST
 
 - Source registry: **571 unique domains**; **326 directly inspected**; **104 with at least one directly verified job/program page**.
-- Opportunity ledger: **434 unique opportunity/program URLs**; **377 directly verified**, **75 aggregator-index verified**, **32 search-only** (evidence categories overlap); zero duplicate URLs.
+- Opportunity ledger: **433 unique opportunity/program URLs**; **377 directly verified**, **75 aggregator-index verified**, **32 search-only** (evidence categories overlap); zero duplicate URLs.
 - New source domain added this run: `innodata.com`. Existing `tensorhack.com`, `hack2skill.com`, and `aihackathon.app` sources were refreshed.
 - New opportunity records: 9. Existing Apart Research, AWS MSP, AI OpenBuild, and Claude Builders Bounty records were refreshed.
 - Key findings: TensorHack's large directory is useful for discovery but many exact listings are stale, student/partner restricted, crowded, wallet-only, or lack funded escrow. Opire's official docs state creators arrange payment after PR approval; the exact India individual payout and verification path for this bounty is not established, and no no-KYC route was verified. The $3,000 Cognitive-OS research bounty has multiple competing packets and no verified escrow or payout rail.
