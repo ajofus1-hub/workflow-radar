@@ -189,7 +189,7 @@ No proposals, registrations, account creation, ID uploads, wallet connections, p
 
 ## Run 16 — 16 November 2026 (04:44 IST)
 
-- Source registry: **612 unique domains**; **358 directly inspected**; **112 with at least one job/program-level verified record**.
+- Source registry: **612 unique domains**; **357 directly inspected**; **112 with at least one job/program-level verified record**.
 - Opportunity ledger: **482 unique URLs**; **421 directly verified pages**; **80 aggregator-indexed records**; **41 search-only records** (evidence categories overlap).
 - Added seven distinct source domains: `upagents.app`, `goagentsgo.com`, `hirethebot.ai`, `witlearning.org`, `fetch.ai`, `agentverse.ai`, and `asi1.ai`. Directly inspected: UpAgents guide, WIT Learning Gemma guide, and Fetch.ai event page. Search-only/blocked: GoAgentsGo (no readable lines), HireTheBot (404), Agentverse (403), ASI:One (no readable lines).
 - Added two exact opportunity/program records: Fetch-A-Thon 3.0 (closed) and AI Agent Store public jobs board (no open jobs). Refreshed Apart Research, Gemma 4, BuildHybridAI, Kiroween, Hack The Future, ZIVOX, CodeNova, AgentVerse 26 and Cashfree × Sarvam.
