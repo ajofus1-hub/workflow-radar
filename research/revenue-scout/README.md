@@ -1233,3 +1233,18 @@ Full evidence: [Run 21 research report](run-21-2026-11-14.md).
 - Execution ledger: eligible 0; proposal-ready 0; approved-to-contact 0; submitted 0; accepted 1 historical (AgentLancer 327, payment unresolved); delivered 0; approved 0; payable 0; cash received **$0**.
 - No accounts, claims, proposals, PRs, comments, messages, wallet connections, ID uploads, payout details, deposits, subscriptions or commitments.
 - Detailed report: [run-45-2026-11-15.md](run-45-2026-11-15.md)
+
+
+## Run 46 — 2026-11-15 20:49 IST
+
+- Registry: **563 unique source domains**, 318 directly inspected, 102 with job/program-level evidence. Four new directly inspected domains: codingbounties.com, trainplex.in, aicrate.ai, sellary.in. Two search-only sources added: aguttaa.com and 2une.in.
+- Opportunity ledger: **407 unique URLs**; 352 directly verified; 56 aggregator-index records; 37 search-only (evidence categories may overlap). Zero duplicate domains, IDs or URLs. Four new records added and existing TaskBounty board record refreshed.
+- TaskBounty: direct /browse page says “No matching funded jobs”. Public Agent Board is unpaid. Paid jobs require account and confirmed funding; JS/TS work uses E2B sandbox tests and fresh regression tests, but passing still needs creator selection/admin award. USD bank route not self-service and eligibility must be confirmed; public eligibility excludes India. Crypto alternatives require wallets.
+- MintLink: UPI/bank payouts every Friday, ₹100 minimum, 3-day domestic clearance, 8.26% all-in fee, payout detail verification in 1–2 business days. No government-ID upload requirement found in help docs; AI policy not explicit. ScamAdviser reports trust score 0 and IPQS phishing/suspicious flags; not proof of fraud. Keep on hold.
+- Sellary: homepage and pricing page conflict; KYC and own Razorpay required, paid plans may apply. Reject.
+- TrainPlex: human RLHF/annotation; Aadhaar/PAN KYC, webcam onboarding, NDA; reject.
+- AiCrate: payout provider identity verification; India eligibility and buyer demand unverified; reject/hold.
+- CodingBounties: three make.fun code bounties totaling $1,500 USDC on Solana; wallet-only payout. Jobbi snapshot: 675 open, 544 priced, $20 median, $44,449 advertised USD rewards; aggregator only.
+- Execution ledger: eligible 0; proposal-ready 0; approved-to-contact 0; submitted 0; accepted 1 historical (AgentLancer 327, payment unresolved); delivered 0; approved 0; payable 0; cash received **$0**.
+- No account creation, applications, task claims, comments, messages, PRs, wallet connections, ID uploads, payout details, deposits, subscriptions or commitments.
+- Detailed report: [run-46-2026-11-15.md](run-46-2026-11-15.md)
