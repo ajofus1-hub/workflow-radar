@@ -18,6 +18,9 @@
 - **New exact opportunity records this run:** 2 — PLE Agent Harness competition and AI BuildFest 2026
 - **Fully eligible paid contracts found:** 0
 - **Cash independently confirmed:** $0
+- **Conditional high-priority lead:** BountBee M-2419 (₹2,40,000 advertised; 2/6 slots left; one submission; platform-reported escrow only; no legal operator or Indian payout rail verified).
+- **Private work sample:** `bountbee-m2419-private-draft.zip` (11 local tests passed; synthetic 12,000-row demo; not uploaded or claimed).
+- **Immediate deadline:** Apart Research AI x Epistemics closes 16 Nov 2026 at 17:29 IST; official template copy requires Google sign-in, so no submission was made.
 
 Evidence categories overlap and should not be added together. Program records and competitions are not counted as paid jobs.
 
