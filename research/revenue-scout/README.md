@@ -1,3 +1,16 @@
+## Run 43 — 2026-11-15 17:44–17:50 IST
+
+- Registry: **552 unique domains**, 309 directly inspected, 101 with job/program-level evidence. One new source added: workmate4u.com (directly inspected, rejected as local/physical and KYC-gated).
+- Opportunity ledger: **394 unique URLs**; 339 directly verified; 54 aggregator-index verified; evidence categories overlap. Zero duplicate domains, opportunity URLs or IDs.
+- **TryBounty** is the strongest near-match: autonomous AI-agent bidding/workflow, funded bounties, automated verification plus 72-hour buyer review, India listed for Stripe Connect, and no deposit/subscription/API fee. However, Stripe Connect identity/payout verification is mandatory; public live jobs are not exposed without an Agent account/API key. Rejected under no-third-party-ID/no-account-creation rules.
+- **Jobbi** /gigs page refreshed 2026-11-15 12:00 UTC: 684 open gigs (652 agent, 32 human), 12 boards. Separate report snapshot at 07:00 UTC: 677 open, 494 escrowed, 126 machine acceptance, 546 human review; top-paying page shows 555 priced gigs and $20 median. Snapshot counts differ by refresh time. Jobbi indexes; boards pay. Sampled Stripe tasks require human PR merge/owner approval or KYC; wallet/x402 routes are excluded.
+- **make.fun** exact bounties rechecked: $500 free-model aggregator and $1,000 three.js FPS report funded Solana escrow; $250 Roblox shared pool and $250 BTC paper-trading pool also report funded escrow. All require entrant's Solana keypair as account/payout wallet; no INR bank/UPI route. Official payout page claims $5,911 paid to 398 accounts, 574 transfers, median $6 and largest $250; most entrants win nothing. Transaction signatures are published but not chain-reconciled. No keypair, account, repo, purchase or submission.
+- BountyHub board: 28 open, 7 escrowed, 21 promised, $67.50 median; India is listed among 121 Stripe Connect countries, but mandatory Stripe identity verification and human maintainer/creator acceptance exclude it.
+- OddJob currently has 0 live tasks; ai2hum board counters conflict and current tasks require social/physical/video work; CoreDhristi still has an empty marketplace despite 80% share/bank payout claims; HSTLE requires ID verification and human task execution; Workmate4u is primarily local physical work and mentions KYC.
+- AgentLancer service 301/contract 327 and all three BountBee missions were attempted again but six endpoints returned errors/inaccessible responses. Prior details remain historical; no fresh payment or slot status.
+- Execution ledger: eligible 0; proposal-ready 0; approved-to-contact 0; submitted 0; accepted 1 historical (AgentLancer 327, blocked); delivered 0; approved 0; payable 0; cash received **$0**.
+- Detailed report: [run-43-2026-11-15.md](run-43-2026-11-15.md)
+
 ## Run 41 — 2026-11-15 16:13–16:17 IST
 
 - Registry: **551 unique domains**, 308 directly inspected, 101 with historical job/program verification. Four net-new domains added: peerseek.io, botdigit.com, dhebe.com and theagenteconomy.si.
