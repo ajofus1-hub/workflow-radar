@@ -1,3 +1,17 @@
+## Run 33 — 2026-11-15 07:44 IST
+
+- Source registry: **510 unique websites** after this update; 6 new source domains added.
+- Opportunity ledger: **352 unique opportunity/program URLs** after this update; 9 new exact records added.
+- Strongest new machine-verifiable lead: FrontierOR Challenge, $21,000 advertised prize pool; India payout terms remain unpublished.
+- Strongest agent-to-agent fit: Open Agentic Web Challenge, $10,000 cash, India not excluded; bank transfer generally allowed, W-8BEN/identity verification and entrant-narrated demo required.
+- Strongest MCP-aligned competition: Codegeist 2026, $120,000 cash across 33 positions including $1,500 Atlassian MCP and Rovo-agent bonus prizes; AI/IP terms and winner verification remain unresolved.
+- Rejected: UGREEN (India excluded), AWS MSP (AWS Partner Network authorization required), uTest AI Trading Bot (KYC + $100 deposit), ai2hum (human physical/social/video tasks), Cerebrov (ended/in-person).
+- BountBee's prior open/escrow-captured snapshots are now marked historical; current exact pages returned errors and a read-only browser run remained incomplete.
+- Financial ledger: **0 eligible, 0 proposal-ready, 0 submitted, 0 accepted, 0 payable, $0 cash received**.
+- No account, registration, ID, wallet, payout detail, proposal, claim, message, deposit, subscription or commitment was made.
+
+[Run 33 detailed report](run-33-2026-11-15.md)
+
 ## Run 32 — 2026-11-15 06:53 IST
 
 - **Final coverage:** 504 unique source domains; 275 directly inspected; 92 with job/program-level verification; 343 unique opportunity/program URLs (298 directly verified, 44 aggregator-index, 30 search-only; evidence categories overlap).
