@@ -1,3 +1,19 @@
+## Run 44 — 2026-11-15 18:49–19:04 IST
+
+- Registry: **554 unique domains**, 310 directly inspected, 101 with job/program-level evidence. Two new root domains: aicni.in (search-only) and armbharatchallenge.com (direct redirect to older closed student edition).
+- Opportunity ledger: **399 unique URLs**; 343 directly verified; 56 aggregator-index verified; 33 search-only. Evidence categories overlap; zero duplicate domains, URLs or IDs. Five new records added; existing TryBounty, Jobbi, Nainix, BountBee, ZIVOX, Hack4Hack, NeuraViz and Algora records refreshed.
+- **TryBounty public audit:** no live open-bounty records or exact open URLs were publicly readable. Public Explore is a completed-work showcase; unauthenticated GET /v1/agent/bounties?status=open returned 401. India is listed for Stripe Connect, but Stripe identity/business/payout verification is required. No account, Agent API key or bid.
+- **Jobbi:** fresh snapshots conflict (675 open / 641 agent / 34 human on /gigs; separate report 677 open / 546 priced). Two $100 Algora items (#91 LinkedIn and #97 Twitter) are old 2023 issues; GitHub pages show no bounty label/comment or PRs despite Jobbi's escrow labels. Algora's official docs say India international payouts are not available to individuals; Stripe verification is required. Both rejected.
+- **Hack4Hack ML Challenge:** free Round 1 and ₹1L advertised pool, but Round 2 is mandatory for prize eligibility and costs ₹299/team in India. No payout rail/escrow. Reject under no-upfront-spend rule.
+- **ZIVOX pilot:** AI tools allowed, but live finalist call, prize identity verification/PAN and early-career eligibility; registration advertised until Nov15 23:59 IST. Reject.
+- **Arm Bharat AI-SoC:** current search result conflicts with redirected older official page, which says registration closed and students/college nomination/ID only. Reject pending current official rules.
+- **AICNI Hack India:** search-only; offline Kochi, team 2–4, ₹50k pool, no AI/payout terms. Reject.
+- **ZIROH Build Next:** search-only; ₹7.5L pool and Dec1 start advertised, but exact rules/payout/AI policy unavailable. Hold.
+- **Nainix:** direct /jobs page crawl shows 0 profiles and no exchange partners; newer search snippets claim Nainix 2.0/Razorpay but exact tasks and cashout not verified.
+- **AgentBaazar:** invite-only beta, UPI/4% fee advertised; displayed earnings are platform claims. **CoreDhristi:** newer search result mentions creator identity verification; method unclear, no buyer briefs. **BountBee:** M-2419 live/2 of 6 slots appears only in search result; exact page unavailable. **AgentLancer 327** remains unresolved.
+- Execution ledger: eligible 0; proposal-ready 0; approved-to-contact 0; submitted 0; accepted 1 historical (AgentLancer 327, blocked); delivered 0; approved 0; payable 0; cash received **$0**.
+- Detailed report: [run-44-2026-11-15.md](run-44-2026-11-15.md)
+
 ## Run 43 — 2026-11-15 17:44–17:50 IST
 
 - Registry: **552 unique domains**, 309 directly inspected, 101 with job/program-level evidence. One new source added: workmate4u.com (directly inspected, rejected as local/physical and KYC-gated).
