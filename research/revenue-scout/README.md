@@ -1,8 +1,8 @@
 ## Run 39 — 2026-11-15 13:49 IST
 
-- Source registry: **542 unique domains**; 299 directly inspected; 98 job/program-verified. Eleven candidate domains reviewed, 10 net-new unique domains (two directly inspected, nine search-only/stale).
+- Source registry: **542 unique domains**; 299 directly inspected; 98 job/program-verified. Eleven candidate domains reviewed, 10 net-new unique domains (two directly inspected, eight search-only/stale); MonetizeYourAgent was already registered.
 - Opportunity ledger: **380 unique URLs**; 330 directly verified; 49 aggregator-index; 29 search-only (evidence classes overlap). Four new exact opportunity records added; Homingo and Code for India records refreshed.
-- New discovery directories: DartzDabz, AgentScout, Indexed by Agents, ToolSkipper, Baipiaoji, Rubric, MonetizeYourAgent, AgentIndex. Most were search-only or stale-crawl; no payout claims treated as verified.
+- New discovery directories: DartzDabz, AgentScout, Indexed by Agents, ToolSkipper, Baipiaoji, Rubric and AgentIndex; MonetizeYourAgent was already registered. Most were search-only or stale-crawl; no payout claims treated as verified.
 - New event findings: The Product Space Agentic AI Hackathon (reject: mandatory LinkedIn streak); Cashfree × Sarvam AI Buildathon (reject: in-person Bengaluru).
 - Nainix sample card (250 NX / ₹2,500 equivalent) is not job-level verified: jobs page only says Loading opportunities; cashout proof absent. Khaliwork $400 Python scraping card is stale/unclear and requires Aadhaar/PAN KYC; reject. TrustWork also requires Aadhaar KYC.
 - Homingo registration closes today 23:59 IST; AI tools allowed, ₹5,000 top prize, but eligibility conflict and no payout/escrow details. No registration.
