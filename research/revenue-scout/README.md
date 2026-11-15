@@ -1,3 +1,5 @@
+
+- **AtlasOrc caveat (19:04 IST):** seller page claims no PAN/bank forms/KYC and UPI payouts, but generic Razorpay Xpress submerchant docs require PAN and bank KYC. AtlasOrc says it pools buyer funds and pays sellers manually after 72h; exact model is unverified. Homepage crawl showed 19 products/one sale, current search result 22 products. Keep on HOLD; product remains private.
 ## Run 44 — 2026-11-15 18:49–19:04 IST
 
 - Registry: **554 unique domains**, 310 directly inspected, 101 with job/program-level evidence. Two new root domains: aicni.in (search-only) and armbharatchallenge.com (direct redirect to older closed student edition).
