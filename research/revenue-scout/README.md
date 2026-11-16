@@ -1,9 +1,9 @@
-# Revenue Scout — Run 24 snapshot (16 Nov 2026, 12:56 IST)
+# Revenue Scout — Run 25 snapshot (16 Nov 2026, 13:58 IST)
 
-- Distinct source websites: **661**; 5 new domains added (4 directly inspected, 1 search-only).
-- Directly inspected source domains: **398**; job/program-verified domains: **127**.
-- Unique opportunity/program URLs: **439**. These include programmes and sales channels, not all paid jobs.
-- Opportunity evidence: **381** directly verified; **75** aggregator-index; **33** search-only.
+- Distinct source websites: **666**; 5 new domains added (3 directly inspected, 2 search-only).
+- Directly inspected source domains: **401**; job/program-verified domains: **127**.
+- Unique opportunity/program URLs: **444**. These include platform programmes and sales channels, not all paid jobs.
+- Opportunity evidence: **385** directly verified; **75** aggregator-index; **34** search-only.
 - Execution ledger: eligible **0**, proposal-ready **0**, approved-to-contact **0**, submitted **0**, accepted **1** (one historical AgentLancer contract), delivered **0**, approved **0**, payable **0**, cash received **0**.
 - Integrity: duplicate domains **0**, URLs **0**, IDs **0**.
 
@@ -60,3 +60,19 @@ No account, proposal, comment, slot claim, contract, wallet, identity upload, pa
 
 - **AgentLancer service 301 / contract 327:** direct opens of profile 173, service API, contract 327 transaction monitor and first-payment card all returned URL not accessible at 12:56 IST. The previous 21 USDT vs 20 USDT discrepancy and missing payment identifiers remain historical and unresolved. No further delivery, buyer contact or wallet action.
 - **BountBee:** homepage and exact M-2419, M-2426 and M-2422 mission pages all returned URL not accessible at 12:56 IST. Previous slot/escrow claims are historical only. No account or slot claim.
+
+## Run 25 findings (16 Nov 2026, 13:58 IST)
+
+- **BodhicAI:** fresh pricing page advertises 80% creator share and direct UPI; Creator Agreement says Razorpay processes sales and payout timing is in the creator dashboard. Seller-terms URL returns 404. Browse page shows filters but no readable individual skill listings or verified buyer orders. A private API Contract QA Agent skill draft was prepared locally; not uploaded or published.
+- **DevCut:** India UPI developer-ad network, private beta. Claims ₹0.25 per 30-second impression, 80% share and ₹50 withdrawal threshold; beta withdrawals manually reviewed. Public impression/payout/developer/click counters all display dashes. Website estimates are roughly ₹11–₹106/month depending on usage. No invite, extension install or UPI setup.
+- **Amigosss:** homepage promotes Student/Homemaker gigs and an AI-scored weekly idea challenge. Privacy policy lists self-intro videos and camera/microphone proctoring. Terms say Rapid Gigs are direct arrangements and the platform does not handle payments or disputes, contradicting UPI marketing. Rejected.
+- **TaskReview/Cash Hunt:** advertises offerwalls, app installs and Google/Play Store ratings with UPI withdrawals. Tasks are human surveys, installs and personal reviews; no AI-only listing. Platform payout statistics are not independently verified. Rejected.
+- **KreatorHub:** search-only discovery; direct page timed out. Search snippet describes influencer/creator campaigns and UPI escrow, but social content work is excluded and no live buyer/escrow was verified.
+- **Flync:** search-only discovery; direct page inaccessible. Surfaced example is an on-site Bengaluru hardware sprint; no exact remote AI-only task verified.
+- **OddJob:** direct homepage rechecked; UPI advertised, but tasks are human microtasks with WhatsApp instructions and poster approval. No exact AI-only task surfaced.
+- **Forke:** direct homepage rechecked; six dashboard-style task cards and sample payout UI appear, but waitlist remains and no exact public task/buyer/funded escrow is verified.
+- **AgentBaazar:** still invite-only beta; UPI and 4% fee claims remain unverified.
+- **Karmyug AI:** 22 language projects shown, but one-time government-ID verification and human speech/annotation tasks exclude it.
+- **AgentLancer service 301 and BountBee:** six direct endpoints were inaccessible in this cycle; previous payment/slot/escrow details remain historical only. No delivery, contact or claim.
+
+No account, task claim, bid, message, PR, upload, identity verification, wallet connection, payout detail or purchase was made. The owner's UPI destination was not submitted to any platform or stored in the repository.
