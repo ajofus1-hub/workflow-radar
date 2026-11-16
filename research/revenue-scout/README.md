@@ -1,3 +1,55 @@
+# Global AI-only Revenue Scout — Run 17
+**Checked:** 16 November 2026, 05:50 IST (2026-11-16 00:20 UTC)  
+**Owner location:** India  
+**Status:** Research refreshed; no external submissions, registrations, wallet actions or commitments.
+
+## Registry snapshot
+- **Distinct source domains:** 613
+- **Directly inspected source domains:** 358
+- **Domains with at least one job/program-level verification:** 112
+- **Unique opportunity/program URLs:** 482
+- **Directly verified opportunity records:** 421
+- **Aggregator-index verified records:** 80
+- **Search-only records:** 35
+- **Duplicate source domains:** 0
+- **Duplicate opportunity URLs:** 0
+- **New source domains:** task-bounty.com, coredhristi.com, aicrate.ai, jobchain.rest
+- **New unique paid-job URLs:** 0 (new source boards had no open funded listings or no exact buyer task at inspection)
+- **Cash independently confirmed:** $0
+
+## Highest-priority current lead
+Apart Research AI x Epistemics Research Sprint: official page says live now, deadline 16 Nov 2026 11:59 AM UTC / 17:29 IST; $2,000 cash across five places. AI tools explicitly allowed. Official prize terms name Ashgro Inc as payer, Mercury for prize communications, and require SWIFT details for Indian bank accounts. No escrow. AgentTrace v2 is privately prepared, but the official template redirects to Google sign-in; author details and acceptance of the broad publication licence require owner approval. No submission made.
+
+## Exact harness answer recovered from the recent chess-engine lead
+make.fun's tiny-chess-01 task is not UCI over stdin/stdout and not a `def move(fen) -> str` interface. The Python 3.13 process talks to the environment at `MAKEFUN_ENV_URL`, requests the active game, sends moves in UCI notation, and receives the house engine's replies. It is <=4,096 bytes, deterministic, has no model calls at runtime, and requires AI-coding-session transcripts. The $500 advertised reward is paid in USDC on Solana from the reward wallet, with no escrow; the entrant's own keypair is the account and payout wallet. Rejected under the no-wallet/no-crypto/no-account rules. Full JSON request schema was not exposed by the public listing page.
+
+## New platform checks
+- **TaskBounty:** agent-native GitHub bug-fix marketplace; public funded-jobs board displayed no matching funded jobs. USD bank transfer is listed only as "confirm eligibility"; self-service bank onboarding is unavailable. No account or support contact.
+- **CoreDhristi:** 80% creator share, INR/Razorpay/UPI and monthly bank payout advertised, but no published agents or company briefs at inspection; phone verification and account creation required.
+- **AiCrate:** Stripe Connect/PayPal/Plaid payout; tax ID required and bank terms specify ACH. India route and actual buyers not established.
+- **JobChain:** Arc testnet only; homepage showed uninitialized escrow vault at 0 USDC and mainnet marketplace still on roadmap.
+
+## Other refreshed opportunities
+- make.fun free-model-aggregator-01: $500 USDC escrow reported funded; deadline 16 Nov 02:30 UTC / 08:00 IST. Rejected because Solana wallet/account required.
+- make.fun tiny-chess-01: $500 headline pool, open until 24 Nov 17:00 UTC / 22:30 IST; live leaderboard has 50 visible ranked entries; no escrow and wallet-only USDC payout.
+- Google #BuildHybridAI: AI coding assistants explicitly allowed, India not excluded, but Devpost account and post-win identity/qualification/role verification are required; original-work condition means PrivateBrief cannot be submitted as-is without owner-directed original concept.
+- Google Gemma 4: main track $65,000 plus $10,000 small-model bonus; machine-scored hidden tests; India not named as excluded, but Kaggle account, external AI development policy and India payout rail remain blockers.
+
+## Execution ledger
+- Fully eligible new paid contracts: 0
+- Proposal-ready: 0
+- Approved to contact: 0
+- Submitted: 0
+- Accepted, historical: 1 (AgentLancer 301; unresolved and not income)
+- Delivered: 0
+- Approved: 0
+- Payable: 0
+- Cash received: $0
+
+No accounts, applications, comments, messages, wallet connections, ID uploads, payout details, deposits, subscriptions or commitments were made.
+
+---
+
 # Global AI-only Revenue Scout — Run 14
 **Checked:** 16 November 2026, 02:41 IST (2026-11-15 21:11 UTC)  
 **Owner location:** India  
