@@ -1,23 +1,21 @@
-# Revenue Scout — Run 18 snapshot (16 Nov 2026, 06:50 IST)
+# Revenue Scout — Run 19 snapshot (16 Nov 2026, 07:48 IST)
 
-- Distinct source domains before this run: 613; 13 new domains added; current unique domains: 626.
-- Directly inspected source domains: 369; job/program-verified source domains: 113; 252 search-only/unverified domains and 5 uncategorized records remain separately marked.
-- Unique opportunity URLs: 486, zero duplicates. Opportunity evidence: 425 directly verified, 80 aggregator-indexed and 35 search-only (categories overlap).
-- New source domains: agntid.ai, allai.events, tgihackathon.co.in, hacking.community, mcplantern.com, aiagentslisting.com, mcpservers.org, pulsemcp.com, composio.dev, gravity.fast, vibebay.com, iamai.markets, aipartnerships.ai.
-- Four new exact opportunity URLs: AgntID challenge, Apify AI Tools that Earn, MachineHack FDE Hiring Hackathon, TGIH.
-- New AgntID challenge is a conditional hold: AI coding assistants explicitly allowed, ₹75,000 advertised across three equal prizes, 100% online on 28 Nov; no payout rail, escrow or formal prize terms; AgntID says it is pre-customer and access is request-only.
-- BountBee's three missions were refreshed: M-2419 (2/6 slots, 1 submitted), M-2426 (1/6, 1 submitted), M-2422 (3/4, 0 submitted). Platform says escrow captured and same-day ₹ payout, but buyer/legal identity, independent escrow and actual payout rail remain unverified; no Lab created.
-- QNX Global Hackathon is open to Dec 16 00:30 IST, $50,000+ advertised cash, India not excluded; AI coding-assistant policy is not explicit and potential winners must verify identity/qualifications/role. Hold.
-- Kiroween is open to Dec 5 03:30 IST, $100,000 advertised cash; Kiro/Devpost accounts and winner identity/qualification/role verification are required. Not actionable under current restrictions.
-- UGREEN AI NAS hackathon explicitly excludes India; rejected.
-- Apart Research AI x Epistemics sprint remains live until 16 Nov 17:29 IST; AI tools explicitly allowed, $2,000 prize pool, Indian SWIFT transfer terms published. AgentTrace report is prepared but official Google Docs template requires Google sign-in; no submission or licence acceptance.
-- Moltify has buyer-funded escrow and 88% builder share, but its Builder Agreement requires Stripe Connect identity, tax and bank verification. Stripe India Connect requirements are restrictive; excluded under the no-ID rule.
-- MCP Lantern, AI Agents Listing, MCP Servers and Composio are distribution/integration directories, not paid job boards. hacking.community data is stale as of 24 Oct. VibeBay.com is parked for sale, contradicting a secondary guide.
-- Private AgntID synthetic scenario pack created; 12 test vectors, 3 local test methods passed. It is not an AgntID integration or live security test.
-- AgentLancer service 301 / contract 327 remains unresolved: public homepage and manifest accessible, but exact service/job JSON, profile, marketplace feed and transparency endpoints failed; historical $25/$120 service pricing and 21/20 USDT contract-payment records conflict; no transaction hash or confirmations. No delivery, wallet, buyer contact or payout action.
-- No applications, registrations, account creation, ID uploads, wallet connections, payout details, payments or commitments made. Verified cash received remains $0.
-
----
+- Distinct source domains before this run: 626; 6 new directly inspected domains added; current unique domains: 632.
+- Directly inspected source domains: 375; job/program-verified source domains: 113. Search-only and aggregator-indexed records remain separately marked.
+- Unique opportunity/program URLs: 490, zero duplicate IDs/URLs. Evidence: 429 directly verified, 80 aggregator-indexed, 35 search-only (categories can overlap).
+- New source domains: creatormarketplace.in, anurag629.github.io, buildinai4india.com, lablab.build, eventopia.in, dev.meta.ai.
+- Four new exact opportunity records: TaskBounty Langflow #8476 bounty (closed/status-conflicted), AMD AI League Match 4 (conditional), Meta Global AI Developer Hackathon (closed), Meta VR Start Developer Competition (open but excluded by account/ID/hardware constraints).
+- TaskBounty exact $10 Langflow listing is marked Awarded/Funded/Completed, has 20 submissions and 11 open PRs; page also says no passing fixes/14-day auto-refund. Public funded-jobs board currently says no matching funded jobs. Reject.
+- HackerRank Orchestrate Dec 12 offers $2,400, allows AI coding tools, but official help requires a working camera and microphone for the mandatory 30-minute voice interview. Reject.
+- Meta VR Start Developer Competition is open until Nov 18 20:00 UTC (Nov 19 01:30 IST), up to $1M; requires Meta VR Start membership, Meta Developer Access and Devpost account; winner docs may require government ID. Reject under current restrictions.
+- Meta Global AI Developer Hackathon is closed (submissions Nov 4, winners Nov 9); retained as future source.
+- AMD AI League official page says Match 4 is live, but schedule conflicts with a secondary page; requires AMD account and lablab Discord, rewards include social/referral/course points, and India payout/escrow are not published. Conditional hold.
+- Creator Marketplace has genuine UPI/IMPS/NEFT/Wise/PayPal and campaign escrow, but creator work requires sponsored posts on personal social accounts and identity/account verification. Reject under current exclusions.
+- Apart Research AI x Epistemics sprint remains open until 16 Nov 17:29 IST. Official page requires its Google Docs template; copying it redirects to Google sign-in. AgentTrace v2 has 3 pages, 204-word abstract and required appendix, but template compliance and author details remain unresolved. No submission or licence acceptance.
+- AgentLancer service 301 is reachable at $25 starting price. Job 343 is in progress with $21 budget; contract 327 was accepted historically but payment is still pending: no payment ID, no transaction hash, 0/10 confirmations, verified=false, non-payable deposit address. Do not deliver or perform SSRF/security work until authorized scope and payment are verified.
+- BountBee homepage still advertises M-2419 live (2/6 slots, one submitted) and ₹14,87,900 aggregate escrow, but exact mission pages failed on current re-open; platform claims only.
+- New eligible paid contracts: **0**. Proposal-ready: **0**. Approved to contact: **0**. Submitted: **0**. Accepted (historical): **1** (AgentLancer contract 327, payment unresolved). Delivered: **0**. Approved: **0**. Payable: **0**. Cash received: **$0**.
+- No accounts, proposals, comments, messages, claims, wallet connections, ID uploads, payout details, subscriptions, deposits or commitments were made.
 
 ---
 
