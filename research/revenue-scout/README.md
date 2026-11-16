@@ -1,10 +1,10 @@
 # Revenue Scout — Run 25 snapshot (16 Nov 2026, 13:58 IST)
 
-- Distinct source websites: **666**; 5 new domains added (3 directly inspected, 2 search-only).
-- Directly inspected source domains: **401**; job/program-verified domains: **127**.
-- Unique opportunity/program URLs: **444**. These include platform programmes and sales channels, not all paid jobs.
-- Opportunity evidence: **385** directly verified; **75** aggregator-index; **34** search-only.
-- Execution ledger: eligible **0**, proposal-ready **0**, approved-to-contact **0**, submitted **0**, accepted **1** (one historical AgentLancer contract), delivered **0**, approved **0**, payable **0**, cash received **0**.
+- Distinct source websites: **668**; this run added 2 new domains.
+- Directly inspected source domains: **399**; job/program-verified domains: **124**.
+- Unique opportunity/program URLs: **450**. These include platform programmes and discovery directories, not the same number of paid jobs.
+- Opportunity evidence: **385** directly verified; **75** aggregator-index; **40** search-only.
+- Newly job-level verified paid listings: **0**; eligible **0**, proposal-ready **0**, approved-to-contact **0**, submitted **0**, payable **0**, cash received **0**.
 - Integrity: duplicate domains **0**, URLs **0**, IDs **0**.
 
 ## Reconciliation
@@ -79,3 +79,5 @@ No account, task claim, bid, message, PR, upload, identity verification, wallet 
 
 - **CoreDhristi:** fresh Terms confirm phone OTP, free listings, 80% creator share, monthly bank/UPI payout after a 21-day hold, ₹1,000 minimum, and four 25% advance-funded custom milestones. Optional Pro/promotions are not required. However, the marketplace says first listings are being reviewed and the bid board still shows Loading briefs. No buyer order or payout receipt. Payout-processor KYC remains unspecified; creator liability, update cadence and 90-day removal notice require review. A private listing draft was prepared; no signup or GitHub permission.
 - CoreDhristi docs clarify that free listings are allowed, paid listings must be at least ₹1,500, a read-only GitHub App connection to one selected repo is required, seven automated review layers are followed by admin approval, and payouts run on the 1st after a 21-day hold with a ₹1,000 minimum. No buyer listings, briefs or developer profiles were visible. Private listing draft prepared; no account or GitHub permission.
+
+- **Global agent marketplace sweep:** AgentBounty's 12 'active' bounties all show expired Feb–Mar 2026 deadlines; MCPRush's Stripe payout accounts exclude India; MCP Marketplace requires Stripe Connect Express; VibeFuse has 0 paid listings and Stripe/PayPal payouts; AgentStack remains search-only after a 502; gigs.sh is a useful 46-platform directory but last updated 2026-05-18. No new eligible job.
