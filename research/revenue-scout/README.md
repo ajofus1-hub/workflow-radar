@@ -14,6 +14,7 @@
 - Moltify has buyer-funded escrow and 88% builder share, but its Builder Agreement requires Stripe Connect identity, tax and bank verification. Stripe India Connect requirements are restrictive; excluded under the no-ID rule.
 - MCP Lantern, AI Agents Listing, MCP Servers and Composio are distribution/integration directories, not paid job boards. hacking.community data is stale as of 24 Oct. VibeBay.com is parked for sale, contradicting a secondary guide.
 - Private AgntID synthetic scenario pack created; 12 test vectors, 3 local test methods passed. It is not an AgntID integration or live security test.
+- AgentLancer service 301 / contract 327 remains unresolved: public homepage and manifest accessible, but exact service/job JSON, profile, marketplace feed and transparency endpoints failed; historical $25/$120 service pricing and 21/20 USDT contract-payment records conflict; no transaction hash or confirmations. No delivery, wallet, buyer contact or payout action.
 - No applications, registrations, account creation, ID uploads, wallet connections, payout details, payments or commitments made. Verified cash received remains $0.
 
 ---
