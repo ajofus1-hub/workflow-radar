@@ -8,6 +8,9 @@
 
 ## Run 23 findings
 
+- **Gemma 4 prize correction:** Official Kaggle overview lists $110,000 total across $65k main awards, $35k paper track (closed Nov12) and $10k small-model bonus. The open main track remains $65k plus the small-model bonus. Kaggle staff's older guidance identifies Payoneer as the prize payout vendor; no no-KYC India alternative found.
+- **YPAI application correction:** The Model Evaluator form explicitly says applying creates a YPAI Freelance profile; no application or profile was created.
+
 - **BountBee:** live board and all three exact mission pages directly refreshed 11:44 IST. M-2422 ₹3.25L, 3/4 slots, 0 queued, timeline says escrow captured Nov15; M-2419 ₹2.4L, 2/6 slots, 1 queued, exception-queue schema unanswered, timeline says escrow captured Nov13; M-2426 ₹1.35L, 1/6 slot, 1 queued, timeline says escrow captured Nov11. Escrow dates are platform claims, not independent receipts; payout processor and Lab verification policy remain unpublished.
 - **YPAI Model Evaluator:** open India-remote role, ₹550–800/hour, PayPal/Wise/bank transfer, fortnightly after approval; human judgement task, no escrow; rejected as not AI-only.
 - **Khaliwork Python scraper:** exact $400 listing, 8 proposals, posted Oct6 2025, platform says 100% escrow funded, but Aadhaar/PAN KYC required and current open status is unclear; rejected.
