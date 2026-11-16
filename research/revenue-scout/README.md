@@ -13,8 +13,8 @@ The previous README Run 23 snapshot reported 508 opportunity URLs, but the fetch
 
 ## Run 24 findings
 
-- **TaazaCode:** India-focused code-product marketplace. Official pages advertise free listing, 70% creator share of pre-GST sales, bank payouts and TDS deduction. Seller payout timing, PAN/KYC, AI product policy, refunds and chargeback terms remain unavailable. Trending products failed to load; buyer demand unknown. Private MCP/OpenAPI QA listing draft prepared; no account or upload.
-- **Lull:** Homepage, How-it-works, Terms and Privacy inspected. Advertises 70% share and UPI/IMPS via Razorpay with ₹400 floor, but pre-launch with zero qualified impressions. Terms/Privacy v0.1 are drafts; payout partners may require identity verification. No waitlist/account/install.
+- **TaazaCode:** deeper seller review found 70% creator share, IMPS/NEFT only, ₹1,000 minimum, payouts on 1st/15th after a seven-day return window, 0.1% TDS, mandatory PAN KYC and Indian bank account; UPI is not supported for seller payouts. Public catalogue has activity, but no explicit AI-code policy or product-specific demand. Rejected under no-ID rule; private listing draft retained.
+- **Lull:** Homepage, How-it-works, Terms and Privacy inspected. Advertises 70% share and UPI/IMPS via Razorpay with ₹400 floor, but pre-launch with zero qualified impressions. Privacy v0.1 explicitly says Razorpay/Stripe verify payout identity; Terms/Privacy are legal drafts. Rejected under no-ID rule; no waitlist/account/install.
 - **Paytm Bug Bounty:** Official programme and scope inspected. UPI only, ₹1,000 minimum; first-to-report validated vulnerability, human triage and retest. Automated-scanner reports excluded; AI policy unspecified; no escrow. Conditional hold; no testing.
 - **WorkinHrs:** UPI/NEFT/IMPS and milestone escrow advertised, but Indian freelancers must complete DigiLocker/Aadhaar verification; terms and refund policy are draft templates. Rejected.
 - **Pikando:** Bengaluru-first local task marketplace. Mandatory Seeker KYC may include Aadhaar/PAN/DigiLocker plus face/liveness. Rejected.
