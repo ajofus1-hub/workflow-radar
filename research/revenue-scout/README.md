@@ -278,7 +278,7 @@ No proposals, registrations, account creation, ID uploads, wallet connections, p
 - Source registry: 634 unique domains; 376 directly inspected; 112 with job/program-level verification.
 - Opportunity ledger: 495 unique URLs; 434 directly verified pages; 80 aggregator-index verified. Opportunity URLs include competitions/programs and are not all jobs.
 - New source domains: getbountii.com and hyppe.in (directly inspected; rejected by task scope / verification restrictions).
-- New exact opportunity records: six (Overturn #20–22; Claude Builders Bounty #4; ai2hum BNT-051 and BNT-052).
+- New exact opportunity records: five (Overturn #20–22; ai2hum BNT-051 and BNT-052); existing Claude Builders Bounty #4 record refreshed.
 - BountBee M-2422 private sample created: 6/6 tests pass; local synthetic write p99 3.432ms and indexed query p99 2.900ms. Not connected to BountBee and not submitted.
 - Apart Research AI x Epistemics deadline remains 2026-11-16 11:59 UTC / 17:29 IST; official template requires Google sign-in and owner approval of publication licence.
 - No accounts, claims, PRs, comments, proposals, submissions, identity uploads, wallet connections, payout details or spending.
