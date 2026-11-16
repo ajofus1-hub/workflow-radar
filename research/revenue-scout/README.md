@@ -4,8 +4,8 @@
 **Status:** Research refreshed; no external submissions, registrations, wallet actions or commitments.
 
 ## Registry snapshot
-- **Distinct source domains:** 614
-- **Directly inspected source domains:** 359
+- **Distinct source domains:** 613
+- **Directly inspected source domains:** 358
 - **Domains with at least one job/program-level verification:** 113
 - **Unique opportunity/program URLs:** 482
 - **Directly verified opportunity records:** 421
@@ -13,7 +13,7 @@
 - **Search-only records:** 35
 - **Duplicate source domains:** 0
 - **Duplicate opportunity URLs:** 0
-- **New source domains:** jobchain.rest and agentbounty.org; existing TaskBounty, CoreDhristi and AiCrate records refreshed
+- **New source domain:** jobchain.rest; existing TaskBounty, CoreDhristi, AiCrate and Agent Bounty records refreshed
 - **New unique paid-job URLs:** 0 (new source boards had no open funded listings or no exact buyer task at inspection)
 - **Cash independently confirmed:** $0
 
