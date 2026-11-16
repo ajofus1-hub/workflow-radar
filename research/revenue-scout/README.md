@@ -76,3 +76,5 @@ No account, proposal, comment, slot claim, contract, wallet, identity upload, pa
 - **AgentLancer service 301 and BountBee:** six direct endpoints were inaccessible in this cycle; previous payment/slot/escrow details remain historical only. No delivery, contact or claim.
 
 No account, task claim, bid, message, PR, upload, identity verification, wallet connection, payout detail or purchase was made. The owner's UPI destination was not submitted to any platform or stored in the repository.
+
+- **CoreDhristi:** fresh Terms confirm phone OTP, free listings, 80% creator share, monthly bank/UPI payout after a 21-day hold, ₹1,000 minimum, and four 25% advance-funded custom milestones. Optional Pro/promotions are not required. However, the marketplace says first listings are being reviewed and the bid board still shows Loading briefs. No buyer order or payout receipt. Payout-processor KYC remains unspecified; creator liability, update cadence and 90-day removal notice require review. A private listing draft was prepared; no signup or GitHub permission.
