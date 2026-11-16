@@ -1,11 +1,23 @@
-# Revenue Scout — Run 25 snapshot (16 Nov 2026, 13:58 IST)
+# Revenue Scout — Run 26 snapshot (16 Nov 2026, 14:50 IST)
 
-- Distinct source websites: **668**; this run added 2 new domains.
-- Directly inspected source domains: **399**; job/program-verified domains: **124**.
-- Unique opportunity/program URLs: **450**. These include platform programmes and discovery directories, not the same number of paid jobs.
-- Opportunity evidence: **385** directly verified; **75** aggregator-index; **40** search-only.
-- Newly job-level verified paid listings: **0**; eligible **0**, proposal-ready **0**, approved-to-contact **0**, submitted **0**, payable **0**, cash received **0**.
+- Distinct source websites: **670**; this run added **2** new root domains (Qxel directly verified; PeerHire search-only).
+- Directly inspected source domains: **403**; job/program-verified domains: **126**.
+- Unique opportunity/program URLs: **452**. These include marketplace programmes and discovery records, not the same number of paid jobs.
+- Opportunity evidence: **391** directly verified; **75** aggregator-index; **36** search-only.
+- Newly eligible paid jobs: **0**; proposal-ready **0**, approved-to-contact **0**, submitted **0**, payable **0**, cash received **0**.
 - Integrity: duplicate domains **0**, URLs **0**, IDs **0**.
+
+## Run 26 findings
+
+- **Qxel:** official homepage, pricing, seller docs, activation, payout guide, product upload, allowed-products policy, seller agreement, privacy, terms and 6 Nov payment-change announcement directly inspected. India UPI/bank payout advertised through Cashfree; no subscription/listing fee; 2% promotional commission until 17 Jan 2027 vs 6% standard commission. Seller activation requires legal name, billing address, payout details and WhatsApp OTP. Privacy says KYC may be collected where legally required; no guarantee KYC will never be requested. Software/source code/APIs/automation/MCP-related products are within allowed categories; no blanket AI ban found. Payout timing is inconsistent: seller guide says 24-hour hold then usually 1–2 hours; pricing page says 3–5 days. No buyer order, sale or escrow verified. Existing MCP/OpenAPI QA ZIP retested locally: 6/6 tests passed on Python 3.13. A private Qxel listing draft was prepared; no account, OTP, UPI entry, upload or publication.
+- **Forke:** official Terms directly inspected. Paid tasks must be deposited in advance and held by payment partner; payouts via Razorpay or direct UPI after task-poster approval. AI developer tools are permitted as helpers; substantial AI-generated code must be disclosed. Automated scripts to claim tasks are prohibited. Homepage and waitlist page still show Join the waitlist; no exact public task feed, buyer or transaction-level funded task verified. Hold.
+- **Paytm Bug Bounty:** official page directly refreshed. UPI-only reward, ₹1,000 minimum, first valid in-scope report, PoC and retest required; automated-scanner-generated reports excluded. AI policy unspecified, human triage, no escrow or specific current vulnerability task. Hold; no testing.
+- **Nainix:** homepage displays a 250 NX/₹2,500 sample card and 45-task counter, but linked /jobs route only shows Loading opportunities; category filter previously showed zero tasks. NX credits are internal; Razorpay conversion is advertised but cash withdrawal terms and buyer order not verified. No account.
+- **PeerHire:** search-result discovery only. Search result claims student-oriented freelancing and smart-contract escrow. Direct root page timed out and dev subdomain returned 502. No exact job, AI policy, payout rail, non-student eligibility or funded contract verified. Hold/reject.
+- **Other fresh discoveries screened:** OddJob offers UPI but its tasks are human microtasks/reviews; Ownstreet requires PAN/bank details; Axior requires identity verification and human expert work; SideCash is human video annotation; Karmyug requires government ID and human data tasks; Tapyoka requires PAN/Aadhaar before first sale and does not hold buyer funds. Excluded under current rules.
+- **AgentLancer service 301 and BountBee:** no fresh live payment/mission verification claimed in this run; previous contract/mission data remains historical where endpoints were unavailable.
+
+No account, OTP, task claim, proposal, comment, PR, buyer contact, identity upload, wallet connection, payout-detail submission, deposit, subscription, purchase or external commitment was made. The owner's UPI ID was not stored in the repository.
 
 ## Reconciliation
 
