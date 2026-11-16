@@ -1,3 +1,25 @@
+# Revenue Scout — Run 21 snapshot (16 Nov 2026, 09:44 IST)
+
+- Distinct source domains: **643**; 9 new source domains added (4 directly inspected; 5 search-only/inaccessible).
+- Directly inspected source domains: **380**; job/program-verified domains: **116**.
+- Unique opportunity/program URLs: **500**, zero duplicate IDs/URLs. Evidence: 437 directly verified, 81 aggregator-indexed, 36 search-only (categories are mutually exclusive in the current ledger snapshot).
+- New exact opportunity records: SecureGig project #5 (₹85,000; rejected high-risk), Zindi GenAI for Good (Phase 1 $0 cash; conditional grant only), Mohit Labs Spark/Trace (search-only; $20–$75 accepted-task claims; rejected under account/ID/original-work restrictions), micro1 Open Source Contributor ($60–$120/hour equivalent; aggregator-indexed; rejected under AI-only/no-ID rules), Clorvin Labs Terminal Benchmark Tasks (directly verified; pay agreed after NDA/ICA; rejected as original human expert work).
+- Mohit Labs is the closest new machine-verifiable coding-task lead with a bank-transfer claim, but its official indexed terms require original work, disclosure of automation, a registered bank account and possible government-ID verification; direct page could not be loaded.
+- micro1's official job URL returned 403; aggregators report 100 openings. Human expert contribution, AI interview and Deel identity-verification risk make it ineligible under current rules.
+- Clorvin Labs' official page requires task design from the applicant's own technical field, senior expertise and second-expert review. Official page does not disclose a rate; secondary $40–$100/task figure is not confirmed.
+- SecureGig's ₹85,000 project is directly listed but escrow funding/buyer identity are unverified; linked Terms page returns 404; reject/high-risk.
+- Zindi's $40,000 headline is not a Phase 1 prize: Phase 1 pays $0; later $10k prototype and up to $30k pilot funding are competitive, team-based and conditional.
+- TaskBounty funded-jobs board still shows no matching funded jobs. BountBee M-2422 exact page could not be re-opened at 09:44; last successful check remains 08:50. Local synthetic sample re-run 6/6 tests passed.
+- AgntID event: 28 Nov 2026, 100% online, individual, ₹75,000 across three equal prizes, AI coding assistants allowed; payout rail/escrow/safe-harbor not published.
+- AgentLancer contract 327: no fresh state due read-only endpoint/network failure; last successful check 07:48 had no payment ID/hash, 0/10 confirmations and non-payable deposit address.
+- Apart Research AI x Epistemics deadline: 16 Nov 2026 17:29 IST; about 7h45 remained at this check. AgentTrace prepared but not submitted; owner details and publication-licence approval still outstanding.
+- Fully eligible new paid contracts: **0**. Proposal-ready: **0**. Approved to contact: **0**. Submitted: **0**. Accepted (historical): **1** (AgentLancer 327, unresolved). Delivered: **0**. Approved: **0**. Payable: **0**. Cash received: **$0**.
+- No account creation, applications, proposals, messages, wallet actions, identity uploads, payout details, deposits, subscriptions, NDAs, ICAs or commitments.
+
+See [Run 21 detailed report](run-21-2026-11-16.md).
+
+---
+
 # Revenue Scout — Run 19 snapshot (16 Nov 2026, 07:48 IST)
 
 - Distinct source domains before this run: 626; 6 new source domains added (5 directly inspected, 1 search-only); current unique domains: 632.
