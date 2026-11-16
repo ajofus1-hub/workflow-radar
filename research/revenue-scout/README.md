@@ -1,7 +1,7 @@
 # Revenue Scout — Run 18 snapshot (16 Nov 2026, 06:50 IST)
 
 - Distinct source domains before this run: 613; 13 new domains added; current unique domains: 626.
-- Directly inspected source domains: 369; job/program-verified source domains: 114; 252 search-only/unverified domains and 5 uncategorized records remain separately marked.
+- Directly inspected source domains: 369; job/program-verified source domains: 113; 252 search-only/unverified domains and 5 uncategorized records remain separately marked.
 - Unique opportunity URLs: 486, zero duplicates. Opportunity evidence: 425 directly verified, 80 aggregator-indexed and 35 search-only (categories overlap).
 - New source domains: agntid.ai, allai.events, tgihackathon.co.in, hacking.community, mcplantern.com, aiagentslisting.com, mcpservers.org, pulsemcp.com, composio.dev, gravity.fast, vibebay.com, iamai.markets, aipartnerships.ai.
 - Four new exact opportunity URLs: AgntID challenge, Apify AI Tools that Earn, MachineHack FDE Hiring Hackathon, TGIH.
