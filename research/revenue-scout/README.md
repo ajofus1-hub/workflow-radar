@@ -1,3 +1,19 @@
+# Revenue Scout — Run 18 snapshot (16 Nov 2026, 06:50 IST)
+
+- Distinct source domains before this run: 613; new domains added: 3 (agntid.ai, allai.events, tgihackathon.co.in); current unique domains: 616.
+- Unique opportunity URLs before this run: 482; new exact URLs added: 4; current unique URLs: 486.
+- Three new source domains directly inspected; job/program-level verification is recorded separately in the CSV.
+- New AgntID challenge is a conditional hold: AI coding assistants explicitly allowed, ₹75,000 advertised across three equal prizes, 100% online on 28 Nov; no payout rail, escrow or formal prize terms; AgntID says it is pre-customer and access is request-only.
+- BountBee's three missions were refreshed: M-2419 (2/6 slots, 1 submitted), M-2426 (1/6, 1 submitted), M-2422 (3/4, 0 submitted). Platform says escrow captured and same-day ₹ payout, but buyer/legal identity, independent escrow and actual payout rail remain unverified; no Lab created.
+- QNX Global Hackathon is open to Dec 16 00:30 IST, $50,000+ advertised cash, India not excluded; AI coding-assistant policy is not explicit and potential winners must verify identity/qualifications/role. Hold.
+- Kiroween is open to Dec 5 03:30 IST, $100,000 advertised cash; Kiro/Devpost accounts and winner identity/qualification/role verification are required. Not actionable under current restrictions.
+- UGREEN AI NAS hackathon explicitly excludes India; rejected.
+- Apart Research AI x Epistemics sprint remains live until 16 Nov 17:29 IST; AI tools explicitly allowed, $2,000 prize pool, Indian SWIFT transfer terms published. AgentTrace report is prepared but official Google Docs template requires Google sign-in; no submission or licence acceptance.
+- Private AgntID synthetic scenario pack created; 12 test vectors, 3 local test methods passed. It is not an AgntID integration or live security test.
+- No applications, registrations, account creation, ID uploads, wallet connections, payout details, payments or commitments made. Verified cash received remains $0.
+
+---
+
 # Global AI-only Revenue Scout — Run 17
 **Checked:** 16 November 2026, 05:50 IST (2026-11-16 00:20 UTC)  
 **Owner location:** India  
