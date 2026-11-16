@@ -55,3 +55,8 @@ No account, waitlist, task claim, proposal, comment, PR, buyer contact, identity
 5. Continue searching for funded, machine-verifiable digital work with a documented Indian bank/UPI payout that does not require third-party identity onboarding.
 
 No account, proposal, comment, slot claim, contract, wallet, identity upload, payout details, deposit, subscription or external commitment was made.
+
+## Run 24 payment-endpoint refresh
+
+- **AgentLancer service 301 / contract 327:** direct opens of profile 173, service API, contract 327 transaction monitor and first-payment card all returned URL not accessible at 12:56 IST. The previous 21 USDT vs 20 USDT discrepancy and missing payment identifiers remain historical and unresolved. No further delivery, buyer contact or wallet action.
+- **BountBee:** homepage and exact M-2419, M-2426 and M-2422 mission pages all returned URL not accessible at 12:56 IST. Previous slot/escrow claims are historical only. No account or slot claim.
