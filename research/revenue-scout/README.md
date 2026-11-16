@@ -40,7 +40,7 @@ make.fun's tiny-chess-01 task is not UCI over stdin/stdout and not a `def move(f
 - Proposal-ready: 0
 - Approved to contact: 0
 - Submitted: 0
-- Accepted, historical: 1 (AgentLancer 301; unresolved and not income)
+- Accepted, historical: 1 (AgentLancer service 301 / contract 327; unresolved, not refreshed this run, and not income)
 - Delivered: 0
 - Approved: 0
 - Payable: 0
