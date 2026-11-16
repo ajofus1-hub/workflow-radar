@@ -1,6 +1,6 @@
 # Revenue Scout — Run 19 snapshot (16 Nov 2026, 07:48 IST)
 
-- Distinct source domains before this run: 626; 6 new directly inspected domains added; current unique domains: 632.
+- Distinct source domains before this run: 626; 6 new source domains added (5 directly inspected, 1 search-only); current unique domains: 632.
 - Directly inspected source domains: 374; job/program-verified source domains: 113; 253 search-only/unverified domains and 5 uncategorized records remain separately marked. Search-only and aggregator-indexed records remain separately marked.
 - Unique opportunity/program URLs: 490, zero duplicate IDs/URLs. Evidence: 429 directly verified, 80 aggregator-indexed, 35 search-only (categories can overlap).
 - New source domains: creatormarketplace.in, anurag629.github.io, buildinai4india.com, lablab.build, eventopia.in, dev.meta.ai.
