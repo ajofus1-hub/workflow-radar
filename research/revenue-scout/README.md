@@ -22,7 +22,7 @@ The previous README Run 23 snapshot reported 508 opportunity URLs, but the fetch
 - **TaskBounty:** Current paid-jobs board says no matching funded jobs. AI-agent E2B/regression checks exist, but creator selection/admin award review remains. Bank eligibility must be confirmed; self-service onboarding unavailable; crypto requires wallets.
 - **Nainix:** Current development task filter shows zero tasks; homepage 250 NX card is a sample, not a buyer listing.
 - **Hack4Hack ML Challenge:** Registration to Dec2; Round1 free, but prize-bearing Round2 costs ₹299/team in India. Rejected.
-- **ZIROH Build Next:** Phase1 closed Nov1; only top20 finalists proceed; Phase2 requires proprietary runtime and prohibits other AI inference platforms.
+- **ZIROH Build Next:** prior direct snapshot says Phase1 closed Nov1 and only top20 finalists proceed; current direct refresh returned inaccessible, so that status is historical, not freshly confirmed.
 - **Hackversity:** ₹1,000–₹10,000 UPI/bank bounty, but identity/payment details may be required, AI policy unspecified, manual triage and no escrow. No testing.
 
 No account, waitlist, task claim, proposal, comment, PR, buyer contact, identity upload, wallet connection, payout detail, deposit, subscription, purchase or external commitment was made. The owner's UPI ID was not stored in the repository or shared with any platform.
